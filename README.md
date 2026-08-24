@@ -1,7 +1,7 @@
 # CRM As A Service
 
 **Created:** 2026-08-22 by Yusuf Young
-**Status:** Vision stage. Building vision websites next.
+**Status:** The first English website draft is built and being reviewed internally. The next work is to improve it through buyer-focused reviews, connect the assessment to AI, add Swedish at `/se`, and publish the finished version.
 
 ## The Problem
 
@@ -82,11 +82,8 @@ Validated through Elvy (a potential customer who confirmed the pain points but p
 
 ## What Happens Next
 
-1. Build vision websites:
-   - Specific product vision (the CRM replacement service)
-   - Ultimate enterprise vision (migrate any software to custom AI software)
-   - Current state (what exists today)
-2. Show to potential customers and investors
-3. Find first customer
-4. Build the observation/learning/spec system (the moat)
-5. Deliver first custom CRM
+1. Review and improve the English website as a Swedish B2B buyer who currently uses or is considering HubSpot, Salesforce, or Pipedrive.
+2. Connect the conversational assessment to AI and make sure qualified leads are retained safely.
+3. Add the Swedish `/se` version and keep English at `/en`.
+4. Publish the completed website and begin showing it to potential customers.
+5. Use the first customers to prove and improve the observation, learning, specification, and building system.
