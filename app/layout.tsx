@@ -32,6 +32,9 @@ export const metadata: Metadata = {
     description: 'Custom CRM, handled end to end.',
     images: ['https://companynative.com/og-company-native.png'],
   },
+  icons: {
+    icon: '/company-native-logo.svg',
+  },
 };
 
 export default function RootLayout({

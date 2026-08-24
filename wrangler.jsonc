@@ -6,8 +6,7 @@
   "compatibility_flags": ["nodejs_compat"],
   "routes": [
     { "pattern": "companynative.com", "custom_domain": true },
-    { "pattern": "www.companynative.com", "custom_domain": true },
-    { "pattern": "crm.companynative.com", "custom_domain": true }
+    { "pattern": "www.companynative.com", "custom_domain": true }
   ],
   "assets": {
     "binding": "ASSETS",

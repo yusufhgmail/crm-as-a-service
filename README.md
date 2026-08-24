@@ -3,7 +3,9 @@
 **Created:** 2026-08-22 by Yusuf Young
 **Status:** `companynative.com` was registered and launched on 2026-08-24. The buyer-reviewed website is live in English at <https://companynative.com/en> and Swedish at <https://companynative.com/se>. The conversational assessment runs on Cloudflare Workers AI and qualified leads are stored in Cloudflare D1.
 
-**Brand architecture:** Company Native is the company and the larger category. Company Native CRM is the first offering and can use `crm.companynative.com`; no second domain is required.
+**Brand architecture:** Company Native is the company and the larger category. CRM is the first offering on the main Company Native website; no second domain or product subdomain is needed.
+
+**Social:** The Company Native LinkedIn page is live at <https://www.linkedin.com/company/companynative/>. The X account is awaiting the platform's required new-account verification.
 
 ## The Problem
 
@@ -87,4 +89,3 @@ Validated through Elvy (a potential customer who confirmed the pain points but p
 1. Begin showing the live English and Swedish website to potential customers.
 2. Use the first assessments and customer conversations to improve qualification and the V0 offer.
 3. Use the first customers to prove and improve the observation, learning, specification, and building system.
-4. Transfer the domain registration to GoDaddy after the 60-day new-registration lock, while keeping hosting wherever it works best.

@@ -6,9 +6,11 @@ Company Native moves a company from HubSpot, Salesforce, Pipedrive, or another g
 
 ## Final naming decision — Company Native
 
-Yusuf replaced the descriptive working name `CRM That Fits` with **Company Native** on 2026-08-24. The new name supports the venture-scale thesis beyond CRM: the future is company-native software, and CRM is the first customer-facing system we migrate. `companynative.com` was registered through Cloudflare for $10.46 for the first year, renewing at $10.46 per year. The registration can move to Yusuf's preferred registrar, GoDaddy, after the required 60-day new-registration transfer lock; hosting and DNS can remain on Cloudflare independently of that later registrar move.
+Yusuf replaced the descriptive working name `CRM That Fits` with **Company Native** on 2026-08-24. The new name supports the venture-scale thesis beyond CRM: the future is company-native software, and CRM is the first customer-facing system we migrate. `companynative.com` was registered through Cloudflare for $10.46 for the first year, renewing at $10.46 per year. Yusuf later confirmed that keeping the registration and hosting on Cloudflare is fine.
 
-The renamed site is live at <https://companynative.com>, with English at `/en`, Swedish at `/se`, and the first-offer address <https://crm.companynative.com>. The final launch deployment is Cloudflare Worker version `25b6abe3-750c-41fc-a195-7f15a7a0d07a`. Every public route returned 200, the live Company Native assessment produced and saved a complete result, and the synthetic verification row was removed afterward.
+The renamed site is live at <https://companynative.com>, with English at `/en` and Swedish at `/se`. CRM is the first offer on the main website; Yusuf decided that a separate CRM subdomain is unnecessary. Every public route returned 200, the live Company Native assessment produced and saved a complete result, and the synthetic verification row was removed afterward.
+
+The Company Native LinkedIn company page was created at <https://www.linkedin.com/company/companynative/> on 2026-08-24. X requires a distinct phone number, Google account, Apple account, or email address before its Company Native account can be completed.
 
 The main action is a short conversational AI assessment that learns about the prospect's current CRM, pain, team and highest-value improvement, then obtains their work email so we can continue the conversation.
 

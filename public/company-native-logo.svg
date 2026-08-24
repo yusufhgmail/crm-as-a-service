@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">Company Native</title>
+  <desc id="desc">CN monogram in mint on a dark green rounded square.</desc>
+  <rect width="300" height="300" rx="66" fill="#102b2c"/>
+  <text x="150" y="178" fill="#b9f6ca" font-family="Arial, Helvetica, sans-serif" font-size="105" font-weight="800" letter-spacing="-8" text-anchor="middle">CN</text>
+</svg>
