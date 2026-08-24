@@ -13,24 +13,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://crmthatfits.com'),
-  title: 'CRM That Fits — Your business, without software limits',
+  metadataBase: new URL('https://companynative.com'),
+  title: 'Company Native — Software built around your company',
   description: 'We learn how your company works, design and build the CRM you actually need, migrate your data, train your team and keep improving it.',
   alternates: {
     canonical: '/en',
     languages: { en: '/en', sv: '/se' },
   },
   openGraph: {
-    title: 'Your CRM should fit your business.',
+    title: 'Software should be native to your company.',
     description: 'We learn how your company works, design and build the CRM you actually need, migrate your data and keep improving it.',
     type: 'website',
-    images: [{ url: 'https://crmthatfits.com/og.png', width: 1200, height: 630, alt: 'CRM That Fits' }],
+    images: [{ url: 'https://companynative.com/og-company-native.png', width: 1200, height: 630, alt: 'Company Native' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Your CRM should fit your business.',
+    title: 'Software should be native to your company.',
     description: 'Custom CRM, handled end to end.',
-    images: ['https://crmthatfits.com/og.png'],
+    images: ['https://companynative.com/og-company-native.png'],
   },
 };
 

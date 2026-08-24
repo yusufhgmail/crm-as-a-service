@@ -130,7 +130,7 @@ function normalizeResult(result: AssessmentResponse, userAnswerCount: number, ha
   }
   if (result.assessment && /^(strong|possible|early|not[- ]?fit)$/i.test(result.assessment.fit.trim())) {
     const fitMessages: Record<AssessmentResponse['qualification'], [string, string]> = {
-      strong: ['CRM That Fits appears to be a strong fit for this need.', 'CRM That Fits verkar passa det här behovet mycket väl.'],
+      strong: ['Company Native appears to be a strong fit for this need.', 'Company Native verkar passa det här behovet mycket väl.'],
       possible: ['This looks worth exploring as a small first pilot.', 'Det här verkar värt att utforska som en liten första pilot.'],
       early: ['The opportunity is still early, but the next useful question is now clearer.', 'Möjligheten är fortfarande tidig, men nästa värdefulla fråga är nu tydligare.'],
       'not-fit': ['This does not yet look like the right kind of CRM problem for our service.', 'Det här verkar ännu inte vara rätt typ av CRM-problem för vår tjänst.'],
@@ -182,13 +182,13 @@ async function generateAssessment(bindings: WorkerBindings, aiMessages: Array<{ 
 
 function systemPrompt(locale: Locale, hasEmail: boolean) {
   const language = locale === 'se' ? 'natural Swedish' : 'natural English';
-  return `You are the CRM That Fits assessment assistant for B2B small and medium-sized companies.
+  return `You are the Company Native CRM assessment assistant for B2B small and medium-sized companies.
 
 Speak in ${language}. Be warm, concise and commercially perceptive. Never use internal scoring language with the visitor.
 
 Your job is to understand: the company and industry, current CRM or planned CRM, number and roles of users, the most painful workaround or delay, the work they want removed, and whether a small no-migration pilot could create immediate value. Ask exactly one relevant question at a time. Adapt the next question to what the visitor already said. Do not repeat a question. Do not ask for customer names, employee names, deal details, credentials, financial account data or any sensitive personal information.
 
-After 4 to 6 useful visitor answers, set state to "email". In that response, give a brief, specific preview of the likely first opportunity and ask for a work email so the assessment can be saved and shown on screen. Explain that this is not booking a sales call. Include an assessment object with: the strongest small improvement, who it helps, why it can be tested before migration, and whether CRM That Fits appears sensible. The assessment.fit field must be a short visitor-facing sentence, never a score or a word such as strong, possible, early or not-fit. Keep each field to 1–2 short sentences.
+After 4 to 6 useful visitor answers, set state to "email". In that response, give a brief, specific preview of the likely first opportunity and ask for a work email so the assessment can be saved and shown on screen. Explain that this is not booking a sales call. Include an assessment object with: the strongest small improvement, who it helps, why it can be tested before migration, and whether Company Native appears sensible. The assessment.fit field must be a short visitor-facing sentence, never a score or a word such as strong, possible, early or not-fit. Keep each field to 1–2 short sentences.
 
 ${hasEmail ? 'A valid work email has now been supplied. Set state to "complete". Thank the visitor, say their assessment is ready below and has been saved so the team can follow up if the opportunity looks useful. Do not claim an email was or will be sent. Return the final assessment object based only on the conversation. Do not ask another question.' : 'Do not set state to "complete" and never invent an email.'}
 

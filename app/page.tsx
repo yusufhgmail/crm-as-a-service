@@ -297,9 +297,9 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
   return (
     <main>
       <nav className="nav shell" aria-label={t('Main navigation', 'Huvudmeny')}>
-        <a className="brand" href="#top" aria-label={t('CRM That Fits home', 'CRM That Fits startsida')}>
-          <span className="brand-mark" aria-hidden="true">CF</span>
-          <span>CRM That Fits</span>
+        <a className="brand" href="#top" aria-label={t('Company Native home', 'Company Native startsida')}>
+          <span className="brand-mark" aria-hidden="true">CN</span>
+          <span>Company Native</span>
         </a>
         <div className="nav-links">
           <a href="#process">{t('How it works', 'Så fungerar det')}</a>
@@ -314,7 +314,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
 
       <section className="hero shell" id="top">
         <div className="hero-copy">
-          <p className="eyebrow"><span /> {t('Custom CRM, handled end to end', 'Eget CRM, hanterat från början till slut')}</p>
+          <p className="eyebrow"><span /> {t('Company-native CRM, handled end to end', 'CRM byggt för ert företag, från början till slut')}</p>
           <h1>{t('Your CRM should fit your business.', 'Ert CRM ska passa er verksamhet.')} <em>{t('Not the other way around.', 'Inte tvärtom.')}</em></h1>
           <p className="hero-lead">{t(
             'We learn how your company really works, design the CRM you actually need, build it, migrate your data and keep improving it—without disrupting your team.',
@@ -377,7 +377,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
         <div className="category-compare">
           <article><small>{t('GENERIC CRM', 'GENERISKT CRM')}</small><h3>{t('You adapt to the product', 'Ni anpassar er till produkten')}</h3><p>{t('You rent the same system as everybody else and work within the features and process the vendor chooses.', 'Ni hyr samma system som alla andra och arbetar inom funktionerna och processen som leverantören väljer.')}</p></article>
           <article><small>{t('TRADITIONAL CUSTOM BUILD', 'TRADITIONELL SPECIALUTVECKLING')}</small><h3>{t('You manage the project', 'Ni driver projektet')}</h3><p>{t('You explain every requirement, carry the migration risk and often inherit software nobody continues to improve.', 'Ni förklarar varje krav, bär migreringsrisken och ärver ofta programvara som ingen fortsätter förbättra.')}</p></article>
-          <article className="recommended"><small>CRM THAT FITS</small><h3>{t('We adapt the system to you', 'Vi anpassar systemet till er')}</h3><p>{t('Our service learns, designs, builds, moves and improves everything. You own the software; we carry the work.', 'Vår tjänst lär, designar, bygger, flyttar och förbättrar allt. Ni äger programvaran; vi bär arbetet.')}</p></article>
+          <article className="recommended"><small>COMPANY NATIVE</small><h3>{t('We adapt the system to you', 'Vi anpassar systemet till er')}</h3><p>{t('Our service learns, designs, builds, moves and improves everything. You own the software; we carry the work.', 'Vår tjänst lär, designar, bygger, flyttar och förbättrar allt. Ni äger programvaran; vi bär arbetet.')}</p></article>
         </div>
         <p className="best-fit"><strong>{t('Best for:', 'Passar bäst för:')}</strong> {t('B2B companies whose CRM has become central to sales, delivery or customer service—and whose important work no longer fits a generic tool.', 'B2B-företag där CRM har blivit centralt för försäljning, leverans eller kundservice—och där det viktiga arbetet inte längre ryms i ett generiskt verktyg.')}</p>
       </section>
@@ -466,7 +466,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
         <div className="shell story-grid">
           <div className="story-photo">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/yusuf-young.jpg" alt={t('Yusuf Young, founder of CRM That Fits and FunnelBud', 'Yusuf Young, grundare av CRM That Fits och FunnelBud')} />
+            <img src="/yusuf-young.jpg" alt={t('Yusuf Young, founder of Company Native and FunnelBud', 'Yusuf Young, grundare av Company Native och FunnelBud')} />
             <span>YUSUF YOUNG · {t('FOUNDER', 'GRUNDARE')}</span>
           </div>
           <div className="story-copy">
@@ -485,8 +485,8 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <div className="vision-number">2030<span>{t('AND', 'OCH')}<br />{t('BEYOND', 'FRAMÅT')}</span></div>
           <div className="vision-copy">
             <p className="section-kicker light">{t('THE LARGER VISION', 'DEN STÖRRE VISIONEN')}</p>
-            <h2>{t('In the future, companies will not buy the same software.', 'I framtiden kommer företag inte köpa samma programvara.')}</h2>
-            <p>{t('Every company will have systems built around how it wants to compete, serve customers and grow. Your processes will no longer be limited by the software somebody else designed for an average business.', 'Varje företag kommer ha system byggda runt hur det vill konkurrera, hjälpa kunder och växa. Era processer kommer inte längre begränsas av programvara som någon annan designat för ett genomsnittligt företag.')}</p>
+            <h2>{t('The future is company-native.', 'Framtiden är programvara byggd för varje företag.')}</h2>
+            <p>{t('Every company will have systems built around how it wants to compete, serve customers and grow. We call this company-native software: software that adapts to your company instead of making your company adapt to it.', 'Varje företag kommer ha system byggda runt hur det vill konkurrera, hjälpa kunder och växa. Vi kallar det företagsspecifik programvara: programvara som anpassar sig till ert företag i stället för att tvinga företaget att anpassa sig.')}</p>
             <p>{t('CRM is where this future starts because it touches the heart of the company: every relationship with every customer. Your CRM should become an extension of your strategy, brand and values—not just a place where salespeople type notes.', 'CRM är där framtiden börjar, eftersom det rör företagets hjärta: varje relation med varje kund. Ert CRM ska bli en förlängning av er strategi, ert varumärke och era värderingar—inte bara en plats där säljare skriver anteckningar.')}</p>
             <div className="vision-outcomes"><span>{t('More speed', 'Högre fart')}</span><span>{t('Fewer mistakes', 'Färre misstag')}</span><span>{t('Less manual work', 'Mindre manuellt arbete')}</span><span>{t('A real competitive advantage', 'En verklig konkurrensfördel')}</span></div>
           </div>
@@ -513,8 +513,8 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
       </section>
 
       <footer>
-        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark">CF</span><span>CRM That Fits</span></a><p>{t('Your business, without software limits.', 'Er verksamhet, utan programvarans begränsningar.')}</p><a href="#assessment-chat" className="button button-small button-primary">{t('Start assessment', 'Starta bedömning')} <Arrow /></a></div>
-        <div className="shell footer-bottom"><span>© 2026 CRM That Fits · {t('A Yusuf Young AB company', 'Ett bolag inom Yusuf Young AB')}</span><span><a href={`/${locale}/privacy`}>{t('Privacy', 'Integritet')}</a> · <a href={swedish ? '/en' : '/se'}>{swedish ? 'English' : 'Svenska'}</a></span></div>
+        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark">CN</span><span>Company Native</span></a><p>{t('Software built around your company.', 'Programvara byggd runt ert företag.')}</p><a href="#assessment-chat" className="button button-small button-primary">{t('Start assessment', 'Starta bedömning')} <Arrow /></a></div>
+        <div className="shell footer-bottom"><span>© 2026 Company Native · {t('A Yusuf Young AB company', 'Ett bolag inom Yusuf Young AB')}</span><span><a href={`/${locale}/privacy`}>{t('Privacy', 'Integritet')}</a> · <a href={swedish ? '/en' : '/se'}>{swedish ? 'English' : 'Svenska'}</a></span></div>
       </footer>
     </main>
   );

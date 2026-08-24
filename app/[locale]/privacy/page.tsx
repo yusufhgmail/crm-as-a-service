@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Privacy — CRM That Fits',
+  title: 'Privacy — Company Native',
   robots: { index: true, follow: true },
 };
 
@@ -14,15 +14,15 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
   return (
     <main className="legal-page" lang={swedish ? 'sv' : 'en'}>
       <nav className="nav shell" aria-label={swedish ? 'Huvudmeny' : 'Main navigation'}>
-        <a className="brand" href={`/${locale}`}><span className="brand-mark">CF</span><span>CRM That Fits</span></a>
+        <a className="brand" href={`/${locale}`}><span className="brand-mark">CN</span><span>Company Native</span></a>
         <a className="button button-small button-dark" href={`/${locale}`}>{swedish ? 'Tillbaka till startsidan' : 'Back to the website'} <span aria-hidden="true">→</span></a>
       </nav>
       <article className="legal-content shell">
         <p className="section-kicker">{swedish ? 'INTEGRITET' : 'PRIVACY'}</p>
         <h1>{swedish ? 'Så hanterar vi uppgifter i CRM-bedömningen.' : 'How we handle information in the CRM assessment.'}</h1>
         <p className="legal-lead">{swedish
-          ? 'CRM That Fits drivs av Yusuf Young AB i Sverige. Vi samlar bara in det som behövs för att skapa, leverera och följa upp den bedömning ni ber om.'
-          : 'CRM That Fits is operated by Yusuf Young AB in Sweden. We collect only what is needed to create, deliver and follow up on the assessment you request.'}</p>
+          ? 'Company Native drivs av Yusuf Young AB i Sverige. Vi samlar bara in det som behövs för att skapa, leverera och följa upp den bedömning ni ber om.'
+          : 'Company Native is operated by Yusuf Young AB in Sweden. We collect only what is needed to create, deliver and follow up on the assessment you request.'}</p>
 
         <section>
           <h2>{swedish ? 'Det vi sparar' : 'What we store'}</h2>

@@ -1,7 +1,9 @@
-# CRM As A Service
+# Company Native
 
 **Created:** 2026-08-22 by Yusuf Young
-**Status:** The buyer-reviewed website is live in English and Swedish at <https://crm-that-fits.yusufh.workers.dev>. The conversational assessment runs on Cloudflare Workers AI, qualified leads are stored in Cloudflare D1, and the final deployment is waiting only for approval to purchase and connect `crmthatfits.com`.
+**Status:** `companynative.com` was registered on 2026-08-24. The buyer-reviewed website is being published in English and Swedish under the Company Native brand. The conversational assessment runs on Cloudflare Workers AI and qualified leads are stored in Cloudflare D1.
+
+**Brand architecture:** Company Native is the company and the larger category. Company Native CRM is the first offering and can use `crm.companynative.com`; no second domain is required.
 
 ## The Problem
 
@@ -82,7 +84,7 @@ Validated through Elvy (a potential customer who confirmed the pain points but p
 
 ## What Happens Next
 
-1. Buy and connect `crmthatfits.com` to the Cloudflare deployment.
-2. Begin showing the live English and Swedish website to potential customers.
-3. Use the first assessments and customer conversations to improve qualification and the V0 offer.
-4. Use the first customers to prove and improve the observation, learning, specification, and building system.
+1. Begin showing the live English and Swedish website to potential customers.
+2. Use the first assessments and customer conversations to improve qualification and the V0 offer.
+3. Use the first customers to prove and improve the observation, learning, specification, and building system.
+4. Transfer the domain registration to GoDaddy after the 60-day new-registration lock, while keeping hosting wherever it works best.

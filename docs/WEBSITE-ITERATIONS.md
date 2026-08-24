@@ -1,8 +1,12 @@
-# CRM That Fits website iterations
+# Company Native website iterations
 
 ## What the website must make a B2B SME understand
 
-CRM That Fits moves a company from HubSpot, Salesforce, Pipedrive, or another generic CRM to a system built around the way that company should work. We handle the full journey: understand actual usage, find a useful no-migration pilot, design the safe first replacement and the long-term destination, build and migrate the system, train the team, and improve it continuously. The customer should feel that this is ambitious but unusually safe, that Yusuf and the team understand CRM deeply, and that the first step is small enough to take now.
+Company Native moves a company from HubSpot, Salesforce, Pipedrive, or another generic CRM to a system built around the way that company should work. We handle the full journey: understand actual usage, find a useful no-migration pilot, design the safe first replacement and the long-term destination, build and migrate the system, train the team, and improve it continuously. The customer should feel that this is ambitious but unusually safe, that Yusuf and the team understand CRM deeply, and that the first step is small enough to take now.
+
+## Final naming decision — Company Native
+
+Yusuf replaced the descriptive working name `CRM That Fits` with **Company Native** on 2026-08-24. The new name supports the venture-scale thesis beyond CRM: the future is company-native software, and CRM is the first customer-facing system we migrate. `companynative.com` was registered through Cloudflare for $10.46 for the first year, renewing at $10.46 per year. The registration can move to Yusuf's preferred registrar, GoDaddy, after the required 60-day new-registration transfer lock; hosting and DNS can remain on Cloudflare independently of that later registrar move.
 
 The main action is a short conversational AI assessment that learns about the prospect's current CRM, pain, team and highest-value improvement, then obtains their work email so we can continue the conversation.
 
