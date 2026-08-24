@@ -223,7 +223,7 @@ function Assessment({ locale }: { locale: Locale }) {
   }
 
   return (
-    <div className="assessment-window">
+    <div className="assessment-window" id="assessment-chat">
       <div className="assessment-topbar">
         <div className="assistant-identity">
           <span className="assistant-orb">AI</span>
@@ -308,7 +308,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
         </div>
         <div className="nav-actions">
           <a className="language-link" href={swedish ? '/en' : '/se'} lang={swedish ? 'en' : 'sv'}>{swedish ? 'EN' : 'SV'}</a>
-          <a className="button button-small button-dark" href="#assessment">{t('Start assessment', 'Starta bedömning')} <Arrow /></a>
+          <a className="button button-small button-dark" href="#assessment-chat">{t('Start assessment', 'Starta bedömning')} <Arrow /></a>
         </div>
       </nav>
 
@@ -321,7 +321,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
             'Vi lär oss hur ert företag faktiskt arbetar, designar det CRM ni verkligen behöver, bygger det, migrerar er data och fortsätter förbättra det—utan att störa teamet.',
           )}</p>
           <div className="hero-actions">
-            <a className="button button-primary" href="#assessment">{t('Start your CRM assessment', 'Starta er CRM-bedömning')} <Arrow /></a>
+            <a className="button button-primary" href="#assessment-chat">{t('Start your CRM assessment', 'Starta er CRM-bedömning')} <Arrow /></a>
             <a className="text-link" href="#process">{t('See how we make migration safe', 'Se hur vi gör migreringen trygg')} <Arrow /></a>
           </div>
           <p className="hero-promise"><span>✓</span> {t(
@@ -401,7 +401,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <p className="possibility-foot">{t('And one connected place for calling, queues, email, forecasting, outreach, replies, customer risk, management reporting and the other work your team currently holds together by hand.', 'Och en sammanhängande plats för samtal, köer, mejl, prognoser, uppsökande arbete, svar, kundrisk, ledningsrapportering och allt annat som teamet idag håller ihop för hand.')}</p>
           <div className="mid-cta">
             <div><small>{t('YOUR COMPANY WILL BE DIFFERENT', 'ERT FÖRETAG KOMMER VARA ANNORLUNDA')}</small><strong>{t('Where could a CRM remove the most work from your team?', 'Var skulle ett CRM kunna ta bort mest arbete för ert team?')}</strong></div>
-            <a className="button button-dark" href="#assessment">{t('Find your first improvement', 'Hitta er första förbättring')} <Arrow /></a>
+            <a className="button button-dark" href="#assessment-chat">{t('Find your first improvement', 'Hitta er första förbättring')} <Arrow /></a>
           </div>
         </div>
       </section>
@@ -513,7 +513,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
       </section>
 
       <footer>
-        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark">CF</span><span>CRM That Fits</span></a><p>{t('Your business, without software limits.', 'Er verksamhet, utan programvarans begränsningar.')}</p><a href="#assessment" className="button button-small button-primary">{t('Start assessment', 'Starta bedömning')} <Arrow /></a></div>
+        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark">CF</span><span>CRM That Fits</span></a><p>{t('Your business, without software limits.', 'Er verksamhet, utan programvarans begränsningar.')}</p><a href="#assessment-chat" className="button button-small button-primary">{t('Start assessment', 'Starta bedömning')} <Arrow /></a></div>
         <div className="shell footer-bottom"><span>© 2026 CRM That Fits · {t('A Yusuf Young AB company', 'Ett bolag inom Yusuf Young AB')}</span><span><a href={`/${locale}/privacy`}>{t('Privacy', 'Integritet')}</a> · <a href={swedish ? '/en' : '/se'}>{swedish ? 'English' : 'Svenska'}</a></span></div>
       </footer>
     </main>

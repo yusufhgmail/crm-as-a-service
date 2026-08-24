@@ -138,12 +138,14 @@ function normalizeResult(result: AssessmentResponse, userAnswerCount: number, ha
     result.assessment.fit = fitMessages[result.qualification][locale === 'se' ? 1 : 0];
   }
   if (result.state === 'email') {
-    const mentionsEmail = /email|e-mail|mejl|e-post/i.test(result.message);
-    if (!mentionsEmail) {
-      result.message += locale === 'se'
-        ? ' Ange er jobbmejl så sparar och visar vi den korta bedömningen här. Det bokar inte ett säljsamtal.'
-        : ' Enter your work email so we can save and show the short assessment here. This does not book a sales call.';
-    }
+    result.message = locale === 'se'
+      ? 'Jag har en första bedömning klar. Ange er jobbmejl så sparar och visar vi den här. Det bokar inte ett säljsamtal.'
+      : 'I have an initial assessment ready. Enter your work email so we can save and show it here. This does not book a sales call.';
+  }
+  if (result.state === 'complete') {
+    result.message = locale === 'se'
+      ? 'Tack. Er bedömning är klar nedan och har sparats så att vi kan följa upp om möjligheten ser värdefull ut.'
+      : 'Thank you. Your assessment is ready below and has been saved so we can follow up if the opportunity looks useful.';
   }
   result.quickReplies = result.state === 'question' && Array.isArray(result.quickReplies)
     ? result.quickReplies.slice(0, 4)

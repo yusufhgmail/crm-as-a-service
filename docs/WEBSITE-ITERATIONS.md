@@ -135,3 +135,9 @@ Yes: the four business examples show concrete work beyond a sales pipeline, and 
 ### Paper cycle 3: is another copy or structure change likely to improve conversion materially?
 
 No material blocker remains in the main message. Cost, time, disruption, ownership, security, credibility, ideal customer, the first action and the long-term difference are all visible and connected. Further copy changes now risk adding weight without answering a new buying question. Stop the message iteration and move to final deployment, domain purchase and live-flow verification.
+
+## Live-flow completion audit
+
+The first full public assessment exposed two implementation-level conversion problems that the paper reviews could not reveal. The model could repeat the email request, claim it would send an email or return an empty completion message. The consent and completion messages are now fixed bilingual product copy; AI still controls the adaptive questions, qualification and assessment itself. The live English and Swedish flow was then tested through final qualification and D1 storage, and the synthetic audit records were removed.
+
+The mobile check found no horizontal overflow, but an assessment button originally landed at the top of the explanatory section, leaving the chat below the first screen. Every assessment button now lands directly on the assistant while the supporting explanation remains visible during normal reading. No further material problem appeared in the desktop, mobile, English, Swedish, privacy, AI or storage checks.
