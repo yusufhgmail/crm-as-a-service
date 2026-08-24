@@ -16,6 +16,10 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://crmthatfits.com'),
   title: 'CRM That Fits — Your business, without software limits',
   description: 'We learn how your company works, design and build the CRM you actually need, migrate your data, train your team and keep improving it.',
+  alternates: {
+    canonical: '/en',
+    languages: { en: '/en', sv: '/se' },
+  },
   openGraph: {
     title: 'Your CRM should fit your business.',
     description: 'We learn how your company works, design and build the CRM you actually need, migrate your data and keep improving it.',

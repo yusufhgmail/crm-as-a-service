@@ -1,7 +1,7 @@
 # CRM As A Service
 
 **Created:** 2026-08-22 by Yusuf Young
-**Status:** The first English website draft is built and being reviewed internally. The next work is to improve it through buyer-focused reviews, connect the assessment to AI, add Swedish at `/se`, and publish the finished version.
+**Status:** The buyer-reviewed website is live in English and Swedish at <https://crm-that-fits.yusufh.workers.dev>. The conversational assessment runs on Cloudflare Workers AI, qualified leads are stored in Cloudflare D1, and the final deployment is waiting only for approval to purchase and connect `crmthatfits.com`.
 
 ## The Problem
 
@@ -82,8 +82,7 @@ Validated through Elvy (a potential customer who confirmed the pain points but p
 
 ## What Happens Next
 
-1. Review and improve the English website as a Swedish B2B buyer who currently uses or is considering HubSpot, Salesforce, or Pipedrive.
-2. Connect the conversational assessment to AI and make sure qualified leads are retained safely.
-3. Add the Swedish `/se` version and keep English at `/en`.
-4. Publish the completed website and begin showing it to potential customers.
-5. Use the first customers to prove and improve the observation, learning, specification, and building system.
+1. Buy and connect `crmthatfits.com` to the Cloudflare deployment.
+2. Begin showing the live English and Swedish website to potential customers.
+3. Use the first assessments and customer conversations to improve qualification and the V0 offer.
+4. Use the first customers to prove and improve the observation, learning, specification, and building system.
