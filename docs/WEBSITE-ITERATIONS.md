@@ -8,6 +8,8 @@ Company Native moves a company from HubSpot, Salesforce, Pipedrive, or another g
 
 Yusuf replaced the descriptive working name `CRM That Fits` with **Company Native** on 2026-08-24. The new name supports the venture-scale thesis beyond CRM: the future is company-native software, and CRM is the first customer-facing system we migrate. `companynative.com` was registered through Cloudflare for $10.46 for the first year, renewing at $10.46 per year. The registration can move to Yusuf's preferred registrar, GoDaddy, after the required 60-day new-registration transfer lock; hosting and DNS can remain on Cloudflare independently of that later registrar move.
 
+The renamed site is live at <https://companynative.com>, with English at `/en`, Swedish at `/se`, and the first-offer address <https://crm.companynative.com>. The final launch deployment is Cloudflare Worker version `25b6abe3-750c-41fc-a195-7f15a7a0d07a`. Every public route returned 200, the live Company Native assessment produced and saved a complete result, and the synthetic verification row was removed afterward.
+
 The main action is a short conversational AI assessment that learns about the prospect's current CRM, pain, team and highest-value improvement, then obtains their work email so we can continue the conversation.
 
 ## Brand and domain

@@ -1,7 +1,7 @@
 # Company Native
 
 **Created:** 2026-08-22 by Yusuf Young
-**Status:** `companynative.com` was registered on 2026-08-24. The buyer-reviewed website is being published in English and Swedish under the Company Native brand. The conversational assessment runs on Cloudflare Workers AI and qualified leads are stored in Cloudflare D1.
+**Status:** `companynative.com` was registered and launched on 2026-08-24. The buyer-reviewed website is live in English at <https://companynative.com/en> and Swedish at <https://companynative.com/se>. The conversational assessment runs on Cloudflare Workers AI and qualified leads are stored in Cloudflare D1.
 
 **Brand architecture:** Company Native is the company and the larger category. Company Native CRM is the first offering and can use `crm.companynative.com`; no second domain is required.
 
