@@ -143,7 +143,14 @@ export default function FunnelDashboard() {
       const response = await fetch('/api/internal/funnel', {
         method: 'POST',
         headers: { Authorization: `Bearer ${password}`, 'Content-Type': 'application/json' },
-        body: JSON.stringify({ leadId, leadType, status: form.get('status'), note: form.get('note') }),
+        body: JSON.stringify({
+          leadId,
+          leadType,
+          status: form.get('status'),
+          note: form.get('note'),
+          source: form.get('source'),
+          campaign: form.get('campaign'),
+        }),
       });
       const result = await response.json() as { error?: string };
       if (!response.ok) throw new Error(result.error || 'The lead could not be updated.');
@@ -267,6 +274,8 @@ export default function FunnelDashboard() {
               <div><dt>{lead.lead_type === 'contact' ? 'Message' : 'Main pain'}</dt><dd>{lead.primary_pain || 'Not captured'}</dd></div>
             </dl>
             <form onSubmit={(event) => void saveLead(event, lead.id, lead.lead_type)}>
+              <label>Source<input name="source" defaultValue={lead.source || 'direct'} maxLength={120} /></label>
+              <label>Campaign<input name="campaign" defaultValue={lead.campaign || ''} placeholder="Optional" maxLength={120} /></label>
               <label>Outcome<select name="status" defaultValue={lead.sales_status}>{Object.entries(statusLabels).map(([value, label]) => <option value={value} key={value}>{label}</option>)}</select></label>
               <label>What we learned<input name="note" defaultValue={lead.outcome_note || ''} placeholder="Why it moved forward or stopped" maxLength={2000} /></label>
               <button type="submit" disabled={working}>Save</button>

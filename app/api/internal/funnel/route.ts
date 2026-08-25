@@ -184,7 +184,7 @@ export async function POST(request: Request) {
     return noStore({ error: 'Incorrect dashboard password.' }, 401);
   }
 
-  let body: { leadId?: unknown; leadType?: unknown; status?: unknown; note?: unknown };
+  let body: { leadId?: unknown; leadType?: unknown; status?: unknown; note?: unknown; source?: unknown; campaign?: unknown };
   try {
     body = await request.json();
   } catch {
@@ -195,18 +195,35 @@ export async function POST(request: Request) {
   const leadType = body.leadType === 'contact' ? 'contact' : body.leadType === 'assessment' ? 'assessment' : '';
   const status = typeof body.status === 'string' ? body.status as SalesStatus : '';
   const note = typeof body.note === 'string' ? body.note.trim().slice(0, 2_000) : '';
+  const source = typeof body.source === 'string' ? body.source.trim().slice(0, 120) : '';
+  const campaign = typeof body.campaign === 'string' ? body.campaign.trim().slice(0, 120) : '';
   if (!leadId || !leadType || !salesStatuses.has(status as SalesStatus)) {
     return noStore({ error: 'Invalid lead update.' }, 400);
   }
 
   try {
     const table = leadType === 'contact' ? 'contact_requests' : 'assessments';
-    const result = await bindings.LEADS_DB.prepare(`
+    const lead = await bindings.LEADS_DB.prepare(`
+      SELECT session_id FROM ${table} WHERE id = ?
+    `).bind(leadId).first<{ session_id: string | null }>();
+    if (!lead) return noStore({ error: 'Lead not found.' }, 404);
+
+    const statements = [bindings.LEADS_DB.prepare(`
       UPDATE ${table}
       SET sales_status = ?, outcome_note = ?, status_updated_at = datetime('now')
       WHERE id = ?
-    `).bind(status, note || null, leadId).run();
-    if (result.meta.changes !== 1) return noStore({ error: 'Lead not found.' }, 404);
+    `).bind(status, note || null, leadId)];
+    if (lead.session_id && source) {
+      statements.push(bindings.LEADS_DB.prepare(`
+        UPDATE funnel_sessions
+        SET
+          medium = CASE WHEN source = ? THEN medium ELSE 'manual' END,
+          source = ?,
+          campaign = ?
+        WHERE id = ?
+      `).bind(source, source, campaign || null, lead.session_id));
+    }
+    await bindings.LEADS_DB.batch(statements);
     return noStore({ ok: true });
   } catch (error) {
     console.error('Lead status update failed', error);
