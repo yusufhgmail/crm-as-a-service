@@ -65,8 +65,7 @@ Incumbents (HubSpot, Salesforce) can't go downmarket - their cost structure, sal
 
 Migration becomes a feature later, once the engine is proven. Beachhead = greenfield SMEs.
 
-### Long-term: Replace Any Software
-CRM is the wedge. Same as Amazon started with books. Once the engine is proven for CRM, expand to any software category. "We will migrate any software to custom AI software for your company."
+
 
 ## Vision Websites
 
@@ -74,7 +73,7 @@ Two websites needed:
 1. **Current vision website** - The service offering (CRM As A Service). What we do today: "We build and maintain a custom CRM for your business."
 2. **Final vision website** - The product endgame: "Click this button. Get your new CRM." A landing page where the entire product is a button. This is the dream.
 
-Vision 3 (long-term): "Replace any software, not just CRM." This is the empire phase, after CRM is proven.
+**Note (Aug 25): "Replace any software" is a DIFFERENT idea, not an expansion of this one.** Auto-CRM reads customer communications and builds a CRM. Replace-any-software reads how you use existing software and migrates you. Different input, different engine, different problem. CRM is not a wedge to something bigger. It is the complete vision.
 
 ## Target Customer
 
@@ -87,12 +86,6 @@ Mid-market companies ($1M-$50M revenue) with:
 ## Business Model
 
 Service-based: monthly retainer + build fee. The customer pays less than their current SaaS bill and gets custom software that fits their exact needs.
-
-## The Ultimate Vision: Enterprise AI Software Migration
-
-CRM is Phase 1. The ultimate vision is broader: **"We will migrate any software to custom AI software for your company."**
-
-Every company runs on a stack of generic SaaS tools that sort-of fit. We replace them one by one with custom AI-powered software that fits exactly. The observation/learning/spec engine works on any software category, not just CRM.
 
 ## Connection to Other Ventures
 
