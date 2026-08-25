@@ -52,8 +52,18 @@ A website with a button that says "Build your new CRM." Click it, connect Gmail/
 ### Step 4: Automate more and more
 Reduce the service layer over time. Fewer and fewer manual interventions needed. The product approaches full self-service.
 
-### Key Decision: New CRM, Not Migration
-Start with SMEs that need a NEW CRM, not ones migrating from an existing one. Migration is a different problem (data export, field mapping, change resistance). Greenfield SMEs have none of that friction. Migration becomes a feature later, once the engine is proven.
+### Key Decision: New CRM, Not Migration (Innovator's Dilemma)
+Start with SMEs that need a NEW CRM, not ones migrating from an existing one. This is the innovator's dilemma play: attack from the bottom where incumbents can't or won't compete.
+
+Go after customers who have nothing today - small companies that just want something simple that works. Deliver extremely cheaply with LESS risk because:
+- No data to lose, no migration liability
+- No expectations of enterprise-grade features
+- "Something from nothing" = even a basic CRM is a massive improvement over spreadsheets + memory
+- No field mapping, no user retraining, no "why doesn't it do X that Salesforce did?"
+
+Incumbents (HubSpot, Salesforce) can't go downmarket - their cost structure, sales process, and feature complexity are built for companies with CRM budgets and admins. They literally can't serve a 5-person company. By the time the flywheel makes this profitable at scale, they can't catch up.
+
+Migration becomes a feature later, once the engine is proven. Beachhead = greenfield SMEs.
 
 ### Long-term: Replace Any Software
 CRM is the wedge. Same as Amazon started with books. Once the engine is proven for CRM, expand to any software category. "We will migrate any software to custom AI software for your company."
