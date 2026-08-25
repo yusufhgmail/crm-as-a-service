@@ -43,6 +43,12 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
             : 'Answers are processed by an AI model through our Cloudflare environment and the result is stored in our Cloudflare database. Do not use the assessment for sensitive customer data, government identifiers, health data, credentials or confidential deal details.'}</p>
         </section>
         <section>
+          <h2>{swedish ? 'Besöksstatistik' : 'Visitor analytics'}</h2>
+          <p>{swedish
+            ? 'Vi använder Cloudflare Web Analytics för att se aggregerade besök, sidvisningar och hur webbplatsen fungerar. Cloudflare samlar in minsta möjliga mängd information och spårar inte enskilda personer mellan olika kunders webbplatser.'
+            : 'We use Cloudflare Web Analytics to see aggregated visits, page views and how the website performs. Cloudflare collects the minimum amount of information and does not track individual people across its customers’ websites.'}</p>
+        </section>
+        <section>
           <h2>{swedish ? 'Delning och gallring' : 'Sharing and retention'}</h2>
           <p>{swedish
             ? 'Vi säljer inte uppgifterna och delar dem inte med andra kunder. Endast personer och leverantörer som behövs för att driva tjänsten får behandla dem. Vi behåller dem så länge de behövs för bedömningen och en rimlig affärsuppföljning, och raderar eller anonymiserar därefter.'
