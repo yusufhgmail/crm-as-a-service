@@ -107,9 +107,9 @@ CRM As A Service is the service layer. The endgame is a **product**: Auto-CRM fr
 
 **How we get there:** See the redesigned Roadmap above (4 steps: manual builds -> self-improving system -> the button -> full automation).
 
-**Why service-first:** You earn revenue from day one while building the training data. You learn what SMEs actually need by doing it manually. Then you productize what you've validated. Same destination, but sequenced so you earn while you learn.
+**Why service-first (and why you CAN'T skip to the button):** The manual builds aren't just a business strategy. They're a technical necessity. Without reference installations, the automated builder has no advantage over Lovable, Cursor, or any other AI app builder. They can all "build a CRM from a prompt." What they can't do is build the RIGHT CRM - because they haven't learned what makes a CRM actually work for real SMEs. That knowledge only comes from doing it manually, measuring customer satisfaction, and feeding those patterns back into the system.
 
-**Why this is better than building the product from scratch:** You'd be guessing what SMEs need in a CRM, building email-parsing infrastructure, and hoping auto-generation works. That's years of R&D before revenue. The service path gives you paid validation for every pattern you later automate.
+The manual builds produce the thing money can't buy: learned patterns from real customer deployments. A competitor with more funding can't skip to the button because Steps 1 and 2 create the moat. Earn revenue while building training data. Then productize what you've validated.
 
 **The moat compounds:** The observation/learning engine from CRMaaS still applies, arguably stronger. Instead of learning from dozens of custom builds, you're learning across thousands of email-to-CRM mappings. Every new user makes the auto-generation better.
 
