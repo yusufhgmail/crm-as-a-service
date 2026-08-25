@@ -166,6 +166,7 @@ function Assessment({ locale }: { locale: Locale }) {
   const messagesEnd = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
+    if (messages.length === 1 && !working) return;
     messagesEnd.current?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
   }, [messages, working]);
 
