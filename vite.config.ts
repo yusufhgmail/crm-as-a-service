@@ -9,6 +9,9 @@ const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === 'seatbelt';
 const localBindingConfig = {
   main: 'vinext/server/app-router-entry',
   ai: { binding: 'AI', remote: true },
+  vars: {
+    FUNNEL_DASHBOARD_PASSWORD: process.env.FUNNEL_DASHBOARD_PASSWORD || '',
+  },
 };
 
 export default defineConfig(async () => {

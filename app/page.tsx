@@ -1,6 +1,7 @@
 'use client';
 
 import { FormEvent, useEffect, useRef, useState } from 'react';
+import { getFunnelSessionId, trackFunnelEvent } from './funnel';
 
 const Arrow = () => <span aria-hidden="true">→</span>;
 
@@ -163,6 +164,12 @@ function Assessment({ locale }: { locale: Locale }) {
   const [result, setResult] = useState<AssessmentResult | null>(null);
   const [working, setWorking] = useState(false);
   const [error, setError] = useState('');
+  const [contactOpen, setContactOpen] = useState(false);
+  const [contactEmail, setContactEmail] = useState('');
+  const [contactMessage, setContactMessage] = useState('');
+  const [contactWorking, setContactWorking] = useState(false);
+  const [contactComplete, setContactComplete] = useState(false);
+  const [contactError, setContactError] = useState('');
   const messagesEnd = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -176,6 +183,11 @@ function Assessment({ locale }: { locale: Locale }) {
 
     const isEmailStep = state === 'email';
     const nextMessages = isEmailStep ? messages : [...messages, { role: 'user' as const, text: clean }];
+    const answerStep = nextMessages.filter((message) => message.role === 'user').length;
+    if (!isEmailStep) {
+      if (answerStep === 1) void trackFunnelEvent('assessment_started');
+      void trackFunnelEvent('assessment_answered', { step: answerStep });
+    }
     if (!isEmailStep) setMessages(nextMessages);
     setAnswer('');
     setQuickReplies([]);
@@ -189,6 +201,7 @@ function Assessment({ locale }: { locale: Locale }) {
         body: JSON.stringify({
           locale,
           messages: nextMessages,
+          sessionId: getFunnelSessionId(),
           ...(isEmailStep ? { email: clean } : {}),
         }),
       });
@@ -207,7 +220,11 @@ function Assessment({ locale }: { locale: Locale }) {
       setState(data.state);
       setQuickReplies(data.quickReplies || []);
       setResult(data.state === 'question' ? null : (data.assessment || null));
+      if (data.state === 'email' && state !== 'email') {
+        void trackFunnelEvent('assessment_email_requested', { step: answerStep });
+      }
     } catch (caught) {
+      void trackFunnelEvent('assessment_error', { location: isEmailStep ? 'email_submission' : 'answer_submission', step: answerStep });
       setError(caught instanceof Error ? caught.message : (swedish ? 'Något gick fel.' : 'Something went wrong.'));
       if (!isEmailStep) {
         setMessages(messages);
@@ -223,6 +240,38 @@ function Assessment({ locale }: { locale: Locale }) {
     await sendAnswer(answer);
   }
 
+  async function submitContact(event: FormEvent) {
+    event.preventDefault();
+    const email = contactEmail.trim();
+    if (!email || contactWorking) return;
+
+    setContactError('');
+    setContactWorking(true);
+    try {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ locale, email, message: contactMessage.trim(), sessionId: getFunnelSessionId() }),
+      });
+      const data = await response.json() as { error?: string };
+      if (!response.ok) {
+        throw new Error(data.error || (swedish ? 'Något gick fel.' : 'Something went wrong.'));
+      }
+      setContactComplete(true);
+      void trackFunnelEvent('contact_submitted');
+    } catch (caught) {
+      void trackFunnelEvent('contact_error', { location: 'contact_submission' });
+      setContactError(caught instanceof Error ? caught.message : (swedish ? 'Något gick fel.' : 'Something went wrong.'));
+    } finally {
+      setContactWorking(false);
+    }
+  }
+
+  function returnToAssessment() {
+    setContactOpen(false);
+    setContactError('');
+  }
+
   return (
     <div className="assessment-window" id="assessment-chat">
       <div className="assessment-topbar">
@@ -230,60 +279,132 @@ function Assessment({ locale }: { locale: Locale }) {
           <span className="assistant-orb">AI</span>
           <div><strong>{swedish ? 'CRM-bedömning' : 'CRM assessment'}</strong><small>{swedish ? 'Tar oftast 4–6 minuter' : 'Usually 4–6 minutes'}</small></div>
         </div>
-        <span className="private-label">{swedish ? 'Privat samtal' : 'Private conversation'}</span>
+        <div className="assessment-topbar-actions">
+          <span className="private-label">{swedish ? 'Privat samtal' : 'Private conversation'}</span>
+          <button className="human-contact-button" type="button" onClick={() => {
+            if (contactOpen) returnToAssessment();
+            else {
+              setContactOpen(true);
+              void trackFunnelEvent('contact_opened');
+            }
+          }}>
+            {contactOpen
+              ? (swedish ? 'Till bedömningen' : 'Back to assessment')
+              : (swedish ? 'Prata med en person' : 'Talk to a person')}
+          </button>
+        </div>
       </div>
-      <div className="messages" aria-live="polite">
-        {messages.map((message, index) => (
-          <div className={`message ${message.role}`} key={`${message.role}-${index}`}>
-            {message.role === 'assistant' && <span className="tiny-orb">AI</span>}
-            <p>{message.text}</p>
+      {contactOpen ? (
+        <div className="contact-panel">
+          {contactComplete ? (
+            <div className="contact-success" aria-live="polite">
+              <span aria-hidden="true">✓</span>
+              <small>{swedish ? 'PERSONLIG UPPFÖLJNING' : 'PERSONAL FOLLOW-UP'}</small>
+              <h3>{swedish ? 'Vi hör av oss.' : 'We’ll get in touch.'}</h3>
+              <p>{swedish
+                ? `Ditt meddelande är sparat. En person från Company Native svarar dig på ${contactEmail.trim()}.`
+                : `Your message is saved. A person from Company Native will reply to you at ${contactEmail.trim()}.`}</p>
+              <button type="button" onClick={returnToAssessment}>{swedish ? 'Fortsätt med bedömningen' : 'Continue with the assessment'} <Arrow /></button>
+            </div>
+          ) : (
+            <>
+              <div className="contact-intro">
+                <small>{swedish ? 'PRATA DIREKT MED OSS' : 'TALK TO US DIRECTLY'}</small>
+                <h3>{swedish ? 'Hoppa över assistenten.' : 'Skip the assistant.'}</h3>
+                <p>{swedish
+                  ? 'Lämna din jobbmejl och gärna vad du vill prata om. En person från Company Native svarar dig.'
+                  : 'Leave your work email and, if you like, what you want to discuss. A person from Company Native will reply.'}</p>
+              </div>
+              <form className="contact-form" onSubmit={submitContact}>
+                <label htmlFor="contact-email">{swedish ? 'Jobbmejl' : 'Work email'}</label>
+                <input
+                  id="contact-email"
+                  type="email"
+                  autoComplete="email"
+                  maxLength={254}
+                  value={contactEmail}
+                  onChange={(event) => setContactEmail(event.target.value)}
+                  placeholder={swedish ? 'du@foretag.se' : 'you@company.com'}
+                  required
+                />
+                <label htmlFor="contact-message">{swedish ? 'Vad vill du prata om? (valfritt)' : 'What would you like to discuss? (optional)'}</label>
+                <textarea
+                  id="contact-message"
+                  maxLength={1200}
+                  rows={4}
+                  value={contactMessage}
+                  onChange={(event) => setContactMessage(event.target.value)}
+                  placeholder={swedish ? 'Några rader hjälper oss att förbereda oss.' : 'A few lines will help us prepare.'}
+                />
+                <button className="contact-submit" type="submit" disabled={contactWorking || !contactEmail.trim()}>
+                  {contactWorking
+                    ? (swedish ? 'Skickar…' : 'Sending…')
+                    : (swedish ? 'Be oss kontakta dig' : 'Ask us to contact you')} <Arrow />
+                </button>
+              </form>
+              {contactError && <p className="assessment-error" role="alert">{contactError}</p>}
+              <button className="continue-assessment" type="button" onClick={returnToAssessment}>
+                {swedish ? 'Vill du hellre få en bedömning nu? Fortsätt med assistenten.' : 'Want an assessment now instead? Continue with the assistant.'}
+              </button>
+            </>
+          )}
+        </div>
+      ) : (
+        <>
+          <div className="messages" aria-live="polite">
+            {messages.map((message, index) => (
+              <div className={`message ${message.role}`} key={`${message.role}-${index}`}>
+                {message.role === 'assistant' && <span className="tiny-orb">AI</span>}
+                <p>{message.text}</p>
+              </div>
+            ))}
+            {working && (
+              <div className="message assistant"><span className="tiny-orb">AI</span><p className="thinking">•••</p></div>
+            )}
+            <div ref={messagesEnd} />
           </div>
-        ))}
-        {working && (
-          <div className="message assistant"><span className="tiny-orb">AI</span><p className="thinking">•••</p></div>
-        )}
-        <div ref={messagesEnd} />
-      </div>
-      {quickReplies.length > 0 && state === 'question' && !working && (
-        <div className="quick-answers" aria-label={swedish ? 'Svarsalternativ' : 'Suggested answers'}>
-          {quickReplies.map((choice) => (
-            <button key={choice} type="button" onClick={() => sendAnswer(choice)}>{choice}</button>
-          ))}
-        </div>
+          {quickReplies.length > 0 && state === 'question' && !working && (
+            <div className="quick-answers" aria-label={swedish ? 'Svarsalternativ' : 'Suggested answers'}>
+              {quickReplies.map((choice) => (
+                <button key={choice} type="button" onClick={() => sendAnswer(choice)}>{choice}</button>
+              ))}
+            </div>
+          )}
+          {result && (
+            <div className="assessment-result">
+              <small>{swedish ? 'ER TROLIGA FÖRSTA MÖJLIGHET' : 'YOUR LIKELY FIRST OPPORTUNITY'}</small>
+              <strong>{result.opportunity}</strong>
+              <dl>
+                <div><dt>{swedish ? 'Vem det hjälper' : 'Who it helps'}</dt><dd>{result.whoBenefits}</dd></div>
+                <div><dt>{swedish ? 'Varför före migreringen' : 'Why before migration'}</dt><dd>{result.whyBeforeMigration}</dd></div>
+                <div><dt>{swedish ? 'Passform' : 'Fit'}</dt><dd>{result.fit}</dd></div>
+              </dl>
+            </div>
+          )}
+          <form className="chat-input" onSubmit={submit}>
+            <label className="sr-only" htmlFor="assessment-answer">{swedish ? 'Ditt svar' : 'Your answer'}</label>
+            <input
+              id="assessment-answer"
+              value={answer}
+              onChange={(event) => setAnswer(event.target.value)}
+              type={state === 'email' ? 'email' : 'text'}
+              autoComplete={state === 'email' ? 'email' : 'off'}
+              maxLength={state === 'email' ? 254 : 1200}
+              placeholder={state === 'complete'
+                ? (swedish ? 'Bedömningen är klar' : 'Assessment complete')
+                : state === 'email'
+                  ? (swedish ? 'jobbmejl@foretag.se' : 'you@company.com')
+                  : (swedish ? 'Skriv ditt svar…' : 'Type your answer…')}
+              disabled={state === 'complete' || working}
+            />
+            <button type="submit" disabled={state === 'complete' || working || !answer.trim()} aria-label={swedish ? 'Skicka svar' : 'Send answer'}>{working ? '…' : '↑'}</button>
+          </form>
+          {error && <p className="assessment-error" role="alert">{error}</p>}
+          <p className="assessment-note">{swedish
+            ? 'Assistenten anpassar frågorna efter dina svar. Dela inte känsliga kund- eller personuppgifter.'
+            : 'The assistant adapts its questions to your answers. Do not share sensitive customer or personal data.'}</p>
+        </>
       )}
-      {result && (
-        <div className="assessment-result">
-          <small>{swedish ? 'ER TROLIGA FÖRSTA MÖJLIGHET' : 'YOUR LIKELY FIRST OPPORTUNITY'}</small>
-          <strong>{result.opportunity}</strong>
-          <dl>
-            <div><dt>{swedish ? 'Vem det hjälper' : 'Who it helps'}</dt><dd>{result.whoBenefits}</dd></div>
-            <div><dt>{swedish ? 'Varför före migreringen' : 'Why before migration'}</dt><dd>{result.whyBeforeMigration}</dd></div>
-            <div><dt>{swedish ? 'Passform' : 'Fit'}</dt><dd>{result.fit}</dd></div>
-          </dl>
-        </div>
-      )}
-      <form className="chat-input" onSubmit={submit}>
-        <label className="sr-only" htmlFor="assessment-answer">{swedish ? 'Ditt svar' : 'Your answer'}</label>
-        <input
-          id="assessment-answer"
-          value={answer}
-          onChange={(event) => setAnswer(event.target.value)}
-          type={state === 'email' ? 'email' : 'text'}
-          autoComplete={state === 'email' ? 'email' : 'off'}
-          maxLength={state === 'email' ? 254 : 1200}
-          placeholder={state === 'complete'
-            ? (swedish ? 'Bedömningen är klar' : 'Assessment complete')
-            : state === 'email'
-              ? (swedish ? 'jobbmejl@foretag.se' : 'you@company.com')
-              : (swedish ? 'Skriv ditt svar…' : 'Type your answer…')}
-          disabled={state === 'complete' || working}
-        />
-        <button type="submit" disabled={state === 'complete' || working || !answer.trim()} aria-label={swedish ? 'Skicka svar' : 'Send answer'}>{working ? '…' : '↑'}</button>
-      </form>
-      {error && <p className="assessment-error" role="alert">{error}</p>}
-      <p className="assessment-note">{swedish
-        ? 'Assistenten anpassar frågorna efter dina svar. Dela inte känsliga kund- eller personuppgifter.'
-        : 'The assistant adapts its questions to your answers. Do not share sensitive customer or personal data.'}</p>
     </div>
   );
 }
@@ -299,7 +420,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
     <main>
       <nav className="nav shell" aria-label={t('Main navigation', 'Huvudmeny')}>
         <a className="brand" href="#top" aria-label={t('Company Native home', 'Company Native startsida')}>
-          <span className="brand-mark" aria-hidden="true">CN</span>
+          <span className="brand-mark" aria-hidden="true" />
           <span>Company Native</span>
         </a>
         <div className="nav-links">
@@ -308,8 +429,8 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <a href="#story">{t('Why us', 'Varför oss')}</a>
         </div>
         <div className="nav-actions">
-          <a className="language-link" href={swedish ? '/en' : '/se'} lang={swedish ? 'en' : 'sv'}>{swedish ? 'EN' : 'SV'}</a>
-          <a className="button button-small button-dark" href="#assessment-chat">{t('Start assessment', 'Starta bedömning')} <Arrow /></a>
+          <a className="language-link" href={swedish ? '/en' : '/se'} lang={swedish ? 'en' : 'sv'} data-funnel-event="language_change" data-funnel-location="navigation">{swedish ? 'EN' : 'SV'}</a>
+          <a className="button button-small button-dark" href="#assessment-chat" data-funnel-location="navigation">{t('Start assessment', 'Starta bedömning')} <Arrow /></a>
         </div>
       </nav>
 
@@ -322,7 +443,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
             'Vi lär oss hur ert företag faktiskt arbetar, designar det CRM ni verkligen behöver, bygger det, migrerar er data och fortsätter förbättra det—utan att störa teamet.',
           )}</p>
           <div className="hero-actions">
-            <a className="button button-primary" href="#assessment-chat">{t('Start your CRM assessment', 'Starta er CRM-bedömning')} <Arrow /></a>
+            <a className="button button-primary" href="#assessment-chat" data-funnel-location="hero">{t('Start your CRM assessment', 'Starta er CRM-bedömning')} <Arrow /></a>
             <a className="text-link" href="#process">{t('See how we make migration safe', 'Se hur vi gör migreringen trygg')} <Arrow /></a>
           </div>
           <p className="hero-promise"><span>✓</span> {t(
@@ -402,7 +523,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <p className="possibility-foot">{t('And one connected place for calling, queues, email, forecasting, outreach, replies, customer risk, management reporting and the other work your team currently holds together by hand.', 'Och en sammanhängande plats för samtal, köer, mejl, prognoser, uppsökande arbete, svar, kundrisk, ledningsrapportering och allt annat som teamet idag håller ihop för hand.')}</p>
           <div className="mid-cta">
             <div><small>{t('YOUR COMPANY WILL BE DIFFERENT', 'ERT FÖRETAG KOMMER VARA ANNORLUNDA')}</small><strong>{t('Where could a CRM remove the most work from your team?', 'Var skulle ett CRM kunna ta bort mest arbete för ert team?')}</strong></div>
-            <a className="button button-dark" href="#assessment-chat">{t('Find your first improvement', 'Hitta er första förbättring')} <Arrow /></a>
+            <a className="button button-dark" href="#assessment-chat" data-funnel-location="after_examples">{t('Find your first improvement', 'Hitta er första förbättring')} <Arrow /></a>
           </div>
         </div>
       </section>
@@ -505,7 +626,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
               <li><span>✓</span> {t('About five minutes', 'Cirka fem minuter')}</li>
               <li><span>✓</span> {t('Your strongest small improvement, who it helps and why it can work before migration', 'Er starkaste lilla förbättring, vem den hjälper och varför den kan fungera före migreringen')}</li>
             </ul>
-            <p className="contact-expectation">{t('At the end, we ask for your work email to save the assessment and show it here. A human conversation follows only if both sides see a useful opportunity. You are not booking a sales call.', 'I slutet ber vi om er jobbmejl för att spara bedömningen och visa den här. Ett mänskligt samtal följer bara om båda ser en värdefull möjlighet. Ni bokar inte ett säljsamtal.')}</p>
+            <p className="contact-expectation">{t('Prefer a person? You can contact us from the assistant window before answering anything. If you use the assessment, we ask for your work email only at the end so we can save the result and follow up when useful.', 'Föredrar du en person? Du kan kontakta oss i assistentfönstret innan du svarar på något. Om du gör bedömningen ber vi om din jobbmejl först i slutet så att vi kan spara resultatet och följa upp när det är värdefullt.')}</p>
             <p className="privacy-prompt">{t('We store only what is needed to prepare and follow up on the assessment.', 'Vi sparar bara det som behövs för att förbereda och följa upp bedömningen.')} <a href={`/${locale}/privacy`}>{t('How we handle your information', 'Så hanterar vi era uppgifter')} <Arrow /></a></p>
             <div className="commercial-promise"><strong>{t('Start without increasing your CRM cost.', 'Börja utan att öka er CRM-kostnad.')}</strong><p>{t('If your team does not use the first pilot, you get your money back. If it works, the starting service costs what your current CRM costs today. Our AI-assisted system and reusable engineering patterns make that possible without starting every build from zero.', 'Om teamet inte använder den första piloten får ni pengarna tillbaka. Om den fungerar kostar starttjänsten lika mycket som ert nuvarande CRM idag. Vårt AI-stödda system och återanvändbara utvecklingsmönster gör det möjligt utan att varje bygge börjar från noll.')}</p></div>
           </div>
@@ -514,7 +635,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
       </section>
 
       <footer>
-        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark">CN</span><span>Company Native</span></a><p>{t('Software built around your company.', 'Programvara byggd runt ert företag.')}</p><a href="#assessment-chat" className="button button-small button-primary">{t('Start assessment', 'Starta bedömning')} <Arrow /></a></div>
+        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark" aria-hidden="true" /><span>Company Native</span></a><p>{t('Software built around your company.', 'Programvara byggd runt ert företag.')}</p><a href="#assessment-chat" className="button button-small button-primary" data-funnel-location="footer">{t('Start assessment', 'Starta bedömning')} <Arrow /></a></div>
         <div className="shell footer-bottom"><span>© 2026 Company Native · {t('A Yusuf Young AB company', 'Ett bolag inom Yusuf Young AB')}</span><span><a href={`/${locale}/privacy`}>{t('Privacy', 'Integritet')}</a> · <a href={swedish ? '/en' : '/se'}>{swedish ? 'English' : 'Svenska'}</a></span></div>
       </footer>
     </main>

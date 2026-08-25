@@ -18,7 +18,7 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 a { color: inherit; text-decoration: none; }
@@ -40,8 +40,8 @@ a { color: inherit; text-decoration: none; }
 }
 .brand { display: flex; align-items: center; gap: 11px; font-weight: 800; letter-spacing: -.03em; }
 .brand-mark {
-  width: 34px; height: 34px; border-radius: 9px; display: grid; place-items: center;
-  background: var(--ink); color: var(--mint); font-size: 11px; letter-spacing: -.04em;
+  width: 34px; height: 34px; display: block; border-radius: 9px;
+  background: url('/company-native-logo.svg') center / contain no-repeat;
 }
 .nav-links { display: flex; gap: 34px; font-size: 14px; font-weight: 650; }
 .nav-links a { transition: opacity .2s ease; }
@@ -58,7 +58,7 @@ a { color: inherit; text-decoration: none; }
 .button-small { min-height: 42px; padding: 0 18px; font-size: 13px; }
 .button-dark { background: var(--ink); color: white; }
 .button-primary {
-  min-height: 58px; padding: 0 25px; background: var(--orange); color: #fff;
+  min-height: 58px; padding: 0 25px; background: var(--orange); color: var(--ink);
   box-shadow: 0 9px 28px rgba(201, 70, 34, .2); font-size: 15px;
 }
 .button-primary:hover { box-shadow: 0 13px 34px rgba(201, 70, 34, .28); }
@@ -302,7 +302,10 @@ h2 em { color: var(--orange); font-style: italic; }
 .assistant-identity strong, .assistant-identity small { display: block; }
 .assistant-identity strong { font-size: 12px; }
 .assistant-identity small { margin-top: 3px; color: #7b8b88; font-size: 9px; }
+.assessment-topbar-actions { display: flex; align-items: center; gap: 12px; }
 .private-label { color: #6b7f7b; font-size: 8px; font-weight: 850; letter-spacing: .07em; text-transform: uppercase; }
+.human-contact-button { min-height: 34px; padding: 0 12px; border: 1px solid var(--orange); border-radius: 6px; background: #fff7f3; color: #a23c21; font: inherit; font-size: 9px; font-weight: 850; cursor: pointer; }
+.human-contact-button:hover { background: var(--orange); color: white; }
 .messages { max-height: 330px; min-height: 270px; overflow-y: auto; padding: 24px 20px 8px; background: #f8f7f2; }
 .message { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 13px; }
 .message.user { justify-content: flex-end; }
@@ -324,10 +327,24 @@ h2 em { color: var(--orange); font-style: italic; }
 .chat-input { display: grid; grid-template-columns: 1fr 43px; gap: 9px; padding: 14px 15px; border-top: 1px solid #e0e3de; }
 .chat-input input { min-width: 0; height: 43px; padding: 0 13px; border: 1px solid #d3d9d3; border-radius: 7px; outline: none; font: inherit; font-size: 12px; }
 .chat-input input:focus { border-color: #719187; box-shadow: 0 0 0 3px rgba(113,145,135,.12); }
-.chat-input button { border: 0; border-radius: 7px; background: var(--orange); color: white; font-size: 18px; font-weight: 900; cursor: pointer; }
+.chat-input button { border: 0; border-radius: 7px; background: var(--orange); color: var(--ink); font-size: 18px; font-weight: 900; cursor: pointer; }
 .chat-input button:disabled { opacity: .4; cursor: default; }
 .assessment-error { margin: -4px 20px 12px; color: #a33827; font-size: 10px; line-height: 1.5; }
 .assessment-note { margin: 0; padding: 0 20px 16px; color: #82908d; font-size: 8px; text-align: center; }
+.contact-panel { min-height: 398px; padding: 29px 28px 25px; background: #f8f7f2; }
+.contact-intro small, .contact-success small { color: #a23c21; font-size: 8px; font-weight: 900; letter-spacing: .12em; }
+.contact-intro h3, .contact-success h3 { margin: 8px 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 27px; font-weight: 500; letter-spacing: -.025em; }
+.contact-intro p, .contact-success p { max-width: 480px; margin: 10px 0 0; color: #536e6b; font-size: 12px; line-height: 1.6; }
+.contact-form { display: grid; gap: 7px; margin-top: 21px; }
+.contact-form label { margin-top: 4px; color: #405d59; font-size: 9px; font-weight: 800; }
+.contact-form input, .contact-form textarea { width: 100%; padding: 11px 12px; border: 1px solid #cdd5cf; border-radius: 7px; background: white; outline: none; color: var(--ink); font: inherit; font-size: 11px; resize: vertical; }
+.contact-form input:focus, .contact-form textarea:focus { border-color: #719187; box-shadow: 0 0 0 3px rgba(113,145,135,.12); }
+.contact-submit { min-height: 43px; display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-top: 7px; border: 0; border-radius: 7px; background: var(--orange); color: white; font: inherit; font-size: 11px; font-weight: 850; cursor: pointer; }
+.contact-submit:disabled { opacity: .45; cursor: default; }
+.continue-assessment { display: block; margin: 16px auto 0; padding: 4px 0; border: 0; border-bottom: 1px solid #aeb9b3; background: transparent; color: #526d69; font: inherit; font-size: 9px; font-weight: 750; cursor: pointer; }
+.contact-success { min-height: 340px; display: flex; align-items: center; flex-direction: column; justify-content: center; text-align: center; }
+.contact-success > span { width: 45px; height: 45px; display: grid; place-items: center; margin-bottom: 20px; border-radius: 50%; background: var(--mint); color: #237345; font-size: 20px; font-weight: 900; }
+.contact-success button { display: inline-flex; gap: 8px; margin-top: 21px; padding: 8px 0 5px; border: 0; border-bottom: 1px solid #81938e; background: transparent; color: var(--ink); font: inherit; font-size: 10px; font-weight: 800; cursor: pointer; }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 
 .legal-page { min-height: 100vh; background: var(--paper); }
@@ -402,6 +419,9 @@ footer { padding: 54px 0 22px; background: #061a1b; color: white; }
   .assessment-window { margin-inline: -5px; }
   .nav-actions { gap: 6px; }
   .private-label { display: none; }
+  .assessment-topbar { padding-inline: 15px; }
+  .human-contact-button { max-width: 100px; line-height: 1.2; }
+  .contact-panel { padding: 25px 20px 22px; }
   .footer-top { align-items: flex-start; flex-direction: column; gap: 24px; }
   .footer-top > p { margin: 0; }
   .footer-bottom { align-items: flex-start; flex-direction: column; gap: 10px; }

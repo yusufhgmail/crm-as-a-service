@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Company Native Brand Guide</title>
+  <style>
+    @font-face { font-family: 'Geist'; src: url('assets/fonts/geist-sans.woff2') format('woff2'); font-weight: 100 900; }
+    :root { --ink:#102b2c; --ink-soft:#335151; --deep:#061a1b; --paper:#f4f1e9; --cream:#fbfaf6; --mint:#b9f6ca; --mint-strong:#78df9a; --coral:#ff7048; --line:#d9ddd5; }
+    @page { size: A4 landscape; margin: 0; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background: #d9ddd5; color: var(--ink); font-family: Geist, Arial, sans-serif; }
+    .page { position: relative; width: 297mm; height: 210mm; margin: 0 auto 12px; overflow: hidden; page-break-after: always; background: var(--paper); }
+    .page:last-child { page-break-after: auto; }
+    .pad { padding: 17mm 19mm 16mm; }
+    .dark { background: var(--ink); color: white; }
+    .cream { background: var(--cream); }
+    .mint { background: var(--mint); }
+    .eyebrow { margin: 0 0 7mm; color: var(--ink-soft); font-size: 8.5pt; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; }
+    .dark .eyebrow { color: var(--mint); }
+    h1, h2, h3, p { margin-top: 0; }
+    h1, h2, .serif { font-family: Georgia, 'Times New Roman', serif; font-weight: 500; }
+    h1 { max-width: 220mm; margin-bottom: 9mm; font-size: 47pt; line-height: .98; letter-spacing: -.045em; }
+    h2 { max-width: 210mm; margin-bottom: 9mm; font-size: 35pt; line-height: 1.02; letter-spacing: -.04em; }
+    h3 { margin-bottom: 3mm; font-size: 13pt; line-height: 1.2; }
+    p { color: var(--ink-soft); font-size: 11pt; line-height: 1.55; }
+    .dark p { color: #b9cbc7; }
+    .lede { max-width: 195mm; font-size: 15pt; line-height: 1.5; }
+    .small { font-size: 8.5pt; line-height: 1.5; }
+    .coral { color: var(--coral); font-style: italic; }
+    .logo { display: block; width: 57mm; }
+    .logo.reverse { filter: none; }
+    .page-number { position: absolute; right: 19mm; bottom: 11mm; color: #758984; font-size: 8pt; font-weight: 700; letter-spacing: .08em; }
+    .dark .page-number { color: #66817c; }
+    .topline { display: flex; align-items: center; justify-content: space-between; margin-bottom: 17mm; }
+    .topline .logo { width: 48mm; }
+    .rule { height: 1px; margin: 8mm 0; background: var(--line); }
+    .dark .rule { background: rgba(255,255,255,.15); }
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 11mm; }
+    .grid-3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 7mm; }
+    .grid-4 { display: grid; grid-template-columns: repeat(4,1fr); gap: 5mm; }
+    .card { padding: 7mm; border: 1px solid var(--line); border-radius: 3mm; background: rgba(255,255,255,.46); }
+    .card.dark-card { border-color: rgba(255,255,255,.14); background: rgba(255,255,255,.04); }
+    .card p:last-child { margin-bottom: 0; }
+    .label { display: block; margin-bottom: 3mm; color: var(--coral); font-size: 8pt; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+    .dark .label { color: var(--mint); }
+    .quote { max-width: 220mm; font-family: Georgia, serif; font-size: 27pt; line-height: 1.22; letter-spacing: -.025em; }
+    .chips { display: flex; flex-wrap: wrap; gap: 3mm; }
+    .chip { padding: 2.3mm 3.4mm; border: 1px solid var(--line); border-radius: 999px; background: var(--cream); color: var(--ink); font-size: 8pt; font-weight: 700; }
+    .dark .chip { border-color: rgba(185,246,202,.27); background: transparent; color: #dce9e6; }
+    .cover { display: grid; grid-template-columns: 1.2fr .8fr; align-items: center; gap: 16mm; padding: 20mm; background: var(--ink); color: white; }
+    .cover h1 { margin-top: 19mm; color: white; font-size: 54pt; }
+    .cover p { max-width: 152mm; font-size: 15pt; }
+    .cover-mark { display: grid; place-items: center; width: 79mm; height: 79mm; border-radius: 18mm; background: #0b2425; box-shadow: 0 0 0 1px rgba(185,246,202,.15); }
+    .cover-mark img { width: 62mm; }
+    .cover-meta { position: absolute; left: 20mm; bottom: 16mm; color: #79948f; font-size: 8.5pt; font-weight: 700; letter-spacing: .12em; }
+    .brand-one { display: grid; grid-template-columns: 1.1fr .9fr; gap: 12mm; align-items: start; }
+    .statement { padding: 9mm; border-radius: 4mm; background: var(--ink); color: white; }
+    .statement strong { display: block; margin-bottom: 4mm; color: var(--mint); font-family: Georgia, serif; font-size: 23pt; font-weight: 500; line-height: 1.18; }
+    .statement p { margin-bottom: 0; }
+    .statement.compact { padding: 5.5mm 7mm; }
+    .statement.compact strong { margin-bottom: 2mm; font-size: 19pt; }
+    .statement.compact p { font-size: 9.5pt; line-height: 1.4; }
+    .stack { display: grid; gap: 5mm; }
+    .emotion { min-height: 35mm; }
+    .emotion b { display: block; margin-bottom: 3mm; color: var(--ink); font-family: Georgia, serif; font-size: 17pt; font-weight: 500; }
+    .message-table { display: grid; grid-template-columns: 40mm 1fr; border-top: 1px solid var(--line); }
+    .message-table > div { padding: 5.2mm 4mm; border-bottom: 1px solid var(--line); }
+    .message-table .key { padding-left: 0; color: var(--ink-soft); font-size: 8pt; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+    .message-table .value { color: var(--ink); font-size: 11pt; font-weight: 590; }
+    .bilingual { display: grid; grid-template-columns: 1fr 1fr; gap: 9mm; }
+    .language-col { padding: 7mm; border: 1px solid var(--line); border-radius: 3mm; background: rgba(255,255,255,.45); }
+    .phrase { padding: 4mm 0; border-top: 1px solid var(--line); }
+    .phrase:first-of-type { border-top: 0; }
+    .phrase strong { display: block; margin-bottom: 1.5mm; color: var(--ink); font-size: 10.5pt; }
+    .phrase span { color: var(--ink-soft); font-size: 9pt; line-height: 1.4; }
+    .voice-axis { display: grid; grid-template-columns: 1fr 1fr; gap: 7mm; }
+    .voice-example { padding: 6mm; border-radius: 3mm; }
+    .voice-example.good { background: var(--mint); }
+    .voice-example.bad { border: 1px solid #e2c6be; background: #fff4f0; }
+    .voice-example strong { display: block; margin-bottom: 3mm; font-size: 10pt; }
+    .voice-example p { margin-bottom: 0; font-size: 10pt; }
+    .logo-stage { display: grid; place-items: center; min-height: 84mm; border-radius: 5mm; background: var(--cream); }
+    .logo-stage img { width: 110mm; }
+    .mark-stage { display: grid; place-items: center; min-height: 84mm; border-radius: 5mm; background: var(--ink); }
+    .mark-stage img { width: 52mm; }
+    .construction { display: grid; grid-template-columns: .7fr 1.3fr; gap: 11mm; align-items: center; }
+    .construction img { width: 100%; }
+    .logo-rules { display: grid; grid-template-columns: repeat(4,1fr); gap: 5mm; }
+    .logo-rule { min-height: 38mm; padding: 5mm; border: 1px solid var(--line); border-radius: 3mm; background: rgba(255,255,255,.4); }
+    .logo-rule strong { display: block; margin-bottom: 2.5mm; font-size: 10pt; }
+    .logo-rule p { margin-bottom: 0; font-size: 8.5pt; }
+    .swatches { display: grid; grid-template-columns: repeat(4,1fr); gap: 5mm; }
+    .swatch { overflow: hidden; border: 1px solid var(--line); border-radius: 3mm; background: var(--cream); }
+    .swatch-color { height: 43mm; }
+    .swatch-copy { padding: 4mm; }
+    .swatch-copy strong, .swatch-copy span { display: block; }
+    .swatch-copy strong { margin-bottom: 1mm; font-size: 10pt; }
+    .swatch-copy span { color: var(--ink-soft); font-family: ui-monospace, monospace; font-size: 8pt; }
+    .contrast { margin-top: 7mm; display: grid; grid-template-columns: repeat(4,1fr); gap: 4mm; }
+    .contrast > div { padding: 4mm; border-radius: 2.5mm; font-size: 8.5pt; font-weight: 700; }
+    .type-sample.display { font-family: Georgia, serif; font-size: 34pt; line-height: 1.04; letter-spacing: -.035em; }
+    .type-sample.body { font-size: 13pt; line-height: 1.5; }
+    .type-sample.meta { font-family: ui-monospace, monospace; font-size: 9pt; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
+    .scale-row { display: grid; grid-template-columns: 34mm 1fr; gap: 6mm; align-items: baseline; padding: 3.2mm 0; border-top: 1px solid var(--line); }
+    .scale-row span:first-child { color: var(--ink-soft); font-size: 8pt; font-weight: 750; }
+    .imagery-rule { min-height: 42mm; }
+    .diagram { position: relative; min-height: 75mm; border-radius: 4mm; background: var(--cream); }
+    .diagram .path { position: absolute; left: 15mm; right: 15mm; top: 37mm; height: 1px; background: var(--line); }
+    .diagram .node { position: absolute; top: 30mm; width: 14mm; height: 14mm; display: grid; place-items: center; border-radius: 4mm; background: var(--ink); color: var(--mint); font-size: 8pt; font-weight: 800; }
+    .diagram .node:nth-child(2) { left: 12%; }.diagram .node:nth-child(3) { left: 34%; }.diagram .node:nth-child(4) { left: 56%; }.diagram .node:nth-child(5) { left: 78%; background: var(--coral); color: var(--ink); }
+    .asset-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 7mm; }
+    .asset-grid img { display: block; width: 100%; border: 1px solid var(--line); border-radius: 2mm; }
+    .asset-side { display: grid; grid-template-columns: 1fr 1fr; gap: 5mm; }
+    .asset-side img { aspect-ratio: 1; object-fit: cover; }
+    .kit-list { display: grid; grid-template-columns: repeat(2,1fr); gap: 4mm 9mm; }
+    .kit-item { display: grid; grid-template-columns: 10mm 1fr; gap: 4mm; padding: 3mm 0; border-top: 1px solid var(--line); }
+    .kit-item .n { width: 8mm; height: 8mm; display: grid; place-items: center; border-radius: 50%; background: var(--ink); color: var(--mint); font-size: 7pt; font-weight: 800; }
+    .kit-item strong { display: block; margin-bottom: 1mm; font-size: 10pt; }
+    .kit-item p { margin-bottom: 0; font-size: 8.5pt; }
+    .freeze { display: grid; grid-template-columns: 1.25fr .75fr; gap: 12mm; align-items: center; }
+    .freeze-mark { display: grid; place-items: center; width: 72mm; height: 72mm; border-radius: 17mm; background: var(--ink); }
+    .freeze-mark img { width: 56mm; }
+    @media print { html, body { background: transparent; } .page { margin: 0; } }
+  </style>
+</head>
+<body>
+  <section class="page cover">
+    <div>
+      <img class="logo reverse" src="assets/logos/company-native-lockup-reverse.svg" alt="Company Native">
+      <h1>Software built around <span class="coral">your company.</span></h1>
+      <p>The frozen brand system for Company Native: strategy, message, identity and the practical assets needed to win the first 10 customers.</p>
+    </div>
+    <div class="cover-mark"><img src="assets/logos/company-native-mark-reverse.svg" alt="Company Native Coremark"></div>
+    <div class="cover-meta">BRAND GUIDE / VERSION 1.0 / 24 AUGUST 2026</div>
+  </section>
+
+  <section class="page pad">
+    <div class="topline"><img class="logo" src="assets/logos/company-native-lockup-color.svg" alt="Company Native"><span class="eyebrow">THE BRAND IN ONE PAGE</span></div>
+    <div class="brand-one">
+      <div>
+        <p class="eyebrow">The belief</p>
+        <h2>Companies should not adapt to software. <span class="coral">Software should adapt to companies.</span></h2>
+        <p class="lede">Company Native learns how a business really works, designs the system it needs, builds and migrates it, and keeps improving it. CRM is the first customer-facing system we transform.</p>
+      </div>
+      <div class="stack">
+        <div class="statement"><strong>Large ambition.<br>Safe first step.</strong><p>Start with one useful improvement that requires no migration. Prove value, learn from real use and move only when the replacement is already better.</p></div>
+        <div class="card"><span class="label">Tagline</span><h3>Software built around your company.</h3></div>
+        <div class="card"><span class="label">First offer</span><h3>Company-native CRM, handled end to end.</h3></div>
+      </div>
+    </div>
+    <span class="page-number">02</span>
+  </section>
+
+  <section class="page pad cream">
+    <div class="topline"><span class="eyebrow">THE BUYER</span><span class="small">Design from their risk, not our enthusiasm</span></div>
+    <h2>They want freedom from generic CRM. They do not want to gamble the business to get it.</h2>
+    <div class="grid-3">
+      <div class="card emotion"><span class="label">Before</span><b>Constrained</b><p>Important work happens in spreadsheets, inboxes and people’s heads because the CRM does not fit.</p></div>
+      <div class="card emotion"><span class="label">During</span><b>Safe and understood</b><p>The first move is small. The team observes real usage, speaks to power users and proves every change before migration.</p></div>
+      <div class="card emotion"><span class="label">After</span><b>In control</b><p>The system removes work, reflects the company’s own process and remains owned by the customer.</p></div>
+    </div>
+    <div class="rule"></div>
+    <div class="grid-2">
+      <div><h3>The promise must always answer</h3><div class="chips"><span class="chip">Will this disrupt us?</span><span class="chip">Can you really do it?</span><span class="chip">What happens first?</span><span class="chip">Who owns the software?</span><span class="chip">Is our data safe?</span><span class="chip">Will people actually use it?</span></div></div>
+      <div><h3>Primary audience</h3><p>B2B founders, CEOs, COOs, commercial leaders and CRM owners in companies where CRM now controls sales, delivery or service and generic tools have become a constraint.</p><p class="small"><strong>Best fit:</strong> the process is important, the pain is repeated, and leadership wants a better operating model rather than another configuration project.</p></div>
+    </div>
+    <span class="page-number">03</span>
+  </section>
+
+  <section class="page pad">
+    <p class="eyebrow">POSITIONING AND MESSAGE</p>
+    <h2>Lead with the customer’s constraint. Earn the right to explain the larger vision.</h2>
+    <div class="message-table">
+      <div class="key">Category</div><div class="value">Company-native software</div>
+      <div class="key">First offer</div><div class="value">A custom CRM designed, built, migrated and improved end to end</div>
+      <div class="key">Hero</div><div class="value">Your CRM should fit your business. Not the other way around.</div>
+      <div class="key">Tagline</div><div class="value">Software built around your company.</div>
+      <div class="key">One sentence</div><div class="value">We learn how your company really works, build the CRM you need, migrate your data and keep improving it - without disrupting your team.</div>
+      <div class="key">Why now</div><div class="value">AI-assisted development and reusable engineering patterns now make deeply adapted software practical without turning every project into a blank-sheet build.</div>
+      <div class="key">Proof</div><div class="value">10+ years in CRM and automation. More than 450 Swedish companies served through FunnelBud.</div>
+      <div class="key">First action</div><div class="value">Start a conversational CRM assessment and find one useful improvement that can be tested before migration.</div>
+    </div>
+    <span class="page-number">04</span>
+  </section>
+
+  <section class="page pad cream">
+    <p class="eyebrow">BILINGUAL CORE LANGUAGE</p>
+    <h2>Same idea, written naturally in each language.</h2>
+    <div class="bilingual">
+      <div class="language-col"><span class="label">English</span>
+        <div class="phrase"><strong>Software built around your company.</strong><span>Umbrella tagline</span></div>
+        <div class="phrase"><strong>Your CRM should fit your business. Not the other way around.</strong><span>Primary CRM headline</span></div>
+        <div class="phrase"><strong>Value now. No migration.</strong><span>V0 promise</span></div>
+        <div class="phrase"><strong>Migrate to something proven - not to hope.</strong><span>V1 risk answer</span></div>
+        <div class="phrase"><strong>You own the software. Forever.</strong><span>Ownership answer</span></div>
+        <div class="phrase"><strong>Company-native CRM</strong><span>Offer label</span></div>
+      </div>
+      <div class="language-col"><span class="label">Svenska</span>
+        <div class="phrase"><strong>Programvara byggd runt ert företag.</strong><span>Övergripande tagline</span></div>
+        <div class="phrase"><strong>Ert CRM ska passa er verksamhet. Inte tvärtom.</strong><span>Primär CRM-rubrik</span></div>
+        <div class="phrase"><strong>Värde nu. Ingen migrering.</strong><span>V0-löfte</span></div>
+        <div class="phrase"><strong>Migrera till något bevisat - inte till ett hopp.</strong><span>V1-svar på risken</span></div>
+        <div class="phrase"><strong>Ni äger programvaran. För alltid.</strong><span>Svar om ägande</span></div>
+        <div class="phrase"><strong>CRM byggt för ert företag</strong><span>Erbjudandeetikett</span></div>
+      </div>
+    </div>
+    <p class="small" style="margin-top:6mm"><strong>Language rule:</strong> Use “company-native” as the category in English when it helps. In Swedish, prefer the literal benefit unless the category itself is the subject.</p>
+    <span class="page-number">05</span>
+  </section>
+
+  <section class="page pad">
+    <p class="eyebrow">VOICE</p>
+    <h2>Ambitious about the destination. Calm and concrete about the next step.</h2>
+    <div class="voice-axis">
+      <div class="card"><span class="label">Exact, not technical</span><p>Name the real action: observe usage, remove work, build, migrate, train and improve. Explain internal methods only when they add trust.</p></div>
+      <div class="card"><span class="label">Warm, not cute</span><p>Talk like an experienced operator who understands people. Avoid playful AI language, mascots and exaggerated friendliness.</p></div>
+      <div class="card"><span class="label">Ambitious, not grandiose</span><p>State the larger belief clearly, then connect it to a safe V0 and a proven V1.</p></div>
+      <div class="card"><span class="label">Confident, not absolute</span><p>Use proof, ownership and process. Do not promise impossible timelines, perfect automation or automatic business results.</p></div>
+    </div>
+    <div class="grid-2" style="margin-top:7mm">
+      <div class="voice-example good"><strong>Say this</strong><p>We start with one useful improvement in your current setup. Your team gets value immediately while we learn how the work really happens.</p></div>
+      <div class="voice-example bad"><strong>Do not say this</strong><p>Our revolutionary autonomous AI platform transforms your entire revenue engine with seamless next-generation intelligence.</p></div>
+    </div>
+    <span class="page-number">06</span>
+  </section>
+
+  <section class="page pad dark">
+    <p class="eyebrow">THE COREMARK</p>
+    <div class="construction">
+      <div class="mark-stage"><img src="assets/logos/company-native-mark-reverse.svg" alt="Coremark"></div>
+      <div><h2>The system adapts around one distinct company core.</h2><p class="lede">The open frame is structured but not closed. It protects the company’s operating logic while leaving room for continuous change. The coral core stays specific, warm and unmistakably central.</p><div class="chips"><span class="chip">Adaptive frame</span><span class="chip">Company core</span><span class="chip">Open future</span><span class="chip">Strong at 16 px</span></div></div>
+    </div>
+    <div class="rule"></div>
+    <p class="small">The symbol is not a literal C, plug, portal or AI icon. Those readings may appear, but the controlled meaning is always “the system fits the company.” Use the lockup when the audience may not know the name.</p>
+    <span class="page-number">07</span>
+  </section>
+
+  <section class="page pad cream">
+    <p class="eyebrow">LOGO SYSTEM</p>
+    <div class="grid-2">
+      <div><div class="logo-stage"><img src="assets/logos/company-native-lockup-color.svg" alt="Color lockup"></div><p class="small" style="margin-top:3mm">Primary lockup on Warm Paper, Cream or white.</p></div>
+      <div><div class="logo-stage" style="background:var(--ink)"><img src="assets/logos/company-native-lockup-reverse.svg" alt="Reverse lockup"></div><p class="small" style="margin-top:3mm">Reverse lockup on Native Ink or dark photography.</p></div>
+    </div>
+    <div class="logo-rules" style="margin-top:7mm">
+      <div class="logo-rule"><strong>Clear space</strong><p>Keep at least one coral-core height around every side of the mark or lockup.</p></div>
+      <div class="logo-rule"><strong>Minimum size</strong><p>Mark: 16 px digital or 5 mm print. Lockup: 120 px digital or 32 mm print.</p></div>
+      <div class="logo-rule"><strong>Small spaces</strong><p>Use the dark square icon for avatars, favicons and app icons. Do not force the wordmark in.</p></div>
+      <div class="logo-rule"><strong>One color</strong><p>Use the monochrome SVG only when production cannot reproduce the core colors.</p></div>
+    </div>
+    <p class="small" style="margin-top:6mm"><strong>Never:</strong> stretch, rotate, add glow, add a gradient, recolor individual parts, put the mark in another shape, reconstruct it with text, or return to the CN monogram.</p>
+    <span class="page-number">08</span>
+  </section>
+
+  <section class="page pad">
+    <p class="eyebrow">COLOR</p>
+    <h2>Warm trust first. Signal only what matters.</h2>
+    <div class="swatches">
+      <div class="swatch"><div class="swatch-color" style="background:#102b2c"></div><div class="swatch-copy"><strong>Native Ink</strong><span>#102B2C</span><span>Primary text, dark fields</span></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#f4f1e9"></div><div class="swatch-copy"><strong>Warm Paper</strong><span>#F4F1E9</span><span>Primary background</span></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#b9f6ca"></div><div class="swatch-copy"><strong>Signal Mint</strong><span>#B9F6CA</span><span>Progress, proof, safe states</span></div></div>
+      <div class="swatch"><div class="swatch-color" style="background:#ff7048"></div><div class="swatch-copy"><strong>Core Coral</strong><span>#FF7048</span><span>Actions, emphasis, company core</span></div></div>
+    </div>
+    <div class="contrast">
+      <div style="background:#102b2c;color:#f4f1e9">Paper on Ink<br>13.25:1</div>
+      <div style="background:#b9f6ca;color:#102b2c">Ink on Mint<br>12.18:1</div>
+      <div style="background:#ff7048;color:#102b2c">Ink on Coral<br>5.46:1</div>
+      <div style="background:#fff;color:#ff7048;border:1px solid #e4d8d3">White on Coral<br>2.74:1 - do not use</div>
+    </div>
+    <div class="grid-2" style="margin-top:7mm"><p><strong>Ratio:</strong> aim for roughly 80% Paper/Cream, 15% Ink and 5% Mint/Coral. Dark sections can invert this, but coral remains rare.</p><p><strong>Accessibility:</strong> Native Ink is the default text color on Paper, Mint and Coral. White is for Ink and Deep Evergreen only.</p></div>
+    <span class="page-number">09</span>
+  </section>
+
+  <section class="page pad cream">
+    <p class="eyebrow">TYPE AND LAYOUT</p>
+    <div class="grid-2">
+      <div><span class="label">Georgia / editorial display</span><div class="type-sample display">Large ambition.<br><em class="coral">Safe first step.</em></div><p class="small" style="margin-top:5mm">Use for headlines, key statements and pull quotes. Keep line lengths short. Sentence case only.</p></div>
+      <div><span class="label">Geist Sans / operational clarity</span><div class="type-sample body"><strong>We learn how your company really works.</strong><br>Use Geist Sans for body copy, navigation, buttons, forms, tables and every system interface.</div><div class="type-sample meta" style="margin-top:9mm">Geist Mono / small system labels</div></div>
+    </div>
+    <div class="rule"></div>
+    <div class="scale-row"><span>DISPLAY</span><strong style="font-family:Georgia,serif;font-size:26pt;font-weight:500">48-78 px / 0.98-1.05 line height</strong></div>
+    <div class="scale-row"><span>SECTION</span><strong style="font-family:Georgia,serif;font-size:19pt;font-weight:500">32-56 px / 1.0-1.1 line height</strong></div>
+    <div class="scale-row"><span>BODY</span><strong style="font-size:12pt">16-20 px / 1.5-1.7 line height</strong></div>
+    <div class="scale-row"><span>LABELS</span><strong style="font-size:9pt;letter-spacing:.1em">10-12 px / 700-800 weight / tracked</strong></div>
+    <p class="small" style="margin-top:6mm"><strong>Layout:</strong> Use generous margins, visible alignment and one dominant idea per screen. Prefer bordered modules and process paths to floating cards. Do not fill empty space with decoration.</p>
+    <span class="page-number">10</span>
+  </section>
+
+  <section class="page pad">
+    <p class="eyebrow">IMAGERY, DIAGRAMS AND ICONS</p>
+    <h2>Show real work and clear systems. Never make “AI” the visual subject.</h2>
+    <div class="grid-3">
+      <div class="card imagery-rule"><span class="label">Photography</span><h3>Documentary and specific</h3><p>Show real people in their working context, natural light and honest environments. Avoid staged laptop smiles and futuristic control rooms.</p></div>
+      <div class="card imagery-rule"><span class="label">Diagrams</span><h3>Processes with a point</h3><p>Use clean paths, modules and one warm core. Every line should help explain a decision, handoff or version.</p></div>
+      <div class="card imagery-rule"><span class="label">Icons</span><h3>Simple and structural</h3><p>Use 1.5-2 px line icons with rounded joins. No mixed icon styles, 3D icons, emoji or decorative tech symbols.</p></div>
+    </div>
+    <div class="diagram" style="margin-top:8mm"><div class="path"></div><div class="node">V0</div><div class="node">V1</div><div class="node">V2</div><div class="node">NORTH</div></div>
+    <p class="small" style="margin-top:4mm"><strong>AI-generated imagery:</strong> It may illustrate an idea, but must never imply a real customer, implementation or measured result. Keep the final marketing system primarily typographic until real customer evidence is available.</p>
+    <span class="page-number">11</span>
+  </section>
+
+  <section class="page pad cream">
+    <p class="eyebrow">READY-TO-USE ASSETS</p>
+    <h2>One coherent system across the website, social profiles and founder-led outreach.</h2>
+    <div class="asset-grid">
+      <img src="assets/social/company-native-og-1200x630.png" alt="Open graph card">
+      <div class="asset-side"><img src="assets/social/linkedin-avatar-400.png" alt="Avatar"><img src="assets/social/launch-post-en-1080.png" alt="Launch post"></div>
+    </div>
+    <div class="grid-3" style="margin-top:6mm">
+      <div class="card"><span class="label">Profiles</span><p>LinkedIn and X avatars plus platform-safe banners.</p></div>
+      <div class="card"><span class="label">Share</span><p>Website open-graph card and English/Swedish launch posts.</p></div>
+      <div class="card"><span class="label">Sell</span><p>English/Swedish one-pagers, presentation cover, proposal cover and assessment cover.</p></div>
+    </div>
+    <span class="page-number">12</span>
+  </section>
+
+  <section class="page pad">
+    <p class="eyebrow">THE FIRST-10-CUSTOMER KIT</p>
+    <h2>Use the smallest asset that moves the conversation forward.</h2>
+    <div class="kit-list">
+      <div class="kit-item"><span class="n">1</span><div><strong>Cold visitor</strong><p>Website hero, safe migration story, proof and conversational assessment.</p></div></div>
+      <div class="kit-item"><span class="n">2</span><div><strong>LinkedIn discovery</strong><p>Company avatar, cover and one founder-led launch post in the reader’s language.</p></div></div>
+      <div class="kit-item"><span class="n">3</span><div><strong>Warm introduction</strong><p>Send the matching one-pager, then point to the assessment rather than attaching a long deck.</p></div></div>
+      <div class="kit-item"><span class="n">4</span><div><strong>First meeting</strong><p>Use the presentation cover and website process. Spend the meeting on their workflow, not our slides.</p></div></div>
+      <div class="kit-item"><span class="n">5</span><div><strong>Qualified opportunity</strong><p>Return the assessment in the branded assessment template with one concrete V0.</p></div></div>
+      <div class="kit-item"><span class="n">6</span><div><strong>Commercial discussion</strong><p>Use the proposal cover and repeat the V0 guarantee, ownership and safe V1 migration rule.</p></div></div>
+      <div class="kit-item"><span class="n">7</span><div><strong>Daily correspondence</strong><p>Use the lightweight HTML signature. Never turn every email into a banner ad.</p></div></div>
+      <div class="kit-item"><span class="n">8</span><div><strong>New proof</strong><p>Replace generic explanation with real outcomes as customers approve case studies.</p></div></div>
+    </div>
+    <div class="statement compact" style="margin-top:5mm"><strong>Do not overbuild marketing before evidence.</strong><p>Paid-ad systems, event collateral, merchandise, a separate CRM brand and a large image library can wait. The first 10 customers should teach us which proof, industry examples and objections deserve permanent assets.</p></div>
+    <span class="page-number">13</span>
+  </section>
+
+  <section class="page pad dark">
+    <div class="freeze">
+      <div><p class="eyebrow">FROZEN VERSION 1.0</p><h2>Keep the identity stable. Let customer evidence improve the message.</h2><p class="lede">The name, Coremark, primary colors, typography and brand architecture are frozen. Change them only when real customer behavior reveals a material problem.</p><div class="rule"></div><p><strong style="color:white">Owner:</strong> Company Native<br><strong style="color:white">Primary source:</strong> this guide and the SVG masters in the brand kit<br><strong style="color:white">Review trigger:</strong> evidence from sales conversations, assessments, customer use or accessibility - not novelty</p></div>
+      <div class="freeze-mark"><img src="assets/logos/company-native-mark-reverse.svg" alt="Coremark"></div>
+    </div>
+    <span class="page-number">14</span>
+  </section>
+</body>
+</html>

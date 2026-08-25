@@ -7,6 +7,8 @@
 
 **Social:** The Company Native LinkedIn page is live at <https://www.linkedin.com/company/companynative/>. The X account is awaiting the platform's required new-account verification.
 
+**Brand:** The Company Native identity was frozen on 2026-08-24 after six buyer-perspective rounds. The Coremark expresses a structured system adapting around one distinct company core. The complete editable kit is in `brand/`; the shareable guide is `output/pdf/company-native-brand-guide.pdf`.
+
 ## The Problem
 
 Mid-market companies are trapped between expensive, generic SaaS (HubSpot, Salesforce, Pipedrive) and the impossibility of building custom software themselves. They pay $50K-$200K/year for CRMs that sort-of fit, customize them into fragile messes, and still can't do what they actually need.
@@ -86,6 +88,12 @@ Validated through Elvy (a potential customer who confirmed the pain points but p
 
 ## What Happens Next
 
-1. Begin showing the live English and Swedish website to potential customers.
-2. Use the first assessments and customer conversations to improve qualification and the V0 offer.
-3. Use the first customers to prove and improve the observation, learning, specification, and building system.
+1. Use the frozen website, social assets and one-pagers to bring the first relevant visitors into the assessment.
+2. Use the acquisition funnel and first customer conversations to improve qualification and the V0 offer.
+3. Replace generic explanations with approved customer evidence as the first implementations create proof.
+
+## Customer acquisition tracking
+
+The private dashboard at `https://companynative.com/internal/funnel` follows anonymous visits through the assessment or direct-contact path and then through personal follow-up, a pilot proposal and a won customer. It does not use analytics cookies or retain a cross-visit visitor identity. Completed assessments and contact requests inherit the source, campaign, message and language from the link that brought the visitor.
+
+Use the dashboard's campaign-link builder for every post, ad, partner link and outreach message that should be compared. Update each lead's outcome after follow-up; that is what connects marketing activity to the goal of 10 customers. Cloudflare Web Analytics remains the broader aggregate traffic check, while this dashboard answers which sources and messages produce useful leads and customers.

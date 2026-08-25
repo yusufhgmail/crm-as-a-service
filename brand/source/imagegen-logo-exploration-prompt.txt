@@ -1,0 +1,10 @@
+Use case: logo-brand
+Asset type: logo concept exploration sheet
+Primary request: Create six original symbol-only logo directions for Company Native, a premium company that designs, builds, migrates, and continuously improves custom CRM systems that adapt around each business. The central idea is "the system fits the company": a flexible framework wrapping or aligning to a distinct protected core.
+Brand feeling: quietly ambitious, enterprise-credible, warm, precise, intelligent, modern enough that a top Silicon Valley investor would take it seriously, but never flashy or trendy.
+Style/medium: minimal flat vector-like marks, strong silhouettes, disciplined geometric construction, balanced negative space, scalable to a 16px favicon.
+Composition/framing: a clean 3-by-2 contact sheet on warm parchment, one isolated symbol in each cell, equal size and generous margins; no wordmarks or labels.
+Color palette: deep evergreen #102B2C, mint #B9F6CA, restrained coral #FF7048, warm parchment #F4F1E9. Each mark uses at most two brand colors plus the background.
+Explore: adaptive frame around a core, modular shapes finding the right fit, a single path becoming a company-specific system, subtle C or N only through negative space rather than literal letters.
+Constraints: original symbols only; no text; no initials; no gradients; no shadows; no mockups; no 3D; no watermark. Strong at small size.
+Avoid: generic AI sparkles, brains, chat bubbles, circuit boards, nodes-and-lines networks, puzzle pieces, gears, arrows, infinity symbols, shields, hexagons, leaf shapes, checkmarks, and obvious software clichés.

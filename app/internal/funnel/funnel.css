@@ -1,0 +1,71 @@
+:root { --funnel-ink: #102b2c; --funnel-muted: #637572; --funnel-line: #d9ded8; --funnel-orange: #c94622; --funnel-mint: #e8f5ea; }
+.funnel-login, .funnel-dashboard { min-height: 100vh; background: #f7f5ef; color: var(--funnel-ink); }
+.funnel-login { display: grid; place-items: center; padding: 24px; }
+.funnel-login form { width: min(100%, 420px); padding: 42px; border: 1px solid var(--funnel-line); border-radius: 14px; background: white; box-shadow: 0 24px 65px rgba(16,43,44,.1); }
+.funnel-login h1, .funnel-dashboard h1, .funnel-dashboard h2 { font-family: Georgia, 'Times New Roman', serif; font-weight: 500; letter-spacing: -.025em; }
+.funnel-login h1 { margin: 10px 0 9px; font-size: 38px; }
+.funnel-login p { color: var(--funnel-muted); line-height: 1.55; }
+.funnel-login label, .funnel-dashboard label { display: grid; gap: 7px; color: #536764; font-size: 11px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; }
+.funnel-login input, .funnel-dashboard input, .funnel-dashboard select { min-height: 44px; padding: 0 12px; border: 1px solid #cbd2cc; border-radius: 7px; background: white; color: var(--funnel-ink); font: inherit; }
+.funnel-login button, .funnel-dashboard button { min-height: 44px; border: 0; border-radius: 7px; background: var(--funnel-ink); color: white; font: inherit; font-weight: 800; cursor: pointer; }
+.funnel-login button { width: 100%; margin-top: 12px; }
+.funnel-login button:disabled, .funnel-dashboard button:disabled { cursor: default; opacity: .5; }
+.funnel-kicker, .panel-heading span, .next-move-card span { color: #4c756b; font-size: 9px; font-weight: 900; letter-spacing: .15em; }
+.funnel-error { padding: 12px 14px; border: 1px solid #e1aaa0; border-radius: 7px; background: #fff3f0; color: #9d2e1e !important; }
+.funnel-dashboard { padding: 48px max(24px, calc((100vw - 1180px) / 2)) 70px; }
+.funnel-header { display: flex; align-items: end; justify-content: space-between; gap: 28px; margin-bottom: 28px; }
+.funnel-header h1 { margin: 8px 0 0; font-size: clamp(36px, 5vw, 62px); }
+.funnel-header label { min-width: 160px; }
+.next-move-card { display: grid; grid-template-columns: 150px 1fr; gap: 28px; align-items: center; padding: 26px 28px; border-radius: 10px; background: var(--funnel-ink); color: white; }
+.next-move-card span { color: #b9f6ca; }
+.next-move-card p { margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 19px; line-height: 1.5; }
+.goal-progress { padding-right: 26px; border-right: 1px solid rgba(255,255,255,.2); }
+.goal-progress strong, .goal-progress small { display: block; }
+.goal-progress strong { font-family: Georgia, 'Times New Roman', serif; font-size: 37px; font-weight: 500; }
+.goal-progress small { margin-top: 3px; color: #b4c4c1; font-size: 9px; letter-spacing: .08em; text-transform: uppercase; }
+.next-move-card > div:last-child p { margin-top: 7px; }
+.funnel-panel { margin-top: 24px; padding: 28px; border: 1px solid var(--funnel-line); border-radius: 10px; background: rgba(255,255,255,.72); }
+.panel-heading { display: flex; justify-content: space-between; gap: 26px; align-items: end; margin-bottom: 22px; }
+.panel-heading h2 { margin: 6px 0 0; font-size: 28px; }
+.panel-heading > p { max-width: 430px; margin: 0; color: var(--funnel-muted); font-size: 12px; line-height: 1.5; text-align: right; }
+.stage-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; padding: 1px; border-radius: 8px; overflow: hidden; background: var(--funnel-line); }
+.stage-card { min-height: 142px; padding: 21px; background: white; }
+.stage-card strong, .stage-card span, .stage-card small { display: block; }
+.stage-card strong { font-family: Georgia, 'Times New Roman', serif; font-size: 36px; font-weight: 500; }
+.stage-card span { min-height: 34px; margin-top: 8px; color: #405c58; font-size: 11px; font-weight: 750; line-height: 1.4; }
+.stage-card small { margin-top: 7px; color: #87938f; font-size: 9px; }
+.table-wrap { overflow-x: auto; }
+.funnel-dashboard table { width: 100%; border-collapse: collapse; font-size: 12px; }
+.funnel-dashboard th { padding: 10px 12px; border-bottom: 1px solid #c7cec8; color: #72817e; font-size: 9px; letter-spacing: .06em; text-align: left; text-transform: uppercase; }
+.funnel-dashboard td { padding: 14px 12px; border-bottom: 1px solid #e0e4df; }
+.funnel-dashboard td strong, .funnel-dashboard td small { display: block; }
+.funnel-dashboard td small { margin-top: 4px; color: #7a8986; }
+.empty-state { margin: 0; padding: 24px; border: 1px dashed #cbd2cc; border-radius: 8px; color: var(--funnel-muted); text-align: center; }
+.campaign-fields { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; }
+.campaign-output { display: grid; grid-template-columns: 1fr 115px; gap: 10px; margin-top: 14px; }
+.campaign-output code { overflow: auto; padding: 14px; border: 1px solid #cbd2cc; border-radius: 7px; background: #f5f7f4; color: #47605d; font-size: 11px; white-space: nowrap; }
+.lead-list { display: grid; gap: 14px; }
+.lead-card { padding: 20px; border: 1px solid var(--funnel-line); border-radius: 8px; background: white; }
+.lead-summary { display: flex; justify-content: space-between; gap: 20px; }
+.lead-summary strong, .lead-summary a { display: block; }
+.lead-summary strong { font-family: Georgia, 'Times New Roman', serif; font-size: 20px; font-weight: 500; }
+.lead-summary a { margin-top: 4px; color: #4d6a65; font-size: 11px; }
+.qualification { height: fit-content; padding: 6px 9px; border-radius: 20px; background: #edf0ec; color: #556662; font-size: 9px; font-weight: 850; text-transform: uppercase; }
+.qualification-strong, .qualification-possible { background: var(--funnel-mint); color: #2d6d47; }
+.lead-card dl { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 18px 0; }
+.lead-card dt { color: #7c8a87; font-size: 8px; font-weight: 850; letter-spacing: .05em; text-transform: uppercase; }
+.lead-card dd { margin: 5px 0 0; color: #3e5955; font-size: 11px; line-height: 1.45; }
+.lead-card form { display: grid; grid-template-columns: 180px 1fr 80px; gap: 10px; align-items: end; padding-top: 16px; border-top: 1px solid #e1e5e0; }
+.funnel-dashboard-footer { margin-top: 22px; color: #7e8c89; font-size: 10px; text-align: center; }
+@media (max-width: 900px) {
+  .stage-grid { grid-template-columns: repeat(2, 1fr); }
+  .campaign-fields, .lead-card dl { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 620px) {
+  .funnel-dashboard { padding-inline: 16px; padding-top: 28px; }
+  .funnel-header, .panel-heading, .lead-summary { align-items: stretch; flex-direction: column; }
+  .panel-heading > p { text-align: left; }
+  .next-move-card { grid-template-columns: 1fr; gap: 18px; }
+  .goal-progress { padding: 0 0 17px; border-right: 0; border-bottom: 1px solid rgba(255,255,255,.2); }
+  .stage-grid, .campaign-fields, .lead-card dl, .lead-card form, .campaign-output { grid-template-columns: 1fr; }
+}

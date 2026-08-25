@@ -149,3 +149,11 @@ No material blocker remains in the main message. Cost, time, disruption, ownersh
 The first full public assessment exposed two implementation-level conversion problems that the paper reviews could not reveal. The model could repeat the email request, claim it would send an email or return an empty completion message. The consent and completion messages are now fixed bilingual product copy; AI still controls the adaptive questions, qualification and assessment itself. The live English and Swedish flow was then tested through final qualification and D1 storage, and the synthetic audit records were removed.
 
 The mobile check found no horizontal overflow, but an assessment button originally landed at the top of the explanatory section, leaving the chat below the first screen. Every assessment button now lands directly on the assistant while the supporting explanation remains visible during normal reading. No further material problem appeared in the desktop, mobile, English, Swedish, privacy, AI or storage checks.
+
+## Frozen Company Native identity - 2026-08-24
+
+The old CN monogram felt credible but generic. Six buyer-perspective rounds converged on the Coremark: an open, engineered frame adapting around one warm company core. The established evergreen, warm paper, mint and coral palette remains, now with explicit accessibility rules and a Geist/Georgia typography system. The complete brand guide, logo masters, social profile assets, English and Swedish launch posts and one-pagers, assessment and proposal covers, presentation cover and email signature live in `brand/`. The website now uses the Coremark and Native Ink on coral actions so button text meets contrast requirements.
+
+## Immediate human contact — 2026-08-24
+
+The assessment window now lets a visitor ask for a personal reply before answering the assistant's first question. The assessment remains open by default, the human-contact form does not erase any assessment progress, and a visitor can return to the assistant after sending a message. Direct contact requests store only the work email and optional note in a separate Cloudflare D1 table; the bilingual privacy page now explains that use.

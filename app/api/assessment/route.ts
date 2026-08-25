@@ -37,6 +37,7 @@ const MODEL = '@cf/openai/gpt-oss-120b' as const;
 const FALLBACK_MODEL = '@cf/zai-org/glm-4.7-flash' as const;
 const MAX_MESSAGES = 14;
 const MAX_TEXT_LENGTH = 1_200;
+const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
 
 const responseSchema = {
   type: 'object',
@@ -203,6 +204,7 @@ async function saveAssessment(
   locale: Locale,
   messages: Message[],
   result: AssessmentResponse,
+  sessionId: string | null,
 ) {
   if (!result.assessment) return;
   const id = crypto.randomUUID();
@@ -211,7 +213,8 @@ async function saveAssessment(
       id, locale, email, transcript_json, opportunity, who_benefits,
       why_before_migration, fit, company, current_crm, team_size,
       primary_pain, qualification
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+      , session_id
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `).bind(
     id,
     locale,
@@ -226,11 +229,12 @@ async function saveAssessment(
     result.facts.teamSize || null,
     result.facts.primaryPain || null,
     result.qualification,
+    sessionId,
   ).run();
 }
 
 export async function POST(request: Request) {
-  let body: { locale?: unknown; messages?: unknown; email?: unknown };
+  let body: { locale?: unknown; messages?: unknown; email?: unknown; sessionId?: unknown };
   try {
     body = await request.json();
   } catch {
@@ -239,6 +243,7 @@ export async function POST(request: Request) {
 
   const locale: Locale = body.locale === 'se' ? 'se' : 'en';
   const messages = cleanMessages(body.messages);
+  const sessionId = typeof body.sessionId === 'string' && UUID.test(body.sessionId) ? body.sessionId : null;
   if (!messages || messages.length === 0) {
     return NextResponse.json({ error: 'A conversation is required.' }, { status: 400 });
   }
@@ -273,7 +278,7 @@ export async function POST(request: Request) {
     const userAnswerCount = messages.filter((message) => message.role === 'user').length;
     const result = normalizeResult(parsed, userAnswerCount, hasEmail, locale);
     if (hasEmail) {
-      await saveAssessment(bindings, body.email, locale, messages, result);
+      await saveAssessment(bindings, body.email, locale, messages, result, sessionId);
     }
 
     return NextResponse.json(result, {

@@ -14,27 +14,27 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
   return (
     <main className="legal-page" lang={swedish ? 'sv' : 'en'}>
       <nav className="nav shell" aria-label={swedish ? 'Huvudmeny' : 'Main navigation'}>
-        <a className="brand" href={`/${locale}`}><span className="brand-mark">CN</span><span>Company Native</span></a>
+        <a className="brand" href={`/${locale}`}><span className="brand-mark" aria-hidden="true" /><span>Company Native</span></a>
         <a className="button button-small button-dark" href={`/${locale}`}>{swedish ? 'Tillbaka till startsidan' : 'Back to the website'} <span aria-hidden="true">→</span></a>
       </nav>
       <article className="legal-content shell">
         <p className="section-kicker">{swedish ? 'INTEGRITET' : 'PRIVACY'}</p>
-        <h1>{swedish ? 'Så hanterar vi uppgifter i CRM-bedömningen.' : 'How we handle information in the CRM assessment.'}</h1>
+        <h1>{swedish ? 'Så hanterar vi uppgifter i CRM-bedömningen och kontaktförfrågningar.' : 'How we handle information in the CRM assessment and contact requests.'}</h1>
         <p className="legal-lead">{swedish
-          ? 'Company Native drivs av Yusuf Young AB i Sverige. Vi samlar bara in det som behövs för att skapa, leverera och följa upp den bedömning ni ber om.'
-          : 'Company Native is operated by Yusuf Young AB in Sweden. We collect only what is needed to create, deliver and follow up on the assessment you request.'}</p>
+          ? 'Company Native drivs av Yusuf Young AB i Sverige. Vi samlar bara in det som behövs för att svara på en kontaktförfrågan eller skapa, leverera och följa upp den bedömning ni ber om.'
+          : 'Company Native is operated by Yusuf Young AB in Sweden. We collect only what is needed to reply to a contact request or create, deliver and follow up on the assessment you request.'}</p>
 
         <section>
           <h2>{swedish ? 'Det vi sparar' : 'What we store'}</h2>
           <p>{swedish
-            ? 'Vi sparar samtalet, er jobbmejl, den bedömning som skapas och grundläggande uppgifter om ert företag, ert CRM, teamets storlek och det problem ni beskriver.'
-            : 'We store the conversation, your work email, the assessment produced, and basic facts you provide about your company, CRM, team size and business problem.'}</p>
+            ? 'Om ni kontaktar oss direkt sparar vi er jobbmejl och det frivilliga meddelandet. Om ni använder bedömningen sparar vi samtalet, er jobbmejl, den bedömning som skapas och grundläggande uppgifter om ert företag, ert CRM, teamets storlek och det problem ni beskriver.'
+            : 'If you contact us directly, we store your work email and optional message. If you use the assessment, we store the conversation, your work email, the assessment produced, and basic facts you provide about your company, CRM, team size and business problem.'}</p>
         </section>
         <section>
           <h2>{swedish ? 'Varför vi använder det' : 'Why we use it'}</h2>
           <p>{swedish
-            ? 'Vi använder uppgifterna för att visa och spara bedömningen, avgöra om en första pilot verkar värdefull och följa upp när det finns en rimlig möjlighet. Att lämna uppgifterna är frivilligt och är inte samma sak som att boka ett säljsamtal.'
-            : 'We use the information to show and save the assessment, judge whether a first pilot appears useful and follow up when there is a sensible opportunity. Providing the information is voluntary and does not book a sales call.'}</p>
+            ? 'Vi använder uppgifterna för att svara personligen när ni ber oss kontakta er eller för att visa och spara bedömningen, avgöra om en första pilot verkar värdefull och följa upp när det finns en rimlig möjlighet. Att lämna uppgifterna är frivilligt och är inte samma sak som att boka ett säljsamtal.'
+            : 'We use the information to reply personally when you ask us to contact you or to show and save the assessment, judge whether a first pilot appears useful and follow up when there is a sensible opportunity. Providing the information is voluntary and does not book a sales call.'}</p>
         </section>
         <section>
           <h2>{swedish ? 'AI och lagring' : 'AI and storage'}</h2>
@@ -45,8 +45,8 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
         <section>
           <h2>{swedish ? 'Besöksstatistik' : 'Visitor analytics'}</h2>
           <p>{swedish
-            ? 'Vi använder Cloudflare Web Analytics för att se aggregerade besök, sidvisningar och hur webbplatsen fungerar. Cloudflare samlar in minsta möjliga mängd information och spårar inte enskilda personer mellan olika kunders webbplatser.'
-            : 'We use Cloudflare Web Analytics to see aggregated visits, page views and how the website performs. Cloudflare collects the minimum amount of information and does not track individual people across its customers’ websites.'}</p>
+            ? 'Vi använder Cloudflare Web Analytics för aggregerade besök och vår egen förstapartsstatistik för att se vilken länk som ledde till besöket och vilka steg i CRM-bedömningen som slutfördes. Vi sparar kampanjtaggar, hänvisande webbplats, ungefärligt land och enhetstyp, men inte IP-adress, meddelandetext eller en bestående besökaridentitet. Statistiken använder inga analyscookies och följer inte personen mellan olika webbplatser eller senare besök.'
+            : 'We use Cloudflare Web Analytics for aggregate visits and our own first-party analytics to see which link brought a visit and which CRM assessment steps were completed. We store campaign tags, the referring website, approximate country and device type, but not the IP address, message text or a persistent visitor identity. The analytics use no analytics cookies and do not follow a person across websites or later visits.'}</p>
         </section>
         <section>
           <h2>{swedish ? 'Delning och gallring' : 'Sharing and retention'}</h2>
@@ -60,7 +60,7 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
             ? 'Ni kan be att få se, rätta eller radera de uppgifter vi har om er och invända mot fortsatt uppföljning. Svara på den kommunikation ni får från oss så hjälper vi er.'
             : 'You may ask to access, correct or delete the information we hold about you and object to further follow-up. Reply to any communication you receive from us and we will help.'}</p>
         </section>
-        <p className="legal-updated">{swedish ? 'Senast uppdaterad: 24 augusti 2026.' : 'Last updated: 24 August 2026.'}</p>
+        <p className="legal-updated">{swedish ? 'Senast uppdaterad: 25 augusti 2026.' : 'Last updated: 25 August 2026.'}</p>
       </article>
     </main>
   );
