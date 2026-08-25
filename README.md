@@ -107,6 +107,14 @@ CRM As A Service is the service layer. The endgame is a **product**: Auto-CRM fr
 
 **This doesn't replace CRMaaS. It IS CRMaaS, evolved.** The service becomes the manual version of what the product does automatically.
 
+## Three Core Principles (from Magnus correspondence, Aug 25)
+
+1. **Team-level reading, not just individual.** The system reads the whole team's communications - not just one person's inbox. It builds a CRM that reflects how the team actually works together.
+
+2. **Cross-customer satisfaction learning.** The system understands which customers are satisfied and which aren't, and learns from that for future implementations. Every deployment makes the next one better. This is the flywheel: the system gets smarter about what makes a CRM work for SMEs with every new customer.
+
+3. **Emergent structure, not pre-designed.** The CRM shape is discovered from the data, not decided in advance. No templates, no pre-built schemas. The system reads your communications and figures out what YOUR CRM needs to look like. Every CRM is unique because every business is unique.
+
 ## What Happens Next
 
 1. Use the frozen website, social assets and one-pagers to bring the first relevant visitors into the assessment.
