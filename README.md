@@ -123,6 +123,14 @@ The manual builds produce the thing money can't buy: learned patterns from real 
 
 3. **Emergent structure, not pre-designed.** The CRM shape is discovered from the data, not decided in advance. No templates, no pre-built schemas. The system reads your communications and figures out what YOUR CRM needs to look like. Every CRM is unique because every business is unique.
 
+## Immediate Next Step (Aug 25, 2026)
+
+**Build 5 CRMs for people who don't have CRMs currently. Just build them. Even for free, to learn.**
+
+This is the first thing to do to get the business moving. No more planning, no more docs. Find 5 SMEs that need a CRM, build it for them manually. Free or cheap. The goal is learning, not revenue.
+
+Once we have 3-5 installations, we'll already have tons of new knowledge that will help us decide what the next best step is. The patterns, the code, the customer reactions - that's what tells us what to build next. Not more thinking.
+
 ## What Happens Next
 
 1. Use the frozen website, social assets and one-pagers to bring the first relevant visitors into the assessment.
