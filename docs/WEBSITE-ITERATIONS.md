@@ -157,3 +157,9 @@ The old CN monogram felt credible but generic. Six buyer-perspective rounds conv
 ## Immediate human contact — 2026-08-24
 
 The assessment window now lets a visitor ask for a personal reply before answering the assistant's first question. The assessment remains open by default, the human-contact form does not erase any assessment progress, and a visitor can return to the assistant after sending a message. Direct contact requests store only the work email and optional note in a separate Cloudflare D1 table; the bilingual privacy page now explains that use.
+
+## Customer acquisition feedback loop — 2026-08-25
+
+The site now records anonymous, first-party steps from the landing page through either the CRM assessment or direct human contact. Each visit keeps its source, campaign, message, language, approximate country and device type without analytics cookies, raw IP storage or a persistent identity across later visits. Completed leads retain that visit attribution.
+
+The password-protected dashboard shows where visits stop, which sources and messages produce leads, which assessment leads appear qualified, and which leads reach a conversation, pilot proposal or customer. Its campaign-link builder creates consistent tagged links, and each lead can be updated through the customer outcome so marketing can be judged against the goal of 10 customers rather than clicks alone.
