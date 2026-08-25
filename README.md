@@ -38,25 +38,33 @@ Claude Code, Cursor, Devin: they take a spec and write code. They don't know wha
 
 CRM As A Service knows what to build *before* it builds. It watches how you work, understands your actual needs, and generates the spec itself. The code generation is the easy part. Understanding the need is the hard part, and that's what we own.
 
-## Roadmap
+## Roadmap (Redesigned Aug 25, 2026)
 
-### Phase 1: Replace HubSpot/Salesforce
-- Start with CRM because Yusuf knows this domain deeply (10+ years FunnelBud expertise)
-- Clear market need: expensive, generic, painful CRMs
-- Validated pain points (from customer interviews):
-  1. Need more customization than off-the-shelf
-  2. HubSpot is too expensive
-  3. Want to own their own data
-  4. Want custom AI processes tailored to them
-  5. Value deep knowledge + creativity about process efficiency
+### Step 1: Build CRMs manually for reference customers
+Find SMEs that need a CRM (don't have one yet). Build their CRM by hand. This gives us code, patterns, and real customer satisfaction data to learn from. Revenue from day one.
 
-### Phase 2: Expand
-- Develop generic methodologies and tools from Phase 1 learnings
-- Expand to other software categories (ERP, project management, help desk)
+### Step 2: Build the self-improving system
+Take what we learned from manual builds and build a system that learns and self-improves those CRM systems. Measure customer happiness. The system gets better with each deployment.
 
-### Phase 3: General
-- "Replace any legacy software"
-- The full vision: any company, any software, custom-built and maintained
+### Step 3: Build the "Build your new CRM" button
+A website with a button that says "Build your new CRM." Click it, connect Gmail/Office, system builds the CRM on the fly. Still paired with services for the hard parts. This is "Lovable for CRM."
+
+### Step 4: Automate more and more
+Reduce the service layer over time. Fewer and fewer manual interventions needed. The product approaches full self-service.
+
+### Key Decision: New CRM, Not Migration
+Start with SMEs that need a NEW CRM, not ones migrating from an existing one. Migration is a different problem (data export, field mapping, change resistance). Greenfield SMEs have none of that friction. Migration becomes a feature later, once the engine is proven.
+
+### Long-term: Replace Any Software
+CRM is the wedge. Same as Amazon started with books. Once the engine is proven for CRM, expand to any software category. "We will migrate any software to custom AI software for your company."
+
+## Vision Websites
+
+Two websites needed:
+1. **Current vision website** - The service offering (CRM As A Service). What we do today: "We build and maintain a custom CRM for your business."
+2. **Final vision website** - The product endgame: "Click this button. Get your new CRM." A landing page where the entire product is a button. This is the dream.
+
+Vision 3 (long-term): "Replace any software, not just CRM." This is the empire phase, after CRM is proven.
 
 ## Target Customer
 
@@ -94,10 +102,7 @@ CRM As A Service is the service layer. The endgame is a **product**: Auto-CRM fr
 
 **Target audience:** SMEs that don't have a CRM yet. "Lovable for CRM" positioning.
 
-**How we get there:**
-1. **Phase 0 (now): Service layer.** CRM As A Service - manual custom CRM builds. Every build = training data. We learn what fields SMEs actually need, how email maps to CRM entities, what patterns repeat across companies.
-2. **Phase 1: Productize.** Turn the validated patterns into automated email-to-CRM generation. Start automating the repetitive parts of the manual builds.
-3. **Phase 2: One-click product.** Full auto-CRM from email. Connect Gmail/Office, get a populated, improving CRM. Talk to it to adjust anything.
+**How we get there:** See the redesigned Roadmap above (4 steps: manual builds -> self-improving system -> the button -> full automation).
 
 **Why service-first:** You earn revenue from day one while building the training data. You learn what SMEs actually need by doing it manually. Then you productize what you've validated. Same destination, but sequenced so you earn while you learn.
 
