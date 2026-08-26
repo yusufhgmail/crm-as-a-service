@@ -19,46 +19,46 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
       </nav>
       <article className="legal-content shell">
         <p className="section-kicker">{swedish ? 'INTEGRITET' : 'PRIVACY'}</p>
-        <h1>{swedish ? 'Så hanterar vi uppgifter i CRM-bedömningen och kontaktförfrågningar.' : 'How we handle information in the CRM assessment and contact requests.'}</h1>
+        <h1>{swedish ? 'Så hanteras uppgifter i CRM-bedömningen och kontaktförfrågningar.' : 'How information is handled in the CRM assessment and contact requests.'}</h1>
         <p className="legal-lead">{swedish
-          ? 'Company Native drivs av Yusuf Young AB i Sverige. Vi samlar bara in det som behövs för att svara på en kontaktförfrågan eller skapa, leverera och följa upp den bedömning ni ber om.'
-          : 'Company Native is operated by Yusuf Young AB in Sweden. We collect only what is needed to reply to a contact request or create, deliver and follow up on the assessment you request.'}</p>
+          ? 'Company Native drivs av Yusuf Young AB i Sverige. Bara det som behövs för att svara på din kontaktförfrågan eller skapa, visa och följa upp bedömningen du ber om samlas in.'
+          : 'Company Native is operated by Yusuf Young AB in Sweden. Only what is needed to reply to your contact request or create, deliver and follow up on your assessment is collected.'}</p>
 
         <section>
-          <h2>{swedish ? 'Det vi sparar' : 'What we store'}</h2>
+          <h2>{swedish ? 'Det som sparas' : 'What is stored'}</h2>
           <p>{swedish
-            ? 'Om ni kontaktar oss direkt sparar vi er jobbmejl och det frivilliga meddelandet. Om ni använder bedömningen sparar vi samtalet, er jobbmejl, den bedömning som skapas och grundläggande uppgifter om ert företag, ert CRM, teamets storlek och det problem ni beskriver.'
-            : 'If you contact us directly, we store your work email and optional message. If you use the assessment, we store the conversation, your work email, the assessment produced, and basic facts you provide about your company, CRM, team size and business problem.'}</p>
+            ? 'Om du kontaktar Company Native direkt sparas din jobbmejl och meddelandet du väljer att lämna. Om du använder bedömningen sparas samtalet, din jobbmejl, bedömningen som skapas och grundläggande uppgifter om ditt företag, ditt CRM, teamets storlek och problemet du beskriver.'
+            : 'If you contact Company Native directly, your work email and optional message are stored. If you use the assessment, the conversation, your work email, the assessment produced and the basic facts you provide about your company, CRM, team size and business problem are stored.'}</p>
         </section>
         <section>
-          <h2>{swedish ? 'Varför vi använder det' : 'Why we use it'}</h2>
+          <h2>{swedish ? 'Varför uppgifterna används' : 'Why the information is used'}</h2>
           <p>{swedish
-            ? 'Vi använder uppgifterna för att svara personligen när ni ber oss kontakta er eller för att visa och spara bedömningen, avgöra om en första pilot verkar värdefull och följa upp när det finns en rimlig möjlighet. Att lämna uppgifterna är frivilligt och är inte samma sak som att boka ett säljsamtal.'
-            : 'We use the information to reply personally when you ask us to contact you or to show and save the assessment, judge whether a first pilot appears useful and follow up when there is a sensible opportunity. Providing the information is voluntary and does not book a sales call.'}</p>
+            ? 'Uppgifterna används för att svara personligen när du ber om kontakt, visa och spara bedömningen, avgöra om en första pilot verkar värdefull och följa upp om det finns ett relevant affärsbehov. Det är frivilligt att lämna uppgifterna och det bokar inte ett säljsamtal.'
+            : 'The information is used to reply personally when you ask for contact, show and save the assessment, judge whether a first pilot appears useful and follow up when there is a sensible opportunity. Providing the information is voluntary and does not book a sales call.'}</p>
         </section>
         <section>
           <h2>{swedish ? 'AI och lagring' : 'AI and storage'}</h2>
           <p>{swedish
-            ? 'Svaren behandlas av en AI-modell som körs genom vår Cloudflare-miljö och resultatet lagras i vår Cloudflare-databas. Använd inte bedömningen för känsliga kunduppgifter, personnummer, hälsodata, inloggningsuppgifter eller konfidentiella affärsdetaljer.'
-            : 'Answers are processed by an AI model through our Cloudflare environment and the result is stored in our Cloudflare database. Do not use the assessment for sensitive customer data, government identifiers, health data, credentials or confidential deal details.'}</p>
+            ? 'Svaren behandlas av en AI-modell genom Company Natives Cloudflare-miljö och resultatet lagras i Company Natives Cloudflare-databas. Använd inte bedömningen för känsliga kunduppgifter, personnummer, hälsodata, inloggningsuppgifter eller konfidentiella affärsdetaljer.'
+            : 'Answers are processed by an AI model through the Company Native Cloudflare environment and the result is stored in the Company Native Cloudflare database. Do not use the assessment for sensitive customer data, government identifiers, health data, credentials or confidential deal details.'}</p>
         </section>
         <section>
           <h2>{swedish ? 'Besöksstatistik' : 'Visitor analytics'}</h2>
           <p>{swedish
-            ? 'Vi använder Cloudflare Web Analytics för aggregerade besök och vår egen förstapartsstatistik för att se vilken länk som ledde till besöket och vilka steg i CRM-bedömningen som slutfördes. Vi sparar kampanjtaggar, hänvisande webbplats, ungefärligt land och enhetstyp, men inte IP-adress, meddelandetext eller en bestående besökaridentitet. Statistiken använder inga analyscookies och följer inte personen mellan olika webbplatser eller senare besök.'
-            : 'We use Cloudflare Web Analytics for aggregate visits and our own first-party analytics to see which link brought a visit and which CRM assessment steps were completed. We store campaign tags, the referring website, approximate country and device type, but not the IP address, message text or a persistent visitor identity. The analytics use no analytics cookies and do not follow a person across websites or later visits.'}</p>
+            ? 'Company Native använder Cloudflare Web Analytics för samlad besöksstatistik och egen statistik för att se vilken länk som ledde till besöket och vilka steg i CRM-bedömningen som slutfördes. Kampanjtaggar, webbplatsen som skickade dig hit, ungefärligt land och enhetstyp sparas, men inte IP-adress, meddelandetext eller en bestående besökaridentitet. Statistiken använder inga analyscookies och följer inte dig mellan olika webbplatser eller senare besök.'
+            : 'Company Native uses Cloudflare Web Analytics for aggregate visits and first-party analytics to see which link brought a visit and which CRM assessment steps were completed. Campaign tags, the referring website, approximate country and device type are stored, but not the IP address, message text or a persistent visitor identity. The analytics use no analytics cookies and do not follow you across websites or later visits.'}</p>
         </section>
         <section>
-          <h2>{swedish ? 'Delning och gallring' : 'Sharing and retention'}</h2>
+          <h2>{swedish ? 'Delning och lagringstid' : 'Sharing and retention'}</h2>
           <p>{swedish
-            ? 'Vi säljer inte uppgifterna och delar dem inte med andra kunder. Endast personer och leverantörer som behövs för att driva tjänsten får behandla dem. Vi behåller dem så länge de behövs för bedömningen och en rimlig affärsuppföljning, och raderar eller anonymiserar därefter.'
-            : 'We do not sell the information or share it with other customers. Only people and service providers needed to operate the service may process it. We retain it for the assessment and reasonable business follow-up, then delete or anonymise it.'}</p>
+            ? 'Uppgifterna säljs inte och delas inte med andra kunder. Endast personer och leverantörer som behövs för att driva tjänsten får behandla dem. De behålls så länge de behövs för bedömningen och en rimlig affärsuppföljning, och raderas eller anonymiseras därefter.'
+            : 'The information is not sold or shared with other customers. Only people and service providers needed to operate the service may process it. It is retained for the assessment and reasonable business follow-up, then deleted or anonymised.'}</p>
         </section>
         <section>
-          <h2>{swedish ? 'Era rättigheter' : 'Your rights'}</h2>
+          <h2>{swedish ? 'Dina rättigheter' : 'Your rights'}</h2>
           <p>{swedish
-            ? 'Ni kan be att få se, rätta eller radera de uppgifter vi har om er och invända mot fortsatt uppföljning. Svara på den kommunikation ni får från oss så hjälper vi er.'
-            : 'You may ask to access, correct or delete the information we hold about you and object to further follow-up. Reply to any communication you receive from us and we will help.'}</p>
+            ? 'Du kan be att få se, rätta eller radera de uppgifter Company Native har om dig och invända mot fortsatt uppföljning. Svara på den kommunikation du får så hjälper Company Native dig.'
+            : 'You may ask to access, correct or delete the information Company Native holds about you and object to further follow-up. Reply to any communication you receive and Company Native will help.'}</p>
         </section>
         <p className="legal-updated">{swedish ? 'Senast uppdaterad: 25 augusti 2026.' : 'Last updated: 25 August 2026.'}</p>
       </article>

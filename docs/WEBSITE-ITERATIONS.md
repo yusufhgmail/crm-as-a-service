@@ -163,3 +163,13 @@ The assessment window now lets a visitor ask for a personal reply before answeri
 The site now records anonymous, first-party steps from the landing page through either the CRM assessment or direct human contact. Each visit keeps its source, campaign, message, language, approximate country and device type without analytics cookies, raw IP storage or a persistent identity across later visits. Completed leads retain that visit attribution.
 
 The password-protected dashboard shows where visits stop, which sources and messages produce leads, which assessment leads appear qualified, and which leads reach a conversation, pilot proposal or customer. Its campaign-link builder creates consistent tagged links, and each lead can be updated through the customer outcome so marketing can be judged against the goal of 10 customers rather than clicks alone.
+
+## Marina feedback pass without a strategy change — 2026-08-26
+
+Yusuf explicitly kept the current website strategy: Company Native is for founders, CEOs and sales leaders at B2B SMEs whose established CRM has become central but no longer fits important work. The page still leads to a small no-migration pilot, then a safe replacement of the current CRM. This pass does not retarget the site toward companies without a CRM.
+
+Marina's clear copy improvements were applied within that strategy. The Swedish page now addresses the decision-maker as `du/ditt` instead of `ni/ert`, and both languages lead more often with the buyer's situation instead of Company Native's actions. A new early section creates recognition through Excel beside the CRM, accumulated custom fields, special reports and manual handoffs between teams. The best-fit line now names founders, CEOs and sales leaders directly.
+
+The ownership and learning advantage is also clearer: the customer owns the CRM, code and data, while reusable engineering patterns can improve later implementations without customer data or code being shared with AI labs or other customers. The assessment now listens for the same concrete signs but may use only problems the visitor actually confirms. These changes remain a stronger pre-customer hypothesis, not proof that the market will convert.
+
+A follow-up Swedish-language review replaced literal translations and unnecessary business jargon without changing the message. Examples include `CRM-förflyttning` to `CRM-migrering`, `Passform` to `Hur väl det passar`, `leadformulär` to `kontaktformulär`, `enterprisearbete` to `särskilt känsliga miljöer`, and several passive or English-influenced sentences with ordinary Swedish.
