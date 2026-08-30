@@ -61,7 +61,7 @@ export default function Home() {
           <div className="action-rings" aria-hidden="true"><i /><i /><i /></div>
           <p>One day, this is the whole setup.</p>
           <BuildDemo />
-          <small>The demo uses fictional data. The product is not yet available.</small>
+          <small>Uses fictional data. Nothing connects or uploads.</small>
         </div>
       </section>
 
@@ -168,7 +168,7 @@ export default function Home() {
 
       <footer className="site-footer shell">
         <a className="brand footer-brand" href="#top"><Image src="/company-native-mark.svg" width={34} height={34} alt="" /><span>Company Native</span></a>
-        <p>Final product vision · In development · No customer data is collected by this concept.</p>
+        <p>Final product vision · No customer data is collected by this concept.</p>
         <div><a href="#top">Back to top ↑</a><Link href="/investors">Investor vision</Link></div>
       </footer>
     </main>

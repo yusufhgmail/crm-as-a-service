@@ -107,6 +107,21 @@ The selected customer journey uses direction 2 with the literal button experienc
 
 No real customer has shown that the product's core inference and learning loop works. The concept therefore demonstrates the intended experience with clearly fictional data and keeps the unproven claims visible on the investor route. Real visitor and customer behavior must replace these internal reviews later.
 
+## Review and iteration record
+
+These are internal cold reviews, not customer feedback or conversion evidence.
+
+1. **Cold customer comprehension:** The first version explained the product but did not say soon enough that it is for small companies without a CRM. The opening paragraph and page description now state that audience directly. The rejected alternative was a longer status pill, which overflowed on a 390-pixel screen.
+2. **Action and accessibility:** The first finished-CRM mockup included controls that looked clickable but had no behavior, and the modal restored focus during phase changes. Decorative navigation and the suggestion label are now non-interactive. The modal traps keyboard focus, closes with Escape and returns focus to the button that opened it.
+3. **Responsive trust copy:** Opening the demo from the lower call to action inherited a dark-section paragraph color, making the sample-data boundary too faint. The dark style is now scoped only to the call-to-action copy. Both demo entry points show the same readable disclosure.
+4. **Fresh challenge pass:** The customer route now makes the audience, outcome, difference, ownership, unproven status and sample action clear. The investor route separates the thesis, proprietary learning assets, economics, roadmap and failure test. The remaining alternative changes are matters of visual or wording preference rather than a known material visitor problem.
+
 ## Verification record
 
-Pending implementation and rendered review.
+- `npm run lint` passed.
+- `npm run build` passed with all routes statically generated.
+- The customer and investor routes were rendered at 1440×900, 1280×633 and 390×844. Neither route produced horizontal overflow, a framework error overlay or a browser error.
+- The complete sample journey passed: open the demo, choose fictional Gmail or Microsoft 365 history, reach the populated fictional CRM, rebuild it, close with Escape and return focus to the launch button.
+- The same demo passed from the hero and the lower call to action. Its reduced-motion path also reached the finished CRM.
+- The power-user example produced a reviewable improvement and the dismissal path remained available.
+- The concept remains local and unpublished. It collects no personal data and does not alter the current website.
