@@ -201,7 +201,7 @@ p, h1, h2, h3 { margin-top: 0; }
 .final-cta { padding-block: 95px; background: var(--ink); color: var(--paper); }
 .final-cta-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 90px; align-items: center; }
 .final-cta h2 { margin-bottom: 22px; }
-.final-cta p { color: #b4c8c3; line-height: 1.65; }
+.final-cta-grid > div:first-child > p { color: #b4c8c3; line-height: 1.65; }
 .final-cta-grid > div:last-child { display: grid; justify-items: end; gap: 20px; }
 .investor-link { color: var(--mint); border-bottom: 1px solid var(--mint); padding-bottom: 4px; font-size: 12px; font-weight: 750; }
 .site-footer,
