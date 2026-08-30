@@ -16,26 +16,48 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
   const [buildStep, setBuildStep] = useState(0);
   const closeButton = useRef<HTMLButtonElement>(null);
   const launchButton = useRef<HTMLButtonElement>(null);
+  const dialog = useRef<HTMLElement>(null);
+  const isOpen = phase !== 'closed';
 
   useEffect(() => {
-    if (phase === 'closed') return;
+    if (!isOpen) return;
 
     const previousOverflow = document.body.style.overflow;
     const returnFocusTarget = launchButton.current;
     document.body.style.overflow = 'hidden';
     closeButton.current?.focus();
 
-    function closeOnEscape(event: KeyboardEvent) {
-      if (event.key === 'Escape') setPhase('closed');
+    function keepFocusInDialog(event: KeyboardEvent) {
+      if (event.key === 'Escape') {
+        setPhase('closed');
+        return;
+      }
+
+      if (event.key !== 'Tab' || !dialog.current) return;
+
+      const focusable = Array.from(dialog.current.querySelectorAll<HTMLElement>(
+        'button:not([disabled]), a[href], [tabindex]:not([tabindex="-1"])',
+      ));
+      const first = focusable[0];
+      const last = focusable.at(-1);
+
+      if (!first || !last) return;
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
     }
 
-    window.addEventListener('keydown', closeOnEscape);
+    window.addEventListener('keydown', keepFocusInDialog);
     return () => {
       document.body.style.overflow = previousOverflow;
-      window.removeEventListener('keydown', closeOnEscape);
+      window.removeEventListener('keydown', keepFocusInDialog);
       returnFocusTarget?.focus();
     };
-  }, [phase]);
+  }, [isOpen]);
 
   useEffect(() => {
     if (phase !== 'building') return;
@@ -75,11 +97,11 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
         <span className="build-button-arrow" aria-hidden="true">↗</span>
       </button>
 
-      {phase !== 'closed' && (
+      {isOpen && (
         <div className="demo-overlay" role="presentation" onMouseDown={(event) => {
           if (event.target === event.currentTarget) closeDemo();
         }}>
-          <section className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="demo-title" aria-describedby="demo-note">
+          <section ref={dialog} className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="demo-title" aria-describedby="demo-note">
             <header className="demo-topbar">
               <div className="demo-brand"><span className="mini-coremark" aria-hidden="true"><i /></span><div><strong>Company Native</strong><small>CRM builder concept</small></div></div>
               <p id="demo-note">Fictional sample data · nothing connects or uploads</p>
@@ -122,7 +144,7 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
               <div className="demo-ready">
                 <aside className="crm-sidebar">
                   <div className="crm-workspace"><span>LF</span><div><strong>Lumen Field Services</strong><small>Fictional demo</small></div></div>
-                  <nav aria-label="Demo CRM sections"><button className="active" type="button">Overview</button><button type="button">Customers <span>28</span></button><button type="button">Opportunities <span>7</span></button><button type="button">Site access <span>4</span></button><button type="button">Delivery</button></nav>
+                  <nav aria-label="Demo CRM sections"><span className="active" aria-current="page">Overview</span><span>Customers <i>28</i></span><span>Opportunities <i>7</i></span><span>Site access <i>4</i></span><span>Delivery</span></nav>
                   <div className="crm-ai-status"><span /><div><strong>Company Native is learning</strong><small>3 ideas ready for review</small></div></div>
                 </aside>
                 <div className="crm-main">
@@ -145,7 +167,7 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
                       <span className="insight-label">WHY THE WORK HAPPENS</span>
                       <h3>A step your old spreadsheet missed.</h3>
                       <p>Your sample team consistently confirms site access before scheduling. Company Native created that stage and connected it to delivery.</p>
-                      <div><span>Suggested improvement</span><strong>Ask for access details automatically when an opportunity becomes likely.</strong><button type="button">Review suggestion <span aria-hidden="true">→</span></button></div>
+                      <div><span>Suggested improvement</span><strong>Ask for access details automatically when an opportunity becomes likely.</strong><small className="suggestion-link">Ready for review <span aria-hidden="true">→</span></small></div>
                     </aside>
                   </div>
                 </div>

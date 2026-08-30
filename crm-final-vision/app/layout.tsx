@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://companynative.com'),
   title: {
     default: 'Company Native — Your company already contains its CRM',
     template: '%s · Company Native',

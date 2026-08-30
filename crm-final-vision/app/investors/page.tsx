@@ -43,7 +43,7 @@ export default function InvestorPage() {
         <Link className="investor-customer-link" href="/">Customer vision <span aria-hidden="true">↗</span></Link>
       </header>
 
-      <section className="investor-hero shell">
+      <section className="investor-hero shell" id="top">
         <div className="investor-hero-copy">
           <p className="status-pill dark"><span /> Investor vision · Pre-customer thesis</p>
           <h1>Every CRM should teach Company Native how to build the next one.</h1>
