@@ -53,7 +53,7 @@ export default function Home() {
         <div className="hero-copy">
           <p className="status-pill"><span /> Final product vision · In development</p>
           <h1>Your company already contains the CRM it needs.</h1>
-          <p className="hero-lede">Connect your team’s email. Company Native discovers how your customer relationships work, then builds and fills a CRM around them.</p>
+          <p className="hero-lede">If your small company does not have a CRM, connect your team’s email. Company Native discovers how your customer relationships work, then builds and fills one around them.</p>
           <div className="hero-proofline"><span>No blank database</span><span>No template to bend</span><span>No CRM admin required</span></div>
           <a className="text-link" href="#builds">See how the company becomes the template <span aria-hidden="true">↓</span></a>
         </div>

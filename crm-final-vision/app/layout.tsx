@@ -17,10 +17,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL('https://companynative.com'),
   title: {
-    default: 'Company Native — Your company already contains its CRM',
+    default: 'Company Native — A custom CRM for companies without one',
     template: '%s · Company Native',
   },
-  description: 'Connect your team’s email. Company Native discovers how your customer relationships work, then builds and fills a CRM around them.',
+  description: 'For small companies without a CRM: connect approved team email and receive a populated CRM built around how the company works.',
   robots: { index: false, follow: false },
   openGraph: {
     title: 'Company Native — Build the CRM already hiding inside your company',
