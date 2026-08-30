@@ -120,6 +120,7 @@ These are internal cold reviews, not customer feedback or conversion evidence.
 
 - `npm run lint` passed.
 - `npm run build` passed with all routes statically generated.
+- The exported production build served successfully. Both routes loaded without the development toolbar, and the complete CRM demo reached its finished state there as well.
 - The customer and investor routes were rendered at 1440×900, 1280×633 and 390×844. Neither route produced horizontal overflow, a framework error overlay or a browser error.
 - The complete sample journey passed: open the demo, choose fictional Gmail or Microsoft 365 history, reach the populated fictional CRM, rebuild it, close with Escape and return focus to the launch button.
 - The same demo passed from the hero and the lower call to action. Its reduced-motion path also reached the finished CRM.
