@@ -1,5 +1,7 @@
 # Company Native
 
+**Current strategy:** [`docs/STRATEGY.md`](docs/STRATEGY.md) defines the greenfield CRM vision, the umbrella learning system, the competitive advantages and how every installation must make the product better.
+
 **Created:** 2026-08-22 by Yusuf Young
 **Status:** `companynative.com` was registered and launched on 2026-08-24. The buyer-reviewed website is live in English at <https://companynative.com/en> and Swedish at <https://companynative.com/se>. The conversational assessment runs on Cloudflare Workers AI and qualified leads are stored in Cloudflare D1.
 
