@@ -75,9 +75,11 @@ Two websites needed:
 1. **Current vision website** - The service offering (CRM As A Service). What we do today: "We build and maintain a custom CRM for your business."
 2. **Final vision website** - The product endgame: "Click this button. Get your new CRM." A landing page where the entire product is a button. This is the dream.
 
-**Note (Aug 25): "Replace any software" is a DIFFERENT idea, not an expansion of this one.** Auto-CRM reads customer communications and builds a CRM. Replace-any-software reads how you use existing software and migrates you. Different input, different engine, different problem. CRM is not a wedge to something bigger. It is the complete vision.
+**"Replace any software" is a separate business, not an expansion of this one.** Auto-CRM reads customer communications and builds a CRM from scratch. Replace-any-software reads how you use existing software and migrates you. Different input, different engine, different process. CRM is not a wedge to something bigger. It is the complete vision for this business.
 
-The replace-any-software vision site moved to the separate `custom-software-migration` repository on 2026-08-30. This repository now contains only the Company Native business and its CRM vision.
+The migration vision site has moved to the separate [`custom-software-migration`](https://github.com/yusufhgmail/custom-software-migration) repository (2026-08-30). This repository now contains only the Company Native business and its CRM vision.
+
+Both businesses share a sovereignty philosophy under Yusuf Young AB but are separate companies with separate repeatable processes. See the [business mapping sheet](https://docs.google.com/spreadsheets/d/1WVK9dE5k97xTOSGAnvhvRBfWYj6x7TziDx1QpUzmml4/edit) for the full comparison.
 
 ## Target Customer
 
