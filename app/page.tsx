@@ -449,7 +449,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           )}</p>
           <div className="hero-actions">
             <a className="button button-primary" href="#assessment-chat" data-funnel-location="hero">{t('Plan my first CRM', 'Planera mitt första CRM')} <Arrow /></a>
-            <a className="text-link" href="#process">{t('See how we build it', 'Se hur vi bygger det')} <Arrow /></a>
+            <a className="text-link" href="#migration">{t('Replace my current CRM', 'Byt ut mitt nuvarande CRM')} <Arrow /></a>
           </div>
           <p className="hero-promise"><span>✓</span> {t(
             'We are starting with about five paid, hands-on CRM builds. You get a working system; your use and feedback help shape what comes next.',
@@ -570,7 +570,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
             </article>
           ))}
         </div>
-        <div className="mid-cta migration-cta">
+        <div className="mid-cta migration-cta" id="migration">
           <div><small>{t('ALREADY HAVE A CRM?', 'HAR DU REDAN ETT CRM?')}</small><strong>{t('You can still start here.', 'Du kan fortfarande börja här.')}</strong><p>{t('CRM From Within can build the simpler replacement first, then provide paid data migration and customization when you are ready.', 'CRM From Within kan bygga den enklare ersättaren först och sedan erbjuda betald datamigrering och anpassning när du är redo.')}</p></div>
           <a className="button button-dark" href="#assessment-chat" data-funnel-location="existing_crm">{t('Tell us what you want to leave', 'Berätta vad du vill lämna')} <Arrow /></a>
         </div>

@@ -3,7 +3,7 @@ import { Site } from '../page';
 
 export const metadata: Metadata = {
   title: 'CRM From Within — Ditt första CRM, byggt runt hur du arbetar',
-  description: 'Gör kalkylblad, inkorgar och minne till ett CRM byggt runt hur företaget redan arbetar.',
+  description: 'Få ett CRM byggt runt hur ditt företag arbetar—som ditt första system eller som en ersättare. Hjälp med datamigrering finns som betald tjänst.',
   alternates: {
     canonical: '/se',
     languages: { en: '/en', sv: '/se' },

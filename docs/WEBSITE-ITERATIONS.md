@@ -61,6 +61,12 @@ Completed on 2026-08-30.
 
 The remaining entries preserve decisions and audits from earlier migration-first versions and the former Company Native CRM identity. They are history, not the current CRM From Within strategy; the 2026-08-30 reset, brand transition above and `docs/STRATEGY.md` govern the current site.
 
+## First-CRM focus with an immediate replacement path — 2026-08-30
+
+`CRM From Within` is the business brand. “Your first CRM, built around how you work” remains the main homepage promise because it names the priority customer and is more useful than the generic “a CRM.” It is not the limit of the business. A company leaving an existing CRM needs a different promise: a better-fit replacement and help moving its data.
+
+The existing migration offer appeared later on the page and in Q&A, so a replacement buyer could miss it before deciding the site was not for them. The second action in the first screen now says **Replace my current CRM** and leads to the secondary replacement-and-migration offer. Search descriptions also name both starting points. The first-CRM headline and primary action remain unchanged, so the secondary route becomes visible without taking over the main pitch.
+
 ## Final naming decision — Company Native
 
 Yusuf replaced the descriptive working name `CRM That Fits` with **Company Native** on 2026-08-24. The new name supports the venture-scale thesis beyond CRM: the future is company-native software, and CRM is the first customer-facing system we migrate. `companynative.com` was registered through Cloudflare for $10.46 for the first year, renewing at $10.46 per year. Yusuf later confirmed that keeping the registration and hosting on Cloudflare is fine.
