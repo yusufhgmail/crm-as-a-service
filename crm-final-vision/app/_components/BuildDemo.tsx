@@ -21,6 +21,7 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
     if (phase === 'closed') return;
 
     const previousOverflow = document.body.style.overflow;
+    const returnFocusTarget = launchButton.current;
     document.body.style.overflow = 'hidden';
     closeButton.current?.focus();
 
@@ -32,7 +33,7 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
     return () => {
       document.body.style.overflow = previousOverflow;
       window.removeEventListener('keydown', closeOnEscape);
-      launchButton.current?.focus();
+      returnFocusTarget?.focus();
     };
   }, [phase]);
 
