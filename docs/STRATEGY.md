@@ -2,7 +2,7 @@
 
 **Updated:** 2026-08-30
 
-CRM From Within's first market is SMEs that do not have a CRM. CRM migration is a secondary service for companies that want to move into a CRM From Within CRM. The long-term product should become good at both creating a new CRM and moving a company out of an existing one.
+CRM From Within's first market is SMEs that do not have a CRM. CRM migration is a secondary service for companies that want to move into a CRM built by CRM From Within. The long-term product should become good at both creating a new CRM and moving a company out of an existing one.
 
 ## The business now
 
@@ -10,7 +10,7 @@ CRM From Within starts as a paid, hands-on CRM service for approximately five re
 
 The first builds are both customer work and product research. Each one must create revenue, reusable code and patterns, and evidence about what customers actually use and value. Three to five installations can reveal the first patterns; they cannot by themselves prove that the pattern transfers to the wider market.
 
-Companies that already have a CRM are the secondary audience. CRM From Within can build the simpler replacement first, then provide paid data migration and customization. CRM migration belongs here because the destination is still a CRM From Within CRM. Migrating other kinds of software remains a separate business.
+Companies that already have a CRM are the secondary audience. CRM From Within can build the simpler replacement first, then provide paid data migration and customization. CRM migration belongs here because the destination is still a CRM built by CRM From Within. Migrating other kinds of software remains a separate business.
 
 ## The product this becomes
 

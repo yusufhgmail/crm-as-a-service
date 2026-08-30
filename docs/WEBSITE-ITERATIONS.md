@@ -8,6 +8,10 @@ CRM From Within builds an SME's first CRM around how that company already works.
 
 Yusuf approved moving **Company Native** to the separate software-migration business and renaming this CRM business **CRM From Within**. The repository now contains the new name, domain metadata, redirects, website mark and social card. At the final repository check, `crmfromwithin.com` did not yet resolve, `companynative.com` still served the earlier CRM site and the migration site's temporary host still showed Runs Like Us. The public move therefore remains incomplete even though the source is prepared.
 
+Three brand treatments were compared. A literal nested-box or C/F/W symbol made “within” obvious but looked generic and weakened at favicon size. A wordmark-only identity felt direct but lost the recognisable product mark. The selected direction keeps the existing Coremark, palette and typography and gives them a clearer meaning: the coral core is the company’s own work, the open frame is the CRM built around it and the opening allows the system to keep changing. The hands-on service and final self-builder vision now use one CRM From Within identity.
+
+The rendered brand pass checked the main English desktop route, Swedish mobile route, vision customer route, investor route and interactive sample-data builder. Both sites show the complete name in the header and footer, use the renamed mark and metadata, and contain no old public Company Native reference. One broken vision-header mark was found: Next’s image optimizer rejected the renamed SVG. The SVG marks now load directly. Fresh cold review and challenge review found no further material brand, comprehension or action problem; the longer name was removed from the investor headline where it weakened rather than strengthened the message.
+
 ## Website direction reset — 2026-08-30
 
 ### Objective and critical action

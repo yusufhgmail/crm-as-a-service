@@ -36,7 +36,7 @@ export default function InvestorPage() {
     <main className="investor-page">
       <header className="investor-header shell">
         <Link className="brand brand-reverse" href="/" aria-label="CRM From Within customer vision">
-          <Image src="/crm-from-within-mark-reverse.svg" width={38} height={38} alt="" priority unoptimized />
+          <Image src="/crm-from-within-mark-reverse.svg" width={38} height={38} alt="" preload unoptimized />
           <span>CRM From Within</span>
         </Link>
         <nav aria-label="Investor navigation"><a href="#system">The system</a><a href="#flywheel">The flywheel</a><a href="#roadmap">Roadmap</a><a href="#proof">What must be proven</a></nav>

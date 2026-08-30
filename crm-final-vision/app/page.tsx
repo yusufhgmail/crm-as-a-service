@@ -30,7 +30,7 @@ function Header() {
   return (
     <header className="site-header shell">
       <a className="brand" href="#top" aria-label="CRM From Within final vision home">
-        <Image src="/crm-from-within-mark.svg" width={38} height={38} alt="" priority unoptimized />
+        <Image src="/crm-from-within-mark.svg" width={38} height={38} alt="" preload unoptimized />
         <span>CRM From Within</span>
       </a>
       <nav aria-label="Main navigation">

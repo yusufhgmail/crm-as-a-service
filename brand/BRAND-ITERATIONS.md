@@ -86,7 +86,7 @@ The brand must make the ambition feel large and the first step feel safe. It sho
 
 **Material improvement check:** Another visual motif would add novelty, not clarity, trust or usefulness. More colors or decorative elements would make the brand less disciplined. A CRM-specific product name would weaken the Company Native category thesis. No material improvement remains.
 
-## Frozen decision
+## Historical frozen decision — superseded on 2026-08-30
 
 - **Company:** Company Native
 - **Category thesis:** Company-native software
@@ -98,4 +98,4 @@ The brand must make the ambition feel large and the first step feel safe. It sho
 - **Typography:** Georgia for editorial headlines; Geist Sans for everything operational; Geist Mono for small system labels
 - **Brand architecture:** One Company Native brand. CRM remains the first offer on the main website.
 
-This foundation is frozen until real customer behavior exposes a material problem. Preference alone is not enough reason to change it.
+This record explains the origin of the visual system. Its Company Native name, category and migration-first offer are superseded by the current CRM From Within decision above.

@@ -23,7 +23,7 @@ The primary customer is an SME without a CRM, using spreadsheets, inboxes, chat 
 
 ## Business boundaries
 
-CRM migration is a secondary CRM From Within service because it helps customers move into a CRM From Within CRM. **Company Native** remains the separate business for replacing other kinds of generic software, in [`custom-software-migration`](https://github.com/yusufhgmail/custom-software-migration). Works Like Us remains the separate company-model business.
+CRM migration is a secondary CRM From Within service because it helps customers move into a CRM built by CRM From Within. **Company Native** remains the separate business for replacing other kinds of generic software, in [`custom-software-migration`](https://github.com/yusufhgmail/custom-software-migration). Works Like Us remains the separate company-model business.
 
 ## Public website
 
@@ -33,6 +33,6 @@ The conversational assistant runs on Cloudflare Workers AI. Qualified leads are 
 
 ## Brand and infrastructure
 
-CRM From Within is the company and category name; CRM is the first and complete product focus. The current editable brand kit is in `brand/`, the shareable guide is `output/pdf/crm-from-within-brand-guide.pdf`, and the website-ready mark and social card are in `public/`. Older Company Native source files remain in the brand folders as historical material.
+CRM From Within is the company and product brand; CRM is the complete focus of this business. The current editable brand kit is in `brand/`, the shareable guide is `output/pdf/crm-from-within-brand-guide.pdf`, and the website-ready mark and social card are in `public/`. Older Company Native source files remain in the brand folders as historical material.
 
 The site uses Next.js through Vinext and deploys to Cloudflare Workers with `crmfromwithin.com` as the canonical domain. `crmfromwithin.ai` redirects to the `.com`. The Worker keeps its existing internal service name so its dashboard secret and production history remain intact.

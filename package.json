@@ -6,6 +6,8 @@
     "node": ">=22.13.0"
   },
   "scripts": {
+    "brand:assets": "node scripts/generate-brand-assets.mjs",
+    "brand:guide": "node scripts/render-brand-guide.mjs",
     "dev": "vinext dev",
     "build": "vinext build",
     "deploy": "npm run build && wrangler deploy",

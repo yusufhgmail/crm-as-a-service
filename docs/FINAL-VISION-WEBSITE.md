@@ -10,6 +10,10 @@ The customer website must make the end product understandable: connect approved 
 
 The investor route must explain why the system can compound across installations, how customer information stays separate, what the service-first roadmap creates and what remains unproven.
 
+## Brand update — 30 August 2026
+
+The customer and investor routes use the same **CRM From Within** identity as the main service site. The Coremark is retained because its open frame around a warm inner core now carries the name literally: the customer’s work sits at the center and the CRM forms around it. The vision site uses the same name, mark, palette and type system; it is a product-endgame presentation, not a second brand.
+
 ## Truth inventory
 
 ### Verified project facts
