@@ -269,7 +269,7 @@ export default function FunnelDashboard() {
             <div className="lead-summary"><div><strong>{lead.company || lead.email}</strong><a href={`mailto:${lead.email}`}>{lead.email}</a></div><span className={`qualification qualification-${lead.qualification}`}>{lead.lead_type === 'contact' ? 'direct contact' : lead.qualification}</span></div>
             <dl>
               <div><dt>Source</dt><dd>{lead.source || 'Unattributed'}{lead.campaign ? ` · ${lead.campaign}` : ''}</dd></div>
-              <div><dt>CRM</dt><dd>{lead.current_crm || 'Unknown'}</dd></div>
+              <div><dt>Current setup</dt><dd>{lead.current_crm || 'Unknown'}</dd></div>
               <div><dt>Team</dt><dd>{lead.team_size || 'Unknown'}</dd></div>
               <div><dt>{lead.lead_type === 'contact' ? 'Message' : 'Main pain'}</dt><dd>{lead.primary_pain || 'Not captured'}</dd></div>
             </dl>

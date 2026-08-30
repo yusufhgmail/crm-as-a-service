@@ -9,7 +9,7 @@ type Message = { role: 'assistant' | 'user'; text: string };
 type Assessment = {
   opportunity: string;
   whoBenefits: string;
-  whyBeforeMigration: string;
+  whyThisStart: string;
   fit: string;
 };
 
@@ -20,7 +20,7 @@ type AssessmentResponse = {
   assessment: Assessment | null;
   facts: {
     company: string;
-    currentCrm: string;
+    currentSetup: string;
     teamSize: string;
     primaryPain: string;
   };
@@ -55,10 +55,10 @@ const responseSchema = {
           properties: {
             opportunity: { type: 'string' },
             whoBenefits: { type: 'string' },
-            whyBeforeMigration: { type: 'string' },
+            whyThisStart: { type: 'string' },
             fit: { type: 'string' },
           },
-          required: ['opportunity', 'whoBenefits', 'whyBeforeMigration', 'fit'],
+          required: ['opportunity', 'whoBenefits', 'whyThisStart', 'fit'],
         },
       ],
     },
@@ -67,11 +67,11 @@ const responseSchema = {
       additionalProperties: false,
       properties: {
         company: { type: 'string' },
-        currentCrm: { type: 'string' },
+        currentSetup: { type: 'string' },
         teamSize: { type: 'string' },
         primaryPain: { type: 'string' },
       },
-      required: ['company', 'currentCrm', 'teamSize', 'primaryPain'],
+      required: ['company', 'currentSetup', 'teamSize', 'primaryPain'],
     },
     qualification: {
       type: 'string',
@@ -140,13 +140,13 @@ function normalizeResult(result: AssessmentResponse, userAnswerCount: number, ha
   }
   if (result.state === 'email') {
     result.message = locale === 'se'
-      ? 'Din första bedömning är klar. Ange din jobbmejl så kan den sparas och visas här. Det bokar inte ett säljsamtal.'
-      : 'Your initial assessment is ready. Enter your work email so it can be saved and shown here. This does not book a sales call.';
+      ? 'Din första CRM-plan är klar. Ange din jobbmejl så kan den sparas och visas här. Det bokar inte ett säljsamtal.'
+      : 'Your first CRM plan is ready. Enter your work email so it can be saved and shown here. This does not book a sales call.';
   }
   if (result.state === 'complete') {
     result.message = locale === 'se'
-      ? 'Tack. Din bedömning är klar nedan och har sparats för uppföljning om det verkar finnas något relevant att prata vidare om.'
-      : 'Thank you. Your assessment is ready below and has been saved for follow-up if the opportunity looks useful.';
+      ? 'Tack. Din CRM-plan är klar nedan och har sparats för uppföljning om det verkar finnas något relevant att prata vidare om.'
+      : 'Thank you. Your CRM plan is ready below and has been saved for follow-up if the opportunity looks useful.';
   }
   result.quickReplies = result.state === 'question' && Array.isArray(result.quickReplies)
     ? result.quickReplies.slice(0, 4)
@@ -154,7 +154,113 @@ function normalizeResult(result: AssessmentResponse, userAnswerCount: number, ha
   return result;
 }
 
-async function generateAssessment(bindings: WorkerBindings, aiMessages: Array<{ role: 'system' | 'assistant' | 'user'; content: string }>) {
+function plainSwedish(text: string) {
+  return text
+    .replace(/\bNi\b/g, 'Teamet')
+    .replace(/\bni\b/g, 'teamet')
+    .replace(/\bErt\b/g, 'Teamets')
+    .replace(/\bert\b/g, 'teamets')
+    .replace(/\bEra\b/g, 'Teamets')
+    .replace(/\bera\b/g, 'teamets')
+    .replace(/\bEr (?=[A-Za-zÅÄÖåäö])/g, 'Teamets ')
+    .replace(/\ber (?=[A-Za-zÅÄÖåäö])/g, 'teamets ')
+    .replace(/\bEr\b/g, 'Teamet')
+    .replace(/\ber\b/g, 'teamet')
+    .replace(/\bImplementera\b/g, 'Bygg')
+    .replace(/\bimplementera\b/g, 'bygga')
+    .replace(/\bImplementering\b/g, 'Bygget')
+    .replace(/\bimplementering\b/g, 'bygget')
+    .replace(/\bCRM[‑-]?lösningen\b/gi, 'CRM-systemet')
+    .replace(/\bCRM[‑-]?lösningar\b/gi, 'CRM-system')
+    .replace(/\bCRM[‑-]?lösning\b/gi, 'CRM-system')
+    .replace(/\bLösningen\b/g, 'CRM-systemet')
+    .replace(/\blösningen\b/g, 'CRM-systemet')
+    .replace(/\bLösningar\b/g, 'CRM-system')
+    .replace(/\blösningar\b/g, 'CRM-system')
+    .replace(/\bLösning\b/g, 'CRM-system')
+    .replace(/\blösning\b/g, 'CRM-system')
+    .replace(/\bSmärtpunkter\b/g, 'Problem')
+    .replace(/\bsmärtpunkter\b/g, 'problem')
+    .replace(/\bSmärtpunkt\b/g, 'Problem')
+    .replace(/\bsmärtpunkt\b/g, 'problem')
+    .replace(/\bAd hoc\b/g, 'Från gång till gång')
+    .replace(/\bad hoc\b/g, 'från gång till gång');
+}
+
+function cleanVisitorCopy(result: AssessmentResponse, locale: Locale) {
+  if (locale === 'se') {
+    result.message = plainSwedish(result.message);
+    result.quickReplies = result.quickReplies.map(plainSwedish);
+    if (result.assessment) {
+      result.assessment.opportunity = plainSwedish(result.assessment.opportunity);
+      result.assessment.whoBenefits = plainSwedish(result.assessment.whoBenefits);
+      result.assessment.whyThisStart = plainSwedish(result.assessment.whyThisStart);
+      result.assessment.fit = plainSwedish(result.assessment.fit);
+    }
+  }
+
+  if (result.state === 'question') {
+    const firstQuestionEnd = result.message.indexOf('?');
+    if (firstQuestionEnd >= 0) result.message = result.message.slice(0, firstQuestionEnd + 1);
+  }
+  return result;
+}
+
+function fallbackAssessment(messages: Message[], locale: Locale, hasEmail: boolean): AssessmentResponse {
+  const answers = messages.filter((message) => message.role === 'user').map((message) => message.text);
+  const state: AssessmentResponse['state'] = hasEmail ? 'complete' : answers.length >= 5 ? 'email' : 'question';
+  const nextQuestions = locale === 'se'
+    ? [
+        'Hur många personer behöver följa upp leads och kunder?',
+        'Var brukar information eller uppföljning tappas bort idag?',
+        'Hur fördelar teamet ansvaret för varje lead?',
+        'Vad ska en gemensam översikt visa för att arbetet ska bli enklare?',
+      ]
+    : [
+        'How many people need to follow up leads and customers?',
+        'Where does information or follow-up get lost today?',
+        'How does the team assign ownership for each lead?',
+        'What should a shared view show to make the work easier?',
+      ];
+
+  const assessment = state === 'question' ? null : locale === 'se'
+    ? {
+        opportunity: 'Börja med en gemensam översikt över leads, kundhistorik, ansvarig person och nästa steg.',
+        whoBenefits: 'Personerna som följer upp leads och kunder får samma aktuella bild.',
+        whyThisStart: 'Det samlar utspridda uppdateringar och gör ansvar och nästa steg tydliga utan att första versionen blir för stor.',
+        fit: 'Det här verkar värt att undersöka som ett fokuserat första CRM-bygge.',
+      }
+    : {
+        opportunity: 'Start with one shared view of leads, customer history, ownership and next steps.',
+        whoBenefits: 'The people who follow up leads and customers get the same current view.',
+        whyThisStart: 'It brings scattered updates together and makes ownership and the next action clear without making the first version too large.',
+        fit: 'This looks worth exploring as a focused first CRM build.',
+      };
+
+  return {
+    message: state === 'question'
+      ? nextQuestions[Math.min(Math.max(answers.length - 1, 0), nextQuestions.length - 1)]
+      : locale === 'se'
+        ? 'Din första CRM-plan är klar.'
+        : 'Your first CRM plan is ready.',
+    state,
+    quickReplies: [],
+    assessment,
+    facts: {
+      company: '',
+      currentSetup: answers[0] || '',
+      teamSize: answers[1] || '',
+      primaryPain: answers[2] || '',
+    },
+    qualification: 'possible',
+  };
+}
+
+async function generateAssessment(
+  bindings: WorkerBindings,
+  aiMessages: Array<{ role: 'system' | 'assistant' | 'user'; content: string }>,
+  locale: Locale,
+) {
   let lastError: unknown;
   for (const model of [MODEL, FALLBACK_MODEL] as const) {
     try {
@@ -172,7 +278,7 @@ async function generateAssessment(bindings: WorkerBindings, aiMessages: Array<{ 
         max_completion_tokens: 900,
       });
       const parsed = parseModelResponse(raw);
-      if (parsed) return parsed;
+      if (parsed) return cleanVisitorCopy(parsed, locale);
       lastError = new Error(`${model} returned an invalid response.`);
     } catch (error) {
       lastError = error;
@@ -181,22 +287,25 @@ async function generateAssessment(bindings: WorkerBindings, aiMessages: Array<{ 
   throw lastError || new Error('No assessment model was available.');
 }
 
-function systemPrompt(locale: Locale, hasEmail: boolean) {
+function systemPrompt(locale: Locale, hasEmail: boolean, userAnswerCount: number) {
   const language = locale === 'se' ? 'natural Swedish' : 'natural English';
-  return `You are the Company Native CRM assessment assistant for B2B small and medium-sized companies.
+  return `You are the Company Native first-CRM planning assistant for small and medium-sized companies.
 
 Speak in ${language}. Be warm, concise and commercially perceptive. Never use internal scoring language with the visitor.
-${locale === 'se' ? 'Address the visitor as du/din/ditt, never ni/er/ert. Write idiomatic Swedish, not literal translations of English business language. Prefer familiar terms such as CRM-byte or migrering, kontaktformulär, driftmiljö and arbetssätt.' : ''}
+${locale === 'se' ? 'Address the visitor as du/din/ditt, never ni/er/ert/era. When several people are meant, say teamet, säljarna or medarbetarna. Write short, idiomatic Swedish, not literal translations of English business language. Use familiar terms such as bygga, arbetssätt, problem, CRM-byte or migrering. Never use implementera, lösning, smärtpunkt or ad hoc.' : ''}
 
-Your job is to understand: the company and industry, current CRM or planned CRM, number and roles of users, the most painful workaround or delay, the work they want removed, and whether a small no-migration pilot could create immediate value. Ask exactly one relevant question at a time. Adapt the next question to what the visitor already said. Do not repeat a question. Do not ask for customer names, employee names, deal details, credentials, financial account data or any sensitive personal information.
+Your primary visitor does not have a CRM. They may track leads and customers in spreadsheets, inboxes, notes, chat or memory. A secondary visitor may already have a CRM and want to replace it. Never assume either starting point before the visitor tells you.
 
-Listen for concrete signs that an established CRM no longer fits: spreadsheets beside the CRM, excessive custom fields, special reports only one person can produce, manual copying between teams, important context in inboxes or notes, and handoffs that happen outside the system. Use only signs the visitor actually confirms; do not assume or invent them.
+Your job is to understand: the company and industry, how it tracks leads and customers today, the number and roles of people who need the CRM, where information or follow-up gets lost, which work is repeated, and what the first useful CRM should make easier. Ask exactly one relevant question at a time. Adapt the next question to what the visitor already said. Do not repeat a question. Do not ask for customer names, employee names, deal details, credentials, financial account data or any sensitive personal information.
 
-After 4 to 6 useful visitor answers, set state to "email". In that response, give a brief, specific preview of the likely first opportunity and ask for a work email so the assessment can be saved and shown on screen. Explain that this is not booking a sales call. Include an assessment object with: the strongest small improvement, who it helps, why it can be tested before migration, and whether Company Native appears sensible. The assessment.fit field must be a short visitor-facing sentence, never a score or a word such as strong, possible, early or not-fit. Keep each field to 1–2 short sentences.
+For visitors without a CRM, listen for concrete signs that a shared system could help: spreadsheet customer lists, follow-up depending on memory, important context in inboxes or notes, manual copying between people, missed handoffs, unclear ownership and reporting that must be assembled by hand. For visitors with a CRM, listen for confirmed signs that the current system no longer fits. Use only signs the visitor actually confirms; do not assume or invent them.
 
-${hasEmail ? 'A valid work email has now been supplied. Set state to "complete". Thank the visitor, say their assessment is ready below and has been saved so the team can follow up if the opportunity looks useful. Do not claim an email was or will be sent. Return the final assessment object based only on the conversation. Do not ask another question.' : 'Do not set state to "complete" and never invent an email.'}
+After 4 to 6 useful visitor answers, set state to "email". In that response, give a brief, specific preview of the best starting workflow and ask for a work email so the plan can be saved and shown on screen. Explain that this is not booking a sales call. Include an assessment object with: the best first CRM workflow or improvement, who it helps, why this is the right place to start, and whether Company Native appears sensible. The assessment.fit field must be a short visitor-facing sentence, never a score or a word such as strong, possible, early or not-fit. Keep each field to 1–2 short sentences.
 
-Set qualification to strong only when the CRM is central, the pain is concrete, multiple people depend on it and a useful pilot is plausible. Use possible for a real but less-developed need, early when the visitor is mainly exploring, and not-fit when the problem is unrelated or there is no meaningful CRM need.
+${hasEmail ? 'A valid work email has now been supplied. Set state to "complete". Thank the visitor, say their CRM plan is ready below and has been saved so the team can follow up if the opportunity looks useful. Do not claim an email was or will be sent. Return the final assessment object based only on the conversation. Do not ask another question.' : 'Do not set state to "complete" and never invent an email.'}
+${!hasEmail && userAnswerCount >= 5 ? `The visitor has now answered ${userAnswerCount} questions. Set state to "email" now, include the complete assessment object and do not ask another question.` : ''}
+
+Set qualification to strong only when customer work is important, the pain is concrete, multiple people depend on a shared view and a useful first build is plausible. Use possible for a real but less-developed need, early when the visitor is mainly exploring, and not-fit when the problem is unrelated or there is no meaningful CRM need. Having no CRM must never lower the qualification by itself.
 
 Return only JSON matching the supplied schema. quickReplies may contain up to four short, relevant choices for the next question; otherwise use an empty array. Use empty strings for unknown facts.`;
 }
@@ -225,10 +334,10 @@ async function saveAssessment(
     JSON.stringify(messages),
     result.assessment.opportunity,
     result.assessment.whoBenefits,
-    result.assessment.whyBeforeMigration,
+    result.assessment.whyThisStart,
     result.assessment.fit,
     result.facts.company || null,
-    result.facts.currentCrm || null,
+    result.facts.currentSetup || null,
     result.facts.teamSize || null,
     result.facts.primaryPain || null,
     result.qualification,
@@ -252,7 +361,8 @@ export async function POST(request: Request) {
   }
 
   const hasEmail = body.email !== undefined;
-  if (hasEmail && !isWorkEmail(body.email)) {
+  const validEmail = isWorkEmail(body.email) ? body.email : null;
+  if (hasEmail && !validEmail) {
     return NextResponse.json({
       error: locale === 'se' ? 'Ange en giltig jobbmejl.' : 'Please enter a valid work email.',
     }, { status: 400 });
@@ -271,17 +381,23 @@ export async function POST(request: Request) {
           : 'Too many answers in a short time. Wait a minute and try again.',
       }, { status: 429 });
     }
+    const userAnswerCount = messages.filter((message) => message.role === 'user').length;
     const aiMessages = [
-      { role: 'system' as const, content: systemPrompt(locale, hasEmail) },
+      { role: 'system' as const, content: systemPrompt(locale, hasEmail, userAnswerCount) },
       ...messages.map((message) => ({ role: message.role, content: message.text })),
       ...(hasEmail ? [{ role: 'user' as const, content: '[A valid work email was supplied separately and must not be repeated in the response.]' }] : []),
     ];
 
-    const parsed = await generateAssessment(bindings, aiMessages);
-    const userAnswerCount = messages.filter((message) => message.role === 'user').length;
+    let parsed: AssessmentResponse;
+    try {
+      parsed = await generateAssessment(bindings, aiMessages, locale);
+    } catch (error) {
+      console.warn('Assessment models failed; using the structured fallback.', error);
+      parsed = fallbackAssessment(messages, locale, hasEmail);
+    }
     const result = normalizeResult(parsed, userAnswerCount, hasEmail, locale);
-    if (hasEmail) {
-      await saveAssessment(bindings, body.email, locale, messages, result, sessionId);
+    if (validEmail) {
+      await saveAssessment(bindings, validEmail, locale, messages, result, sessionId);
     }
 
     return NextResponse.json(result, {

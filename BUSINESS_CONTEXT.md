@@ -2,7 +2,11 @@
 
 ## What This Business Is
 
-**Company Native** (companynative.com) builds custom CRMs for SMEs that don't have one yet. Greenfield only, no migration. The product is a service: we build and maintain custom CRM software around how each customer actually works. Endgame: one-click Gmail/Office integration that auto-builds a CRM from email data.
+**Company Native** (companynative.com) builds CRMs around how an SME actually works. The first and primary market is companies that do not have a CRM yet and currently rely on spreadsheets, inboxes, chat and memory. The current offer is a paid, hands-on service; the first approximately five builds create revenue, reusable CRM knowledge and direct evidence about customer satisfaction.
+
+Companies that already have a CRM are a secondary audience. Company Native can build the simpler replacement first, then provide paid CRM data migration and customization. This remains part of the CRM business. Migrating other kinds of generic software remains a separate business.
+
+The end product is a free self-builder that can create a useful first CRM, with paid services for customers who want a stronger tailored system or need CRM migration. Over time, the system should become able to build new CRMs and migrate existing ones increasingly automatically.
 
 ## What This Business Is NOT
 
@@ -10,12 +14,12 @@ This is one of three separate businesses under Yusuf Young AB, all sharing a sov
 
 - **Works Like Us** (workslikeus.com) - Fine-tunes open source LLMs on companies' proprietary processes. Different product (a model, not software), different expertise (ML ops, not app development). See: https://github.com/yusufhgmail/enterprise-llm
 
-- **Custom Software Migration** (concept, no brand yet) - Migrates companies from existing SaaS to custom-built software. Different process (migration vs greenfield), heavier consultancy, not CRM-specific. Not yet launched.
+- **Custom Software Migration** (concept, no brand yet) - Replaces generic software outside CRM. Different process, broader category, and not part of Company Native's CRM focus. Not yet launched.
 
 ## Why These Are Separate
 
 Each business compounds a different repeatable process:
-- Company Native gets better at **building CRMs** with every customer
+- Company Native gets better at **building CRMs and moving CRM customers into them** with every customer
 - Works Like Us gets better at **fine-tuning models** with every customer
 - Migration gets better at **migrating systems** with every customer
 

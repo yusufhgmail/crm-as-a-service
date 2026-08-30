@@ -226,6 +226,8 @@ h2 em { color: var(--orange-text); font-style: italic; }
 .mid-cta small { margin-bottom: 7px; color: #39705c; font-size: 8px; font-weight: 900; letter-spacing: .13em; }
 .mid-cta strong { max-width: 590px; font-family: Georgia, 'Times New Roman', serif; font-size: 21px; font-weight: 500; }
 .mid-cta .button { flex: 0 0 auto; min-height: 48px; padding: 0 20px; font-size: 12px; }
+.migration-cta { margin: 72px auto 0; background: #e9e5dc; }
+.migration-cta p { max-width: 680px; margin: 9px 0 0; color: #536d69; font-size: 12px; line-height: 1.65; }
 
 .centered-heading { max-width: 900px; margin: 0 auto 76px; text-align: center; }
 .centered-heading > p:last-child { max-width: 700px; margin: 24px auto 0; color: #56706e; font-size: 17px; line-height: 1.65; }
@@ -343,7 +345,9 @@ h2 em { color: var(--orange-text); font-style: italic; }
 .chat-input button:disabled { opacity: .4; cursor: default; }
 .assessment-error { margin: -4px 20px 12px; color: #a33827; font-size: 10px; line-height: 1.5; }
 .assessment-note { margin: 0; padding: 0 20px 16px; color: #526966; font-size: 8px; text-align: center; }
-.contact-panel { min-height: 398px; padding: 29px 28px 25px; background: #f8f7f2; }
+.contact-panel { min-height: 398px; background: #f8f7f2; }
+.contact-messages { min-height: 264px; }
+.contact-quick-answers { padding-top: 0; }
 .contact-intro small, .contact-success small { color: #a23c21; font-size: 8px; font-weight: 900; letter-spacing: .12em; }
 .contact-intro h3, .contact-success h3 { margin: 8px 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 27px; font-weight: 500; letter-spacing: -.025em; }
 .contact-intro p, .contact-success p { max-width: 480px; margin: 10px 0 0; color: #536e6b; font-size: 12px; line-height: 1.6; }
@@ -354,7 +358,7 @@ h2 em { color: var(--orange-text); font-style: italic; }
 .contact-submit { min-height: 43px; display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-top: 7px; border: 0; border-radius: 7px; background: var(--orange); color: white; font: inherit; font-size: 11px; font-weight: 850; cursor: pointer; }
 .contact-submit:disabled { opacity: .45; cursor: default; }
 .continue-assessment { display: block; margin: 16px auto 0; padding: 4px 0; border: 0; border-bottom: 1px solid #aeb9b3; background: transparent; color: #526d69; font: inherit; font-size: 9px; font-weight: 750; cursor: pointer; }
-.contact-success { min-height: 340px; display: flex; align-items: center; flex-direction: column; justify-content: center; text-align: center; }
+.contact-success { min-height: 398px; display: flex; align-items: center; flex-direction: column; justify-content: center; padding: 29px 28px 25px; text-align: center; }
 .contact-success > span { width: 45px; height: 45px; display: grid; place-items: center; margin-bottom: 20px; border-radius: 50%; background: var(--mint); color: #237345; font-size: 20px; font-weight: 900; }
 .contact-success button { display: inline-flex; gap: 8px; margin-top: 21px; padding: 8px 0 5px; border: 0; border-bottom: 1px solid #81938e; background: transparent; color: var(--ink); font: inherit; font-size: 10px; font-weight: 800; cursor: pointer; }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
@@ -438,7 +442,7 @@ footer { padding: 54px 0 22px; background: #061a1b; color: white; }
   .private-label { display: none; }
   .assessment-topbar { padding-inline: 15px; }
   .human-contact-button { max-width: 100px; line-height: 1.2; }
-  .contact-panel { padding: 25px 20px 22px; }
+  .contact-success { padding: 25px 20px 22px; }
   .footer-top { align-items: flex-start; flex-direction: column; gap: 24px; }
   .footer-top > p { margin: 0; }
   .footer-bottom { align-items: flex-start; flex-direction: column; gap: 10px; }

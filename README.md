@@ -1,150 +1,38 @@
 # Company Native
 
-**Current strategy:** [`docs/STRATEGY.md`](docs/STRATEGY.md) defines the greenfield CRM vision, the umbrella learning system, the competitive advantages and how every installation must make the product better.
+Company Native builds an SME's first CRM around how that company already works. Companies with an existing CRM are a secondary audience: they can start with the replacement and use paid services for data migration and deeper customization.
 
-**Created:** 2026-08-22 by Yusuf Young
-**Status:** `companynative.com` was registered and launched on 2026-08-24. The buyer-reviewed website is live in English at <https://companynative.com/en> and Swedish at <https://companynative.com/se>. The conversational assessment runs on Cloudflare Workers AI and qualified leads are stored in Cloudflare D1.
+The current strategy and roadmap are in [`docs/STRATEGY.md`](docs/STRATEGY.md). The website decision and verification log is in [`docs/WEBSITE-ITERATIONS.md`](docs/WEBSITE-ITERATIONS.md).
 
-**Brand architecture:** Company Native is the company and the larger category. CRM is the first offering on the main Company Native website; no second domain or product subdomain is needed.
+## Current stage
 
-**Social:** The Company Native LinkedIn page is live at <https://www.linkedin.com/company/companynative/>. The X account is awaiting the platform's required new-account verification.
+Company Native is in development. The immediate business is a paid, hands-on service for approximately five reference customers. Each build must generate three things:
 
-**Brand:** The Company Native identity was frozen on 2026-08-24 after six buyer-perspective rounds. The Coremark expresses a structured system adapting around one distinct company core. The complete editable kit is in `brand/`; the shareable guide is `output/pdf/company-native-brand-guide.pdf`.
+- a useful CRM for the customer;
+- revenue and reusable implementation patterns;
+- direct evidence about what the customer uses, changes and values.
 
-## The Problem
+The primary customer is an SME without a CRM, using spreadsheets, inboxes, chat or memory to track leads and customers. The secondary customer already has a CRM but wants a better fit.
 
-Mid-market companies are trapped between expensive, generic SaaS (HubSpot, Salesforce, Pipedrive) and the impossibility of building custom software themselves. They pay $50K-$200K/year for CRMs that sort-of fit, customize them into fragile messes, and still can't do what they actually need.
+## Confirmed roadmap — 30 August 2026
 
-## The Offering
+1. Manually build CRMs for approximately five reference customers. Earn service revenue and learn what makes a first CRM genuinely useful.
+2. Build the AI learning system on top of those installations. Connect build decisions, real usage and customer satisfaction so the system learns what works.
+3. Launch **Build your first CRM** for the lower end of the market. The self-builder provides a free CRM; paid services make it substantially better and handle migration for customers coming from another CRM.
+4. Improve the self-builder continuously. Over time, automate more of both new CRM creation and migration from existing CRMs.
 
-Not software you buy. A **service** that builds and maintains custom software for your business.
+## Business boundaries
 
-"We build and maintain a custom CRM that replaces HubSpot, Salesforce, and Pipedrive. Cheaper, better, and yours."
+CRM migration is a secondary Company Native service because it helps customers move into a Company Native CRM. Replacing other kinds of generic software remains a separate business in [`custom-software-migration`](https://github.com/yusufhgmail/custom-software-migration). Works Like Us remains the separate company-model business.
 
-## The Moat: Observe-Learn-Spec-Build
+## Public website
 
-This is not Claude Code or "AI builds your app." It's a proprietary internal system that:
+The main customer website is live in English at <https://companynative.com/en> and Swedish at <https://companynative.com/se>. Its main action is a short conversational first-CRM plan. The separate `crm-final-vision/` site remains the product-endgame presentation and is not the main website.
 
-1. **Observes** how you use your current software (what features you touch, what workflows you follow, where you hit friction)
-2. **Learns** what you actually use, what you need, what you should have but don't
-3. **Auto-generates specs** based on observed usage patterns, not interviews or assumptions
-4. **Plans** development in optimal stages (what to build first for maximum value)
-5. **Builds** the custom software (delivered as a service by us)
-6. **Deploys** and maintains it ongoing
+The conversational assistant runs on Cloudflare Workers AI. Qualified leads are stored in Cloudflare D1. The private funnel dashboard at <https://companynative.com/internal/funnel> connects anonymous visits and completed conversations to later lead outcomes without analytics cookies or a persistent visitor identity.
 
-The observation/learning/spec engine is the moat. No customer can replicate it. A competitor would need to build the entire pipeline from scratch.
+## Brand and infrastructure
 
-## Why This Is Different From "AI Code Generation"
+Company Native is the company and category name; CRM is the first and complete product focus. The current identity and editable assets are in `brand/`, with the shareable guide in `output/pdf/company-native-brand-guide.pdf`.
 
-Claude Code, Cursor, Devin: they take a spec and write code. They don't know what to build.
-
-CRM As A Service knows what to build *before* it builds. It watches how you work, understands your actual needs, and generates the spec itself. The code generation is the easy part. Understanding the need is the hard part, and that's what we own.
-
-## Roadmap (Redesigned Aug 25, 2026)
-
-### Step 1: Build CRMs manually for reference customers
-Find SMEs that need a CRM (don't have one yet). Build their CRM by hand. This gives us code, patterns, and real customer satisfaction data to learn from. Revenue from day one.
-
-### Step 2: Build the self-improving system
-Take what we learned from manual builds and build a system that learns and self-improves those CRM systems. Measure customer happiness. The system gets better with each deployment.
-
-### Step 3: Build the "Build your new CRM" button
-A website with a button that says "Build your new CRM." Click it, connect Gmail/Office, system builds the CRM on the fly. Still paired with services for the hard parts. This is "Lovable for CRM."
-
-### Step 4: Automate more and more
-Reduce the service layer over time. Fewer and fewer manual interventions needed. The product approaches full self-service.
-
-### Key Decision: New CRM, Not Migration (Innovator's Dilemma)
-Start with SMEs that need a NEW CRM, not ones migrating from an existing one. This is the innovator's dilemma play: attack from the bottom where incumbents can't or won't compete.
-
-Go after customers who have nothing today - small companies that just want something simple that works. Deliver extremely cheaply with LESS risk because:
-- No data to lose, no migration liability
-- No expectations of enterprise-grade features
-- "Something from nothing" = even a basic CRM is a massive improvement over spreadsheets + memory
-- No field mapping, no user retraining, no "why doesn't it do X that Salesforce did?"
-
-Incumbents (HubSpot, Salesforce) can't go downmarket - their cost structure, sales process, and feature complexity are built for companies with CRM budgets and admins. They literally can't serve a 5-person company. By the time the flywheel makes this profitable at scale, they can't catch up.
-
-Migration becomes a feature later, once the engine is proven. Beachhead = greenfield SMEs.
-
-
-
-## Vision Websites
-
-Two websites needed:
-1. **Current vision website** - The service offering (CRM As A Service). What we do today: "We build and maintain a custom CRM for your business."
-2. **Final vision website** - The product endgame: "Click this button. Get your new CRM." A landing page where the entire product is a button. This is the dream.
-
-**"Replace any software" is a separate business, not an expansion of this one.** Auto-CRM reads customer communications and builds a CRM from scratch. Replace-any-software reads how you use existing software and migrates you. Different input, different engine, different process. CRM is not a wedge to something bigger. It is the complete vision for this business.
-
-The migration vision site has moved to the separate [`custom-software-migration`](https://github.com/yusufhgmail/custom-software-migration) repository (2026-08-30). This repository now contains only the Company Native business and its CRM vision.
-
-Both businesses share a sovereignty philosophy under Yusuf Young AB but are separate companies with separate repeatable processes. See the [business mapping sheet](https://docs.google.com/spreadsheets/d/1WVK9dE5k97xTOSGAnvhvRBfWYj6x7TziDx1QpUzmml4/edit) for the full comparison.
-
-## Target Customer
-
-Mid-market companies ($1M-$50M revenue) with:
-- 6-figure SaaS budgets
-- No internal engineering team
-- Painful, expensive, generic software
-- Need for customization that SaaS can't provide
-
-## Business Model
-
-Service-based: monthly retainer + build fee. The customer pays less than their current SaaS bill and gets custom software that fits their exact needs.
-
-## Connection to Other Ventures
-
-- **Aether:** The agent runtime that powers the observation/learning/spec engine. Aether agents observe customer workflows, learn from them, and generate specs.
-- **Enterprise LLM:** The ultimate evolution. Same philosophy: sovereign, custom, owned by the company.
-- **Holdflight JV (if it proceeds):** Magnus's dev team + AI platform could build the observation/learning system. Yusuf brings domain expertise, market entry (US), and product vision.
-
-## Origin
-
-Validated through Elvy (a potential customer who confirmed the pain points but passed on the project). Yusuf owns the idea. Vision doc created Aug 11, 2026.
-
-## The Endgame: Auto-CRM from Email (Aug 25, 2026)
-
-CRM As A Service is the service layer. The endgame is a **product**: Auto-CRM from Email.
-
-**The product:** One click. Connect Gmail/Office. The system reads your email, builds a new CRM from scratch, populates all your customer data, then keeps learning and improving. You talk to it conversationally to fix things, reorganize, ask questions about your whole org.
-
-**Target audience:** SMEs that don't have a CRM yet. "Lovable for CRM" positioning.
-
-**How we get there:** See the redesigned Roadmap above (4 steps: manual builds -> self-improving system -> the button -> full automation).
-
-**Why service-first (and why you CAN'T skip to the button):** The manual builds aren't just a business strategy. They're a technical necessity. Without reference installations, the automated builder has no advantage over Lovable, Cursor, or any other AI app builder. They can all "build a CRM from a prompt." What they can't do is build the RIGHT CRM - because they haven't learned what makes a CRM actually work for real SMEs. That knowledge only comes from doing it manually, measuring customer satisfaction, and feeding those patterns back into the system.
-
-The manual builds produce the thing money can't buy: learned patterns from real customer deployments. A competitor with more funding can't skip to the button because Steps 1 and 2 create the moat. Earn revenue while building training data. Then productize what you've validated.
-
-**The moat compounds:** The observation/learning engine from CRMaaS still applies, arguably stronger. Instead of learning from dozens of custom builds, you're learning across thousands of email-to-CRM mappings. Every new user makes the auto-generation better.
-
-**This doesn't replace CRMaaS. It IS CRMaaS, evolved.** The service becomes the manual version of what the product does automatically.
-
-## Three Core Principles (from Magnus correspondence, Aug 25)
-
-1. **Team-level reading, not just individual.** The system reads the whole team's communications - not just one person's inbox. It builds a CRM that reflects how the team actually works together.
-
-2. **Cross-customer satisfaction learning.** The system understands which customers are satisfied and which aren't, and learns from that for future implementations. Every deployment makes the next one better. This is the flywheel: the system gets smarter about what makes a CRM work for SMEs with every new customer.
-
-3. **Emergent structure, not pre-designed.** The CRM shape is discovered from the data, not decided in advance. No templates, no pre-built schemas. The system reads your communications and figures out what YOUR CRM needs to look like. Every CRM is unique because every business is unique.
-
-## Immediate Next Step (Aug 25, 2026)
-
-**Build 5 CRMs for people who don't have CRMs currently. Just build them. Even for free, to learn.**
-
-This is the first thing to do to get the business moving. No more planning, no more docs. Find 5 SMEs that need a CRM, build it for them manually. Free or cheap. The goal is learning, not revenue.
-
-Once we have 3-5 installations, we'll already have tons of new knowledge that will help us decide what the next best step is. The patterns, the code, the customer reactions - that's what tells us what to build next. Not more thinking.
-
-## What Happens Next
-
-1. Use the frozen website, social assets and one-pagers to bring the first relevant visitors into the assessment.
-2. Use the acquisition funnel and first customer conversations to improve qualification and the V0 offer.
-3. Replace generic explanations with approved customer evidence as the first implementations create proof.
-
-## Customer acquisition tracking
-
-The private dashboard at `https://companynative.com/internal/funnel` follows anonymous visits through the assessment or direct-contact path and then through personal follow-up, a pilot proposal and a won customer. It does not use analytics cookies or retain a cross-visit visitor identity. Completed assessments and contact requests inherit the source, campaign, message and language from the link that brought the visitor.
-
-Use the dashboard's campaign-link builder for every post, ad, partner link and outreach message that should be compared. Update each lead's outcome after follow-up; that is what connects marketing activity to the goal of 10 customers. If a buyer returns later without the tagged link, correct the source and campaign from what the buyer tells you. Cloudflare Web Analytics remains the broader aggregate traffic check, while this dashboard answers which sources and messages produce useful leads and customers.
+The site uses Next.js through Vinext and deploys to Cloudflare Workers with the `companynative.com` custom domains. See `wrangler.jsonc` for the existing bindings and routes.

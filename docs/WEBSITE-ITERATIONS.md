@@ -2,7 +2,56 @@
 
 ## What the website must make a B2B SME understand
 
-Company Native moves a company from HubSpot, Salesforce, Pipedrive, or another generic CRM to a system built around the way that company should work. We handle the full journey: understand actual usage, find a useful no-migration pilot, design the safe first replacement and the long-term destination, build and migrate the system, train the team, and improve it continuously. The customer should feel that this is ambitious but unusually safe, that Yusuf and the team understand CRM deeply, and that the first step is small enough to take now.
+Company Native builds an SME's first CRM around how that company already works. The primary visitor has no CRM and keeps leads, customer history and follow-up in spreadsheets, inboxes, chat or memory. The secondary visitor already has a CRM but wants out; that visitor can start with the replacement and add paid migration and customization. The current offer is a paid, hands-on build for approximately five reference customers. The free self-builder is the later product, not a capability available today.
+
+## Website direction reset — 2026-08-30
+
+### Objective and critical action
+
+The main site must help a suitable SME understand what its first CRM would change and begin a short conversational first-CRM plan. The separate `crm-final-vision/` site remains outside this update.
+
+### Truth inventory
+
+**Verified:** Yusuf founded FunnelBud in 2015; FunnelBud served more than 450 Swedish companies; Company Native is in development; the current roadmap begins with approximately five paid manual CRM builds; the primary audience has no CRM; CRM migration is a secondary paid service; the future self-builder is intended to provide a free CRM; the website assistant and D1 lead storage already work.
+
+**Reasonable inference:** founders, CEOs, sales leaders and service-delivery leaders at small B2B companies are likely to choose or approve the first CRM; the most familiar symptoms are leads and customer history split across spreadsheets, inboxes, chat and memory.
+
+**Untested:** the first-customer offer will convert; customers will prefer a custom first CRM to free standard tools; lessons and satisfaction signals will transfer across companies; the future self-builder and migration automation will work as intended.
+
+### Relevant visitor roles
+
+- The primary owner or leader needs to see what the first CRM will make easier, why a tailored build is worth considering when free standard CRMs exist, and what happens after starting the conversation.
+- The person who will use the CRM needs a simple first system that reflects real work and does not add administration.
+- The secondary migration buyer needs to know that an existing CRM does not exclude them, while understanding that migration is not the main pitch.
+- A trust reviewer needs honest current-versus-future capability, clear ownership and careful treatment of customer data.
+
+### Three directions considered
+
+1. **Your first CRM, built around how you work.** Lead with the desired outcome, show the spreadsheet/inbox problem, explain the hands-on service, then place migration and the self-builder in their proper secondary and future roles.
+2. **Stop losing leads in spreadsheets.** Lead with urgent pain and follow-up failure. This is vivid but too narrow for companies whose larger problem is delivery, customer history or cross-team handoffs.
+3. **Build your first CRM.** Lead with the future self-builder and free product. This is the long-term product direction but would make the current manual service look available as software before it exists.
+
+Direction 1 is selected. It covers the whole first-CRM job, remains honest about the current service and supports the future product without turning the main site into the separate vision site. Direction 2 supplies the early recognition section. Direction 3 remains the roadmap, not the current call to action.
+
+### Current largest risk
+
+The visitor can choose a free standard CRM today. The page must explain plainly that a free generic system may be right for a standard pipeline, while Company Native is for a company whose first CRM needs to fit the way it sells, delivers and serves customers. Unsupported cost parity, guarantees and finished-system claims must be removed.
+
+### Verification record
+
+Completed on 2026-08-30.
+
+- **First rendered cycle:** English desktop at 1440 × 900 and Swedish mobile at 390 × 844 preserved the established design, had no horizontal overflow and kept the first-CRM story coherent. The contact alternative now asks what the visitor wants to say and then asks for a reply address in the same conversation instead of revealing a separate form.
+- **Largest issue found and fixed:** the Swedish AI response sometimes used `ni/er`, CRM jargon and more than one question. The prompt now requires ordinary `du/ditt` language, the route cleans the small set of recurring formal terms and only shows the first question when a model returns several.
+- **Fresh cold review:** the exact limited first-customer offer appeared three times. The final page now states “about five paid, hands-on builds” once near the opening; later sections explain the learning roadmap and the paid next step without repeating the scarcity.
+- **Challenge pass:** the page openly says a free standard CRM may be right for a standard pipeline. Company Native is positioned for a first CRM that must fit sales, delivery or service. Existing-CRM customers receive one secondary migration route and one FAQ answer without taking over the main story. No unsupported price, guarantee or completed-self-builder claim remains.
+- **Automated and structural checks:** full ESLint, TypeScript, production build and `git diff --check` passed. Both languages have one H1, labeled visible controls, image alternatives, no duplicate IDs and the correct page language. English and Swedish privacy routes use the first-CRM terminology and have no overflow.
+- **Behavior checks:** the main button lands on the planner; adaptive questions reach a structured plan and then request a work email; the personal-contact branch asks one useful question at a time and returns to the preserved CRM-plan state. A local completed plan was saved to D1 and its exact synthetic row was removed.
+- **Live check:** Cloudflare Worker version `d8edbed8-8dc9-40fa-9108-a96134db2988` is live on `companynative.com`. The first live transcript exposed one final blocker: both AI models could return invalid output and strand a visitor. A structured answer-based fallback was added and redeployed. The repeated live test then returned a complete plan, saved the assessment to the production D1 database and the exact synthetic record was removed. English desktop and Swedish mobile routes, metadata, privacy pages and primary/secondary messages were checked on the public domain with no material issue remaining.
+
+## Historical records below
+
+The remaining entries preserve decisions and audits from earlier migration-first versions. They are history, not the current Company Native strategy; the 2026-08-30 reset and `docs/STRATEGY.md` govern the current site.
 
 ## Final naming decision — Company Native
 
@@ -12,7 +61,7 @@ The renamed site is live at <https://companynative.com>, with English at `/en` a
 
 The Company Native LinkedIn company page was created at <https://www.linkedin.com/company/companynative/> on 2026-08-24. X requires a distinct phone number, Google account, Apple account, or email address before its Company Native account can be completed.
 
-The main action is a short conversational AI assessment that learns about the prospect's current CRM, pain, team and highest-value improvement, then obtains their work email so we can continue the conversation.
+The main action is now a short conversational first-CRM plan that learns how the prospect currently tracks leads and customers, what work is being lost or repeated, who needs the system and what the first useful CRM should do. An existing CRM remains one possible starting answer rather than the assumed starting state.
 
 ## Brand and domain
 
