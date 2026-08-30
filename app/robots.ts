@@ -3,6 +3,6 @@ import type { MetadataRoute } from 'next';
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: { userAgent: '*', allow: '/', disallow: '/api/' },
-    sitemap: 'https://companynative.com/sitemap.xml',
+    sitemap: 'https://crmfromwithin.com/sitemap.xml',
   };
 }

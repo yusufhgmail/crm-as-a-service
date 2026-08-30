@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './funnel.css';
 
 export const metadata: Metadata = {
-  title: 'Customer acquisition — Company Native',
+  title: 'Customer acquisition — CRM From Within',
   robots: { index: false, follow: false },
 };
 

@@ -3,7 +3,7 @@
 import { useEffect } from 'react';
 import { trackFunnelEvent } from './funnel';
 
-export const ANALYTICS_EXCLUSION_KEY = 'company-native-internal-browser';
+export const ANALYTICS_EXCLUSION_KEY = 'crm-from-within-internal-browser';
 
 const CLOUDFLARE_ANALYTICS_TOKEN = 'ddf8ea50c71e42b2b3d6c3f0051e6f90';
 
@@ -11,12 +11,12 @@ export function Analytics() {
   useEffect(() => {
     if (window.location.pathname.startsWith('/internal/')) return;
     if (window.localStorage.getItem(ANALYTICS_EXCLUSION_KEY) === '1') return;
-    if (!document.querySelector('script[data-company-native-analytics]')) {
+    if (!document.querySelector('script[data-crm-from-within-analytics]')) {
       const script = document.createElement('script');
       script.type = 'module';
       script.src = 'https://static.cloudflareinsights.com/beacon.min.js';
       script.setAttribute('data-cf-beacon', JSON.stringify({ token: CLOUDFLARE_ANALYTICS_TOKEN }));
-      script.setAttribute('data-company-native-analytics', 'true');
+      script.setAttribute('data-crm-from-within-analytics', 'true');
       document.body.appendChild(script);
     }
 

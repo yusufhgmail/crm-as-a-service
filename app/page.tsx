@@ -70,7 +70,7 @@ const swedishUseCases = [
 const englishSystemSteps = [
   ['Understand', 'We map how leads, customers and follow-up move through spreadsheets, inboxes, chat and people today.'],
   ['Choose', 'Together, we decide what the first useful CRM must make easier and what can wait.'],
-  ['Build', 'Company Native specialists design and build the first working CRM around that real process.'],
+  ['Build', 'Our specialists design and build the first working CRM around that real process.'],
   ['Use', 'Your team uses it in real work instead of judging it only in a requirements meeting.'],
   ['Measure', 'We record what people keep, change or ignore and ask whether the CRM genuinely helped.'],
   ['Improve', 'Useful lessons shape the next version, the next customer build and eventually the self-builder.'],
@@ -79,7 +79,7 @@ const englishSystemSteps = [
 const swedishSystemSteps = [
   ['Förstå', 'Vi kartlägger hur leads, kunder och uppföljning idag rör sig mellan kalkylblad, inkorgar, chattar och människor.'],
   ['Välj', 'Tillsammans bestämmer vi vad det första användbara CRM-systemet måste göra enklare och vad som kan vänta.'],
-  ['Bygg', 'Company Natives specialister designar och bygger det första fungerande CRM-systemet runt det verkliga arbetssättet.'],
+  ['Bygg', 'Specialister från CRM From Within designar och bygger det första fungerande CRM-systemet runt det verkliga arbetssättet.'],
   ['Använd', 'Teamet använder systemet i det dagliga arbetet i stället för att bara bedöma det i ett kravmöte.'],
   ['Mät', 'Vi ser vad teamet behåller, ändrar eller väljer bort och frågar om CRM-systemet faktiskt hjälpte.'],
   ['Förbättra', 'Det som fungerar formar nästa version, nästa kundbygge och så småningom självbyggaren.'],
@@ -95,7 +95,7 @@ const englishPhases = [
   {
     version: 'BUILD',
     title: 'Get a useful first CRM.',
-    text: 'Company Native specialists design and build one clear place for the customer work that matters most. The first version stays focused so your team can begin using it quickly.',
+    text: 'Our specialists design and build one clear place for the customer work that matters most. The first version stays focused so your team can begin using it quickly.',
     highlight: 'Your company gets working software, not a requirements document.',
   },
   {
@@ -122,7 +122,7 @@ const swedishPhases = [
   {
     version: 'BYGG',
     title: 'Få ett användbart första CRM.',
-    text: 'Company Natives specialister designar och bygger en tydlig plats för det kundarbete som betyder mest. Den första versionen är fokuserad så att teamet snabbt kan börja använda den.',
+    text: 'Specialister från CRM From Within designar och bygger en tydlig plats för det kundarbete som betyder mest. Den första versionen är fokuserad så att teamet snabbt kan börja använda den.',
     highlight: 'Företaget får fungerande programvara, inte ett kravdokument.',
   },
   {
@@ -310,8 +310,8 @@ function Assessment({ locale }: { locale: Locale }) {
               <small>{swedish ? 'PERSONLIG UPPFÖLJNING' : 'PERSONAL FOLLOW-UP'}</small>
               <h3>{swedish ? 'Du får ett personligt svar.' : 'You’ll get a personal reply.'}</h3>
               <p>{swedish
-                ? `Ditt meddelande är sparat. En person från Company Native svarar dig på ${contactEmail.trim()}.`
-                : `Your message is saved. A person from Company Native will reply to you at ${contactEmail.trim()}.`}</p>
+                ? `Ditt meddelande är sparat. En person från CRM From Within svarar dig på ${contactEmail.trim()}.`
+                : `Your message is saved. A person from CRM From Within will reply to you at ${contactEmail.trim()}.`}</p>
               <button type="button" onClick={returnToAssessment}>{swedish ? 'Fortsätt med CRM-planen' : 'Continue with the CRM plan'} <Arrow /></button>
             </div>
           ) : (
@@ -424,9 +424,9 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
   return (
     <main lang={swedish ? 'sv' : 'en'}>
       <nav className="nav shell" aria-label={t('Main navigation', 'Huvudmeny')}>
-        <a className="brand" href="#top" aria-label={t('Company Native home', 'Company Native startsida')}>
+        <a className="brand" href="#top" aria-label={t('CRM From Within home', 'CRM From Within startsida')}>
           <span className="brand-mark" aria-hidden="true" />
-          <span>Company Native</span>
+          <span>CRM From Within</span>
         </a>
         <div className="nav-links">
           <a href="#process">{t('How we build it', 'Så bygger vi det')}</a>
@@ -444,8 +444,8 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <p className="eyebrow"><span /> {t('A first CRM for small companies', 'Ett första CRM för mindre företag')}</p>
           <h1>{t('Your first CRM,', 'Ditt första CRM,')} <em>{t('built around how you work.', 'byggt runt hur du arbetar.')}</em></h1>
           <p className="hero-lead">{t(
-            'If leads live in spreadsheets, inboxes or memory, Company Native turns the way your team already works into one clear CRM—and improves it with you.',
-            'Om leads finns i kalkylblad, inkorgar eller någons minne gör Company Native om teamets verkliga arbetssätt till ett tydligt CRM—och förbättrar det tillsammans med dig.',
+            'If leads live in spreadsheets, inboxes or memory, CRM From Within turns the way your team already works into one clear CRM—and improves it with you.',
+            'Om leads finns i kalkylblad, inkorgar eller någons minne gör CRM From Within om teamets verkliga arbetssätt till ett tydligt CRM—och förbättrar det tillsammans med dig.',
           )}</p>
           <div className="hero-actions">
             <a className="button button-primary" href="#assessment-chat" data-funnel-location="hero">{t('Plan my first CRM', 'Planera mitt första CRM')} <Arrow /></a>
@@ -515,7 +515,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <h2>{t('Your CRM is not a database. It is how your company', 'Ditt CRM är inte en databas. Det är så ditt företag')} <em>{t('meets the world.', 'möter världen.')}</em></h2>
           <div className="heart-copy">
             <p>{t('It controls how you find customers, respond to them, win their trust, deliver what you promised, keep them happy and earn the next referral.', 'Det styr hur du hittar kunder, bemöter dem, vinner deras förtroende, levererar det du lovat, behåller dem och får nästa rekommendation.')}</p>
-            <p>{t("Generic software forces your company into somebody else's process. A CRM built around you makes your best way of working easier, faster and consistent.", 'Generisk programvara tvingar in företaget i någon annans process. Ett CRM byggt runt dig gör det arbetssätt som fungerar bäst för företaget enklare, snabbare och mer enhetligt.')}</p>
+            <p>{t("CRM From Within starts inside your company: with the way you already sell, deliver and serve customers. The CRM then makes that way of working easier, faster and consistent.", 'CRM From Within börjar inne i företaget: i hur ni redan säljer, levererar och hjälper kunder. Sedan gör CRM-systemet det arbetssättet enklare, snabbare och mer enhetligt.')}</p>
           </div>
         </div>
         <div className="customer-flow" role="group" aria-label={t('The customer journey controlled by your CRM', 'Kundresan som ditt CRM styr')}>
@@ -523,11 +523,11 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
             <div key={item}><span>{String(index + 1).padStart(2, '0')}</span><strong>{item}</strong>{index < 5 && <i aria-hidden="true">→</i>}</div>
           ))}
         </div>
-        <div className="category-intro"><span>{t('Which first step fits?', 'Vilket första steg passar?')}</span><strong>{t('A standard CRM can be enough. Company Native is for work that needs a better fit.', 'Ett standard-CRM kan räcka. Company Native är till för arbete som behöver passa bättre.')}</strong></div>
+        <div className="category-intro"><span>{t('Which first step fits?', 'Vilket första steg passar?')}</span><strong>{t('A standard CRM can be enough. CRM From Within is for work that needs a better fit.', 'Ett standard-CRM kan räcka. CRM From Within är till för arbete som behöver passa bättre.')}</strong></div>
         <div className="category-compare">
           <article><small>{t('SPREADSHEETS & INBOXES', 'KALKYLBLAD OCH INKORGAR')}</small><h3>{t('Easy to start. Hard to share.', 'Enkelt att börja. Svårt att dela.')}</h3><p>{t('They work while one person can hold the whole customer picture. They weaken as the team and number of handoffs grow.', 'De fungerar så länge en person kan hålla hela kundbilden i huvudet. De blir svagare när teamet och antalet överlämningar växer.')}</p></article>
           <article><small>{t('FREE STANDARD CRM', 'GRATIS STANDARD-CRM')}</small><h3>{t('A good answer for a standard pipeline', 'Ett bra svar för en standardprocess')}</h3><p>{t('If you mainly need contacts, deals and tasks, a free off-the-shelf CRM may be the right place to start.', 'Om du främst behöver kontakter, affärer och uppgifter kan ett kostnadsfritt standard-CRM vara rätt start.')}</p></article>
-          <article className="recommended"><small>COMPANY NATIVE</small><h3>{t('Your first CRM starts with your work', 'Ditt första CRM börjar med ditt arbete')}</h3><p>{t('Company Native handles the understanding, design and build. You get software shaped around how your company sells, delivers and serves customers.', 'Company Native tar hand om kartläggning, design och utveckling. Du får programvara formad efter hur företaget säljer, levererar och hjälper kunder.')}</p></article>
+          <article className="recommended"><small>CRM FROM WITHIN</small><h3>{t('Your first CRM starts with your work', 'Ditt första CRM börjar med ditt arbete')}</h3><p>{t('CRM From Within handles the understanding, design and build. You get software shaped around how your company sells, delivers and serves customers.', 'CRM From Within tar hand om kartläggning, design och utveckling. Du får programvara formad efter hur företaget säljer, levererar och hjälper kunder.')}</p></article>
         </div>
         <p className="best-fit"><strong>{t('Best for:', 'Passar bäst för:')}</strong> {t('Founders and customer-facing leaders at SMEs that need their first shared system for sales, delivery or service—and whose real work is more than a standard sales pipeline.', 'Grundare och kundansvariga chefer på mindre företag som behöver sitt första gemensamma system för försäljning, leverans eller service—och där det verkliga arbetet är mer än en vanlig säljprocess.')}</p>
       </section>
@@ -571,7 +571,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           ))}
         </div>
         <div className="mid-cta migration-cta">
-          <div><small>{t('ALREADY HAVE A CRM?', 'HAR DU REDAN ETT CRM?')}</small><strong>{t('You can still start here.', 'Du kan fortfarande börja här.')}</strong><p>{t('Company Native can build the simpler replacement first, then provide paid data migration and customization when you are ready.', 'Company Native kan bygga den enklare ersättaren först och sedan erbjuda betald datamigrering och anpassning när du är redo.')}</p></div>
+          <div><small>{t('ALREADY HAVE A CRM?', 'HAR DU REDAN ETT CRM?')}</small><strong>{t('You can still start here.', 'Du kan fortfarande börja här.')}</strong><p>{t('CRM From Within can build the simpler replacement first, then provide paid data migration and customization when you are ready.', 'CRM From Within kan bygga den enklare ersättaren först och sedan erbjuda betald datamigrering och anpassning när du är redo.')}</p></div>
           <a className="button button-dark" href="#assessment-chat" data-funnel-location="existing_crm">{t('Tell us what you want to leave', 'Berätta vad du vill lämna')} <Arrow /></a>
         </div>
       </section>
@@ -580,7 +580,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
         <div className="shell">
           <div className="system-intro">
             <div><p className="section-kicker light">{t('WHY THE FIRST BUILDS MATTER', 'VARFÖR DE FÖRSTA BYGGENA ÄR VIKTIGA')}</p><h2>{t('Each CRM should teach us how to build the next one better.', 'Varje CRM ska lära oss att bygga nästa bättre.')}</h2></div>
-            <p>{t('Company Native is starting with hands-on builds. We will connect each design choice with real use and customer satisfaction, then use what holds up to improve the next build.', 'Company Native börjar med byggen där vi arbetar nära kunden. Vi kopplar varje designval till verklig användning och kundnöjdhet och använder det som håller för att förbättra nästa bygge.')}</p>
+            <p>{t('CRM From Within is starting with hands-on builds. We will connect each design choice with real use and customer satisfaction, then use what holds up to improve the next build.', 'CRM From Within börjar med byggen där vi arbetar nära kunden. Vi kopplar varje designval till verklig användning och kundnöjdhet och använder det som håller för att förbättra nästa bygge.')}</p>
           </div>
           <div className="system-grid">
             {systemSteps.map(([title, text], index) => (
@@ -609,7 +609,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <h2>{t('Your first CRM should make work clearer—not add another project.', 'Ditt första CRM ska göra arbetet tydligare—inte skapa ännu ett projekt.')}</h2>
         </div>
         <div className="answer-grid">
-          <article><span>{t('TIME', 'TID')}</span><h3>{t('“We do not have time to design a CRM.”', '”Vi har inte tid att designa ett CRM.”')}</h3><p>{t('You show us how the work happens and react to working versions. Company Native carries the design and development.', 'Du visar hur arbetet går till och reagerar på fungerande versioner. Company Native ansvarar för design och utveckling.')}</p></article>
+          <article><span>{t('TIME', 'TID')}</span><h3>{t('“We do not have time to design a CRM.”', '”Vi har inte tid att designa ett CRM.”')}</h3><p>{t('You show us how the work happens and react to working versions. CRM From Within carries the design and development.', 'Du visar hur arbetet går till och reagerar på fungerande versioner. CRM From Within ansvarar för design och utveckling.')}</p></article>
           <article><span>{t('SIMPLICITY', 'ENKELHET')}</span><h3>{t('“Will a CRM create more admin?”', '”Skapar ett CRM mer administration?”')}</h3><p>{t('It should not. The first version stays small and starts with work the team already does. Anything that adds effort without enough value should change or go.', 'Det ska det inte göra. Den första versionen är liten och börjar med arbete som teamet redan gör. Det som ökar arbetsbördan utan tillräckligt värde ska ändras eller tas bort.')}</p></article>
           <article><span>{t('OWNERSHIP & DATA', 'ÄGANDE OCH DATA')}</span><h3>{t('“Will we own it and control our data?”', '”Kommer vi att äga systemet och styra över vår data?”')}</h3><p>{t('The CRM, code and data are yours. Before any customer data is imported, the hosting, access and protection must be agreed clearly.', 'CRM-systemet och koden är dina. Du styr över datan. Innan kunddata importeras ska drift, åtkomst och skydd vara tydligt överenskomna.')}</p></article>
           <article><span>{t('EXISTING CRM', 'BEFINTLIGT CRM')}</span><h3>{t('“What if we already have a CRM?”', '”Vad händer om vi redan har ett CRM?”')}</h3><p>{t('You are still welcome. We can build the simpler replacement first, then provide paid migration and customization when you are ready to move.', 'Du är fortfarande välkommen. Vi kan bygga den enklare ersättaren först och sedan erbjuda betald migrering och anpassning när du är redo att byta.')}</p></article>
@@ -620,7 +620,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
         <div className="shell story-grid">
           <div className="story-photo">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/yusuf-young.jpg" alt={t('Yusuf Young, founder of Company Native and FunnelBud', 'Yusuf Young, grundare av Company Native och FunnelBud')} />
+            <img src="/yusuf-young.jpg" alt={t('Yusuf Young, founder of CRM From Within and FunnelBud', 'Yusuf Young, grundare av CRM From Within och FunnelBud')} />
             <span>YUSUF YOUNG · {t('FOUNDER', 'GRUNDARE')}</span>
           </div>
           <div className="story-copy">
@@ -640,7 +640,7 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <div className="vision-copy">
             <p className="section-kicker light">{t('WHERE THIS IS GOING', 'VART DETTA ÄR PÅ VÄG')}</p>
             <h2>{t('Hands-on builds become a self-builder anyone can start.', 'Byggen nära kunden blir grunden för en självbyggare som alla kan använda.')}</h2>
-            <p>{t('The first customer builds teach Company Native what a genuinely useful CRM needs. The next system connects those choices with real use and satisfaction. Then the Build your first CRM button can give smaller companies a free starting point.', 'De första kundbyggena lär Company Native vad ett verkligt användbart CRM behöver. Nästa system kopplar valen till verklig användning och kundnöjdhet. Därefter kan knappen Bygg ditt första CRM ge mindre företag en kostnadsfri start.')}</p>
+            <p>{t('The first customer builds teach CRM From Within what a genuinely useful CRM needs. The next system connects those choices with real use and satisfaction. Then the Build your first CRM button can give smaller companies a free starting point.', 'De första kundbyggena lär CRM From Within vad ett verkligt användbart CRM behöver. Nästa system kopplar valen till verklig användning och kundnöjdhet. Därefter kan knappen Bygg ditt första CRM ge mindre företag en kostnadsfri start.')}</p>
             <p>{t('Paid services make that CRM substantially better, add tailored work and move data for customers leaving an existing CRM. Over time, more of both building and migration should happen automatically.', 'Betalda tjänster gör CRM-systemet betydligt bättre, lägger till anpassat arbete och flyttar data för kunder som lämnar ett befintligt CRM. Med tiden ska mer av både byggandet och migreringen ske automatiskt.')}</p>
             <div className="vision-outcomes"><span>{t('Hands-on first builds', 'Första byggen nära kunden')}</span><span>{t('Learning from satisfaction', 'Lärande från kundnöjdhet')}</span><span>{t('Free first-CRM builder', 'Kostnadsfri CRM-självbyggare')}</span><span>{t('Paid improvement and migration', 'Betald förbättring och migrering')}</span></div>
           </div>
@@ -660,15 +660,15 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
             </ul>
             <p className="contact-expectation">{t('Prefer a person? Ask for a personal reply in the same window. The assistant asks what you want us to know and where we can reply, one question at a time. The CRM plan asks for your work email only at the end so the result can be saved and followed up when useful.', 'Föredrar du en person? Be om ett personligt svar i samma fönster. Assistenten frågar vad du vill att vi ska veta och vart vi kan svara, en fråga i taget. CRM-planen frågar efter din jobbmejl först i slutet så att resultatet kan sparas och följas upp när det är relevant.')}</p>
             <p className="privacy-prompt">{t('Only what is needed to prepare and follow up on the CRM plan is stored.', 'Bara det som behövs för att förbereda och följa upp CRM-planen sparas.')} <a href={`/${locale}/privacy`}>{t('How we handle your information', 'Så hanteras dina uppgifter')} <Arrow /></a></p>
-            <div className="commercial-promise"><strong>{t('If the plan shows a strong fit, the next step is a paid, hands-on CRM build.', 'Om planen visar att behovet passar är nästa steg ett betalt CRM-bygge där vi arbetar nära dig.')}</strong><p>{t('You get working software; Company Native learns from what your team uses and how satisfied you are.', 'Du får fungerande programvara; Company Native lär sig av vad teamet använder och hur nöjd du är.')}</p></div>
+            <div className="commercial-promise"><strong>{t('If the plan shows a strong fit, the next step is a paid, hands-on CRM build.', 'Om planen visar att behovet passar är nästa steg ett betalt CRM-bygge där vi arbetar nära dig.')}</strong><p>{t('You get working software; CRM From Within learns from what your team uses and how satisfied you are.', 'Du får fungerande programvara; CRM From Within lär sig av vad teamet använder och hur nöjd du är.')}</p></div>
           </div>
           <Assessment locale={locale} />
         </div>
       </section>
 
       <footer>
-        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark" aria-hidden="true" /><span>Company Native</span></a><p>{t('Your first CRM, built around how you work.', 'Ditt första CRM, byggt runt hur du arbetar.')}</p><a href="#assessment-chat" className="button button-small button-primary" data-funnel-location="footer">{t('Plan my first CRM', 'Planera mitt första CRM')} <Arrow /></a></div>
-        <div className="shell footer-bottom"><span>© 2026 Company Native · {t('A Yusuf Young AB company', 'Ett bolag inom Yusuf Young AB')}</span><span><a href={`/${locale}/privacy`}>{t('Privacy', 'Integritet')}</a> · <a href={swedish ? '/en' : '/se'}>{swedish ? 'English' : 'Svenska'}</a></span></div>
+        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark" aria-hidden="true" /><span>CRM From Within</span></a><p>{t('Your first CRM, built around how you work.', 'Ditt första CRM, byggt runt hur du arbetar.')}</p><a href="#assessment-chat" className="button button-small button-primary" data-funnel-location="footer">{t('Plan my first CRM', 'Planera mitt första CRM')} <Arrow /></a></div>
+        <div className="shell footer-bottom"><span>© 2026 CRM From Within · {t('A Yusuf Young AB company', 'Ett bolag inom Yusuf Young AB')}</span><span><a href={`/${locale}/privacy`}>{t('Privacy', 'Integritet')}</a> · <a href={swedish ? '/en' : '/se'}>{swedish ? 'English' : 'Svenska'}</a></span></div>
       </footer>
     </main>
   );

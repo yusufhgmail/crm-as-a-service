@@ -77,7 +77,7 @@ export function getFunnelSessionId() {
 export async function trackFunnelEvent(name: FunnelEventName, options: TrackOptions = {}) {
   if (typeof window === 'undefined') return false;
   if (window.location.pathname.startsWith('/internal/')) return false;
-  if (window.localStorage.getItem('company-native-internal-browser') === '1') return false;
+  if (window.localStorage.getItem('crm-from-within-internal-browser') === '1') return false;
   if (navigator.doNotTrack === '1') return false;
 
   const current = getFunnelContext();

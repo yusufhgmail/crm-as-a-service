@@ -103,7 +103,7 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
         }}>
           <section ref={dialog} className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="demo-title" aria-describedby="demo-note">
             <header className="demo-topbar">
-              <div className="demo-brand"><span className="mini-coremark" aria-hidden="true"><i /></span><div><strong>Company Native</strong><small>CRM builder concept</small></div></div>
+              <div className="demo-brand"><span className="mini-coremark" aria-hidden="true"><i /></span><div><strong>CRM From Within</strong><small>CRM builder concept</small></div></div>
               <p id="demo-note">Fictional sample data · nothing connects or uploads</p>
               <button ref={closeButton} className="demo-close" type="button" onClick={closeDemo} aria-label="Close concept demo">×</button>
             </header>
@@ -111,8 +111,8 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
             {phase === 'source' && (
               <div className="demo-source">
                 <p className="eyebrow">Step 1 of 1</p>
-                <h2 id="demo-title">Show Company Native how your team works.</h2>
-                <p>In the finished product, you would approve which team accounts and history Company Native may read. This concept uses one fictional company.</p>
+                <h2 id="demo-title">Show CRM From Within how your team works.</h2>
+                <p>In the finished product, you would approve which team accounts and history CRM From Within may read. This concept uses one fictional company.</p>
                 <div className="source-grid">
                   <button type="button" onClick={beginBuild}><span className="source-icon gmail" aria-hidden="true">M</span><span><strong>Use sample Gmail history</strong><small>Fictional email threads from a five-person team</small></span><span aria-hidden="true">→</span></button>
                   <button type="button" onClick={beginBuild}><span className="source-icon microsoft" aria-hidden="true"><i /><i /><i /><i /></span><span><strong>Use sample Microsoft 365 history</strong><small>The same fictional company in Outlook</small></span><span aria-hidden="true">→</span></button>
@@ -145,10 +145,10 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
                 <aside className="crm-sidebar">
                   <div className="crm-workspace"><span>LF</span><div><strong>Lumen Field Services</strong><small>Fictional demo</small></div></div>
                   <nav aria-label="Demo CRM sections"><span className="active" aria-current="page">Overview</span><span>Customers <i>28</i></span><span>Opportunities <i>7</i></span><span>Site access <i>4</i></span><span>Delivery</span></nav>
-                  <div className="crm-ai-status"><span /><div><strong>Company Native is learning</strong><small>3 ideas ready for review</small></div></div>
+                  <div className="crm-ai-status"><span /><div><strong>CRM From Within is learning</strong><small>3 ideas ready for review</small></div></div>
                 </aside>
                 <div className="crm-main">
-                  <div className="crm-heading"><div><p className="eyebrow">Your CRM is ready</p><h2 id="demo-title">Good morning, Lumen.</h2><p>Company Native found the customer journey your team already follows and built the CRM around it.</p></div><button type="button" onClick={() => setPhase('source')}>Build again</button></div>
+                  <div className="crm-heading"><div><p className="eyebrow">Your CRM is ready</p><h2 id="demo-title">Good morning, Lumen.</h2><p>CRM From Within found the customer journey your team already follows and built the CRM around it.</p></div><button type="button" onClick={() => setPhase('source')}>Build again</button></div>
                   <div className="crm-metrics"><article><span>Customers found</span><strong>28</strong><small>Across approved sample history</small></article><article><span>Open work</span><strong>11</strong><small>Sales and delivery connected</small></article><article><span>Needs attention</span><strong>3</strong><small>With the reason explained</small></article></div>
                   <div className="crm-content-grid">
                     <section className="crm-pipeline">
@@ -166,7 +166,7 @@ export function BuildDemo({ compact = false }: { compact?: boolean }) {
                     <aside className="crm-insight">
                       <span className="insight-label">WHY THE WORK HAPPENS</span>
                       <h3>A step your old spreadsheet missed.</h3>
-                      <p>Your sample team consistently confirms site access before scheduling. Company Native created that stage and connected it to delivery.</p>
+                      <p>Your sample team consistently confirms site access before scheduling. CRM From Within created that stage and connected it to delivery.</p>
                       <div><span>Suggested improvement</span><strong>Ask for access details automatically when an opportunity becomes likely.</strong><small className="suggestion-link">Ready for review <span aria-hidden="true">→</span></small></div>
                     </aside>
                   </div>

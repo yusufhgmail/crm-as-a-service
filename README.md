@@ -1,12 +1,12 @@
-# Company Native
+# CRM From Within
 
-Company Native builds an SME's first CRM around how that company already works. Companies with an existing CRM are a secondary audience: they can start with the replacement and use paid services for data migration and deeper customization.
+CRM From Within builds an SME's first CRM around how that company already works. Companies with an existing CRM are a secondary audience: they can start with the replacement and use paid services for data migration and deeper customization.
 
 The current strategy and roadmap are in [`docs/STRATEGY.md`](docs/STRATEGY.md). The website decision and verification log is in [`docs/WEBSITE-ITERATIONS.md`](docs/WEBSITE-ITERATIONS.md).
 
 ## Current stage
 
-Company Native is in development. The immediate business is a paid, hands-on service for approximately five reference customers. Each build must generate three things:
+CRM From Within is in development. The immediate business is a paid, hands-on service for approximately five reference customers. Each build must generate three things:
 
 - a useful CRM for the customer;
 - revenue and reusable implementation patterns;
@@ -23,16 +23,16 @@ The primary customer is an SME without a CRM, using spreadsheets, inboxes, chat 
 
 ## Business boundaries
 
-CRM migration is a secondary Company Native service because it helps customers move into a Company Native CRM. Replacing other kinds of generic software remains a separate business in [`custom-software-migration`](https://github.com/yusufhgmail/custom-software-migration). Works Like Us remains the separate company-model business.
+CRM migration is a secondary CRM From Within service because it helps customers move into a CRM From Within CRM. **Company Native** remains the separate business for replacing other kinds of generic software, in [`custom-software-migration`](https://github.com/yusufhgmail/custom-software-migration). Works Like Us remains the separate company-model business.
 
 ## Public website
 
-The main customer website is live in English at <https://companynative.com/en> and Swedish at <https://companynative.com/se>. Its main action is a short conversational first-CRM plan. The separate `crm-final-vision/` site remains the product-endgame presentation and is not the main website.
+The main customer website is prepared in English at `/en` and Swedish at `/se`. Its main action is a short conversational first-CRM plan. At the final repository check on 2026-08-30, `crmfromwithin.com` did not yet resolve and `companynative.com` still served the previous CRM brand, so the rename must not be described as publicly live yet. The separate `crm-final-vision/` site remains the product-endgame presentation and is not the main website.
 
-The conversational assistant runs on Cloudflare Workers AI. Qualified leads are stored in Cloudflare D1. The private funnel dashboard at <https://companynative.com/internal/funnel> connects anonymous visits and completed conversations to later lead outcomes without analytics cookies or a persistent visitor identity.
+The conversational assistant runs on Cloudflare Workers AI. Qualified leads are stored in Cloudflare D1. The private funnel dashboard at `/internal/funnel` connects anonymous visits and completed conversations to later lead outcomes without analytics cookies or a persistent visitor identity.
 
 ## Brand and infrastructure
 
-Company Native is the company and category name; CRM is the first and complete product focus. The current identity and editable assets are in `brand/`, with the shareable guide in `output/pdf/company-native-brand-guide.pdf`.
+CRM From Within is the company and category name; CRM is the first and complete product focus. The current editable brand kit is in `brand/`, the shareable guide is `output/pdf/crm-from-within-brand-guide.pdf`, and the website-ready mark and social card are in `public/`. Older Company Native source files remain in the brand folders as historical material.
 
-The site uses Next.js through Vinext and deploys to Cloudflare Workers with the `companynative.com` custom domains. See `wrangler.jsonc` for the existing bindings and routes.
+The site uses Next.js through Vinext and deploys to Cloudflare Workers with `crmfromwithin.com` as the canonical domain. `crmfromwithin.ai` redirects to the `.com`. The Worker keeps its existing internal service name so its dashboard secret and production history remain intact.

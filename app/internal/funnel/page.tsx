@@ -162,7 +162,7 @@ export default function FunnelDashboard() {
   }
 
   const campaignUrl = useMemo(() => {
-    const url = new URL(`https://companynative.com/${locale}`);
+    const url = new URL(`https://crmfromwithin.com/${locale}`);
     if (source.trim()) url.searchParams.set('utm_source', source.trim().toLowerCase().replace(/\s+/g, '-'));
     if (medium.trim()) url.searchParams.set('utm_medium', medium.trim().toLowerCase().replace(/\s+/g, '-'));
     if (campaign.trim()) url.searchParams.set('utm_campaign', campaign.trim().toLowerCase().replace(/\s+/g, '-'));
@@ -180,7 +180,7 @@ export default function FunnelDashboard() {
     return (
       <main className="funnel-login">
         <form onSubmit={signIn}>
-          <span className="funnel-kicker">COMPANY NATIVE</span>
+          <span className="funnel-kicker">CRM FROM WITHIN</span>
           <h1>Customer acquisition</h1>
           <p>Enter the private dashboard password.</p>
           <label htmlFor="dashboard-password">Password</label>
@@ -211,7 +211,7 @@ export default function FunnelDashboard() {
   return (
     <main className="funnel-dashboard">
       <header className="funnel-header">
-        <div><span className="funnel-kicker">COMPANY NATIVE</span><h1>Customer acquisition</h1></div>
+        <div><span className="funnel-kicker">CRM FROM WITHIN</span><h1>Customer acquisition</h1></div>
         <label>Period
           <select value={days} onChange={(event) => void changeDays(event.target.value as typeof days)} disabled={working}>
             <option value="7">Last 7 days</option>

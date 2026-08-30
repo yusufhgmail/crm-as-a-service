@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://companynative.com'),
-  title: 'Company Native — Your first CRM, built around how you work',
-  description: 'Company Native builds an SME’s first CRM around the way its team already works. Paid migration and customization are available for companies leaving an existing CRM.',
+  metadataBase: new URL('https://crmfromwithin.com'),
+  title: 'CRM From Within — Your first CRM, built around how you work',
+  description: 'CRM From Within builds an SME’s first CRM around the way its team already works. Paid migration and customization are available for companies leaving an existing CRM.',
   alternates: {
     canonical: '/en',
     languages: { en: '/en', sv: '/se' },
@@ -25,16 +25,16 @@ export const metadata: Metadata = {
     title: 'Your first CRM, built around how you work.',
     description: 'Turn spreadsheets, inboxes and memory into one CRM shaped around your company.',
     type: 'website',
-    images: [{ url: 'https://companynative.com/og-company-native.png', width: 1200, height: 630, alt: 'Company Native' }],
+    images: [{ url: 'https://crmfromwithin.com/og-crm-from-within.png', width: 1200, height: 630, alt: 'CRM From Within' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Your first CRM, built around how you work.',
     description: 'Turn spreadsheets, inboxes and memory into one CRM shaped around your company.',
-    images: ['https://companynative.com/og-company-native.png'],
+    images: ['https://crmfromwithin.com/og-crm-from-within.png'],
   },
   icons: {
-    icon: '/company-native-logo.svg',
+    icon: '/crm-from-within-logo.svg',
   },
 };
 

@@ -1,8 +1,12 @@
-# Company Native website iterations
+# CRM From Within website iterations
 
 ## What the website must make a B2B SME understand
 
-Company Native builds an SME's first CRM around how that company already works. The primary visitor has no CRM and keeps leads, customer history and follow-up in spreadsheets, inboxes, chat or memory. The secondary visitor already has a CRM but wants out; that visitor can start with the replacement and add paid migration and customization. The current offer is a paid, hands-on build for approximately five reference customers. The free self-builder is the later product, not a capability available today.
+CRM From Within builds an SME's first CRM around how that company already works. The primary visitor has no CRM and keeps leads, customer history and follow-up in spreadsheets, inboxes, chat or memory. The secondary visitor already has a CRM but wants out; that visitor can start with the replacement and add paid migration and customization. The current offer is a paid, hands-on build for approximately five reference customers. The free self-builder is the later product, not a capability available today.
+
+## Brand transition — 2026-08-30
+
+Yusuf approved moving **Company Native** to the separate software-migration business and renaming this CRM business **CRM From Within**. The repository now contains the new name, domain metadata, redirects, website mark and social card. At the final repository check, `crmfromwithin.com` did not yet resolve, `companynative.com` still served the earlier CRM site and the migration site's temporary host still showed Runs Like Us. The public move therefore remains incomplete even though the source is prepared.
 
 ## Website direction reset — 2026-08-30
 
@@ -12,7 +16,7 @@ The main site must help a suitable SME understand what its first CRM would chang
 
 ### Truth inventory
 
-**Verified:** Yusuf founded FunnelBud in 2015; FunnelBud served more than 450 Swedish companies; Company Native is in development; the current roadmap begins with approximately five paid manual CRM builds; the primary audience has no CRM; CRM migration is a secondary paid service; the future self-builder is intended to provide a free CRM; the website assistant and D1 lead storage already work.
+**Verified:** Yusuf founded FunnelBud in 2015; FunnelBud served more than 450 Swedish companies; CRM From Within is in development; the current roadmap begins with approximately five paid manual CRM builds; the primary audience has no CRM; CRM migration is a secondary paid service; the future self-builder is intended to provide a free CRM; the website assistant and D1 lead storage already work.
 
 **Reasonable inference:** founders, CEOs, sales leaders and service-delivery leaders at small B2B companies are likely to choose or approve the first CRM; the most familiar symptoms are leads and customer history split across spreadsheets, inboxes, chat and memory.
 
@@ -35,7 +39,7 @@ Direction 1 is selected. It covers the whole first-CRM job, remains honest about
 
 ### Current largest risk
 
-The visitor can choose a free standard CRM today. The page must explain plainly that a free generic system may be right for a standard pipeline, while Company Native is for a company whose first CRM needs to fit the way it sells, delivers and serves customers. Unsupported cost parity, guarantees and finished-system claims must be removed.
+The visitor can choose a free standard CRM today. The page must explain plainly that a free generic system may be right for a standard pipeline, while CRM From Within is for a company whose first CRM needs to fit the way it sells, delivers and serves customers. Unsupported cost parity, guarantees and finished-system claims must be removed.
 
 ### Verification record
 
@@ -44,14 +48,14 @@ Completed on 2026-08-30.
 - **First rendered cycle:** English desktop at 1440 × 900 and Swedish mobile at 390 × 844 preserved the established design, had no horizontal overflow and kept the first-CRM story coherent. The contact alternative now asks what the visitor wants to say and then asks for a reply address in the same conversation instead of revealing a separate form.
 - **Largest issue found and fixed:** the Swedish AI response sometimes used `ni/er`, CRM jargon and more than one question. The prompt now requires ordinary `du/ditt` language, the route cleans the small set of recurring formal terms and only shows the first question when a model returns several.
 - **Fresh cold review:** the exact limited first-customer offer appeared three times. The final page now states “about five paid, hands-on builds” once near the opening; later sections explain the learning roadmap and the paid next step without repeating the scarcity.
-- **Challenge pass:** the page openly says a free standard CRM may be right for a standard pipeline. Company Native is positioned for a first CRM that must fit sales, delivery or service. Existing-CRM customers receive one secondary migration route and one FAQ answer without taking over the main story. No unsupported price, guarantee or completed-self-builder claim remains.
+- **Challenge pass:** the page openly says a free standard CRM may be right for a standard pipeline. CRM From Within is positioned for a first CRM that must fit sales, delivery or service. Existing-CRM customers receive one secondary migration route and one FAQ answer without taking over the main story. No unsupported price, guarantee or completed-self-builder claim remains.
 - **Automated and structural checks:** full ESLint, TypeScript, production build and `git diff --check` passed. Both languages have one H1, labeled visible controls, image alternatives, no duplicate IDs and the correct page language. English and Swedish privacy routes use the first-CRM terminology and have no overflow.
 - **Behavior checks:** the main button lands on the planner; adaptive questions reach a structured plan and then request a work email; the personal-contact branch asks one useful question at a time and returns to the preserved CRM-plan state. A local completed plan was saved to D1 and its exact synthetic row was removed.
-- **Live check:** Cloudflare Worker version `d8edbed8-8dc9-40fa-9108-a96134db2988` is live on `companynative.com`. The first live transcript exposed one final blocker: both AI models could return invalid output and strand a visitor. A structured answer-based fallback was added and redeployed. The repeated live test then returned a complete plan, saved the assessment to the production D1 database and the exact synthetic record was removed. English desktop and Swedish mobile routes, metadata, privacy pages and primary/secondary messages were checked on the public domain with no material issue remaining.
+- **Previous-brand live check:** Cloudflare Worker version `d8edbed8-8dc9-40fa-9108-a96134db2988` was verified on `companynative.com` before the CRM From Within rename. The first live transcript exposed one final blocker: both AI models could return invalid output and strand a visitor. A structured answer-based fallback was added and redeployed. The repeated live test then returned a complete plan, saved the assessment to the production D1 database and the exact synthetic record was removed. English desktop and Swedish mobile routes, metadata, privacy pages and primary/secondary messages were checked on the public domain with no material issue remaining.
 
 ## Historical records below
 
-The remaining entries preserve decisions and audits from earlier migration-first versions. They are history, not the current Company Native strategy; the 2026-08-30 reset and `docs/STRATEGY.md` govern the current site.
+The remaining entries preserve decisions and audits from earlier migration-first versions and the former Company Native CRM identity. They are history, not the current CRM From Within strategy; the 2026-08-30 reset, brand transition above and `docs/STRATEGY.md` govern the current site.
 
 ## Final naming decision — Company Native
 

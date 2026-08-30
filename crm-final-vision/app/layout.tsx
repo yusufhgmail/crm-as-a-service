@@ -15,15 +15,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://companynative.com'),
+  metadataBase: new URL('https://crmfromwithin.com'),
   title: {
-    default: 'Company Native — A custom CRM for companies without one',
-    template: '%s · Company Native',
+    default: 'CRM From Within — A custom CRM for companies without one',
+    template: '%s · CRM From Within',
   },
   description: 'For small companies without a CRM: connect approved team email and receive a populated CRM built around how the company works.',
   robots: { index: false, follow: false },
   openGraph: {
-    title: 'Company Native — Build the CRM already hiding inside your company',
+    title: 'CRM From Within — Build the CRM already inside your company',
     description: 'A final product vision: connect approved team email and receive a populated CRM built around how your company actually works.',
     type: 'website',
   },

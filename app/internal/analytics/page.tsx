@@ -21,8 +21,8 @@ export default function InternalAnalyticsPage() {
         <p className="section-kicker">INTERNAL ANALYTICS SETTING</p>
         <h1>{excluded ? 'This browser is excluded.' : 'This browser will be counted.'}</h1>
         <p className="legal-lead">{excluded
-          ? 'Visits from this browser will not be sent to Company Native visitor analytics. Open this page once on every team browser you want to exclude.'
-          : 'Future visits from this browser will be included in Company Native visitor analytics.'}</p>
+          ? 'Visits from this browser will not be sent to CRM From Within visitor analytics. Open this page once on every team browser you want to exclude.'
+          : 'Future visits from this browser will be included in CRM From Within visitor analytics.'}</p>
         {excluded
           ? <button className="button button-small button-dark" type="button" onClick={includeBrowser}>Count this browser again</button>
           : <a className="button button-small button-dark" href="/internal/analytics">Exclude this browser again</a>}

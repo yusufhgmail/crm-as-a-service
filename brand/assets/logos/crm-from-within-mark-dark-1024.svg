@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="CRM From Within Coremark">
+
+
+    <rect width="1024" height="1024" rx="225.28" fill="#102B2C"/>
+    <g transform="translate(163.84 163.84) scale(7.253333333333333)">
+    <path fill="#B9F6CA" d="M52 14H38C24.745 14 14 24.745 14 38v20c0 13.255 10.745 24 24 24h14V68H38c-5.523 0-10-4.477-10-10V38c0-5.523 4.477-10 10-10h14V14Z"/>
+    <rect x="48" y="35" width="34" height="26" rx="6" fill="#FF7048"/>
+  </g>
+
+</svg>
