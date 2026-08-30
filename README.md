@@ -75,6 +75,8 @@ Two websites needed:
 
 **Note (Aug 25): "Replace any software" is a DIFFERENT idea, not an expansion of this one.** Auto-CRM reads customer communications and builds a CRM. Replace-any-software reads how you use existing software and migrates you. Different input, different engine, different problem. CRM is not a wedge to something bigger. It is the complete vision.
 
+The replace-any-software vision site moved to the separate `custom-software-migration` repository on 2026-08-30. This repository now contains only the Company Native business and its CRM vision.
+
 ## Target Customer
 
 Mid-market companies ($1M-$50M revenue) with:
