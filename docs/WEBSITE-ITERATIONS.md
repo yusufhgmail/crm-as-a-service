@@ -6,7 +6,7 @@ CRM From Within builds an SME's first CRM around how that company already works.
 
 ## Brand transition — 2026-08-30
 
-Yusuf approved moving **Company Native** to the separate software-migration business and renaming this CRM business **CRM From Within**. The repository now contains the new name, domain metadata, redirects, website mark and social card. At the final repository check, `crmfromwithin.com` did not yet resolve, `companynative.com` still served the earlier CRM site and the migration site's temporary host still showed Runs Like Us. The public move therefore remains incomplete even though the source is prepared.
+Yusuf approved moving **Company Native** to the separate software-migration business and renaming this CRM business **CRM From Within**. The source, brand assets and public routing now use the new names. `crmfromwithin.com` serves the CRM site, its `www` host redirects to the canonical address, and both `.ai` hosts redirect to the matching `.com` path. `companynative.com` now serves the separate software-migration site. The former Company Native CRM route and the proposed Runs Like Us identity no longer remain public.
 
 Three brand treatments were compared. A literal nested-box or C/F/W symbol made “within” obvious but looked generic and weakened at favicon size. A wordmark-only identity felt direct but lost the recognisable product mark. The selected direction keeps the existing Coremark, palette and typography and gives them a clearer meaning: the coral core is the company’s own work, the open frame is the CRM built around it and the opening allows the system to keep changing. The hands-on service and final self-builder vision now use one CRM From Within identity.
 

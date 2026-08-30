@@ -27,7 +27,7 @@ CRM migration is a secondary CRM From Within service because it helps customers 
 
 ## Public website
 
-The main customer website is prepared in English at `/en` and Swedish at `/se`. Its main action is a short conversational first-CRM plan. At the final repository check on 2026-08-30, `crmfromwithin.com` did not yet resolve and `companynative.com` still served the previous CRM brand, so the rename must not be described as publicly live yet. The separate `crm-final-vision/` site remains the product-endgame presentation and is not the main website.
+The main customer website is live at `crmfromwithin.com`, with English at `/en` and Swedish at `/se`. Its main action is a short conversational first-CRM plan. `www.crmfromwithin.com` redirects to the canonical `.com`, while `crmfromwithin.ai` and `www.crmfromwithin.ai` redirect to the matching path on `.com`. The separate `crm-final-vision/` site remains the product-endgame presentation and is not the main website.
 
 The conversational assistant runs on Cloudflare Workers AI. Qualified leads are stored in Cloudflare D1. The private funnel dashboard at `/internal/funnel` connects anonymous visits and completed conversations to later lead outcomes without analytics cookies or a persistent visitor identity.
 
