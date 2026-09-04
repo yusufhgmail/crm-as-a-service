@@ -1,5 +1,77 @@
 # CRM From Within website iterations
 
+## Managed adaptive CRM for teams without a CRM administrator — 2026-08-31
+
+The page now sells the outcome rather than customer-led customization: a production-ready CRM that learns how an established SME works, proposes useful changes and is safely adapted by CRM From Within. The customer keeps doing the work, answers focused questions when intent is unclear and approves important changes. CRM From Within handles the design, code, testing, deployment and rollback. The best-fit audience is an established SME with a meaningful sales or customer-delivery process and roughly 5–30 customer-facing employees, but no desire to employ a CRM administrator; that size is a starting hypothesis rather than a hard limit.
+
+Three directions were considered. A self-serve builder would be easiest to describe but would hand the CRM-design job back to the customer. A technical, self-hosted and deeply configurable CRM would offer strong control but overlap with Company Native and open-source products such as Twenty. The selected direction is a managed adaptive CRM: more flexible than a rigid standard CRM, without making a non-technical team configure or operate the flexibility itself.
+
+The page distinguishes two kinds of product work. Authentication, permissions, synchronization, identity matching, audit history, backups and rollback come from a tested shared foundation. Company language, data models, screens, workflows, dashboards and rules may be generated for each customer. Previous customer code is evidence and a source of proven patterns, not a block to copy blindly; reuse should depend on the original situation, outcome, tests, later corrections and adoption.
+
+The default hosting direction is managed cloud. The leading architecture hypothesis is a separate application deployment and database for each customer, connected to a shared control plane and shared integration adapters. Credentials, configuration and logs stay isolated. Full ownership and self-hosting remain the clearer Company Native offer.
+
+The largest unresolved issue is not technical customization. It is whether the learning-and-change loop can make an expert take hours where a traditional CRM consultant takes weeks, while keeping generated changes reliable enough for real customer operations. The page therefore calls the product in development and presents a limited design-partner build rather than promising unattended automation.
+
+Verification: lint, the production build and `git diff --check` passed. English desktop at 1440 × 1000 and Swedish mobile at 390 × 844 had one H1, no horizontal overflow, no duplicate IDs and working assessment links. The comparison images loaded at their intended dimensions when scrolled into view. The only local console noise came from the existing Cloudflare analytics script rejecting the localhost origin. The existing visual system and conversational handoff were preserved. The offer has not yet been tested with buyers.
+
+## Automatic-builder design-partner offer — 2026-08-31
+
+The customer page now presents the intended product experience directly: approve the relevant Gmail or Microsoft 365 sources, receive a populated CRM built around the work already happening, and request expert changes from inside the system. It no longer prices an unbuilt permanent free plan. The current action is an application for a limited design-partner build with no build fee; selected companies receive a human-checked first version, while later hosting, expert changes and integrations are agreed separately.
+
+The page now explains the product boundary customers need to trust. Authentication, permissions, identity matching, duplicate handling, synchronization, audit history, backups and migration checks come from a tested CRM core. Company terminology, records, stages, handoffs, views, dashboards and workflows adapt to the individual company. AI proposes what the CRM should contain; important uncertainty becomes a question or review item rather than an invisible fact.
+
+The comparison with standard CRM remains short: getting started, customization and expert help. The pricing section now distinguishes the free design-partner build, later managed operation, expert improvements and carefully tested external integrations without inventing fixed prices before delivery economics are known. Visitors already stuck in HubSpot or Salesforce are sent to the separate Company Native replacement offer.
+
+Truth status: the automatic one-click builder, permanent free plan, delivery economics and customer demand remain unvalidated. The assessment and limited application are the only current website commitments. This section supersedes the earlier proposed fixed prices and permanent-free-plan copy below.
+
+Verification: lint and the production build passed. The English and Swedish routes rendered with matching metadata, no horizontal overflow at 1280 × 720, no failed images and a working assistant anchor. The old-vs-new comparison contains only the three agreed rows. The social preview now says “in development” instead of repeating the removed one-day promise. This version has not been published or tested with buyers.
+
+## Comparison reduced to the three material differences — 2026-08-31
+
+Yusuf removed five rows that repeated the same underlying point. The comparison now covers only getting started, customization and expert help. The old way is described as spending weeks learning and adapting a standard CRM, often settling for it unchanged or paying consultants for every adjustment. CRM From Within is described as working like the customer works immediately, observing real work to adapt itself and letting the customer request a change with a comment so experts can build, test and put it live.
+
+The wider choice between the current free-CRM entry route and the earlier owned HubSpot-replacement route is now an open discussion in `docs/STRATEGY.md`. It is not resolved by this copy edit. Customer ownership of code, data and deployment—and the stronger AI-sovereignty promise that could follow—is recorded as a potentially decisive advantage of the migration-first route, with the exact ownership boundary still to be designed.
+
+Verification: lint and the production build passed. The English and Swedish pages each render exactly three comparison rows, have no browser errors or horizontal overflow at 1117×886, and the shortened desktop table remains visually balanced. This copy has not been published or tested with buyers.
+
+## Perfect-CRM language, old-vs-new comparison and free-core proposal — 2026-08-31
+
+Yusuf asked the customer page to stop framing the product as a company's “first CRM” and instead make the desired outcome the “perfect CRM.” The visible website, assistant, privacy explanation, search metadata and generated public brand copy now use the perfect-CRM language. Historical records below retain the wording and decisions that were current when they were written.
+
+The comparison now presents only two approaches. The old way is to buy a standard CRM, configure it, learn its language, train the team and often hire consultants. CRM From Within learns how customer work already happens and adapts the CRM to the company. A direct table compares setup, time to value, learning, customization, expert help, training, later changes and cost. The spreadsheet image and approach were removed from this section because they distracted from the choice Yusuf wants visitors to make.
+
+The pricing page now tests a different offer:
+
+- Free core CRM: $0 / 0 SEK with hosting for up to three users, contacts, customer history, leads, pipeline, tasks, follow-up, simple lead capture and an essential dashboard.
+- Expert-built features: from $490 / 4,900 SEK per feature.
+- External integrations: from $1,900 / 19,000 SEK per integration, with third-party usage charges separate.
+
+This offer works only if the free CRM is assembled from a reliable shared foundation and approved modules. Generating and supporting a separate unbounded codebase for every free user would make the free plan uneconomic. The intended journey is: answer a short intake, automatically create the core CRM, let the company use it and route requests for advanced work to a scoped paid quote. External email, phone, messaging, accounting and migration work remains separately priced because it needs permissions, error handling and end-to-end testing.
+
+The automatic provisioner does not exist in this project yet. The current button therefore opens the planning assistant and the pricing card contains one prominent “in development” message instead of claiming that a real CRM is created immediately. The $0 plan and feature prices remain a proposal for review, not a settled commercial decision or a published offer. This section supersedes the pricing and comparison direction immediately below.
+
+Verification: lint and the production build passed. The rendered English desktop comparison reads as one old-way/new-way table, the pricing card states the free core and its limitation plainly, the free-plan button reaches the planning assistant, the Swedish route contains the matching offer, and the browser reported no console errors or horizontal overflow at 1117×886. The new narrow-screen comparison rules still need one rendered 390-pixel check before publication; the current in-app browser viewport was fixed at desktop width during this pass.
+
+## Customer-first rewrite and proposed pricing — 2026-08-31
+
+Yusuf moved the page further toward a literal built-for-you promise: “Your perfect CRM, because we build it for you.” The hero now shows three customer steps—install the learning AI, receive a useful first CRM in one day and let CRM experts keep adapting it. The six concrete capabilities Yusuf named are kept together near the top: incoming leads, automatic opportunity updates, tailored dashboards, lead outreach, website conversion, and call and meeting logs.
+
+The old section about what the first builds teach CRM From Within and the later self-builder vision were removed from the customer page. Both explained the company or investor roadmap instead of helping a customer understand, compare, buy or start. The self-builder remains in the separate final-vision project and strategy records; it is not presented as the current offer here.
+
+The former mixed comparison section is now a direct comparison of three approaches: spreadsheets and inboxes, a standard CRM, and CRM From Within. Three original comparison images show the difference between building the system yourself, adapting to a crowded standard CRM and receiving a focused CRM built around the company.
+
+The first pricing hypothesis adapts FunnelBud's simple base-plus-extras structure to custom CRM work:
+
+- CRM Foundation: $1,900 / 19,000 SEK one-time build plus $199 / 1,997 SEK per month for three users, hosting and support.
+- Advanced features: from $490 / 4,900 SEK per feature.
+- External integrations: from $1,900 / 19,000 SEK per integration, with third-party usage charges shown separately.
+
+This is a proposal for review, not a settled or published commercial decision. It deliberately separates ordinary in-app work from email, phone, migration and other connections that need permissions, error handling and end-to-end testing. The one-day first-CRM promise is also a direct offer commitment that should be operationally confirmed during the first builds.
+
+The final assistant section was shortened to its actual job: get the visitor into the conversation, identify the best starting point and collect a work email for useful follow-up. The complete handoff remains inside the same chat.
+
+Verification on the local production-equivalent build: lint and build passed; English desktop at 1440×900 and English and Swedish mobile at 390×844 had no horizontal overflow; the generated comparison images loaded at their intended 4:3 ratio; the pricing cards, language-specific currencies and assistant entry point rendered correctly. The revision has not been published and its pricing and one-day delivery promise have not been validated by customers.
+
 ## What the website must make a B2B SME understand
 
 CRM From Within builds an SME's first CRM around how that company already works. The primary visitor has no CRM and keeps leads, customer history and follow-up in spreadsheets, inboxes, chat or memory. The secondary visitor already has a CRM but wants out; that visitor can start with the replacement and add paid migration and customization. The current offer is a paid, hands-on build for approximately five reference customers. The free self-builder is the later product, not a capability available today.

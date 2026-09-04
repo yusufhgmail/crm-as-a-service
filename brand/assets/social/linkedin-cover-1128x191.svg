@@ -17,7 +17,7 @@
     <circle cx="0" cy="28" r="9" fill="#B9F6CA"/><circle cx="0" cy="76" r="9" fill="#78DF9A"/><rect x="-9" y="115" width="18" height="18" rx="5" fill="#FF7048"/>
     <circle cx="272" cy="28" r="9" fill="#B9F6CA"/><circle cx="272" cy="76" r="9" fill="#B9F6CA"/><circle cx="272" cy="124" r="9" fill="#B9F6CA"/>
   </g></g>
-    <text class="serif" x="386" y="86" fill="#FFFFFF" font-size="40" font-weight="500" letter-spacing="-1.6">Your first CRM, built around how you work.</text>
+    <text class="serif" x="386" y="86" fill="#FFFFFF" font-size="40" font-weight="500" letter-spacing="-1.6">Your perfect CRM, built around how you work.</text>
     <text class="sans" x="389" y="124" fill="#B9F6CA" font-size="14" font-weight="650">Hands-on build · owned by you · improved with you</text>
     <g transform="translate(1000 48) scale(1)">
     <path fill="#B9F6CA" d="M52 14H38C24.745 14 14 24.745 14 38v20c0 13.255 10.745 24 24 24h14V68H38c-5.523 0-10-4.477-10-10V38c0-5.523 4.477-10 10-10h14V14Z"/>

@@ -17,20 +17,21 @@
     <rect x="48" y="35" width="34" height="26" rx="6" fill="#FF7048"/>
   </g>
   <text class="sans" x="129" y="92" fill="#102B2C" font-size="31" font-weight="720" letter-spacing="-1.302">CRM From Within</text>
-    <text class="serif" x="64" y="237" fill="#102B2C" font-size="70" font-weight="500" letter-spacing="-3">
-      <tspan x="64" dy="0">Your first CRM, built</tspan>
-      <tspan x="64" dy="78">around how you work.</tspan>
+    <text class="serif" x="64" y="219" fill="#102B2C" font-size="61" font-weight="500" letter-spacing="-2.7">
+      <tspan x="64" dy="0">Get the CRM your</tspan>
+      <tspan x="64" dy="67">company needs—without</tspan>
+      <tspan x="64" dy="67">setting one up.</tspan>
     </text>
-    <text class="sans" x="66" y="434" fill="#335151" font-size="20" font-weight="500">
-      <tspan x="66" dy="0">Turn spreadsheets, inboxes and memory into one CRM</tspan>
-      <tspan x="66" dy="29">shaped around your company.</tspan>
+    <text class="sans" x="66" y="441" fill="#335151" font-size="19" font-weight="500">
+      <tspan x="66" dy="0">Apply for an early design-partner build from approved customer</tspan>
+      <tspan x="66" dy="28">work, checked by a CRM expert before your team relies on it.</tspan>
     </text>
-    <rect x="66" y="510" width="198" height="34" rx="17" fill="#102B2C"/>
-  <text class="sans" x="165" y="532" fill="#F4F1E9" font-size="11" font-weight="700" letter-spacing=".5" text-anchor="middle">STARTS WITH YOUR WORK</text>
-    <rect x="276" y="510" width="152" height="34" rx="17" fill="#B9F6CA"/>
-  <text class="sans" x="352" y="532" fill="#102B2C" font-size="11" font-weight="700" letter-spacing=".5" text-anchor="middle">OWNED BY YOU</text>
-    <rect x="440" y="510" width="176" height="34" rx="17" fill="#FBFAF6"/>
-  <text class="sans" x="528" y="532" fill="#102B2C" font-size="11" font-weight="700" letter-spacing=".5" text-anchor="middle">KEEPS IMPROVING</text>
+    <rect x="66" y="510" width="176" height="34" rx="17" fill="#102B2C"/>
+  <text class="sans" x="154" y="532" fill="#F4F1E9" font-size="11" font-weight="700" letter-spacing=".5" text-anchor="middle">IN DEVELOPMENT</text>
+    <rect x="254" y="510" width="152" height="34" rx="17" fill="#B9F6CA"/>
+  <text class="sans" x="330" y="532" fill="#102B2C" font-size="11" font-weight="700" letter-spacing=".5" text-anchor="middle">STARTS POPULATED</text>
+    <rect x="418" y="510" width="164" height="34" rx="17" fill="#FBFAF6"/>
+  <text class="sans" x="500" y="532" fill="#102B2C" font-size="11" font-weight="700" letter-spacing=".5" text-anchor="middle">EXPERT CHECKED</text>
     <g transform="translate(815 172)">
       <rect x="0" y="0" width="292" height="292" rx="67" fill="#102B2C"/>
       <g transform="translate(40 40) scale(2.2083333333333335)">

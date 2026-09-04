@@ -104,17 +104,18 @@ function ogCard() {
     <path d="M0 0h1200v630H0z" fill="none" stroke="${colors.line}" stroke-width="2"/>
     <g opacity=".32">${Array.from({ length: 15 }, (_, i) => `<circle cx="${715 + (i % 5) * 92}" cy="${98 + Math.floor(i / 5) * 92}" r="2" fill="${colors.ink}"/>`).join('')}</g>
     ${wordmark(64, 92, 31, colors.ink, 48)}
-    <text class="serif" x="64" y="237" fill="${colors.ink}" font-size="70" font-weight="500" letter-spacing="-3">
-      <tspan x="64" dy="0">Your first CRM, built</tspan>
-      <tspan x="64" dy="78">around how you work.</tspan>
+    <text class="serif" x="64" y="219" fill="${colors.ink}" font-size="61" font-weight="500" letter-spacing="-2.7">
+      <tspan x="64" dy="0">Your perfect CRM,</tspan>
+      <tspan x="64" dy="67">because we build it</tspan>
+      <tspan x="64" dy="67">for you.</tspan>
     </text>
-    <text class="sans" x="66" y="434" fill="${colors.inkSoft}" font-size="20" font-weight="500">
-      <tspan x="66" dy="0">Turn spreadsheets, inboxes and memory into one CRM</tspan>
-      <tspan x="66" dy="29">shaped around your company.</tspan>
+    <text class="sans" x="66" y="441" fill="${colors.inkSoft}" font-size="19" font-weight="500">
+      <tspan x="66" dy="0">Get a CRM made for your company in one day, then keep adapting it</tspan>
+      <tspan x="66" dy="28">with CRM experts as your needs change.</tspan>
     </text>
-    ${pill(66, 510, 'STARTS WITH YOUR WORK', { width: 198 })}
-    ${pill(276, 510, 'OWNED BY YOU', { fill: colors.mint, textColor: colors.ink, width: 152 })}
-    ${pill(440, 510, 'KEEPS IMPROVING', { fill: colors.cream, textColor: colors.ink, width: 176 })}
+    ${pill(66, 510, 'READY IN ONE DAY', { width: 176 })}
+    ${pill(254, 510, 'BUILT FOR YOU', { fill: colors.mint, textColor: colors.ink, width: 152 })}
+    ${pill(418, 510, 'GROWS WITH YOU', { fill: colors.cream, textColor: colors.ink, width: 164 })}
     <g transform="translate(815 172)">
       <rect x="0" y="0" width="292" height="292" rx="67" fill="${colors.ink}"/>
       ${coremark({ x: 40, y: 40, size: 212, frame: colors.mint, core: colors.coral })}
@@ -125,8 +126,8 @@ function ogCard() {
 function squarePost(locale = 'en') {
   const swedish = locale === 'se';
   const lines = swedish
-    ? ['Ditt första CRM', 'ska börja i hur', 'företaget faktiskt', 'arbetar.']
-    : ['Your first CRM', 'should start with', 'how your company', 'actually works.'];
+    ? ['Ditt perfekta CRM', 'ska börja i hur', 'företaget faktiskt', 'arbetar.']
+    : ['Your perfect CRM', 'should start with', 'how your company', 'actually works.'];
   return svg(1080, 1080, `
     <rect width="1080" height="1080" fill="${colors.paper}"/>
     <rect x="39" y="39" width="1002" height="1002" rx="12" fill="none" stroke="${colors.line}" stroke-width="2"/>
@@ -145,7 +146,7 @@ function linkedinCover() {
   return svg(1128, 191, `
     <rect width="1128" height="191" fill="${colors.ink}"/>
     <g opacity=".22">${systemMotif(20, 28, .72, true)}</g>
-    <text class="serif" x="386" y="86" fill="${colors.white}" font-size="40" font-weight="500" letter-spacing="-1.6">Your first CRM, built around how you work.</text>
+    <text class="serif" x="386" y="86" fill="${colors.white}" font-size="40" font-weight="500" letter-spacing="-1.6">Your perfect CRM, built around how you work.</text>
     <text class="sans" x="389" y="124" fill="${colors.mint}" font-size="14" font-weight="650">Hands-on build · owned by you · improved with you</text>
     ${coremark({ x: 1000, y: 48, size: 96, frame: colors.mint, core: colors.coral })}
   `, 'CRM From Within LinkedIn cover');
@@ -160,7 +161,7 @@ function xHeader() {
       ${coremark({ x: 38, y: 38, size: 208, frame: colors.mint, core: colors.coral })}
     </g>
     <text class="serif" x="694" y="197" fill="${colors.ink}" font-size="63" font-weight="500" letter-spacing="-2.8">
-      <tspan x="694" dy="0">Your first CRM, built</tspan><tspan x="694" dy="72">around how you work.</tspan>
+      <tspan x="694" dy="0">Your perfect CRM, built</tspan><tspan x="694" dy="72">around how you work.</tspan>
     </text>
     <text class="sans" x="698" y="369" fill="${colors.inkSoft}" font-size="19" font-weight="600">The CRM starts inside your company, not inside a generic template.</text>
   `, 'CRM From Within X header');
@@ -170,33 +171,33 @@ function onePager(locale = 'en') {
   const swedish = locale === 'se';
   const copy = swedish ? {
     eyebrow: 'CRM FROM WITHIN',
-    headline: ['Ditt första CRM,', 'byggt runt hur', 'du arbetar.'],
-    lead: ['Vi lär oss hur ditt företag följer leads, kunder och uppföljning,', 'bygger ert första användbara CRM och förbättrar det tillsammans med teamet.'],
+    headline: ['Ditt perfekta CRM,', 'byggt runt hur', 'du arbetar.'],
+    lead: ['Vi lär oss hur ditt företag följer leads, kunder och uppföljning,', 'bygger det CRM ni behöver och förbättrar det tillsammans med teamet.'],
     proof: ['10+ år inom CRM och automation', '450+ svenska företag hjälpta genom FunnelBud'],
     pathTitle: 'FRÅN UTSPRIDD INFORMATION TILL ETT CRM SOM PASSAR',
     phases: [
       ['01', 'Visa hur ni arbetar', 'Vi kartlägger hur leads, kunder och uppföljning faktiskt hanteras i dag.'],
-      ['02', 'Få ert första CRM', 'Vi bygger den enklaste användbara versionen runt ert arbetssätt.'],
+      ['02', 'Få ert CRM', 'Vi bygger den enklaste användbara versionen runt ert arbetssätt.'],
       ['03', 'Förbättra i verklig användning', 'Teamets erfarenhet visar vad som ska ändras, tas bort och automatiseras.'],
       ['VID BEHOV', 'Flytta från ett gammalt CRM', 'Har ni redan ett system kan vi bygga ersättaren först och migrera data som en betald tjänst.'],
     ],
     reasons: ['Byggt runt ert verkliga arbete', 'Ni äger CRM, kod och data', 'Vi gör det tekniska arbetet', 'Systemet förbättras med teamet'],
-    cta: 'Se hur ert första CRM skulle kunna börja.',
+    cta: 'Se vad ert perfekta CRM bör göra.',
     button: 'crmfromwithin.com/se',
   } : {
     eyebrow: 'CRM FROM WITHIN',
-    headline: ['Your first CRM,', 'built around how', 'you work.'],
-    lead: ['We learn how your company follows leads, customers and follow-up,', 'build your first useful CRM and improve it with the people who use it.'],
+    headline: ['Your perfect CRM,', 'built around how', 'you work.'],
+    lead: ['We learn how your company follows leads, customers and follow-up,', 'build the CRM you need and improve it with the people who use it.'],
     proof: ['10+ years in CRM and automation', '450+ Swedish companies served through FunnelBud'],
     pathTitle: 'FROM SCATTERED INFORMATION TO A CRM THAT FITS',
     phases: [
       ['01', 'Show us how you work', 'We map how leads, customers and follow-up are actually handled today.'],
-      ['02', 'Get your first CRM', 'We build the simplest useful version around that way of working.'],
+      ['02', 'Get your CRM', 'We build the simplest useful version around that way of working.'],
       ['03', 'Improve it through use', 'Your team shows what should change, disappear and become automatic.'],
-      ['WHEN NEEDED', 'Leave an old CRM', 'If you already have a system, we can build the replacement first and migrate the data as a paid service.'],
+      ['WHEN NEEDED', 'Leave an old CRM', 'If you already have a system, we can build the replacement and migrate the data as a paid service.'],
     ],
     reasons: ['Built around your real work', 'You own the CRM, code and data', 'We handle the technical work', 'The system improves with your team'],
-    cta: 'See where your first CRM should begin.',
+    cta: 'See what your perfect CRM should do.',
     button: 'crmfromwithin.com/en',
   };
 
@@ -269,11 +270,11 @@ function wrapWords(text, max) {
 
 function documentCover(kind = 'assessment') {
   const proposal = kind === 'proposal';
-  const title = proposal ? ['Your first CRM', 'proposal'] : ['Your first CRM', 'starting-point plan'];
+  const title = proposal ? ['Your perfect CRM', 'proposal'] : ['Your perfect CRM', 'starting-point plan'];
   const label = proposal ? 'PREPARED FOR: [COMPANY]' : 'PREPARED FOR: [COMPANY]';
   const sub = proposal
     ? 'A CRM built around how this company already works.'
-    : 'The first useful workflow, who it helps and why it is the right place to begin.';
+    : 'The most useful workflow, who it helps and why it is the right place to begin.';
   return svg(1240, 1754, `
     <rect width="1240" height="1754" fill="${colors.paper}"/>
     <rect x="58" y="58" width="1124" height="1638" rx="16" fill="none" stroke="${colors.line}" stroke-width="2"/>
@@ -301,7 +302,7 @@ function presentationCover() {
     ${wordmark(112, 128, 37, colors.white, 58)}
     <text class="sans" x="1808" y="126" fill="${colors.mint}" font-size="16" font-weight="780" letter-spacing="2" text-anchor="end">CRM FROM WITHIN</text>
     <text class="serif" x="112" y="418" fill="${colors.white}" font-size="106" font-weight="500" letter-spacing="-5">
-      <tspan x="112" dy="0">Your first CRM,</tspan><tspan x="112" dy="118">built around how</tspan><tspan x="112" dy="118" fill="${colors.coral}" font-style="italic">you work.</tspan>
+      <tspan x="112" dy="0">Your perfect CRM,</tspan><tspan x="112" dy="118">built around how</tspan><tspan x="112" dy="118" fill="${colors.coral}" font-style="italic">you work.</tspan>
     </text>
     <text class="sans" x="117" y="862" fill="#B9CBC7" font-size="27" font-weight="520">From scattered spreadsheets and inboxes to one useful CRM.</text>
     ${coremark({ x: 1510, y: 708, size: 285, frame: colors.mint, core: colors.coral })}
@@ -322,7 +323,7 @@ const emailSignature = `<!doctype html>
         <div style="margin-top:9px;font-size:12px;line-height:1.4">
           <a href="https://crmfromwithin.com/en" style="color:#102b2c;text-decoration:none;font-weight:700">crmfromwithin.com</a>
         </div>
-        <div style="margin-top:7px;font-size:11px;line-height:1.4;color:#687b77">Your first CRM, built around how you work.</div>
+        <div style="margin-top:7px;font-size:11px;line-height:1.4;color:#687b77">Your perfect CRM, built around how you work.</div>
       </td>
     </tr>
   </table>

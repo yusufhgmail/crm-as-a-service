@@ -19,7 +19,7 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
       </nav>
       <article className="legal-content shell">
         <p className="section-kicker">{swedish ? 'INTEGRITET' : 'PRIVACY'}</p>
-        <h1>{swedish ? 'Så hanteras uppgifter i CRM-planen och kontaktförfrågningar.' : 'How information is handled in the first-CRM plan and contact requests.'}</h1>
+        <h1>{swedish ? 'Så hanteras uppgifter i CRM-planen och kontaktförfrågningar.' : 'How information is handled in the CRM plan and contact requests.'}</h1>
         <p className="legal-lead">{swedish
           ? 'CRM From Within drivs av Yusuf Young AB i Sverige. Bara det som behövs för att svara på din kontaktförfrågan eller skapa, visa och följa upp CRM-planen du ber om samlas in.'
           : 'CRM From Within is operated by Yusuf Young AB in Sweden. Only what is needed to reply to your contact request or create, deliver and follow up on the CRM plan you request is collected.'}</p>
@@ -33,8 +33,8 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
         <section>
           <h2>{swedish ? 'Varför uppgifterna används' : 'Why the information is used'}</h2>
           <p>{swedish
-            ? 'Uppgifterna används för att svara personligen när du ber om kontakt, visa och spara CRM-planen, avgöra om ett första bygge verkar värdefullt och följa upp om det finns ett relevant affärsbehov. Det är frivilligt att lämna uppgifterna och det bokar inte ett säljsamtal.'
-            : 'The information is used to reply personally when you ask for contact, show and save the CRM plan, judge whether a first build appears useful and follow up when there is a sensible opportunity. Providing the information is voluntary and does not book a sales call.'}</p>
+            ? 'Uppgifterna används för att svara personligen när du ber om kontakt, visa och spara CRM-planen, avgöra om ett CRM-bygge verkar värdefullt och följa upp om det finns ett relevant affärsbehov. Det är frivilligt att lämna uppgifterna och det bokar inte ett säljsamtal.'
+            : 'The information is used to reply personally when you ask for contact, show and save the CRM plan, judge whether a CRM build appears useful and follow up when there is a sensible opportunity. Providing the information is voluntary and does not book a sales call.'}</p>
         </section>
         <section>
           <h2>{swedish ? 'AI och lagring' : 'AI and storage'}</h2>

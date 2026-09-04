@@ -18,10 +18,10 @@
   <text class="sans" x="153" y="120" fill="#102B2C" font-size="31" font-weight="720" letter-spacing="-1.302">CRM From Within</text>
     <text class="sans" x="1152" y="116" fill="#335151" font-size="13" font-weight="780" letter-spacing="2" text-anchor="end">CRM FROM WITHIN</text>
     <text class="serif" x="86" y="318" fill="#102B2C" font-size="79" font-weight="500" letter-spacing="-3.5">
-      <tspan x="86" dy="0">Your first CRM,</tspan><tspan x="86" dy="88">built around how</tspan><tspan x="86" dy="88" fill="#FF7048" font-style="italic">you work.</tspan>
+      <tspan x="86" dy="0">Your perfect CRM,</tspan><tspan x="86" dy="88">built around how</tspan><tspan x="86" dy="88" fill="#FF7048" font-style="italic">you work.</tspan>
     </text>
     <text class="sans" x="88" y="600" fill="#335151" font-size="23" font-weight="500">
-      <tspan x="88" dy="0">We learn how your company follows leads, customers and follow-up,</tspan><tspan x="88" dy="35">build your first useful CRM and improve it with the people who use it.</tspan>
+      <tspan x="88" dy="0">We learn how your company follows leads, customers and follow-up,</tspan><tspan x="88" dy="35">build the CRM you need and improve it with the people who use it.</tspan>
     </text>
     <g transform="translate(88 696)">
       <rect width="1064" height="106" rx="12" fill="#102B2C"/>
@@ -47,7 +47,7 @@
           <rect width="245" height="308" rx="12" fill="#FBFAF6" stroke="#D9DDD5" stroke-width="2"/>
           <text class="sans" x="24" y="39" fill="#FF7048" font-size="12" font-weight="820" letter-spacing="1.3">02</text>
           <text class="serif" x="24" y="92" fill="#102B2C" font-size="27" font-weight="500">
-            <tspan x="24" dy="0">Get your first</tspan><tspan x="24" dy="31">CRM</tspan>
+            <tspan x="24" dy="0">Get your CRM</tspan>
           </text>
           <text class="sans" x="24" y="169" fill="#335151" font-size="16" font-weight="500">
             <tspan x="24" dy="0">We build the simplest</tspan><tspan x="24" dy="24">useful version around</tspan><tspan x="24" dy="24">that way of working.</tspan>
@@ -68,7 +68,7 @@
             <tspan x="24" dy="0">Leave an old</tspan><tspan x="24" dy="31">CRM</tspan>
           </text>
           <text class="sans" x="24" y="169" fill="#B9CBC7" font-size="16" font-weight="500">
-            <tspan x="24" dy="0">If you already have a</tspan><tspan x="24" dy="24">system, we can build the</tspan><tspan x="24" dy="24">replacement first and</tspan><tspan x="24" dy="24">migrate the data as a</tspan><tspan x="24" dy="24">paid service.</tspan>
+            <tspan x="24" dy="0">If you already have a</tspan><tspan x="24" dy="24">system, we can build the</tspan><tspan x="24" dy="24">replacement and migrate</tspan><tspan x="24" dy="24">the data as a paid</tspan><tspan x="24" dy="24">service.</tspan>
           </text>
         </g>
     </g>
@@ -77,7 +77,7 @@
     </g>
     <g transform="translate(88 1465)">
       <rect width="1064" height="160" rx="13" fill="#B9F6CA"/>
-      <text class="serif" x="34" y="66" fill="#102B2C" font-size="34" font-weight="500">See where your first CRM should begin.</text>
+      <text class="serif" x="34" y="66" fill="#102B2C" font-size="34" font-weight="500">See what your perfect CRM should do.</text>
       <rect x="34" y="91" width="320" height="45" rx="7" fill="#FF7048"/>
       <text class="sans" x="194" y="120" fill="#102B2C" font-size="15" font-weight="780" text-anchor="middle">crmfromwithin.com/en</text>
     </g>

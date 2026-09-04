@@ -4,6 +4,8 @@
 
 **CRM From Within** (crmfromwithin.com) builds CRMs around how an SME actually works. The first and primary market is companies that do not have a CRM yet and currently rely on spreadsheets, inboxes, chat and memory. The current offer is a paid, hands-on service; the first approximately five builds create revenue, reusable CRM knowledge and direct evidence about customer satisfaction.
 
+**Open decision, 2026-08-31:** Yusuf is reconsidering whether the initial commercial wedge should instead be companies replacing HubSpot or another established CRM. That route could begin with larger paid projects and a strong customer-ownership and AI-sovereignty promise, then become cheaper and more automatic over time. The no-CRM route starts lower in the market with a free core product and improves upward. The current roadmap remains in force until this choice is tested and decided; see `docs/STRATEGY.md`.
+
 Companies that already have a CRM are a secondary audience. CRM From Within can build the simpler replacement first, then provide paid CRM data migration and customization. This remains part of the CRM business. Migrating other kinds of generic software remains a separate business.
 
 The end product is a free self-builder that can create a useful first CRM, with paid services for customers who want a stronger tailored system or need CRM migration. Over time, the system should become able to build new CRMs and migrate existing ones increasingly automatically.

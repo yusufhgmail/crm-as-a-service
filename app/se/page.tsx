@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import { Site } from '../page';
 
 export const metadata: Metadata = {
-  title: 'CRM From Within — Ditt första CRM, byggt runt hur du arbetar',
-  description: 'Få ett CRM byggt runt hur ditt företag arbetar—som ditt första system eller som en ersättare. Hjälp med datamigrering finns som betald tjänst.',
+  title: 'CRM From Within — CRM-systemet som anpassar sig efter ditt företag',
+  description: 'Ett produktionsklart CRM som lär sig hur företaget arbetar och anpassas tryggt för teamet—utan att teamet behöver administrera det.',
   alternates: {
     canonical: '/se',
     languages: { en: '/en', sv: '/se' },

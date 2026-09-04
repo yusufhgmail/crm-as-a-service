@@ -131,22 +131,22 @@ function normalizeResult(result: AssessmentResponse, userAnswerCount: number, ha
   }
   if (result.assessment && /^(strong|possible|early|not[- ]?fit)$/i.test(result.assessment.fit.trim())) {
     const fitMessages: Record<AssessmentResponse['qualification'], [string, string]> = {
-      strong: ['CRM From Within appears to be a strong fit for this need.', 'CRM From Within verkar passa det här behovet mycket väl.'],
-      possible: ['This looks worth exploring as a small first pilot.', 'Det här verkar värt att undersöka i en liten första pilot.'],
+      strong: ['This looks like a strong candidate for an early design-partner CRM.', 'Det här verkar vara en stark kandidat för ett tidigt CRM-bygge som designpartner.'],
+      possible: ['This looks worth reviewing as a focused adaptive CRM.', 'Det här verkar värt att granska som ett fokuserat anpassningsbart CRM.'],
       early: ['The opportunity is still early, but the next useful question is now clearer.', 'Behovet är fortfarande i ett tidigt skede, men nästa viktiga fråga är nu tydligare.'],
-      'not-fit': ['This does not yet look like the right kind of CRM problem for the CRM From Within service.', 'Det här verkar ännu inte vara rätt sorts CRM-problem för tjänsten CRM From Within.'],
+      'not-fit': ['A standard free CRM may be the better starting point for this need.', 'Ett kostnadsfritt standard-CRM kan vara en bättre start för det här behovet.'],
     };
     result.assessment.fit = fitMessages[result.qualification][locale === 'se' ? 1 : 0];
   }
   if (result.state === 'email') {
     result.message = locale === 'se'
-      ? 'Din första CRM-plan är klar. Ange din jobbmejl så kan den sparas och visas här. Det bokar inte ett säljsamtal.'
-      : 'Your first CRM plan is ready. Enter your work email so it can be saved and shown here. This does not book a sales call.';
+      ? 'Ditt förslag till anpassningsbart CRM är klart. Ange din jobbmejl så visas det här och vi kan bedöma om företaget passar för ett designpartnerbygge utan byggkostnad. Inget konto kopplas nu.'
+      : 'Your adaptive CRM proposal is ready. Enter your work email so it can be shown here and we can review whether the company fits the design-partner build without a build fee. No account is connected now.';
   }
   if (result.state === 'complete') {
     result.message = locale === 'se'
-      ? 'Tack. Din CRM-plan är klar nedan och har sparats för uppföljning om det verkar finnas något relevant att prata vidare om.'
-      : 'Thank you. Your CRM plan is ready below and has been saved for follow-up if the opportunity looks useful.';
+      ? 'Tack. Ditt förslag till anpassningsbart CRM visas nedan. Vi granskar ansökan och kontaktar dig om företaget passar för ett av designpartnerbyggena.'
+      : 'Thank you. Your adaptive CRM proposal is shown below. We will review the application and contact you if the company fits one of the design-partner builds.';
   }
   result.quickReplies = result.state === 'question' && Array.isArray(result.quickReplies)
     ? result.quickReplies.slice(0, 4)
@@ -227,22 +227,22 @@ function fallbackAssessment(messages: Message[], locale: Locale, hasEmail: boole
     ? {
         opportunity: 'Börja med en gemensam översikt över leads, kundhistorik, ansvarig person och nästa steg.',
         whoBenefits: 'Personerna som följer upp leads och kunder får samma aktuella bild.',
-        whyThisStart: 'Det samlar utspridda uppdateringar och gör ansvar och nästa steg tydliga utan att första versionen blir för stor.',
-        fit: 'Det här verkar värt att undersöka som ett fokuserat första CRM-bygge.',
+        whyThisStart: 'Det samlar utspridda uppdateringar och gör ansvar och nästa steg tydliga utan att CRM-grunden blir för stor.',
+        fit: 'Det här verkar värt att granska som ett fokuserat anpassningsbart CRM.',
       }
     : {
         opportunity: 'Start with one shared view of leads, customer history, ownership and next steps.',
         whoBenefits: 'The people who follow up leads and customers get the same current view.',
-        whyThisStart: 'It brings scattered updates together and makes ownership and the next action clear without making the first version too large.',
-        fit: 'This looks worth exploring as a focused first CRM build.',
+        whyThisStart: 'It brings scattered updates together and makes ownership and the next action clear without making the CRM core too large.',
+        fit: 'This looks worth reviewing as a focused adaptive CRM.',
       };
 
   return {
     message: state === 'question'
       ? nextQuestions[Math.min(Math.max(answers.length - 1, 0), nextQuestions.length - 1)]
       : locale === 'se'
-        ? 'Din första CRM-plan är klar.'
-        : 'Your first CRM plan is ready.',
+        ? 'Ditt förslag till anpassningsbart CRM är klart.'
+        : 'Your adaptive CRM proposal is ready.',
     state,
     quickReplies: [],
     assessment,
@@ -289,23 +289,23 @@ async function generateAssessment(
 
 function systemPrompt(locale: Locale, hasEmail: boolean, userAnswerCount: number) {
   const language = locale === 'se' ? 'natural Swedish' : 'natural English';
-  return `You are the CRM From Within first-CRM planning assistant for small and medium-sized companies.
+  return `You are the CRM From Within early-access assistant for established SMEs that need a useful CRM but do not want to design, customize or administer one themselves.
 
 Speak in ${language}. Be warm, concise and commercially perceptive. Never use internal scoring language with the visitor.
 ${locale === 'se' ? 'Address the visitor as du/din/ditt, never ni/er/ert/era. When several people are meant, say teamet, säljarna or medarbetarna. Write short, idiomatic Swedish, not literal translations of English business language. Use familiar terms such as bygga, arbetssätt, problem, CRM-byte or migrering. Never use implementera, lösning, smärtpunkt or ad hoc.' : ''}
 
-Your primary visitor does not have a CRM. They may track leads and customers in spreadsheets, inboxes, notes, chat or memory. A secondary visitor may already have a CRM and want to replace it. Never assume either starting point before the visitor tells you.
+Your primary visitor has no useful CRM administrator and either no useful CRM or a basic system that does not fit. They may track leads and customers in spreadsheets, inboxes, notes, chat or memory. They want a CRM that works and keeps adapting without becoming a CRM project. If the visitor has an established HubSpot, Salesforce or similar CRM that they want to replace and own, explain briefly that Company Native is the separate migration service and continue only if they still want to explore a managed adaptive CRM.
 
-Your job is to understand: the company and industry, how it tracks leads and customers today, the number and roles of people who need the CRM, where information or follow-up gets lost, which work is repeated, and what the first useful CRM should make easier. Ask exactly one relevant question at a time. Adapt the next question to what the visitor already said. Do not repeat a question. Do not ask for customer names, employee names, deal details, credentials, financial account data or any sensitive personal information.
+Your job is to understand: the company and industry, how it tracks leads and customers today, the number and roles of people who need the CRM, where information or follow-up gets lost, what is unique about the customer process, which work is repeated, and what the most useful CRM should make easier. Ask exactly one relevant question at a time. Adapt the next question to what the visitor already said. Do not repeat a question. Do not ask for customer names, employee names, deal details, credentials, financial account data or any sensitive personal information.
 
 For visitors without a CRM, listen for concrete signs that a shared system could help: spreadsheet customer lists, follow-up depending on memory, important context in inboxes or notes, manual copying between people, missed handoffs, unclear ownership and reporting that must be assembled by hand. For visitors with a CRM, listen for confirmed signs that the current system no longer fits. Use only signs the visitor actually confirms; do not assume or invent them.
 
-After 4 to 6 useful visitor answers, set state to "email". In that response, give a brief, specific preview of the best starting workflow and ask for a work email so the plan can be saved and shown on screen. Explain that this is not booking a sales call. Include an assessment object with: the best first CRM workflow or improvement, who it helps, why this is the right place to start, and whether CRM From Within appears sensible. The assessment.fit field must be a short visitor-facing sentence, never a score or a word such as strong, possible, early or not-fit. Keep each field to 1–2 short sentences.
+After 4 to 6 useful visitor answers, set state to "email". In that response, give a brief, specific preview of the most useful adaptive CRM starting point and ask for a work email so the proposal can be shown on screen and reviewed for the limited design-partner program without a build fee. Explain that no inbox or account is connected at this step. Include an assessment object with: the best CRM workflow to begin with, who it helps, why this is the right place to start, and whether the company appears suitable for a focused adaptive CRM. The assessment.fit field must be a short visitor-facing sentence, never a score or a word such as strong, possible, early or not-fit. Keep each field to 1–2 short sentences.
 
-${hasEmail ? 'A valid work email has now been supplied. Set state to "complete". Thank the visitor, say their CRM plan is ready below and has been saved so the team can follow up if the opportunity looks useful. Do not claim an email was or will be sent. Return the final assessment object based only on the conversation. Do not ask another question.' : 'Do not set state to "complete" and never invent an email.'}
+${hasEmail ? 'A valid work email has now been supplied. Set state to "complete". Thank the visitor, say their adaptive CRM proposal is ready below, and explain that the application will be reviewed and a person may contact them if the company fits a design-partner build. Do not claim an email was sent. Return the final assessment object based only on the conversation. Do not ask another question.' : 'Do not set state to "complete" and never invent an email.'}
 ${!hasEmail && userAnswerCount >= 5 ? `The visitor has now answered ${userAnswerCount} questions. Set state to "email" now, include the complete assessment object and do not ask another question.` : ''}
 
-Set qualification to strong only when customer work is important, the pain is concrete, multiple people depend on a shared view and a useful first build is plausible. Use possible for a real but less-developed need, early when the visitor is mainly exploring, and not-fit when the problem is unrelated or there is no meaningful CRM need. Having no CRM must never lower the qualification by itself.
+Set qualification to strong only when customer work is important, the pain is concrete, multiple people depend on a shared view and an adaptive CRM could remove meaningful administration or workarounds. Use possible for a real but less-developed need, early when the visitor is mainly exploring, and not-fit when a standard free CRM is likely sufficient, the problem is unrelated or there is no meaningful CRM need. Having no CRM must never lower the qualification by itself.
 
 Return only JSON matching the supplied schema. quickReplies may contain up to four short, relevant choices for the next question; otherwise use an empty array. Use empty strings for unknown facts.`;
 }

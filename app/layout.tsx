@@ -15,22 +15,22 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://crmfromwithin.com'),
-  title: 'CRM From Within — Your first CRM, built around how you work',
-  description: 'CRM From Within builds an SME’s first CRM around the way its team already works. Paid migration and customization are available for companies leaving an existing CRM.',
+  title: 'CRM From Within — The CRM that adapts to your company',
+  description: 'A production-ready CRM that learns how your company works and is safely adapted for your team—without making you administer it.',
   alternates: {
     canonical: '/en',
     languages: { en: '/en', sv: '/se' },
   },
   openGraph: {
-    title: 'Your first CRM, built around how you work.',
-    description: 'Turn spreadsheets, inboxes and memory into one CRM shaped around your company.',
+    title: 'A production-ready CRM that shapes itself around your company.',
+    description: 'CRM From Within learns how customer work happens, asks focused questions and is safely adapted for your team.',
     type: 'website',
     images: [{ url: 'https://crmfromwithin.com/og-crm-from-within.png', width: 1200, height: 630, alt: 'CRM From Within' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Your first CRM, built around how you work.',
-    description: 'Turn spreadsheets, inboxes and memory into one CRM shaped around your company.',
+    title: 'A production-ready CRM that shapes itself around your company.',
+    description: 'CRM From Within learns how customer work happens, asks focused questions and is safely adapted for your team.',
     images: ['https://crmfromwithin.com/og-crm-from-within.png'],
   },
   icons: {

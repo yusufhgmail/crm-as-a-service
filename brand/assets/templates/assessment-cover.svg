@@ -18,9 +18,9 @@
   <text class="sans" x="161" y="137" fill="#102B2C" font-size="31" font-weight="720" letter-spacing="-1.302">CRM From Within</text>
     <text class="sans" x="1144" y="133" fill="#335151" font-size="13" font-weight="780" letter-spacing="2" text-anchor="end">ASSESSMENT</text>
     <text class="serif" x="94" y="500" fill="#102B2C" font-size="91" font-weight="500" letter-spacing="-4">
-      <tspan x="94" dy="0">Your first CRM</tspan><tspan x="94" dy="104" fill="#FF7048" font-style="italic">starting-point plan</tspan>
+      <tspan x="94" dy="0">Your perfect CRM</tspan><tspan x="94" dy="104" fill="#FF7048" font-style="italic">starting-point plan</tspan>
     </text>
-    <text class="sans" x="98" y="713" fill="#335151" font-size="23" font-weight="500">The first useful workflow, who it helps and why it is the right place to begin.</text>
+    <text class="sans" x="98" y="713" fill="#335151" font-size="23" font-weight="500">The most useful workflow, who it helps and why it is the right place to begin.</text>
     <g transform="translate(98 970)"><rect width="1044" height="420" rx="20" fill="#102B2C"/><g transform="translate(728 55) scale(3.2291666666666665)">
     <path fill="#B9F6CA" d="M52 14H38C24.745 14 14 24.745 14 38v20c0 13.255 10.745 24 24 24h14V68H38c-5.523 0-10-4.477-10-10V38c0-5.523 4.477-10 10-10h14V14Z"/>
     <rect x="48" y="35" width="34" height="26" rx="6" fill="#FF7048"/>
