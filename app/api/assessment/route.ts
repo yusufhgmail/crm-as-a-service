@@ -132,7 +132,7 @@ function normalizeResult(result: AssessmentResponse, userAnswerCount: number, ha
   if (result.assessment && /^(strong|possible|early|not[- ]?fit)$/i.test(result.assessment.fit.trim())) {
     const fitMessages: Record<AssessmentResponse['qualification'], [string, string]> = {
       strong: ['Company Native appears to be a strong fit for this need.', 'Company Native verkar passa det här behovet mycket väl.'],
-      possible: ['This looks worth exploring as a small first pilot.', 'Det här verkar värt att undersöka i en liten första pilot.'],
+      possible: ['This looks worth exploring as a bounded replacement proof.', 'Det här verkar värt att undersöka i ett avgränsat ersättningsbevis.'],
       early: ['The opportunity is still early, but the next useful question is now clearer.', 'Behovet är fortfarande i ett tidigt skede, men nästa viktiga fråga är nu tydligare.'],
       'not-fit': ['This does not yet look like the right kind of CRM problem for the Company Native service.', 'Det här verkar ännu inte vara rätt sorts CRM-problem för Company Natives tjänst.'],
     };
@@ -140,8 +140,8 @@ function normalizeResult(result: AssessmentResponse, userAnswerCount: number, ha
   }
   if (result.state === 'email') {
     result.message = locale === 'se'
-      ? 'Din första bedömning är klar. Ange din jobbmejl så kan den sparas och visas här. Det bokar inte ett säljsamtal.'
-      : 'Your initial assessment is ready. Enter your work email so it can be saved and shown here. This does not book a sales call.';
+      ? 'Ditt första ersättningsbevis är skissat. Ange din jobbmejl så kan bedömningen sparas och visas här. Det bokar inte ett säljsamtal.'
+      : 'Your first replacement proof is outlined. Enter your work email so the assessment can be saved and shown here. This does not book a sales call.';
   }
   if (result.state === 'complete') {
     result.message = locale === 'se'
@@ -183,20 +183,20 @@ async function generateAssessment(bindings: WorkerBindings, aiMessages: Array<{ 
 
 function systemPrompt(locale: Locale, hasEmail: boolean) {
   const language = locale === 'se' ? 'natural Swedish' : 'natural English';
-  return `You are the Company Native CRM assessment assistant for B2B small and medium-sized companies.
+  return `You are the Company Native CRM replacement assessment assistant for established B2B companies using HubSpot, Salesforce or another central CRM.
 
 Speak in ${language}. Be warm, concise and commercially perceptive. Never use internal scoring language with the visitor.
 ${locale === 'se' ? 'Address the visitor as du/din/ditt, never ni/er/ert. Write idiomatic Swedish, not literal translations of English business language. Prefer familiar terms such as CRM-byte or migrering, kontaktformulär, driftmiljö and arbetssätt.' : ''}
 
-Your job is to understand: the company and industry, current CRM or planned CRM, number and roles of users, the most painful workaround or delay, the work they want removed, and whether a small no-migration pilot could create immediate value. Ask exactly one relevant question at a time. Adapt the next question to what the visitor already said. Do not repeat a question. Do not ask for customer names, employee names, deal details, credentials, financial account data or any sensitive personal information.
+Your job is to understand: the company and industry, current CRM, number and roles of users, the workflows people actually rely on, the most painful workaround or delay, critical integrations, approximate licence/consultant/internal-administration cost, ownership or privacy requirements, whether the company wants Company Native hosting or self-hosting, who should be able to change the CRM later, and which valuable workflow could become a paid, bounded replacement proof while the current CRM stays live. Ask exactly one relevant question at a time. Adapt the next question to what the visitor already said. Do not repeat a question. Do not ask for customer names, employee names, deal details, credentials, financial account data or any sensitive personal information.
 
 Listen for concrete signs that an established CRM no longer fits: spreadsheets beside the CRM, excessive custom fields, special reports only one person can produce, manual copying between teams, important context in inboxes or notes, and handoffs that happen outside the system. Use only signs the visitor actually confirms; do not assume or invent them.
 
-After 4 to 6 useful visitor answers, set state to "email". In that response, give a brief, specific preview of the likely first opportunity and ask for a work email so the assessment can be saved and shown on screen. Explain that this is not booking a sales call. Include an assessment object with: the strongest small improvement, who it helps, why it can be tested before migration, and whether Company Native appears sensible. The assessment.fit field must be a short visitor-facing sentence, never a score or a word such as strong, possible, early or not-fit. Keep each field to 1–2 short sentences.
+After 4 to 6 useful visitor answers, set state to "email". In that response, give a brief, specific preview of the likely first replacement proof and ask for a work email so the assessment can be saved and shown on screen. Explain that this is not booking a sales call. Include an assessment object with: the workflow worth replacing first, who should test it, why it can be isolated and compared safely before migration, and whether Company Native appears sensible. The assessment.fit field must be a short visitor-facing sentence, never a score or a word such as strong, possible, early or not-fit. Keep each field to 1–2 short sentences. Never promise savings, a successful migration, a fixed delivery time or a price before the proof has been scoped.
 
 ${hasEmail ? 'A valid work email has now been supplied. Set state to "complete". Thank the visitor, say their assessment is ready below and has been saved so the team can follow up if the opportunity looks useful. Do not claim an email was or will be sent. Return the final assessment object based only on the conversation. Do not ask another question.' : 'Do not set state to "complete" and never invent an email.'}
 
-Set qualification to strong only when the CRM is central, the pain is concrete, multiple people depend on it and a useful pilot is plausible. Use possible for a real but less-developed need, early when the visitor is mainly exploring, and not-fit when the problem is unrelated or there is no meaningful CRM need.
+Set qualification to strong only when the current CRM is central, the pain and affected workflow are concrete, multiple people depend on it, and a paid replacement proof is plausible. Use possible for a real but less-developed need, early when the visitor is mainly exploring, and not-fit when the problem is unrelated, there is no current CRM to replace, or a standard CRM already fits without costly workarounds.
 
 Return only JSON matching the supplied schema. quickReplies may contain up to four short, relevant choices for the next question; otherwise use an empty array. Use empty strings for unknown facts.`;
 }

@@ -1,5 +1,31 @@
 # Company Native website iterations
 
+## Own the CRM and the process it enables — 2026-08-31
+
+The page now makes the customer choice explicit: replace HubSpot or Salesforce with a CRM the company owns, controls and can keep changing. The customer can ask Company Native to operate it, run it in its own environment or use another qualified partner, subject to the agreed project and licence terms. The strongest audience is an established company whose valuable sales or customer-delivery process no longer fits a rented standard CRM and whose need for ownership, deep adaptation or a controlled AI boundary justifies a migration.
+
+Three directions were considered. A lower-cost CRM migration makes savings the headline but creates a brittle promise before delivery economics are proven. A self-hosted open-CRM implementation offers ownership but can leave the customer with the same configuration project it wanted to escape. The selected direction combines ownership with a managed replacement: Company Native maps how the present system is really used, discusses intent with the people who know the work, builds the owned system around that process and proves one bounded workflow before migration.
+
+The customer-specific data model, workflows, interface, dashboards, reports and rules may be generated as ordinary code in the customer repository. A shared tested foundation supplies authentication, permissions, synchronization, identity matching, audit history, backups and migration checks. This is the difference from asking a general-purpose coding agent to produce an isolated CRM: Company Native takes responsibility for a CRM-specific foundation, migration, testing, deployment and the ongoing change process.
+
+The largest unresolved questions are commercial and operational: which companies value ownership enough to fund the switch, how much total cost can actually be removed, what handover and support terms the customer expects, and how much expert time safe replacement and later adaptation require. The current offer therefore begins with a paid, bounded replacement proof rather than a full migration promise.
+
+Verification: lint, the production build and `git diff --check` passed. English desktop at 1440 × 1000 and Swedish mobile at 390 × 844 had one H1, no horizontal overflow, no failed images, no duplicate IDs and working assessment links. The only local console noise came from the existing Cloudflare analytics script rejecting the localhost origin. The existing visual identity and assessment flow were preserved. The offer has not yet been tested with buyers.
+
+## Owned CRM replacement proof — 2026-08-31
+
+The CRM customer page now speaks directly to established HubSpot and Salesforce users. The offer is not a generic custom build, a free pilot or a guaranteed saving. Company Native maps the current CRM, combines system evidence with focused human consultation, builds one paid and bounded replacement workflow beside the live system, and asks the customer to migrate only if real use shows that the replacement fits better.
+
+The customer value proposition now keeps the strongest benefits together near the top: exact process fit, customer ownership of customer-specific code and data, freedom to keep Company Native as operator or move the deployment elsewhere, and hosting/model boundaries that can support stronger privacy and AI sovereignty. The page qualifies all of these with agreed project terms instead of asserting undefined legal or security promises.
+
+The implementation boundary is also customer-facing. Identity, permissions, duplicate handling, synchronization, audit history, backups and migration reconciliation are dependable modules. The customer's data model, workflows, interfaces, dashboards, reports and rules are built around the company. AI helps map configuration and activity; people explain intent, exceptions and what the future process should become.
+
+The earlier money-back guarantee, current-cost promise, broad 2030 vision section and “Lovable for CRM” shorthand were removed. Cost is now handled through a credible three-year comparison that includes licences, consultants, internal administration, replacement work, integrations, hosting and maintenance. The assessment now produces a suggested paid replacement proof rather than a small no-migration improvement.
+
+Truth status: customer demand, delivery cost, migration feasibility, ownership terms and total-cost savings remain unvalidated. The page describes the offer to test, not a completed migration engine or proven commercial outcome. This section supersedes the earlier pilot, price-parity and larger-vision directions below.
+
+Verification: lint and the production build passed. The English and Swedish routes rendered with matching metadata, no horizontal overflow or failed images at 1280 × 720, and working assessment anchors. The customer page contains the ownership and AI-sovereignty questions and no longer contains the investor-style vision section. This version has not been published or tested with buyers.
+
 ## What the website must make a B2B SME understand
 
 Company Native moves a company from HubSpot, Salesforce, Pipedrive, or another generic CRM to a system built around the way that company should work. We handle the full journey: understand actual usage, find a useful no-migration pilot, design the safe first replacement and the long-term destination, build and migrate the system, train the team, and improve it continuously. The customer should feel that this is ambitious but unusually safe, that Yusuf and the team understand CRM deeply, and that the first step is small enough to take now.

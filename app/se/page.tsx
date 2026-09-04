@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import { Site } from '../page';
 
 export const metadata: Metadata = {
-  title: 'Company Native — Ditt CRM ska passa din verksamhet',
-  description: 'Få ett CRM byggt runt hur ditt företag arbetar, med design, utveckling, datamigrering, utbildning och löpande förbättring hela vägen.',
+  title: 'Company Native — Äg och styr CRM-systemet som ersätter det gamla',
+  description: 'Ersätt HubSpot eller Salesforce med ett CRM som företaget äger, kan driva själv och kan fortsätta ändra med valfritt kvalificerat team.',
   alternates: {
     canonical: '/se',
     languages: { en: '/en', sv: '/se' },

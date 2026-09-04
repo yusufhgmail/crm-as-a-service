@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import { Site } from '../page';
 
 export const metadata: Metadata = {
-  title: 'Company Native — Your CRM should fit your business',
-  description: 'Get a CRM built around how your company works, with design, development, data migration, training and continuous improvement handled end to end.',
+  title: 'Company Native — Own and control your CRM replacement',
+  description: 'Replace HubSpot or Salesforce with a CRM your company owns, can self-host and can keep changing with any qualified team.',
   alternates: {
     canonical: '/en',
     languages: { en: '/en', sv: '/se' },

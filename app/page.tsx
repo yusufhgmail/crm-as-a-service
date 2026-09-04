@@ -68,74 +68,74 @@ const swedishUseCases = [
 ];
 
 const englishSystemSteps = [
-  ['Observe', 'The system learns which parts of your current CRM people use, where work slows down and what happens outside the system.'],
-  ['Ask', 'Approved power users can explain an action in the moment, so the system learns why the work happens—not only where they clicked.'],
-  ['Design', 'Real usage becomes requirements and working mockups for the safe first move, the better system and the long-term vision.'],
-  ['Refine', 'Your leadership and users shape the mockups with Company Native CRM specialists before development begins.'],
-  ['Build & move', 'Company Native engineers build, integrate, import the data, train your team and move people across only when the new system is better.'],
-  ['Keep improving', 'The system keeps spotting bugs, repeated work and improvement opportunities, then brings the useful ones to you.'],
+  ['Map the current CRM', 'With permission, we inspect the objects, fields, workflows, integrations, reports and activity your company actually relies on.'],
+  ['Understand the intent', 'Your people explain why exceptions, handoffs and reports matter. Usage shows what happens; consultation shows what it means.'],
+  ['Build the replacement proof', 'We combine a tested CRM foundation with generated code for the data model, workflow and interfaces that should be unique to your company.'],
+  ['Reconcile the data', 'Every imported record, relationship and permission is checked against the current CRM before the proof can be trusted.'],
+  ['Run both systems', 'A small group performs real work in the replacement while the existing CRM stays live. The evidence decides whether to continue.'],
+  ['Move and keep improving', 'We migrate only after the acceptance tests pass, then operate the owned system or hand it over for your company to run.'],
 ];
 
 const swedishSystemSteps = [
-  ['Observera', 'Systemet lär sig vilka delar av ditt CRM som används, var arbetet bromsar och vad som händer utanför systemet.'],
-  ['Fråga', 'Utvalda superanvändare kan förklara ett moment medan de arbetar, så att systemet förstår varför det görs—inte bara var de klickade.'],
-  ['Designa', 'Det teamet faktiskt gör blir tydliga krav och fungerande skisser för det säkra första steget, det bättre systemet och den långsiktiga visionen.'],
-  ['Förfina', 'Ledning och användare formar skisserna tillsammans med Company Natives CRM-specialister innan utvecklingen börjar.'],
-  ['Bygg och flytta', 'Company Native bygger, integrerar, importerar data, utbildar teamet och flyttar användarna först när det nya systemet är bättre.'],
-  ['Fortsätt förbättra', 'Systemet fortsätter att hitta buggar, dubbelarbete och förbättringsmöjligheter och lyfter fram det som ger mest värde.'],
+  ['Kartlägg nuvarande CRM', 'Med godkännande granskar vi objekt, fält, arbetsflöden, integrationer, rapporter och aktivitet som företaget faktiskt förlitar sig på.'],
+  ['Förstå avsikten', 'Teamet förklarar varför undantag, överlämningar och rapporter spelar roll. Användningen visar vad som händer; samtalen visar vad det betyder.'],
+  ['Bygg ersättningsbeviset', 'Vi kombinerar en testad CRM-grund med genererad kod för datamodellen, arbetsflödet och gränssnitten som ska vara unika för företaget.'],
+  ['Stäm av datan', 'Varje importerad post, relation och behörighet kontrolleras mot nuvarande CRM innan ersättningen kan betraktas som pålitlig.'],
+  ['Kör båda systemen', 'En liten grupp utför riktigt arbete i ersättningen medan det befintliga CRM-systemet fortsätter. Underlaget avgör om det är värt att gå vidare.'],
+  ['Byt och fortsätt förbättra', 'Vi migrerar först när acceptanstesterna är godkända och driver sedan det ägda systemet eller lämnar över det till företaget.'],
 ];
 
 const englishPhases = [
   {
-    version: 'V0',
-    title: 'Value now. No migration.',
-    text: 'You get one small, useful improvement in your existing setup. Your team benefits immediately while the system learns how the work really happens.',
-    highlight: 'If your team does not use it, you get your money back.',
+    version: 'PROOF',
+    title: 'Replace one painful workflow first.',
+    text: 'Choose a valuable part of HubSpot or Salesforce that creates repeated work or does not fit. We build the owned replacement beside it.',
+    highlight: 'A paid, bounded proof—not a migration commitment.',
   },
   {
-    version: 'V1',
-    title: 'Everything you rely on. Less work.',
-    text: 'Company Native recreates what already works, removes manual steps and keeps the interface familiar. One or two people prove it first. Nobody moves until it is at least as good as today.',
-    highlight: 'Migrate to something proven—not to hope.',
+    version: 'COMPARE',
+    title: 'Let real work decide which system is better.',
+    text: 'A small group completes the same work in both systems. We compare effort, adoption, accuracy, missing capabilities and operational risk.',
+    highlight: 'The current CRM stays live throughout the proof.',
   },
   {
-    version: 'V2',
-    title: 'A better way to run the business.',
-    text: 'Now the work itself can be redesigned. Sales, marketing, delivery and service become one streamlined customer journey, with more automated behind the scenes.',
-    highlight: 'Change the process after the safe foundation works.',
+    version: 'DECIDE',
+    title: 'See the migration and three-year cost before committing.',
+    text: 'The proof shows what must be built, integrated and moved. We compare the complete replacement with licences, consultants, internal work and maintenance today.',
+    highlight: 'If ownership is not better and economically credible, do not migrate.',
   },
   {
-    version: 'NORTH STAR',
-    title: 'The company you want to become.',
-    text: 'Your CRM grows into the customer-facing operating system of the business—shaped by your strategy, brand and values, and updated as your ambition changes.',
-    highlight: 'Every improvement points in the same direction.',
+    version: 'OWN',
+    title: 'Move only after the replacement proves itself.',
+    text: 'Company Native migrates and reconciles the data, trains the team and handles cutover. Keep us as the operator or run the software elsewhere.',
+    highlight: 'You keep the customer-specific code, data and freedom to leave.',
   },
 ];
 
 const swedishPhases = [
   {
-    version: 'V0',
-    title: 'Värde nu. Ingen migrering.',
-    text: 'Du får en liten, användbar förbättring i ditt nuvarande CRM. Teamet får nytta direkt medan systemet lär sig hur arbetet faktiskt går till.',
-    highlight: 'Om teamet inte använder den får du pengarna tillbaka.',
+    version: 'BEVIS',
+    title: 'Ersätt ett smärtsamt arbetsflöde först.',
+    text: 'Välj en värdefull del av HubSpot eller Salesforce som skapar dubbelarbete eller inte passar. Vi bygger den ägda ersättningen bredvid.',
+    highlight: 'Ett betalt, avgränsat bevis—inte ett migrationsåtagande.',
   },
   {
-    version: 'V1',
-    title: 'Allt du behöver. Mindre arbete.',
-    text: 'Company Native återskapar det som redan fungerar, tar bort manuella steg och behåller ett välbekant gränssnitt. En eller två personer testar lösningen först. Resten av teamet byter först när den fungerar minst lika bra som dagens CRM.',
-    highlight: 'Byt till något som redan fungerar—inte till ett löfte.',
+    version: 'JÄMFÖR',
+    title: 'Låt riktigt arbete avgöra vilket system som är bättre.',
+    text: 'En liten grupp utför samma arbete i båda systemen. Vi jämför arbetsinsats, användning, noggrannhet, saknade funktioner och operativ risk.',
+    highlight: 'Nuvarande CRM fortsätter vara igång under hela beviset.',
   },
   {
-    version: 'V2',
-    title: 'Ett bättre sätt att driva verksamheten.',
-    text: 'När grunden fungerar kan arbetssättet förbättras. Försäljning, marknadsföring, leverans och service blir en sammanhängande kundresa där fler moment automatiseras i bakgrunden.',
-    highlight: 'Förändra arbetssättet först när den säkra grunden fungerar.',
+    version: 'BESLUTA',
+    title: 'Se migreringen och treårskostnaden före beslutet.',
+    text: 'Beviset visar vad som måste byggas, kopplas och flyttas. Vi jämför hela ersättningen med dagens licenser, konsulter, interna arbete och underhåll.',
+    highlight: 'Om ägandet inte är bättre och ekonomiskt trovärdigt bör du inte migrera.',
   },
   {
-    version: 'NORDSTJÄRNAN',
-    title: 'Företaget du vill bygga.',
-    text: 'Ditt CRM växer till systemet som håller ihop alla kundrelationer—format av din strategi, ditt varumärke och dina värderingar, och utvecklat i takt med din ambition.',
-    highlight: 'Varje förbättring pekar åt samma håll.',
+    version: 'ÄG',
+    title: 'Byt först när ersättningen har bevisat sig.',
+    text: 'Company Native migrerar och stämmer av datan, utbildar teamet och hanterar bytet. Behåll oss som operatör eller kör programvaran någon annanstans.',
+    highlight: 'Du behåller kundkoden, datan och friheten att lämna.',
   },
 ];
 
@@ -154,8 +154,8 @@ function Assessment({ locale }: { locale: Locale }) {
     {
       role: 'assistant',
       text: swedish
-        ? 'Vilket CRM använder eller överväger du idag?'
-        : 'Which CRM are you using or considering today?',
+        ? 'Vilket CRM använder företaget idag?'
+        : 'Which CRM does your company use today?',
     },
   ]);
   const [answer, setAnswer] = useState('');
@@ -277,7 +277,7 @@ function Assessment({ locale }: { locale: Locale }) {
       <div className="assessment-topbar">
         <div className="assistant-identity">
           <span className="assistant-orb">AI</span>
-          <div><strong>{swedish ? 'CRM-bedömning' : 'CRM assessment'}</strong><small>{swedish ? 'Tar oftast 4–6 minuter' : 'Usually 4–6 minutes'}</small></div>
+          <div><strong>{swedish ? 'Bedömning av CRM-byte' : 'CRM replacement assessment'}</strong><small>{swedish ? 'Tar oftast 4–6 minuter' : 'Usually 4–6 minutes'}</small></div>
         </div>
         <div className="assessment-topbar-actions">
           <span className="private-label">{swedish ? 'Privat samtal' : 'Private conversation'}</span>
@@ -372,11 +372,11 @@ function Assessment({ locale }: { locale: Locale }) {
           )}
           {result && (
             <div className="assessment-result">
-              <small>{swedish ? 'DIN BÄSTA FÖRSTA FÖRBÄTTRING' : 'YOUR LIKELY FIRST OPPORTUNITY'}</small>
+              <small>{swedish ? 'ERT FÖRSTA ERSÄTTNINGSBEVIS' : 'YOUR FIRST REPLACEMENT PROOF'}</small>
               <strong>{result.opportunity}</strong>
               <dl>
                 <div><dt>{swedish ? 'Vem det hjälper' : 'Who it helps'}</dt><dd>{result.whoBenefits}</dd></div>
-                <div><dt>{swedish ? 'Varför före migreringen' : 'Why before migration'}</dt><dd>{result.whyBeforeMigration}</dd></div>
+                <div><dt>{swedish ? 'Varför detta kan testas tryggt' : 'Why this can be tested safely'}</dt><dd>{result.whyBeforeMigration}</dd></div>
                 <div><dt>{swedish ? 'Hur väl det passar' : 'Fit'}</dt><dd>{result.fit}</dd></div>
               </dl>
             </div>
@@ -424,31 +424,31 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <span>Company Native</span>
         </a>
         <div className="nav-links">
-          <a href="#process">{t('How it works', 'Så fungerar det')}</a>
-          <a href="#possibilities">{t('What you can build', 'Vad du kan bygga')}</a>
-          <a href="#story">{t('Why us', 'Varför oss')}</a>
+          <a href="#why-replace">{t('Why replace', 'Varför byta')}</a>
+          <a href="#process">{t('How we prove it', 'Så bevisar vi det')}</a>
+          <a href="#ownership">{t('Ownership', 'Ägande')}</a>
         </div>
         <div className="nav-actions">
           <a className="language-link" href={swedish ? '/en' : '/se'} lang={swedish ? 'en' : 'sv'} data-funnel-event="language_change" data-funnel-location="navigation">{swedish ? 'EN' : 'SV'}</a>
-          <a className="button button-small button-dark" href="#assessment-chat" data-funnel-location="navigation">{t('Start assessment', 'Starta bedömning')} <Arrow /></a>
+          <a className="button button-small button-dark" href="#assessment-chat" data-funnel-location="navigation">{t('Plan a replacement proof', 'Planera ett ersättningsbevis')} <Arrow /></a>
         </div>
       </nav>
 
       <section className="hero shell" id="top">
         <div className="hero-copy">
-          <p className="eyebrow"><span /> {t('Company-native CRM, handled end to end', 'CRM byggt för ditt företag, från början till slut')}</p>
-          <h1>{t('Your CRM should fit your business.', 'Ditt CRM ska passa din verksamhet.')} <em>{t('Not the other way around.', 'Inte tvärtom.')}</em></h1>
+          <p className="eyebrow"><span /> {t('Owned and adaptable CRM replacement', 'Ett ägt och anpassningsbart CRM')}</p>
+          <h1>{t('Replace HubSpot or Salesforce with a CRM', 'Ersätt HubSpot eller Salesforce med ett CRM')} <em>{t('your company owns and controls.', 'som ditt företag äger och styr.')}</em></h1>
           <p className="hero-lead">{t(
-            'Your company gets a CRM built around how it actually works. Company Native maps the work, designs and builds the system, migrates your data and keeps improving it—without disrupting your team.',
-            'Du får ett CRM byggt runt hur verksamheten faktiskt fungerar. Company Native kartlägger arbetet, designar och bygger systemet, flyttar din data och fortsätter förbättra det—utan att störa teamet.',
+            'Built as ordinary software around how your people actually sell and serve customers. Keep Company Native as the operator, self-host it or let your own team or another partner keep changing it.',
+            'Byggt som vanlig programvara runt hur teamet faktiskt säljer och hjälper kunder. Behåll Company Native som operatör, driv det själv eller låt det egna teamet eller en annan partner fortsätta ändra det.',
           )}</p>
           <div className="hero-actions">
-            <a className="button button-primary" href="#assessment-chat" data-funnel-location="hero">{t('Start your CRM assessment', 'Starta din CRM-bedömning')} <Arrow /></a>
-            <a className="text-link" href="#process">{t('See the safe path to migration', 'Se den trygga vägen till migrering')} <Arrow /></a>
+            <a className="button button-primary" href="#assessment-chat" data-funnel-location="hero">{t('Plan a replacement proof', 'Planera ett ersättningsbevis')} <Arrow /></a>
+            <a className="text-link" href="#process">{t('See how the proof works', 'Se hur beviset fungerar')} <Arrow /></a>
           </div>
           <p className="hero-promise"><span>✓</span> {t(
-            'Start with one useful improvement—without migrating anything. If your team does not use it, you get your money back.',
-            'Börja med en användbar förbättring—utan att migrera något. Om teamet inte använder den får du pengarna tillbaka.',
+            'Prove one workflow beside the current CRM first. Migrate only if the owned replacement works better in real work.',
+            'Bevisa ett arbetsflöde bredvid nuvarande CRM först. Migrera bara om den ägda ersättningen fungerar bättre i verkligt arbete.',
           )}</p>
           <div className="proof-line">
             <span className="proof-avatars" aria-hidden="true"><i>YY</i><i>10+</i></span>
@@ -456,19 +456,19 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           </div>
         </div>
 
-        <div className="journey-card" role="group" aria-label={t('The path from your current CRM to your ideal CRM', 'Vägen från ditt nuvarande CRM till det CRM du egentligen behöver')}>
-          <div className="journey-head"><div><span className="status-dot" /> {t('Your CRM transformation', 'Din CRM-migrering')}</div><span className="live-label">{t('CONTINUOUS', 'LÖPANDE')}</span></div>
+        <div className="journey-card" role="group" aria-label={t('The path from your current CRM to an owned replacement', 'Vägen från nuvarande CRM till en ägd ersättare')}>
+          <div className="journey-head"><div><span className="status-dot" /> {t('Your CRM replacement', 'Ditt CRM-byte')}</div><span className="live-label">{t('PROVEN FIRST', 'BEVISAS FÖRST')}</span></div>
           <div className="journey-body">
-            <p className="journey-label">{t('A safe path forward', 'En trygg väg framåt')}</p>
-            <div className="journey-step active"><span className="step-number">01</span><div><strong>{t('Value before migration', 'Värde före migrering')}</strong><small>{t('One useful pilot. No disruption.', 'En användbar pilot. Inget avbrott.')}</small></div><span className="step-state">START</span></div>
+            <p className="journey-label">{t('Prove the replacement before the migration', 'Bevisa ersättningen före migreringen')}</p>
+            <div className="journey-step active"><span className="step-number">01</span><div><strong>{t('Map what people really use', 'Kartlägg vad teamet faktiskt använder')}</strong><small>{t('The system shows what happens. People explain why.', 'Systemet visar vad som händer. Teamet förklarar varför.')}</small></div><span className="step-state">START</span></div>
             <div className="journey-line" />
-            <div className="journey-step"><span className="step-number">02</span><div><strong>{t('Everything you rely on', 'Allt du behöver finns kvar')}</strong><small>{t('Your current CRM, only easier.', 'Samma stöd som idag, fast enklare.')}</small></div><span className="step-check">✓</span></div>
+            <div className="journey-step"><span className="step-number">02</span><div><strong>{t('Build one owned workflow', 'Bygg ett ägt arbetsflöde')}</strong><small>{t('Tested CRM core. Your process and interface.', 'Testad CRM-kärna. Ditt arbetssätt och gränssnitt.')}</small></div><span className="step-check">✓</span></div>
             <div className="journey-line" />
-            <div className="journey-step"><span className="step-number">03</span><div><strong>{t('A better way to work', 'Ett bättre arbetssätt')}</strong><small>{t('Remove work. Automate the rest.', 'Minska arbetet. Automatisera resten.')}</small></div><span className="step-check">✓</span></div>
+            <div className="journey-step"><span className="step-number">03</span><div><strong>{t('Compare both systems', 'Jämför båda systemen')}</strong><small>{t('Real users. Real work. Current CRM still live.', 'Riktiga användare. Riktigt arbete. Nuvarande CRM är kvar.')}</small></div><span className="step-check">✓</span></div>
             <div className="journey-line accent" />
-            <div className="journey-step north-star"><span className="step-number">∞</span><div><strong>{t('Your full potential', 'Din fulla potential')}</strong><small>{t('A system as unique as your company.', 'Ett system lika unikt som ditt företag.')}</small></div><span className="spark" aria-hidden="true">✦</span></div>
+            <div className="journey-step north-star"><span className="step-number">04</span><div><strong>{t('Own it and choose who changes it', 'Äg det och välj vem som ändrar det')}</strong><small>{t('Company Native, your team or another partner.', 'Company Native, ditt team eller en annan partner.')}</small></div><span className="spark" aria-hidden="true">✦</span></div>
           </div>
-          <div className="journey-footer"><span>{t('Built around your people', 'Byggt runt ditt team')}</span><span>{t('Owned by you', 'Ägs av dig')}</span><span>{t('Improves continuously', 'Förbättras löpande')}</span></div>
+          <div className="journey-footer"><span>{t('Own the code and data', 'Äg koden och datan')}</span><span>{t('Self-host or choose an operator', 'Driv själv eller välj operatör')}</span><span>{t('Change it with any qualified partner', 'Ändra med valfri kvalificerad partner')}</span></div>
         </div>
       </section>
 
@@ -476,12 +476,12 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
         <div className="shell credential-grid">
           <div><strong>{t('10+ years', '10+ år')}</strong><span>{t('building CRM and automation', 'med CRM och automation')}</span></div>
           <div><strong>{t('450+ companies', '450+ företag')}</strong><span>{t('served by FunnelBud', 'som FunnelBud har hjälpt')}</span></div>
-          <div><strong>{t('Built for SMEs', 'Byggt för SME')}</strong><span>{t('not stripped-down enterprise', 'inte en nedbantad storföretagsprodukt')}</span></div>
-          <div><strong>{t('End to end', 'Hela vägen')}</strong><span>{t('design, build, move and improve', 'från design till löpande förbättring')}</span></div>
+          <div><strong>{t('Built for established teams', 'Byggt för etablerade team')}</strong><span>{t('whose CRM no longer fits', 'vars CRM inte längre passar')}</span></div>
+          <div><strong>{t('Control after the migration', 'Kontroll efter migreringen')}</strong><span>{t('operate, change or hand it over', 'driv, ändra eller lämna över')}</span></div>
         </div>
       </section>
 
-      <section className="recognition section" aria-labelledby="recognition-heading">
+      <section className="recognition section" id="why-replace" aria-labelledby="recognition-heading">
         <div className="shell">
           <div className="recognition-heading">
             <p className="section-kicker">{t('DOES THIS LOOK FAMILIAR?', 'KÄNNER DU IGEN DET HÄR?')}</p>
@@ -518,13 +518,13 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
             <div key={item}><span>{String(index + 1).padStart(2, '0')}</span><strong>{item}</strong>{index < 5 && <i aria-hidden="true">→</i>}</div>
           ))}
         </div>
-        <div className="category-intro"><span>{t('What are you actually buying?', 'Vad köper du egentligen?')}</span><strong>{t('A managed service that gives you your own software.', 'En tjänst som ger dig din egen programvara—utan att du behöver driva utvecklingen.')}</strong></div>
+        <div className="category-intro"><span>{t('What are you actually buying?', 'Vad köper du egentligen?')}</span><strong>{t('A safe replacement process that leaves your company with software it owns and can keep changing.', 'En trygg ersättningsprocess som lämnar företaget med programvara det äger och kan fortsätta ändra.')}</strong></div>
         <div className="category-compare">
           <article><small>{t('GENERIC CRM', 'GENERISKT CRM')}</small><h3>{t('You adapt to the product', 'Du anpassar dig till produkten')}</h3><p>{t('You rent the same system as everybody else and work within the features and process the vendor chooses.', 'Du hyr samma system som alla andra och arbetar inom funktionerna och processen som leverantören väljer.')}</p></article>
-          <article><small>{t('TRADITIONAL CUSTOM BUILD', 'TRADITIONELL SPECIALUTVECKLING')}</small><h3>{t('You manage the project', 'Du driver projektet')}</h3><p>{t('You explain every requirement, carry the migration risk and often inherit software nobody continues to improve.', 'Du förklarar varje krav, bär migreringsrisken och ärver ofta programvara som ingen fortsätter förbättra.')}</p></article>
-          <article className="recommended"><small>COMPANY NATIVE</small><h3>{t('The system adapts to you', 'Systemet anpassas efter dig')}</h3><p>{t('Company Native learns, designs, builds, moves and improves everything. You own the software; Company Native carries the work.', 'Company Native lär sig hur verksamheten fungerar, bygger systemet, migrerar datan och fortsätter att förbättra det. Du äger programvaran; Company Native gör jobbet.')}</p></article>
+          <article><small>{t('FLEXIBLE OPEN CRM', 'FLEXIBELT ÖPPET CRM')}</small><h3>{t('Your team adapts the platform', 'Ditt team anpassar plattformen')}</h3><p>{t('You gain control and flexibility, but your company or a partner must design the system, migrate the data and keep the complete installation reliable.', 'Du får kontroll och flexibilitet, men företaget eller en partner måste utforma systemet, migrera datan och hålla hela installationen tillförlitlig.')}</p></article>
+          <article className="recommended"><small>COMPANY NATIVE</small><h3>{t('Own the system without owning the project', 'Äg systemet utan att själv driva projektet')}</h3><p>{t('We map, build, migrate and prove the replacement. Your company receives the customer-specific code, data and deployment path—and may choose who changes it next.', 'Vi kartlägger, bygger, migrerar och bevisar ersättningen. Företaget får den kundspecifika koden, datan och driftsvägen—och kan välja vem som ändrar det härnäst.')}</p></article>
         </div>
-        <p className="best-fit"><strong>{t('Best for:', 'Passar bäst för:')}</strong> {t('Founders, CEOs and sales leaders at B2B SMEs whose CRM has become central to sales, delivery or customer service—and whose important work no longer fits a generic tool.', 'Grundare, vd:ar och säljchefer på B2B-företag där CRM har blivit centralt för försäljning, leverans eller kundservice—och där det viktiga arbetet inte längre ryms i ett generiskt verktyg.')}</p>
+        <p className="best-fit"><strong>{t('Best for:', 'Passar bäst för:')}</strong> {t('Established companies where HubSpot or Salesforce is central, important workflows no longer fit, and ownership or deep adaptability creates substantial value. If the standard suite already fits and costs less than a responsible replacement, keep it.', 'Etablerade företag där HubSpot eller Salesforce är centralt, viktiga arbetsflöden inte längre passar och ägande eller djup anpassningsbarhet skapar stort värde. Om standardpaketet redan passar och kostar mindre än en ansvarsfull ersättare bör du behålla det.')}</p>
       </section>
 
       <section className="possibilities section" id="possibilities">
@@ -546,16 +546,16 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <p className="possibility-foot">{t('And one connected place for calling, queues, email, forecasting, outreach, replies, customer risk, management reporting and the other work your team currently holds together by hand.', 'Och ett samlat system för samtal, köer, mejl, prognoser, prospektering, kundrisk, ledningsrapportering och allt annat som teamet idag håller ihop för hand.')}</p>
           <div className="mid-cta">
             <div><small>{t('YOUR COMPANY WILL BE DIFFERENT', 'DITT FÖRETAG ÄR INTE SOM ALLA ANDRA')}</small><strong>{t('Where could a CRM remove the most work from your team?', 'Vilket arbete skulle rätt CRM kunna ta bort för ditt team?')}</strong></div>
-            <a className="button button-dark" href="#assessment-chat" data-funnel-location="after_examples">{t('Find your first improvement', 'Hitta din första förbättring')} <Arrow /></a>
+            <a className="button button-dark" href="#assessment-chat" data-funnel-location="after_examples">{t('Choose a replacement proof', 'Välj ett ersättningsbevis')} <Arrow /></a>
           </div>
         </div>
       </section>
 
       <section className="process section shell" id="process">
         <div className="section-heading centered-heading">
-          <p className="section-kicker">{t('MOVE WITHOUT THE BIG-BANG MIGRATION', 'BYT CRM UTAN ETT RISKFYLLT STORPROJEKT')}</p>
-          <h2>{t('Get value first. Move only when it is better.', 'Få värde först. Byt CRM först när det nya är bättre.')}</h2>
-          <p>{t('Your current work keeps running while the replacement is built. The long-term vision guides every decision, but your team changes one safe step at a time.', 'Verksamheten fortsätter som vanligt medan det nya systemet byggs. Den långsiktiga visionen styr varje beslut, men teamet byter ett tryggt steg i taget.')}</p>
+          <p className="section-kicker">{t('PROVE THE REPLACEMENT BEFORE THE MIGRATION', 'BEVISA ERSÄTTNINGEN FÖRE MIGRERINGEN')}</p>
+          <h2>{t('Let real work decide whether you should move.', 'Låt riktigt arbete avgöra om du ska byta.')}</h2>
+          <p>{t('The existing CRM stays live while a small group tests one valuable workflow in the owned replacement. Only the evidence can justify the larger migration.', 'Det befintliga CRM-systemet fortsätter vara igång medan en liten grupp testar ett värdefullt arbetsflöde i den ägda ersättningen. Bara resultatet kan motivera den större migreringen.')}</p>
         </div>
         <div className="phase-list">
           {phases.map((phase, index) => (
@@ -570,8 +570,8 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
       <section className="system-section section">
         <div className="shell">
           <div className="system-intro">
-            <div><p className="section-kicker light">{t('HOW THE SYSTEM WORKS', 'SÅ FUNGERAR SYSTEMET')}</p><h2>{t('It learns what to build before development begins.', 'Det lär sig vad som ska byggas innan utvecklingen börjar.')}</h2></div>
-            <p>{t('AI can make software quickly. The hard part is understanding what your people need, what the business could become and how to get there safely. That is what the Company Native system is built to do.', 'AI kan skapa programvara snabbt. Det svåra är att förstå vad ditt team behöver, vad verksamheten kan bli och hur man når dit tryggt. Det är vad Company Natives system är byggt för.')}</p>
+            <div><p className="section-kicker light">{t('HOW THE REPLACEMENT IS BUILT', 'SÅ BYGGS ERSÄTTNINGEN')}</p><h2>{t('AI reads the system. Your people explain the process. Company Native builds the owned replacement.', 'AI läser systemet. Teamet förklarar arbetssättet. Company Native bygger den ägda ersättningen.')}</h2></div>
+            <p>{t('Activity and configuration show what the current CRM does. They cannot explain every exception, commercial choice or future ambition. Focused consultation decides what to preserve, improve or remove before code is generated.', 'Aktivitet och inställningar visar vad nuvarande CRM gör. De kan inte förklara varje undantag, affärsbeslut eller framtida ambition. Fokuserade samtal avgör vad som ska behållas, förbättras eller tas bort innan kod genereras.')}</p>
           </div>
           <div className="system-grid">
             {systemSteps.map(([title, text], index) => (
@@ -579,16 +579,16 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
             ))}
           </div>
           <div className="system-summary">
-            <strong>{t('Think Lovable for CRM—then add everything a real migration needs.', 'Tänk Lovable för CRM—och lägg sedan till allt en verklig migrering kräver.')}</strong>
-            <p>{t('Company Native handles the understanding, design, development, integrations, data, training, rollout and continuous improvement. You keep running the business.', 'Company Native tar hand om kartläggning, design, utveckling, integrationer, data, utbildning, lansering och löpande förbättring. Du fortsätter att driva verksamheten.')}</p>
+            <strong>{t('A tested foundation where failure would hurt. Ordinary customer-owned code where your company is different.', 'En testad grund där fel skulle göra skada. Vanlig kundägd kod där företaget är annorlunda.')}</strong>
+            <p>{t('Identity, permissions, synchronization, audit history, backups and migration checks are reused and tested. Your data model, workflows, interfaces, reports and company rules can be generated as code in your own repository.', 'Identitet, behörigheter, synkronisering, ändringshistorik, säkerhetskopior och migrationskontroller återanvänds och testas. Din datamodell, dina arbetsflöden, gränssnitt, rapporter och företagsregler kan genereras som kod i ditt eget kodarkiv.')}</p>
           </div>
           <div className="learning-moat">
             <div className="learning-visual" aria-hidden="true"><span>A</span><span>B</span><span>C</span><i>✦</i></div>
             <div>
-              <p className="section-kicker light">{t('PROVEN PATTERNS, PRIVATE CUSTOMER DATA', 'BEPRÖVADE MÖNSTER, PRIVAT KUNDDATA')}</p>
-              <h3>{t('Benefit from what others have learned—without sharing your CRM or data.', 'Dra nytta av vad andra har lärt sig—utan att dela ditt CRM eller din data.')}</h3>
-              <p>{t('The private Company Native system can recognize when a problem resembles work already solved, see which approach succeeded and help engineers start from the strongest pattern. One useful improvement can make the next implementation faster and better.', 'Company Natives privata system kan känna igen problem som liknar sådant som redan har lösts, se vilket arbetssätt som fungerade och hjälpa ingenjörerna att börja med den bästa beprövade lösningen. En värdefull förbättring kan göra nästa projekt snabbare och bättre.')}</p>
-              <small>{t('Your CRM, code and data remain yours. Reusable engineering patterns can improve the service without customer data or code being shared with AI labs or other customers.', 'Du äger ditt CRM, koden och all data. Beprövade tekniska lösningar kan förbättra tjänsten utan att kunddata eller kod delas med AI-labb eller andra kunder.')}</small>
+              <p className="section-kicker light">{t('LEARNING THAT DOES NOT EXPOSE THE CUSTOMER', 'LÄRANDE SOM INTE EXPONERAR KUNDEN')}</p>
+              <h3>{t('Each replacement can make the next one faster and safer—without sharing private customer work.', 'Varje ersättning kan göra nästa snabbare och tryggare—utan att privat kundarbete delas.')}</h3>
+              <p>{t('With explicit permission, Company Native can reuse general implementation patterns, acceptance tests and reliability lessons. Raw records, secrets, customer-specific rules and private code stay inside the customer boundary.', 'Med uttryckligt godkännande kan Company Native återanvända generella byggmönster, acceptanstester och lärdomar om tillförlitlighet. Rådata, hemligheter, kundspecifika regler och privat kod stannar inom kundens gräns.')}</p>
+              <small>{t('The exact hosting, model, access, ownership and learning terms are agreed before customer data is connected.', 'Exakta villkor för drift, modeller, åtkomst, ägande och lärande avtalas innan kunddata ansluts.')}</small>
             </div>
           </div>
         </div>
@@ -600,10 +600,10 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <h2>{t('A custom CRM should remove risk—not move it onto you.', 'Ett anpassat CRM ska ta bort risk—inte flytta den till dig.')}</h2>
         </div>
         <div className="answer-grid">
-          <article><span>{t('TIME', 'TID')}</span><h3>{t('“We do not have time for this.”', '”Jag har inte tid med ett sådant här projekt.”')}</h3><p>{t('You do not run the project. Company Native observes, specifies, builds, migrates and trains. Your people contribute where their knowledge matters, not as an unpaid software team.', 'Du driver inte projektet. Company Native kartlägger, planerar, bygger, migrerar och utbildar. Ditt team bidrar där kunskapen behövs—inte som ett obetalt IT-team.')}</p></article>
+          <article><span>{t('COST', 'KOSTNAD')}</span><h3>{t('“Will this actually cost less?”', '”Blir det verkligen billigare?”')}</h3><p>{t('The proof produces a credible three-year comparison: licences, consultants, internal administration, replacement work, integrations, hosting and maintenance. We do not claim a saving before that evidence exists.', 'Beviset ger en trovärdig treårsjämförelse: licenser, konsulter, intern administration, ersättningsarbete, integrationer, drift och underhåll. Vi lovar ingen besparing innan det underlaget finns.')}</p></article>
           <article><span>{t('MIGRATION', 'MIGRERING')}</span><h3>{t('“What if the new system is worse?”', '”Tänk om det nya systemet är sämre?”')}</h3><p>{t('One or two users test the new system alongside the old one. Everyone moves only after the important work is at least as good—and usually easier.', 'En eller två användare testar det nya systemet parallellt med det gamla. Alla flyttar först när det viktiga arbetet fungerar minst lika bra—och oftast enklare.')}</p></article>
-          <article><span>{t('OWNERSHIP', 'ÄGANDE')}</span><h3>{t('“Will we be locked in?”', '”Blir jag inlåst?”')}</h3><p>{t('No. The software is yours forever. If you leave, Company Native stops supporting and improving it. You can run it yourself or take it to any vendor.', 'Nej. Programvaran är din för alltid. Om du avslutar samarbetet upphör supporten och den löpande utvecklingen. Du kan driva systemet själv eller ta det till valfri leverantör.')}</p></article>
-          <article><span>{t('SECURITY', 'SÄKERHET')}</span><h3>{t('“Where does our sensitive data go?”', '”Vart tar känsliga data vägen?”')}</h3><p>{t('You can use Company Native hosting or your own, frontier AI or open models. For sensitive enterprise work, the entire system and custom AI can run on your premises.', 'Du kan använda Company Natives driftmiljö eller din egen, och välja mellan kommersiella eller öppna AI-modeller. För särskilt känsliga miljöer kan hela systemet och en egen AI köras i din egen infrastruktur.')}</p></article>
+          <article id="ownership"><span>{t('OWNERSHIP & CHANGE', 'ÄGANDE OCH ÄNDRINGAR')}</span><h3>{t('“Can we run and change it without you?”', '”Kan vi driva och ändra det utan er?”')}</h3><p>{t('Yes, under the agreed ownership and open-source terms. Company Native can operate and improve it, or hand over the customer-specific repository, documentation and deployment path so your team or another qualified partner can continue.', 'Ja, enligt överenskomna ägande- och open source-villkor. Company Native kan driva och förbättra systemet eller lämna över det kundspecifika kodarkivet, dokumentationen och driftsvägen så att ditt team eller en annan kvalificerad partner kan fortsätta.')}</p></article>
+          <article><span>{t('AI SOVEREIGNTY', 'AI-SUVERÄNITET')}</span><h3>{t('“Where do our sensitive data and AI work go?”', '”Vart tar känsliga data och AI-arbete vägen?”')}</h3><p>{t('Choose the hosting, model providers and access boundaries that fit the risk. Sensitive deployments can use your infrastructure and approved models; exact controls are designed and priced before connection.', 'Välj den driftmiljö, de modellleverantörer och åtkomstgränser som passar risken. Känsliga lösningar kan använda er infrastruktur och godkända modeller; exakta kontroller utformas och prissätts före anslutning.')}</p></article>
         </div>
       </section>
 
@@ -616,24 +616,11 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           </div>
           <div className="story-copy">
             <p className="section-kicker">{t('WHY WE ARE BUILDING THIS', 'VARFÖR VI BYGGER DETTA')}</p>
-            <h2>{t('A decade inside CRM exposed how companies bend around the software.', 'Tio år med CRM visade hur företag tvingas anpassa sig efter programvaran.')}</h2>
+            <h2>{t('A decade inside CRM exposed why companies pay to customize software they still do not control.', 'Tio år med CRM visade varför företag betalar för att anpassa programvara de ändå inte styr.')}</h2>
             <p>{t('Yusuf Young founded FunnelBud in 2015. The company helped more than 450 Swedish businesses with CRM, sales and marketing automation before he exited it.', 'Yusuf Young grundade FunnelBud 2015. Företaget hjälpte fler än 450 svenska verksamheter med CRM, försäljning och marknadsautomation innan han lämnade bolaget.')}</p>
             <p>{t('That work exposed the same problem again and again: every CRM is generic by necessity. Customers pay for workarounds, abandon useful ideas and change good processes to fit the software.', 'Arbetet visade samma problem om och om igen: alla CRM-system måste i grunden vara generella. Kunder betalar för nödlösningar, överger bra idéer och ändrar fungerande processer för att passa programvaran.')}</p>
-            <blockquote>{t('“Now that AI has changed the cost of building software, there is no reason your business should keep adapting to a generic CRM. The CRM can finally adapt to you.”', '”Nu när AI har förändrat kostnaden för att bygga programvara finns det ingen anledning att din verksamhet ska fortsätta anpassa sig till ett generiskt CRM. CRM-systemet kan äntligen anpassa sig till dig.”')}</blockquote>
+            <blockquote>{t('“If adapting rented CRM costs more than building the right system, the company should be able to own, run and keep changing the better system instead.”', '”Om det kostar mer att anpassa ett hyrt CRM än att bygga rätt system ska företaget kunna äga, driva och fortsätta ändra det bättre systemet i stället.”')}</blockquote>
             <a href="https://www.funnelbud.com/om-oss/" target="_blank" rel="noreferrer" className="text-link">{t('See the FunnelBud story', 'Läs historien om FunnelBud')} <Arrow /></a>
-          </div>
-        </div>
-      </section>
-
-      <section className="vision section">
-        <div className="shell vision-grid">
-          <div className="vision-number">2030<span>{t('AND', 'OCH')}<br />{t('BEYOND', 'FRAMÅT')}</span></div>
-          <div className="vision-copy">
-            <p className="section-kicker light">{t('THE LARGER VISION', 'DEN STÖRRE VISIONEN')}</p>
-            <h2>{t('The future is company-native.', 'Framtiden är programvara byggd för varje företag.')}</h2>
-            <p>{t('Every company will have systems built around how it wants to compete, serve customers and grow. This is company-native software: software that adapts to your company instead of making your company adapt to it.', 'Varje företag kommer att ha system byggda runt hur det vill konkurrera, hjälpa kunder och växa. Företagsspecifik programvara anpassar sig till ditt företag i stället för att tvinga företaget att anpassa sig.')}</p>
-            <p>{t('CRM is where this future starts because it touches the heart of the company: every relationship with every customer. Your CRM should become an extension of your strategy, brand and values—not just a place where salespeople type notes.', 'CRM är där framtiden börjar, eftersom det rör företagets hjärta: varje relation med varje kund. Ditt CRM ska bli en förlängning av din strategi, ditt varumärke och dina värderingar—inte bara en plats där säljare skriver anteckningar.')}</p>
-            <div className="vision-outcomes"><span>{t('More speed', 'Högre fart')}</span><span>{t('Fewer mistakes', 'Färre misstag')}</span><span>{t('Less manual work', 'Mindre manuellt arbete')}</span><span>{t('A real competitive advantage', 'En verklig konkurrensfördel')}</span></div>
           </div>
         </div>
       </section>
@@ -641,24 +628,24 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
       <section className="assessment-section section" id="assessment">
         <div className="shell assessment-grid">
           <div className="assessment-copy">
-            <p className="section-kicker">{t('YOUR FIRST STEP', 'DITT FÖRSTA STEG')}</p>
-            <h2>{t('What would a CRM built around your company change?', 'Vad skulle ett CRM byggt runt ditt företag förändra?')}</h2>
-            <p>{t('The assessment assistant asks about your current system, where work gets stuck and which improvement could give your team value without a migration.', 'Bedömningsassistenten frågar om ditt nuvarande system, var arbetet fastnar och vilken förbättring som kan ge teamet värde innan du byter CRM.')}</p>
+            <p className="section-kicker">{t('PLAN THE PROOF', 'PLANERA BEVISET')}</p>
+            <h2>{t('Prove one CRM workflow before planning the migration.', 'Bevisa ett CRM-arbetsflöde innan du planerar migreringen.')}</h2>
+            <p>{t('The assessment identifies the part of HubSpot or Salesforce worth replacing first, the people who must test it and the evidence needed before a larger decision.', 'Bedömningen identifierar den del av HubSpot eller Salesforce som är värd att ersätta först, vilka som måste testa den och vilket underlag som behövs före ett större beslut.')}</p>
             <ul>
               <li><span>✓</span> {t('A conversation, not a generic lead form', 'Ett samtal, inte ett vanligt kontaktformulär')}</li>
               <li><span>✓</span> {t('About five minutes', 'Cirka fem minuter')}</li>
-              <li><span>✓</span> {t('Your strongest small improvement, who it helps and why it can work before migration', 'Din starkaste lilla förbättring, vem den hjälper och varför den kan fungera före migreringen')}</li>
+              <li><span>✓</span> {t('A suggested paid replacement proof, who should test it and why it can be isolated safely', 'Ett förslag på betalt ersättningsbevis, vilka som bör testa det och varför det kan avgränsas tryggt')}</li>
             </ul>
             <p className="contact-expectation">{t('Prefer a person? You can request a personal reply from the assistant window before answering anything. The assessment asks for your work email only at the end so the result can be saved and followed up when useful.', 'Föredrar du en person? Du kan be om ett personligt svar i assistentfönstret innan du svarar på något. Din jobbmejl efterfrågas först i slutet så att resultatet kan sparas och följas upp om det finns något relevant att prata vidare om.')}</p>
             <p className="privacy-prompt">{t('Only what is needed to prepare and follow up on the assessment is stored.', 'Bara det som behövs för att förbereda och följa upp bedömningen sparas.')} <a href={`/${locale}/privacy`}>{t('How we handle your information', 'Så hanteras dina uppgifter')} <Arrow /></a></p>
-            <div className="commercial-promise"><strong>{t('Start without increasing your CRM cost.', 'Börja utan att öka din CRM-kostnad.')}</strong><p>{t('If your team does not use the first pilot, you get your money back. If it works, the starting service costs what your current CRM costs today. AI-assisted development and reusable engineering patterns make that possible without starting every build from zero.', 'Om teamet inte använder den första piloten får du pengarna tillbaka. Om den fungerar kostar tjänsten till en början lika mycket som ditt nuvarande CRM. AI-stödd utveckling och beprövade tekniska lösningar gör det möjligt utan att varje projekt börjar från noll.')}</p></div>
+            <div className="commercial-promise"><strong>{t('The first commercial step is a paid, bounded proof.', 'Det första kommersiella steget är ett betalt, avgränsat bevis.')}</strong><p>{t('Scope, price, access and acceptance tests are agreed before work begins. A full migration is proposed only after the proof shows a better fit and a credible total cost.', 'Omfattning, pris, åtkomst och acceptanstester avtalas innan arbetet börjar. En full migrering föreslås först när beviset visar bättre passform och en trovärdig totalkostnad.')}</p></div>
           </div>
           <Assessment locale={locale} />
         </div>
       </section>
 
       <footer>
-        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark" aria-hidden="true" /><span>Company Native</span></a><p>{t('Software built around your company.', 'Programvara byggd runt ditt företag.')}</p><a href="#assessment-chat" className="button button-small button-primary" data-funnel-location="footer">{t('Start assessment', 'Starta bedömning')} <Arrow /></a></div>
+        <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark" aria-hidden="true" /><span>Company Native</span></a><p>{t('Replace rented CRM with software your company can own, run and keep changing.', 'Ersätt hyrt CRM med programvara företaget kan äga, driva och fortsätta ändra.')}</p><a href="#assessment-chat" className="button button-small button-primary" data-funnel-location="footer">{t('Plan a replacement proof', 'Planera ett ersättningsbevis')} <Arrow /></a></div>
         <div className="shell footer-bottom"><span>© 2026 Company Native · {t('A Yusuf Young AB company', 'Ett bolag inom Yusuf Young AB')}</span><span><a href={`/${locale}/privacy`}>{t('Privacy', 'Integritet')}</a> · <a href={swedish ? '/en' : '/se'}>{swedish ? 'English' : 'Svenska'}</a></span></div>
       </footer>
     </main>
