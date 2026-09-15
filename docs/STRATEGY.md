@@ -246,6 +246,26 @@ The same pattern applies beyond CRM: any software business whose deliverable is 
 
 <<--[AETHER] 2026-09-15: Captured Yusuf's general insight and tied it to the existing reinforcing-cycle and learning-system sections. Also logged as fact #1265.>>
 
+## The Moat Formula, applied
+
+**Added 2026-09-15 (from the specialist-LLM category discussion, sheet row 86 / id spLLM2609).**
+
+The general learning: a specialized-builder business has a moat if and only if each implementation produces verifiable-outcome-labeled learning that makes the next implementation for a DIFFERENT customer better, through both the harness and the weights, with specifics stripped to patterns. Full version: Business Ideas master sheet, "Business learnings" tab, learning 001.
+
+What each part means for CRM From Within:
+
+1. **Verifiable outcome labels.** The learning system (above) already records what was built and what people used. The sharpening: every signal must attach to a specific feature or build, and be outcome-labeled, not volume-labeled. "Customer liked it" is weak. "Quote-followup reminder: adopted by 3 of 3 installers, still used in week 4" is a moat contribution. The cheapest honest label is retention per feature: still used after a month = worked, abandoned = failed. Feedback scores and usage analytics count as long as they are tied to specific features, not aggregates.
+
+2. **Two loops.** The harness loop (SOPs, patterns, templates, test suites, the component library) compounds from the first install and is where the near-term flywheel lives. The weights loop (fine-tuning the model on verified build lessons) needs volume we will not have for years, but is what eventually becomes invisible and hard to copy. Design the records now so both can consume them.
+
+3. **Cross-customer transfer.** The moat is not "this customer's CRM keeps improving." It is "customer N's build makes customer N+1's build faster and better." That is why the first five CRMs must be similar enough to transfer (same kind of SME, same region, similar workflows) even though they are hand-built.
+
+4. **Patterns, not specifics.** Already the learning-system rule: approved derived patterns only, raw communications and customer-specific data never cross. This is also what keeps customers willing to feed the system.
+
+5. **Repeatability.** The harness flywheel spins with 3-5 instrumented installs. The one-click product (roadmap step 3) is the endgame, but manual builds now are the training data for the button later. The failure mode is not too few installs, it is un-instrumented installs: an install that does not capture what was used and what outcome it produced contributes nothing to the moat regardless of revenue.
+
+<<--[AETHER] 2026-09-15: Generic version lives in the master sheet "Business learnings" tab (learning 001); this is the applied version. Same session as the specialist-LLM category entry.>>
+
 ## Ownership and portability
 
 CRM From Within’s free or low-cost product may run on a shared, reliable platform. Customers must control their data and have a clear export and deletion path. The exact licence for generated code, generic platform modules and separate deployments is not yet settled and must not be overstated publicly.
