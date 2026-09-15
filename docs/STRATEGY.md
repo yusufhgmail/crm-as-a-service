@@ -264,7 +264,7 @@ What each part means for CRM From Within:
 
 5. **Repeatability.** The harness flywheel spins with 3-5 instrumented installs. The one-click product (roadmap step 3) is the endgame, but manual builds now are the training data for the button later. The failure mode is not too few installs, it is un-instrumented installs: an install that does not capture what was used and what outcome it produced contributes nothing to the moat regardless of revenue.
 
-<<--[AETHER] 2026-09-15: Generic version lives in the master sheet "Business learnings" tab (learning 001); this is the applied version. Same session as the specialist-LLM category entry.>>
+<<--[AETHER] 2026-09-15: Canonical general version = "The Moat Formula - outcome-labeled cross-implementation learning" Google Doc (Entrepreneurship Learning Notes folder): https://docs.google.com/document/d/1vkEhfYRF0UcWJjR-6iSq_bsMw5Z9y2HyqsJW7GZTvWU/edit — summary in master sheet "Business learnings" tab (learning 001); this is the applied version. Same session as the specialist-LLM category entry (Business ideas tab, row 86, id spLLM2609).>>
 
 ## Ownership and portability
 
