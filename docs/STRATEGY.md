@@ -311,3 +311,24 @@ In that case, the business is either a manual CRM service or should be paused wh
 - Which code, design decisions and outcome signals may be learned across customers, under what consent, and how is customer-specific intellectual property excluded?
 - What does the customer own in the managed CRM From Within offer: data and export only, its generated application code, or an optional owned deployment upgrade?
 - Can expert time fall fast enough across the first five to ten builds to create attractive margins without weakening the promise that the CRM keeps adapting?
+
+## Marketing: dynamic longtail-keyword landing system
+
+**Added 2026-09-15 (Yusuf's idea).** How to market CRM From Within, and a new system to build.
+
+Target longtail CRM searches: "CRM for painting companies", "best CRM for small contractors", "CRM for [niche]" and the thousands of similar low-competition, high-intent phrases. Established SMEs without a CRM administrator search this way when the pain finally forces a lookup.
+
+The website detects which keyword a visitor arrived from (referrer, UTM or search console data) and an LLM adapts the landing experience on the fly:
+
+- **Dynamic section variant:** the landing page copy renders for that specific search intent: the niche's customer work, the right examples, the right promise. One dynamic site serves thousands of longtail intents. No hand-built landing pages.
+- **Chatbot variant:** the chat opens already knowing the keyword and asks the visitor about that specific thing ("You searched for a CRM for painting companies: what does your customer work look like?"), qualifying and educating in one step.
+
+Why it fits this strategy:
+
+- The entry point stays simple (no enterprise migration language) while still speaking each niche's language.
+- It feeds the learning system: every conversation with a niche visitor is exactly the focused-question evidence CRM From Within uses to shape and adapt the CRM.
+- It is the first proof of the audience claim: which niches actually arrive, search and engage tells us where to find the first five reference customers.
+
+First version to build: keyword detection on the current site, one LLM-generated dynamic section above the existing content, and a chatbot seeded with the keyword. Measure arrival keywords, engagement and conversations started per niche.
+
+<<--[AETHER] 2026-09-15: Added Yusuf's marketing idea (dynamic longtail-kw landing system) as a new section in the strategy doc; also logged as idea crm2609 in the Business Ideas master sheet row 61.>>
