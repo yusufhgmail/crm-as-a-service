@@ -1,6 +1,6 @@
 # CRM From Within strategy
 
-**Updated:** 2026-09-01
+**Updated:** 2026-09-15
 **Status:** Candidate product direction. The audience, importance of the problem, advantage over alternatives and ability to deliver at scale are the next questions to validate.
 
 ## The decision
@@ -202,6 +202,16 @@ The preferred independent-build method is:
 
 This is a legitimate and valuable shortcut: software ideas, systems and methods can inform an independent implementation, while Twenty’s particular source code and expression remain subject to its licences. The differentiation is not inventing contacts, pipelines or permissions again. It is building the best system for creating and safely adapting a CRM around each company.
 
+## Source of competitive advantage
+
+CRM From Within's initial competitive advantage will come from a specialized agent and delivery system with proven CRM components, customer knowledge, tests and a practiced delivery process. These assets reduce the work required to understand a company, build its CRM, verify it and operate it. The system can use frontier models; its initial advantage comes from accumulated delivery knowledge and reusable assets.
+
+The reinforcing cycle is: **customer builds and use → evidence about what works → improved components, tests and delivery methods → better customer fit with less expert work and fewer corrections → capacity to serve more customers and learn again.**
+
+This becomes a moat when the accumulated assets and customer-outcome evidence make comparable delivery costly or slow for competitors to reproduce. Build count alone does not establish defensibility. Useful learning must transfer to new customers, and the delivery advantage must persist as general-purpose models improve. The learning system below defines what to capture and what may be reused.
+
+<<--[CODEX] 2026-09-15: Added at Yusuf's request as the chosen initial source of competitive advantage and its reinforcing cycle. The resulting delivery advantage and moat remain to be demonstrated.>>
+
 ## The learning system
 
 Each installation should create a structured record connecting:
@@ -272,6 +282,18 @@ Broaden access only when a new company can reach a useful CRM without unsafe inf
 - Requests for paid improvements or integrations.
 - Recurring operating and support cost per customer.
 - Whether later builds become faster and need fewer corrections.
+
+### Competitive benchmark: total cost per accepted CRM
+
+Compare the specialized builder with a frontier-model generalist on comparable customer briefs, with both systems allowed suitable tools and reusable resources they can legitimately access. Use the same customer inputs, permitted access, acceptance standards, deadline and maintenance evaluation period.
+
+Measure the total cost to deliver and maintain an accepted CRM: requirements discovery, model and tool usage, resource preparation, expert time, customer review time, testing, corrections and rework, deployment, hosting, support and maintenance. Record human hours alongside monetary costs and use consistent rates to value that time.
+
+Report acceptance rate and delivery time alongside cost. Include failed or abandoned attempts in the evaluation cost, and divide total cost by accepted CRMs over the same maintenance period. This prevents unsuccessful attempts or deferred maintenance from disappearing from the comparison.
+
+Repeat the comparison as more customer builds are completed and general-purpose models improve. The evidence for the moat is better customer outcomes or lower total delivery cost at the required quality and deadline, with less expert effort and fewer corrections on later builds.
+
+<<--[CODEX] 2026-09-15: Added Yusuf's requested competitive test: total cost to an accepted CRM, including expert time, corrections, deployment and maintenance, with suitable tools available to both systems.>>
 
 ## The failure test
 
