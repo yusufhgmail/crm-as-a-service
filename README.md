@@ -2,7 +2,9 @@
 
 CRM From Within builds an SME's first CRM around how that company already works. Companies with an existing CRM are a secondary audience: they can start with the replacement and use paid services for data migration and deeper customization.
 
-The current strategy and roadmap are in [`docs/STRATEGY.md`](docs/STRATEGY.md). The website decision and verification log is in [`docs/WEBSITE-ITERATIONS.md`](docs/WEBSITE-ITERATIONS.md).
+**Current plan (2026-10-25):** [`docs/plans/2026-10-25-crm-agency-plan.md`](docs/plans/2026-10-25-crm-agency-plan.md): an AI-native CRM agency in the USA, one offer, all effort on content marketing. Where the older docs below conflict with it, the plan wins. All dated plans are in [`docs/plans/`](docs/plans/README.md).
+
+The earlier strategy and roadmap are in [`docs/STRATEGY.md`](docs/STRATEGY.md). The website decision and verification log is in [`docs/WEBSITE-ITERATIONS.md`](docs/WEBSITE-ITERATIONS.md).
 
 ## Current stage
 

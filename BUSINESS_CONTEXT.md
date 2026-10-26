@@ -1,5 +1,7 @@
 # Business Context: CRM From Within
 
+**Current plan (2026-10-25):** [`docs/plans/2026-10-25-crm-agency-plan.md`](docs/plans/2026-10-25-crm-agency-plan.md). It answers the 2026-08-31 open decision below: an AI-native CRM agency in the USA whose content tests "Leave HubSpot" against "Get the CRM you need". Where this document conflicts with it, the plan wins.
+
 ## What This Business Is
 
 **CRM From Within** (crmfromwithin.com) builds CRMs around how an SME actually works. The first and primary market is companies that do not have a CRM yet and currently rely on spreadsheets, inboxes, chat and memory. The current offer is a paid, hands-on service; the first approximately five builds create revenue, reusable CRM knowledge and direct evidence about customer satisfaction.

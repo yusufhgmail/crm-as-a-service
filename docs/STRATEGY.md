@@ -2,6 +2,7 @@
 
 **Updated:** 2026-09-15
 **Status:** Candidate product direction. The audience, importance of the problem, advantage over alternatives and ability to deliver at scale are the next questions to validate.
+**Current plan (2026-10-25):** [`plans/2026-10-25-crm-agency-plan.md`](plans/2026-10-25-crm-agency-plan.md). Where this document conflicts with it (audience, free design-partner builds, CRM From Within versus Company Native), the plan wins.
 
 ## The decision
 
