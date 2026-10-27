@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "crm-final-vision",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "crm-final-vision", "run", "dev", "--", "--port", "3031"],
+      "port": 3031
+    }
+  ]
+}
