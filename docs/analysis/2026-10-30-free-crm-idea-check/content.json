@@ -1,0 +1,301 @@
+{
+ "shapes": {
+  "A": {
+   "short": "Agency only",
+   "name": "Agency only (current plan)",
+   "what": "Content marketing brings 10–50-staff US companies. You build and run the CRM they own.",
+   "earns": "$3,000 paid proof, then about $1,500 a month per client."
+  },
+  "B": {
+   "short": "Agency + free tools",
+   "name": "Agency + free tools",
+   "what": "Same agency, plus a few small free tools: a HubSpot cost calculator, a CRM prompt, a 'design your CRM' page that ends in a call booking.",
+   "earns": "Same as A. The tools only bring more and cheaper leads."
+  },
+  "C": {
+   "short": "Free CRM + agents",
+   "name": "Free CRM + AI agents",
+   "what": "A free CRM for thousands of small firms. No agency. Users pay for AI agents inside it, such as one that books meetings.",
+   "earns": "About $150 a month per firm that pays for agents."
+  },
+  "D": {
+   "short": "Free CRM first, 3 layers",
+   "name": "Free CRM first, all three layers",
+   "what": "Your 12:42 plan in its written order: free CRM first, then agents, then custom builds for the bigger users.",
+   "earns": "Agents, plus builds at about $1,200 a month for the users who want their own."
+  },
+  "E": {
+   "short": "Agency first, free CRM later",
+   "name": "Agency first, free CRM later",
+   "what": "The same three layers in reverse: agency and free tools now, free CRM at month 10 once the builds have made the builder good, agents at month 15.",
+   "earns": "Agency fees first, then agents and builds that come from free users."
+  }
+ },
+ "aspects": [
+  {
+   "name": "Fast cash",
+   "what": "How soon David can go full-time ($3,000 a month recurring)",
+   "scores": {
+    "A": 8,
+    "B": 8,
+    "C": 2,
+    "D": 4,
+    "E": 8
+   },
+   "why": {
+    "A": "Paid proofs from month 3; $3k a month in month 5.",
+    "B": "Same as A.",
+    "C": "Months of building, then agents need a big free base: $3k a month in month 19.",
+    "D": "No agency sales until the free CRM brings leads: month 13.",
+    "E": "Same start as B: month 5."
+   }
+  },
+  {
+   "name": "Earnings over 3 years",
+   "what": "Total earnings in the model, months 1–36",
+   "scores": {
+    "A": 7,
+    "B": 9,
+    "C": 1,
+    "D": 4,
+    "E": 9
+   },
+   "why": {
+    "A": "$1.1M in total.",
+    "B": "$1.5M in total.",
+    "C": "Loses about $110k in total.",
+    "D": "$0.3M in total.",
+    "E": "$1.5M in total, the same as B."
+   }
+  },
+  {
+   "name": "Path to a 40–70 Mkr sale",
+   "what": "Rough sale value at month 36",
+   "scores": {
+    "A": 6,
+    "B": 7,
+    "C": 2,
+    "D": 4,
+    "E": 9
+   },
+   "why": {
+    "A": "About 43 Mkr.",
+    "B": "About 56 Mkr.",
+    "C": "About 11 Mkr.",
+    "D": "About 26 Mkr.",
+    "E": "About 64 Mkr: agency earnings plus a software line buyers value higher."
+   }
+  },
+  {
+   "name": "Moat",
+   "what": "How hard it becomes for others to copy you",
+   "scores": {
+    "A": 5,
+    "B": 5,
+    "C": 4,
+    "D": 7,
+    "E": 8
+   },
+   "why": {
+    "A": "Learning from tens of builds; compounds slowly.",
+    "B": "Same as A, plus brand and search ranking.",
+    "C": "Lots of usage data, but a plain free CRM and agents are easy to copy.",
+    "D": "Builds go deep and free users give volume, but the free CRM launches before the builder has learned anything.",
+    "E": "Builds teach the builder first, then thousands of free users show which features get kept."
+   }
+  },
+  {
+   "name": "Future-proof",
+   "what": "Holds up as AI gets better and incumbents give AI away",
+   "scores": {
+    "A": 6,
+    "B": 7,
+    "C": 3,
+    "D": 5,
+    "E": 7
+   },
+   "why": {
+    "A": "Owned software is the trend; the risk is clients building their own with AI tools.",
+    "B": "Free tools rank well in Google and AI search and cost little to keep.",
+    "C": "HubSpot, Salesforce and Zoho already give free CRMs and basic agents away.",
+    "D": "The free layer meets the incumbents head-on while agency revenue is small.",
+    "E": "Agency revenue carries it if free CRMs get even cheaper."
+   }
+  },
+  {
+   "name": "Customer quality",
+   "what": "Few good, well-paying customers (Hormozi, David's point)",
+   "scores": {
+    "A": 9,
+    "B": 9,
+    "C": 3,
+    "D": 5,
+    "E": 8
+   },
+   "why": {
+    "A": "10–50-staff firms paying $1,500 a month.",
+    "B": "Same as A.",
+    "C": "Thousands of tiny firms paying $150 or nothing.",
+    "D": "Paying clients come from free users, who skew small.",
+    "E": "Paying clients mostly come from content; free users are marketing and data."
+   }
+  },
+  {
+   "name": "Support load",
+   "what": "How light the support work is (10 = light)",
+   "scores": {
+    "A": 8,
+    "B": 8,
+    "C": 3,
+    "D": 3,
+    "E": 5
+   },
+   "why": {
+    "A": "Tens of clients you know well.",
+    "B": "Same as A.",
+    "C": "Thousands of free users; at Typeform they filed 70% of tickets.",
+    "D": "Same free-user load as C, plus clients.",
+    "E": "Free-user load arrives later, when you can afford AI-first support."
+   }
+  },
+  {
+   "name": "Focus",
+   "what": "How few things two people must do at once",
+   "scores": {
+    "A": 9,
+    "B": 8,
+    "C": 6,
+    "D": 3,
+    "E": 6
+   },
+   "why": {
+    "A": "One offer, one channel.",
+    "B": "One offer plus a few small tools.",
+    "C": "One product, but a hard one.",
+    "D": "Three things at once from month 1.",
+    "E": "Three things, but added one at a time."
+   }
+  },
+  {
+   "name": "Cash risk",
+   "what": "How small the money hole is before it pays (10 = small)",
+   "scores": {
+    "A": 9,
+    "B": 9,
+    "C": 2,
+    "D": 4,
+    "E": 9
+   },
+   "why": {
+    "A": "Deepest point about −$3k.",
+    "B": "About −$4k.",
+    "C": "About −$123k.",
+    "D": "About −$71k.",
+    "E": "About −$4k: agency pays for the free CRM."
+   }
+  },
+  {
+   "name": "Fits your strengths",
+   "what": "Uses FunnelBud CRM know-how, content and Aether",
+   "scores": {
+    "A": 8,
+    "B": 9,
+    "C": 5,
+    "D": 6,
+    "E": 9
+   },
+   "why": {
+    "A": "Your CRM delivery know-how.",
+    "B": "Adds the cheap tools your content already points to.",
+    "C": "A consumer-style growth game you haven't run before.",
+    "D": "Uses everything, all at once.",
+    "E": "Uses everything, in the order you can handle it."
+   }
+  }
+ ],
+ "weights": {},
+ "moat": {
+  "A": "Each build teaches you what clients keep using, so the next build is faster. With tens of builds, this compounds slowly.",
+  "B": "Same as A. Free tools add brand and search ranking, which build up over time but are easy to copy.",
+  "C": "Many users give lots of usage data, but a plain free CRM in a crowded field and agents are both easy to copy.",
+  "D": "Strong on paper. But the free CRM launches before any builds have taught the builder, so early users get a generic CRM.",
+  "E": "Strongest. About 15 builds teach the builder first, so the free CRM launches already shaped by real clients. Then free users show which features get kept. This is a learning effect, not a network effect: it only counts if you record every feature's use."
+ },
+ "future": {
+  "A": "Owned software is where things are going. The risk is that clients build their own CRM with AI tools.",
+  "B": "Same as A. Small free tools are cheap to keep current and rank well in AI search.",
+  "C": "Weakest. The big CRMs already give a free CRM and basic agents away, and AI sales agents lose customers fast.",
+  "D": "Medium. The free layer meets the incumbents head-on before agency revenue can carry it.",
+  "E": "Agency revenue carries it if free CRMs get even cheaper. The free layer and agents add software income on top."
+ },
+ "research": [
+  [
+   "Free CRM is crowded: at least 8 vendors have a free plan, and HubSpot, Salesforce and Zoho are free for 2–3 users.",
+   "“Free” alone won't pull users. The hook has to be “a CRM built around your company in minutes”."
+  ],
+  [
+   "About 4% of free CRM users ever pay. Good self-serve freemium products convert 3–5%.",
+   "10,000 free users means about 400 paying. The model gets about 3%."
+  ],
+  [
+   "New CRMs took years to reach thousands: folk had 100,000 users and 2,000 paying after about 4 years. Attio had 2,000 customers after 3 years of building.",
+   "Thousands of free users comes in year 2–3, not month 3."
+  ],
+  [
+   "Free users create most support work: at Typeform they filed about 70% of tickets. A human answer costs about $13.50; an AI answer about $1.",
+   "A free CRM needs AI support from day one. The model charges $0.60 a month per active free user."
+  ],
+  [
+   "The big CRMs give basic AI agents away. Salesforce put them in its free and $25 small-business plans; HubSpot charges $0.50 per solved conversation.",
+   "Agents must sell a result, such as booked meetings. Small firms pay $80–180 per booked meeting, so about $150 a month is realistic."
+  ],
+  [
+   "AI sales agents lose customers fast. In a SaaStr poll, 83% got nothing from them; ex-staff said 11x lost 70–80% of customers (11x disputes this).",
+   "The model assumes 8% of agent customers leave each month."
+  ],
+  [
+   "Free tools do bring traffic: Ahrefs gets about half its traffic from them, and HubSpot's Website Grader graded 4 million sites. Neil Patel's free tool fed his agency, but he wrote that sales from it fell once the agency moved to bigger clients.",
+   "Free tools help an agency, but free users skew small, which is David's worry."
+  ],
+  [
+   "Hormozi: rich customers have the same problems but pay much more to solve them, so charge 5–10× more per tier.",
+   "Supports David: earn from few good clients and use free things only as marketing."
+  ],
+  [
+   "Private software companies sell near 5× yearly revenue. Small agencies sell for 2–4× owner earnings, larger ones 4–8× profit.",
+   "Agent revenue raises the sale value more per dollar than agency revenue, but only once it is real."
+  ],
+  [
+   "AI coding tools mostly replace $49-a-month tools today, not CRMs. Lovable already makes $300M+ a year and is moving up.",
+   "Building a CRM gets cheaper for everyone. What stays yours is knowing what to build: the learning from builds."
+  ]
+ ],
+ "assumptions": [
+  "Agency figures are the same in every shape that has one: a $3,000 proof, then $1,500 a month. 2.5% of clients leave each month.",
+  "Build work (including your own hours at an internal rate), AI and hosting cost 60% of agency revenue at first and 40% from month 19, the plan's 60% margin target.",
+  "New clients from content: 1 a month from month 3, 2 from month 7, 3 from month 13, 4 from month 25. Free tools add 1 a month from month 5.",
+  "Delivery capacity caps new clients at 2 a month at first, then 3 from month 7, 4 from month 13 and 6 from month 25. In E, this cap stops many free-CRM leads from becoming clients.",
+  "A free CRM costs $4,000 a month in engineering and infrastructure from the month building starts. Signups start at 150 a month and grow 15% a month to 1,500. E starts at 225 because content has built an audience by month 10.",
+  "40% of signups start using it (45% in E, where builds have taught the builder). 8% of active users stop each month. Each active free user costs $0.60 a month.",
+  "Agents: 0.25% of active free users start paying each month, at $150 a month. 8% leave each month. Model and messaging costs are 30% of agent revenue.",
+  "Builds from free users: 0.08% of active free users buy one each month, at $2,500 plus $1,200 a month, because they are smaller firms.",
+  "In D, doing three things at once cuts signups and agent sales by 20%.",
+  "Earnings are revenue minus all the costs above and $1,500 a month in general tools. Founder pay beyond build hours is not included.",
+  "Sale value is 5× a year of earnings outside agents plus 5× a year of agent revenue, both at the month-36 pace, at 10 kr per dollar (rounded)."
+ ],
+ "sources": [
+  "Free CRM plans: <a href=\"https://www.hubspot.com/pricing/crm\">HubSpot</a>, <a href=\"https://www.zoho.com/crm/zohocrm-pricing.html\">Zoho</a>, <a href=\"https://salesforceben.com/get-salesforce-for-free-crm-giant-offers-no-cost-package-to-compete-with-hubspot-and-zoho\">Salesforce Free Suite</a>, <a href=\"https://attio.com/pricing\">Attio</a>, <a href=\"https://www.capsulecrm.com/pricing/\">Capsule</a>, <a href=\"https://www.bitrix24.com/prices/\">Bitrix24</a>, <a href=\"https://twenty.com/pricing\">Twenty</a>",
+  "Free-to-paid rates: <a href=\"https://www.lennysnewsletter.com/p/what-is-a-good-free-to-paid-conversion\">Lenny Rachitsky</a>, <a href=\"https://growthunhinged.com/p/free-to-paid-conversion-report\">Growth Unhinged 2026</a>, <a href=\"https://firstpagesage.com/seo-blog/saas-freemium-conversion-rates/\">First Page Sage</a>, <a href=\"https://www.saastr.com/typeform-freemium-scale/\">Typeform on SaaStr</a>",
+  "Support and churn: <a href=\"https://www.gartner.com/en/documents/5164231\">Gartner contact costs</a>, <a href=\"https://www.saas-capital.com/blog-posts/spending-benchmarks-for-private-b2b-saas-companies/\">SaaS Capital spending</a>, <a href=\"https://chartmogul.com/blog/good-customer-churn-rate/\">ChartMogul churn</a>",
+  "CRM growth stories: <a href=\"https://www.growthunhinged.com/p/inside-folks-journey\">folk</a>, <a href=\"https://www.growthunhinged.com/p/can-plg-beat-salesforce\">Attio</a>, <a href=\"https://bebeez.eu/2025/08/26/attio-raises-52m-series-b-to-scale-the-first-ai-native-crm-for-go-to-market-builders/\">Attio Series B</a>",
+  "AI agents: <a href=\"https://www.salesforce.com/news/press-releases/2025/05/15/agentforce-flexible-pricing-news/\">Agentforce pricing</a>, <a href=\"https://www.techtarget.com/searchcustomerexperience/news/366640488/Salesforce-adds-Agentforce-agentic-AI-to-SMB-packages\">Agentforce in SMB plans</a>, <a href=\"https://www.constellationr.com/insights/news/hubspot-price-breeze-customer-agent-breeze-prospecting-agent-outcomes\">HubSpot Breeze pricing</a>, <a href=\"https://www.zoho.com/crm/lp/ziaagentsincrm.html\">Zoho Zia agents</a>, <a href=\"https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have\">11x churn report</a>, <a href=\"https://www.saastr.com/83-percent-of-you-havent-gotten-ai-sdrs-to-work-yet\">SaaStr AI SDR poll</a>, <a href=\"https://salesar.io/blog/b2b-appointment-setting-costs-in-2025-pricing-models-explained\">Pay-per-meeting prices</a>",
+  "Free tools: <a href=\"https://prnewswire.com/news-releases/hubspot-launches-comprehensive-free-marketing-grader-tool-after-grading-4-million-websites-135091323.html\">HubSpot Website Grader</a>, <a href=\"https://getlatka.com/blog/ahrefs-lessons-to-grow-revenue\">Ahrefs</a>, <a href=\"https://neilpatel.com/blog/ubersuggest-update/\">Neil Patel on Ubersuggest</a>, <a href=\"https://x.com/gregisenberg/status/2038706332119797894\">Greg Isenberg on free tools</a>",
+  "Sale prices: <a href=\"https://www.saas-capital.com/blog-posts/private-saas-company-valuations-multiples/\">SaaS Capital multiples</a>, <a href=\"https://aventis-advisors.com/saas-valuation-multiples-how-much-is-my-saas-business-worth/\">Aventis SaaS multiples</a>, <a href=\"https://www.feinternational.com/blog/agency-valuation-multiples-in-2026-marketing-creative-and-dev-shop-benchmarks\">Agency multiples</a>, <a href=\"https://www.generalcatalyst.com/stories/the-future-of-services\">General Catalyst on AI services</a>",
+  "Other: <a href=\"https://shortform.com/podcast/episode/the-game-w-alex-hormozi-2025-03-14-episode-summary-throwback-billionaire-recession-advice-sell-to-the-rich-ep-852\">Hormozi, sell to the rich</a>, <a href=\"https://www.saastr.com/what-folks-are-really-vibe-coding-today-its-not-building-their-own-salesforce\">SaaStr on vibe coding</a>, the CRM From Within plan of 25 October (repository docs/plans)"
+ ],
+ "answer": [
+  "<b>It fits the plan, but not as the first step.</b> The free self-builder is already step 3 of your August roadmap; the 12:42 plan moves it to step 1. Starting with the free CRM (D) pushes David's $3,000 a month from about month 5 to month 13, needs about $70k before it pays, and pits you against free plans from HubSpot, Salesforce and Zoho. Only about 4% of free CRM users ever pay.",
+  "<b>Start as B now and decide on E at month 9.</b> B adds a few free tools to the current agency plan. E is the same three layers as your plan in reverse order: E's first nine months are B, then the free CRM launches once about 15 builds have taught the builder, with agents after it. The two tie on score. E is worth more at a sale (about 64 Mkr against 56 Mkr at month 36) and has the stronger moat; B is simpler.",
+  "<b>You are both right.</b> David's few good customers should pay the bills. Your thousands of free users are worth having as marketing and as data on which features get kept, but not as the revenue. A free CRM paid for by AI agents alone (C) scores lowest."
+ ]
+}
