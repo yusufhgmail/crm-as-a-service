@@ -2,8 +2,8 @@
 
 **Status:** approved
 
-- Script on Drive: https://docs.google.com/document/d/1JLNTvzQOSSyXNEnVEz7zyXvKUTCRBzPfJSWKLYaN3Bw/edit
-- Yusuf's lines on Drive: https://docs.google.com/document/d/1Lt7pXKgphIcqNYs-rK-yBgh16x2yySGTvYo02YbkVFg/edit
+- Script on Drive: https://docs.google.com/document/d/1DG6TOGqAgn9QqGiB3dt-U0Ls_UKVfCrY9rwyAUCT6uc/edit
+- Yusuf's lines on Drive: https://docs.google.com/document/d/1xVBy4jGhKD08jF-sxPk-tiuN8AkKg1ev8lrNfS7X6h0/edit
 
 ## Files
 

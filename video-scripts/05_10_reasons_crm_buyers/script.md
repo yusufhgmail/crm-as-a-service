@@ -1,6 +1,6 @@
 # Video 5: Why 5,000+ CRM Buyers Want Out: 10 Reasons
 
-*Draft, 27 Oct 2026 · whiteboard + screen recordings · about 12 minutes*
+*Approved by David, 3 Nov 2026 (reordered to run 1 to 10) · whiteboard + screen recordings · about 12 minutes*
 
 **Checked 27 Oct 2026:** counts recomputed from `survey.sqlite`; Trustpilot quotes checked live; the Reddit quote checked against our saved copy. **Before filming:** update funnelbud.com and Yusuf's YouTube bio (sold, 450+ clients).
 
