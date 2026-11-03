@@ -11,6 +11,7 @@
     "dev": "vinext dev",
     "build": "vinext build",
     "deploy": "npm run build && wrangler deploy",
+    "postdeploy": "node scripts/check-seo.mjs https://crmfromwithin.com",
     "start": "vinext start",
     "check:seo": "node scripts/check-seo.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next --ignore-pattern .wrangler"

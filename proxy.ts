@@ -1,4 +1,5 @@
 import { type NextRequest, NextResponse } from 'next/server';
+import { LOCALE_HEADER } from './app/seo';
 
 const CANONICAL_HOST = 'crmfromwithin.com';
 const REDIRECT_HOSTS = new Set([
@@ -6,9 +7,6 @@ const REDIRECT_HOSTS = new Set([
   'crmfromwithin.ai',
   'www.crmfromwithin.ai',
 ]);
-
-/** Tells the root layout which language a page is in, so `<html lang>` matches it. */
-export const LOCALE_HEADER = 'x-site-locale';
 
 export function proxy(request: NextRequest) {
   const requestHost = (request.headers.get('host') ?? request.nextUrl.hostname)

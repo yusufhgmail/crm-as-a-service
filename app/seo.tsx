@@ -5,6 +5,13 @@ export const OG_IMAGE = `${SITE}/og-crm-from-within.png`;
 
 export type SiteLocale = 'en' | 'se';
 
+/** Set by proxy.ts on every request; the root layout reads it to set `<html lang>`. */
+export const LOCALE_HEADER = 'x-site-locale';
+
+/** One-line description of the company, used in the Organization markup and llms.txt. */
+export const ORG_DESCRIPTION =
+  "Builds a small or mid-sized company's CRM around how that company already handles leads and customers, then keeps adapting it as the work changes, so the team never has to configure or administer the CRM.";
+
 const LANGUAGE: Record<SiteLocale, { hreflang: string; og: string }> = {
   en: { hreflang: 'en', og: 'en_US' },
   se: { hreflang: 'sv', og: 'sv_SE' },
@@ -42,6 +49,7 @@ export function pageMetadata(locale: SiteLocale, page: string, copy: PageCopy): 
   return {
     title: copy.title,
     description: copy.description,
+    robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 },
     alternates: {
       canonical: url,
       languages: {
@@ -83,7 +91,9 @@ export function jsonLd(locale: SiteLocale, page: string, copy: PageCopy, faq: Fa
         '@id': `${SITE}/#org`,
         name: 'CRM From Within',
         legalName: 'Yusuf Young AB',
+        description: ORG_DESCRIPTION,
         url: SITE,
+        address: { '@type': 'PostalAddress', addressCountry: 'SE' },
         logo: `${SITE}/crm-from-within-logo.png`,
         founder: { '@id': `${SITE}/#founder` },
       },

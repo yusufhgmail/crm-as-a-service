@@ -75,3 +75,21 @@ Still open: the deploy (1.1), Search Console/Bing, Cloudflare's "Block AI bots" 
 3. Title/H1 aimed at a query, JSON-LD, `lang`/x-default/`/` fixes, the Swedish OG text, llms.txt (2.1–2.8, 2.10), with the domain test from 3.1.
 4. Ubersuggest project for crmfromwithin.com: volumes for the seed list, then the first 5 niche or switcher pages.
 5. Listings and `sameAs` (off-site).
+
+## Review of the fixes (3 Nov 2026, cloud session)
+
+Checked on the branch `claude/crm-service-seo-audit-1wsa03`: a production build, `npm run check:seo` against it, `lint`, `tsc`, the rendered `<head>` and JSON-LD of all four pages, the sitemap, robots.txt, llms.txt, and the redirects (`/` with and without query string, trailing slashes, and the www / .ai hosts via a `Host` header, which the Mac session could not test). All pass. Every fact in llms.txt and the JSON-LD (Yusuf Young AB, FunnelBud 2015, 450 businesses, design partners without a build fee) also appears in the page copy.
+
+Changed in this review:
+
+- `LOCALE_HEADER` moved from `proxy.ts` to `app/seo.tsx`, so the root layout no longer imports the proxy module.
+- `robots` meta on every page: `index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1`.
+- Organization markup gained `description` and `addressCountry: SE`.
+- `npm run deploy` now runs `check:seo` against crmfromwithin.com afterwards (`postdeploy`), so a deploy that serves the wrong site fails loudly.
+
+Found but left for a decision:
+
+- **Dead outbound link on the home page.** The "Already stuck in HubSpot or Salesforce?" block links to companynative.com, which returns 404. Remove the link or point it at the contact form until that site exists. (`app/page.tsx`, the `migration` section.)
+- **Title and page text don't share words.** The title says "custom CRM" and "small businesses"; the H1 and intro don't use either phrase. Google and AI assistants weigh page text more than the title. One sentence in the hero or the first H2 that says "a custom CRM for small businesses" would close the gap.
+- **FAQ markup won't produce rich results.** Google limits FAQ rich results to government and health sites. The markup still helps AI assistants, so it stays.
+- **`sameAs` is still empty.** Needs the company LinkedIn page and Yusuf's own LinkedIn URL.

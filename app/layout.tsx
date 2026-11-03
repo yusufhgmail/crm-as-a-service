@@ -1,9 +1,8 @@
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 import { headers } from 'next/headers';
-import { LOCALE_HEADER } from '../proxy';
 import { Analytics } from './analytics';
-import { htmlLang, SITE } from './seo';
+import { htmlLang, LOCALE_HEADER, SITE } from './seo';
 import './globals.css';
 
 const geistSans = Geist({
