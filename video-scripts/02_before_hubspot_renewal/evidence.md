@@ -12,6 +12,10 @@ Proof for every story quoted in the script, saved 27 Oct 2026 in case a post is 
 | 2025-02_hubspot-community_locked-out-20k-renewal.png | Video 2: hook, steps 3–4 | https://community.hubspot.com/t/locked-out-completely-due-to-billing-issue-for-3-days/125492 |
 | 2026-05_hubspot-community_multi-year-enterprise-workarounds.png and `_2.png` | Video 2: step 5 | https://community.hubspot.com/t/multi-year-deal-with-price-escalation/118123 |
 | 2025-01_facebook_3k-month-stuck-1-year.png | Video 2: step 5 | https://www.facebook.com/groups/520191298474250/permalink/1932542070572492/ |
+| 2026-11_help-center_cancel-auto-renewal.png | Video 1: leak 4 · Video 2: step 1 (Cancel auto-renewal) | https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account |
+| 2026-03_hubspot-community_auto-renewed-unused-seats-5k.png | Video 2: step 1 | https://community.hubspot.com/t/abusive-billing-practices/147435 |
+| 2026-09_trustpilot_hubspot-1450-month-renewed-old-tier.png | Video 2 (also video 5, reason 6) | https://www.trustpilot.com/reviews/6aa2d3bcf3b3feadee2d1996 |
+| 2026-11_help-center_marketing-contacts-count.png | Video 2: step 2 (marketing contacts count) | https://knowledge.hubspot.com/records/set-contacts-as-non-marketing |
 
 ## Saved copies (Reddit, X, G2)
 

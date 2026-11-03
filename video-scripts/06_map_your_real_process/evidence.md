@@ -25,3 +25,17 @@ All saved 27 Oct 2026. Live pages were checked with WebFetch (the browser was no
 
 - r/CRMSoftware "7 years on Salesforce, 12 employees, $70–100k a year" and r/CRM "50-person construction company, Salesforce consultant for every change": strong, but they belong to videos 7 and 8.
 - HubSpot Community threads: community.hubspot.com returns 403 to WebFetch, so they couldn't be checked live without the browser.
+
+## Screenshots (checked live 3 Nov 2026)
+
+Sharp PNGs in `proof/`, taken live in Chrome with the quoted words highlighted in yellow: every Trustpilot, HubSpot Community and LinkedIn quote, plus HubSpot help-center screens (`2026-11_help-center_…`, HubSpot's own images at full size or highlighted captures) for paid-plan screens the free demo portal can't show. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `survey/evidence/saved_copies/` (on GitHub: `proof/saved_copies/`).
+
+- `2026-03_linkedin_coconut-16k-hubspot-didnt-fit.png`
+- `2026-05_trustpilot_pipedrive-proposals-ms-word.png`
+- `2026-06_trustpilot_jobber-invoices-quickbooks.png`
+- `2026-11_help-center_add-deal-stage.gif`
+- `2026-11_help-center_pipeline-limits-per-plan.png`
+
+Notes from the 3 Nov 2026 check:
+- The LinkedIn author reply ("after over a year of trying… it just didn't") doesn't load on the page without expanding replies; it is backed by `saved_copies/2026-03_linkedin_coconut-16k-hubspot-didnt-fit-workflow.json`. The screenshot shows the post's opening line.
+- HubSpot's pipeline page now lists two pricing models. Seat-based portals: Free 0 · Starter 15 · Professional 100 · Enterprise 350 (what the script shows). Flexible Seats & Credits portals: Professional 350. The screenshot shows the seat-based list.

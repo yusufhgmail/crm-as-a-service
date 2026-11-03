@@ -15,7 +15,6 @@
 
 ## Not made yet
 
-- `proof/`: highlighted screenshots of each live-checked source, taken before filming
 - `social/youtube.md`: YouTube description, chapters, pinned comment, community posts, Shorts
 - `social/facebook.md`: Facebook posts
 - `social/instagram.md`: Instagram carousel and Reels captions

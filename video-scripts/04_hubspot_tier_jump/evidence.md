@@ -33,9 +33,14 @@ HubSpot's own pages (pricing for Sales/Marketing/Service Hub, Product & Services
 
 ## Screenshots (checked live 3 Nov 2026)
 
-Sharp PNGs of every Trustpilot review the script quotes, taken live in Chrome with the quoted words highlighted in yellow, in `proof/`. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `proof/saved_copies/` (GitHub) and `survey/evidence/saved_copies/`.
+Sharp PNGs in `proof/`, taken live in Chrome with the quoted words highlighted in yellow: every Trustpilot, HubSpot Community and LinkedIn quote, plus HubSpot help-center screens (`2026-11_help-center_…`, HubSpot's own images at full size or highlighted captures) for paid-plan screens the free demo portal can't show. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `survey/evidence/saved_copies/` (on GitHub: `proof/saved_copies/`).
 
 - `2025-05_trustpilot_1-year-commitment-sales-hub-pro-checkout.png`
 - `2026-01_trustpilot_sold-enterprise-upgrade-couldnt-do-it.png`
 - `2026-06_trustpilot_service-hub-needs-marketing-hub-for-follow-ups.png`
 - `2026-09_trustpilot_kept-pro-seat-only-one-user-can-call.png`
+- `2026-11_help-center_custom-objects-enterprise.png`
+- `2026-11_help-center_custom-reports-professional.png`
+- `2026-11_help-center_deal-approvals-sales-hub-enterprise.png`
+- `2026-11_help-center_quote-approvals-revenue-hub.png`
+- `2026-11_help-center_sla-service-hub-professional.png`

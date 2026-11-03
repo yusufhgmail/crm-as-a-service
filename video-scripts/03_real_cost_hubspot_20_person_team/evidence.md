@@ -31,8 +31,13 @@ Checked 26 Oct 2026. No browser was used for this video (another worker held Chr
 
 ## Screenshots (checked live 3 Nov 2026)
 
-Sharp PNGs of every Trustpilot review the script quotes, taken live in Chrome with the quoted words highlighted in yellow, in `proof/`. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `proof/saved_copies/` (GitHub) and `survey/evidence/saved_copies/`.
+Sharp PNGs in `proof/`, taken live in Chrome with the quoted words highlighted in yellow: every Trustpilot, HubSpot Community and LinkedIn quote, plus HubSpot help-center screens (`2026-11_help-center_…`, HubSpot's own images at full size or highlighted captures) for paid-plan screens the free demo portal can't show. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `survey/evidence/saved_copies/` (on GitHub: `proof/saved_copies/`).
 
 - `2026-03_trustpilot_3-subscriptions-1000-month-simple-flow.png`
 - `2026-07_trustpilot_20k-integrator-4-months-nothing-done.png`
 - `2026-09_trustpilot_15k-to-25k-seat-for-quotes.png`
+- `2026-11_help-center_quotes-need-revenue-hub-seat.png`
+- `2026-11_help-center_seats-tab.png`
+- `2026-11_help-center_subscription-hubs-and-seats.png`
+
+Note from the 3 Nov 2026 check: the quotes help page is now "Set up legacy quotes" (legacy quotes aren't available to new users; new quotes are HubSpot's CPQ on Revenue Hub Professional/Enterprise). The line "You must have a Revenue Hub seat to be able to create quotes." is still on the page.

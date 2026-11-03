@@ -14,6 +14,10 @@ Proof for every story quoted in the script, saved 27 Oct 2026 in case a post is 
 | 2026-06_trustpilot_10-months-partner-not-our-workflow.png | Video 1: leak 5 | https://www.trustpilot.com/reviews/6a2ac7eaaadec9e5b87b8790 |
 | 2026-07_trustpilot_cancel-anytime-3-year-lock-in.png | Video 1: hook and leak 4 | https://www.trustpilot.com/reviews/6a5aa86fceeb14dc2ff3800e |
 | 2025-05_trustpilot_98k-a-year.png | Video 1: backup hook (not used) | https://www.trustpilot.com/reviews/6834f5182de64f446b6c2435 |
+| 2026-01_trustpilot_accidental-import-higher-contact-tier.png | Video 1: leak 2 | https://www.trustpilot.com/reviews/696762af1f8aaf5a3ca6a60c |
+| 2026-11_help-center_seats-tab.png | Video 1: leak 1 (Seats tab) | https://knowledge.hubspot.com/account-management/manage-seats |
+| 2026-11_help-center_set-as-non-marketing.png | Video 1: leak 2 (set as non-marketing) | https://knowledge.hubspot.com/records/set-contacts-as-non-marketing |
+| 2026-11_help-center_cancel-auto-renewal.png | Video 1: leak 4 · Video 2: step 1 (Cancel auto-renewal) | https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account |
 
 ## Saved copies (Reddit, X, G2)
 
