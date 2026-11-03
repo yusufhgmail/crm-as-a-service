@@ -1,0 +1,10 @@
+{
+ "url": "https://www.trustpilot.com/reviews/6a99d4f1907cde1804fc2c0a",
+ "date": "2026-09-03",
+ "author": "Ahmet Günes",
+ "quote": "I was persuaded to retain a significantly more expensive HubSpot package instead of completing the full downgrade.",
+ "full_text": "I intended to downgrade our HubSpot subscription completely. I clearly explained that several members of my team needed to make calls through HubSpot. ...I was advised to retain one Professional seat for the automation features and combine it with Starter/Core licences... Based on this advice, I was persuaded to retain a significantly more expensive HubSpot package instead of completing the full downgrade. ...we discovered that only the single user assigned the Professional seat could make calls. Had HubSpot explained this clearly, I would never have accepted the current configuration. My team remains unable to work as intended, and we are losing valuable working time every day.",
+ "how_checked": "checked live 26 Oct 2026 with WebFetch (Chrome not used tonight); each sentence above confirmed on the page. Title \"Misleading renewal advice has left our entire team unable to make calls\", 1 star, no company reply. Full text partly paraphrased by the fetch tool (quote limits); listed sentences confirmed verbatim.",
+ "saved": "2026-10-26",
+ "used_in": "Video 4"
+}

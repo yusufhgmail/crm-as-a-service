@@ -1,0 +1,22 @@
+{
+ "url": "https://community.hubspot.com/t/stop-splitting-out-features-like-new-quote-templates-into-extra-seats/149301",
+ "date": "2026-05-13",
+ "quote": "HubSpot’s move to separate “new quotes” from existing Sales Hub functionality by requiring an additional Commerce seat feels difficult to justify for many customers already paying premium pricing for Sales Hub Professional or Enterprise.",
+ "full_text": "HubSpot’s move to separate “new quotes” from existing Sales Hub functionality by requiring an additional Commerce seat feels difficult to justify for many customers already paying premium pricing for Sales Hub Professional or Enterprise.",
+ "survey_record": {
+  "rec_id": "hubspot_community:149301/1",
+  "url": "https://community.hubspot.com/t/stop-splitting-out-features-like-new-quote-templates-into-extra-seats/149301",
+  "date": "2026-05-13",
+  "source": "hubspot_community",
+  "author": "DCoe4",
+  "author_headline": "",
+  "team_size": null,
+  "money_quoted": "[]",
+  "quote": "HubSpot’s move to separate “new quotes” from existing Sales Hub functionality by requiring an additional Commerce seat feels difficult to justify for many customers already paying premium pricing for Sales Hub Professional or Enterprise.",
+  "summary_en": "HubSpot customer objects that new quotes require an extra Commerce seat on top of premium Sales Hub seats and says it may push users to third-party quoting tools.",
+  "speaker_evidence": "Customer-voiced post about \"customers already paying premium pricing for Sales Hub Professional or Enterprise\"; addressed as Dan"
+ },
+ "how_checked": "saved copy. HubSpot Community returned a Cloudflare bot check (403) to WebFetch and curl on 26 Oct 2026; not bypassed. Quote from the 2026 survey record. Related fact checked live 26 Oct 2026: quote approvals now need Revenue Hub Professional or Enterprise (https://knowledge.hubspot.com/quotes/set-up-quote-approvals).",
+ "saved": "2026-10-26",
+ "used_in": "Video 4"
+}

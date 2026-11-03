@@ -1,0 +1,55 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit/X/G2 block automated live checks.",
+ "survey_record": {
+  "url": "https://www.reddit.com/r/CRM/comments/1e5141p/best_and_inexpensive_crm_for_small_business/oaf4l5b/",
+  "date": "2026-03-14",
+  "source": "reddit",
+  "quote": "HubSpot charges both per seat AND per contacts in your database, so the bill grows in two directions at once. That's the trap most people don't see until month 6 or 12 when they've grown their list a bit."
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "source": "reddit",
+    "platform_id": "t1_oaf4l5b",
+    "author": "/u/No-Taro9273",
+    "author_url": "https://www.reddit.com/user/No-Taro9273",
+    "date": "2026-03-14",
+    "url": "https://www.reddit.com/r/CRM/comments/1e5141p/best_and_inexpensive_crm_for_small_business/oaf4l5b/",
+    "is_comment": true,
+    "parent_url": "https://www.reddit.com/r/CRM/comments/1e5141p/best_and_inexpensive_crm_for_small_business/",
+    "title": "/u/No-Taro9273 on Best and inexpensive CRM for small business",
+    "text": "Seconded on Pipedrive. The thing worth adding is the pricing is much more predictable than HubSpot as you scale. Essential is $24/user/month, Advanced is $44, and there are no per-contact charges on top of it. You know exactly what you're paying at 2 users or 10 users.\n HubSpot charges both per seat AND per contacts in your database, so the bill grows in two directions at once. That's the trap most people don't see until month 6 or 12 when they've grown their list a bit.",
+    "language": "en",
+    "query": "hubspot too expensive",
+    "kw_hits": [
+     "hubspot",
+     "pipedrive",
+     "crm"
+    ]
+   }
+  },
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "source": "reddit",
+    "platform_id": "t1_oaf4l5b",
+    "author": "/u/No-Taro9273",
+    "author_url": "https://www.reddit.com/user/No-Taro9273",
+    "date": "2026-03-14",
+    "url": "https://www.reddit.com/r/CRM/comments/1e5141p/best_and_inexpensive_crm_for_small_business/oaf4l5b/",
+    "is_comment": true,
+    "parent_url": "https://www.reddit.com/r/CRM/comments/1e5141p/best_and_inexpensive_crm_for_small_business/",
+    "title": "/u/No-Taro9273 on Best and inexpensive CRM for small business",
+    "text": "Seconded on Pipedrive. The thing worth adding is the pricing is much more predictable than HubSpot as you scale. Essential is $24/user/month, Advanced is $44, and there are no per-contact charges on top of it. You know exactly what you're paying at 2 users or 10 users.\n HubSpot charges both per seat AND per contacts in your database, so the bill grows in two directions at once. That's the trap most people don't see until month 6 or 12 when they've grown their list a bit.",
+    "language": "en",
+    "query": "hubspot too expensive",
+    "kw_hits": [
+     "hubspot",
+     "pipedrive",
+     "crm"
+    ]
+   }
+  }
+ ]
+}

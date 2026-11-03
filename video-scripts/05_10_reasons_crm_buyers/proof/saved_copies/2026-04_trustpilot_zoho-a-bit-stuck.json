@@ -1,0 +1,25 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Stuck insight",
+ "url": "https://www.trustpilot.com/reviews/69e12ad76d0ac5d90026ffdb",
+ "date": "2026-04-16",
+ "quotes_confirmed_live": [
+  "I'm a bit stuck since I've started using zoho already and don't have the time to switch"
+ ],
+ "full_text": {
+  "survey_record_quote": "I'm a bit stuck since I've started using zoho already and don't have the time to switch",
+  "survey_summary": "Canadian buyer stuck on Zoho due to switching time; support and Zoho Books poor.",
+  "live_page_summary": "Reviewer Jenny Ma (CA), 1 star, Zoho, 16 Apr 2026. Feels locked in; poor support; no refund. Zoho replied."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:69e12ad76d0ac5d90026ffdb",
+  "url": "https://www.trustpilot.com/reviews/69e12ad76d0ac5d90026ffdb",
+  "date": "2026-04-16",
+  "author": "Jenny Ma",
+  "segment": "B",
+  "pain_tags": "[\"migration_risk\", \"support\"]",
+  "quote": "I'm a bit stuck since I've started using zoho already and don't have the time to switch",
+  "summary_en": "Canadian buyer stuck on Zoho due to switching time; support and Zoho Books poor."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

@@ -1,0 +1,27 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Reason 6 (contract and renewal)",
+ "url": "https://www.trustpilot.com/reviews/6aa2d3bcf3b3feadee2d1996",
+ "date": "2026-09-10",
+ "quotes_confirmed_live": [
+  "We've paid HubSpot around £1,450 a month since 2024.",
+  "We're now billed £142 a month for contacts we don't use.",
+  "They'd rather keep that than the account."
+ ],
+ "full_text": {
+  "survey_record_quote": "We've paid HubSpot around £1,450 a month since 2024.",
+  "survey_summary": "Pays about GBP 1,450 a month; cut marketing contacts on advice but the renewal still hit the old tier.",
+  "live_page_summary": "Reviewer David Norman (GB), 1 star, HubSpot, 10 Sep 2026. HubSpot advised cutting marketing contacts; they did before February renewal; renewed at old tier because a separate quote had to be activated ten days before renewal; no reply for six months; leaving."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6aa2d3bcf3b3feadee2d1996",
+  "url": "https://www.trustpilot.com/reviews/6aa2d3bcf3b3feadee2d1996",
+  "date": "2026-09-10",
+  "author": "David Norman",
+  "segment": "D",
+  "pain_tags": "[\"price\", \"contract_renewal\", \"tier_jump\"]",
+  "quote": "We've paid HubSpot around £1,450 a month since 2024.",
+  "summary_en": "Pays about GBP 1,450 a month; cut marketing contacts on advice but the renewal still hit the old tier."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

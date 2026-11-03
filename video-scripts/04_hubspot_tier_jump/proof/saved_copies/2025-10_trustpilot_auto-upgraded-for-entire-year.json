@@ -1,0 +1,10 @@
+{
+ "url": "https://www.trustpilot.com/reviews/6900ffe714a988703e48d921",
+ "date": "2025-10-28",
+ "author": "Michael Masouras (US)",
+ "quote": "if, for whatever reason, you bump into a limit during the year, they will auto-upgrade you to a higher price *for the entire year*",
+ "full_text": "Hubspot starts off nice with a free tier, but then costs ramp up very quickly for anything meaningful. In addition, the terms for signing a yearly contract are extremely onerous: if, for whatever reason, you bump into a limit during the year, they will auto-upgrade you to a higher price *for the entire year* [...] Even if you go under the limit, they will not remove the charge for every single month for the rest of the year. It's the most predatory pricing I have ever witnessed.",
+ "how_checked": "checked live 26 Oct 2026 with WebFetch; listed sentences confirmed on the page (the fetch tool truncated one long sentence, marked [...]). Title \"Beware of predatory pricing model\", 1 star, no company reply, customer on a yearly contract. Pre-2026, used because it was checked live. Survey record trustpilot:6900ffe714a988703e48d921.",
+ "saved": "2026-10-26",
+ "used_in": "Video 4 (step 3), replacing the £1,450/month review used in video 5"
+}

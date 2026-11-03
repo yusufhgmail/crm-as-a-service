@@ -1,0 +1,22 @@
+{
+ "url": "https://www.reddit.com/r/hubspot/comments/1wh6nel/pricing/pa1iuc4/",
+ "date": "2026-09-15",
+ "quote": "We wanted sales approval processes. Only way natively was sales hub enterprise - which would have nearly doubled the sales hub spend. No thanks.",
+ "full_text": "We wanted sales approval processes. Only way natively was sales hub enterprise - which would have nearly doubled the sales hub spend. No thanks.",
+ "survey_record": {
+  "rec_id": "seed:companynative_all_leads_full_oct25:44b045f57eb6",
+  "url": "https://www.reddit.com/r/hubspot/comments/1wh6nel/pricing/pa1iuc4/",
+  "date": "2026-09-15",
+  "source": "seed:companynative_all_leads_full_oct25",
+  "author": "u/AllanTreebeard",
+  "author_headline": "",
+  "team_size": null,
+  "money_quoted": "[]",
+  "quote": "We wanted sales approval processes. Only way natively was sales hub enterprise - which would have nearly doubled the sales hub spend. No thanks.",
+  "summary_en": "Wanted native sales approval processes but only Sales Hub Enterprise offered them at nearly double the spend, so declined the upgrade.",
+  "speaker_evidence": "first-person: 'We wanted sales approval processes' and declined the Sales Hub Enterprise upgrade"
+ },
+ "how_checked": "saved copy. Reddit blocks automated reading; quote taken from the 2026 survey record. Facts behind it checked live 26 Oct 2026: deal approvals need Sales Hub Enterprise (https://knowledge.hubspot.com/object-settings/pipeline-approvals).",
+ "saved": "2026-10-26",
+ "used_in": "Video 4"
+}

@@ -1,0 +1,27 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Reason 7 (tier jump)",
+ "url": "https://www.trustpilot.com/reviews/6a56555b62380bda2ac088b0",
+ "date": "2026-07-14",
+ "quotes_confirmed_live": [
+  "invested thousands of dollars importing over 200,000 leads and built my entire workflow customization and employee training inside Pipedrive.",
+  "suddenly Pipedrive decided to create a lead limit of 45,000 leads unless I upgrade to a significantly more expensive plan",
+  "about 10 times what I was currently paying"
+ ],
+ "full_text": {
+  "survey_record_quote": "invested thousands of dollars importing over 200,000 leads and built my entire workflow customization and employee training inside Pipedrive.",
+  "survey_summary": "Imported 200,000+ leads on an unlimited plan; after 9 months Pipedrive capped at 45,000 unless upgrading to a much costlier plan.",
+  "live_page_summary": "Reviewer Kathleen Ferrante (US), 1 star, Pipedrive, 14 Jul 2026. Unlimited-leads plan; ~9 months later a 45,000 lead cap unless upgrading (~10x). Pipedrive replied 15 Jul 2026 that it is reviewing the case."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6a56555b62380bda2ac088b0",
+  "url": "https://www.trustpilot.com/reviews/6a56555b62380bda2ac088b0",
+  "date": "2026-07-14",
+  "author": "Kathleen  Ferrante",
+  "segment": "A",
+  "pain_tags": "[\"tier_jump\", \"price\", \"migration_risk\"]",
+  "quote": "invested thousands of dollars importing over 200,000 leads and built my entire workflow customization and employee training inside Pipedrive.",
+  "summary_en": "Imported 200,000+ leads on an unlimited plan; after 9 months Pipedrive capped at 45,000 unless upgrading to a much costlier plan."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

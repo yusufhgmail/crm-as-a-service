@@ -1,0 +1,32 @@
+{
+ "url": "https://x.com/mishavitels/status/2113226378623455456",
+ "date": "2026-10-22",
+ "source": "x",
+ "quote": "Roughly $10k/month. It was important for us to cut out much of the HubSpot noise we didn't need and build custom sales workflows (pricing calculators, quotes, contracts) that connect directly to our production planner, SKUs, and IMS",
+ "speaker": "@mishavitels, cofounder of Earth Cups (manufacturer, Kansas City) (buyer)",
+ "context": "Reply to @heykeithbrown asking \"how much money did you save on Hubspot and what were the main benefits?\" (https://x.com/heykeithbrown/status/2113225001088278748), under the post https://x.com/mishavitels/status/2111096574948618293: \"We make Earth Cups in Kansas City, sell them on Earth Store, and run the company on software we own. In the last year we replaced over 10 third-party softwares, including HubSpot, Shopify, and others.\"",
+ "how_checked": "saved copy: from our 2026 survey scrape; this site blocks automated reading, so not opened live",
+ "full_text": {
+  "2111096574948618293": {
+   "url": "https://x.com/mishavitels/status/2111096574948618293",
+   "text": "Vertical integration, for us, is pretty concrete. We make Earth Cups in Kansas City, sell them on Earth Store, and run the company on software we own. In the last year we replaced over 10 third-party softwares, including HubSpot, Shopify, and others. More to come.",
+   "createdAt": "Fri Oct 16 14:07:00 +0000 2026",
+   "inReplyToId": null,
+   "conversationId": "2111096574948618293"
+  },
+  "2113225001088278748": {
+   "url": "https://x.com/heykeithbrown/status/2113225001088278748",
+   "text": "@mishavitels Really cool, how much money did you save on Hubspot and what were the main benefits?",
+   "createdAt": "Thu Oct 22 11:04:36 +0000 2026",
+   "inReplyToId": "2111096574948618293",
+   "conversationId": "2111096574948618293"
+  },
+  "2113226378623455456": {
+   "url": "https://x.com/mishavitels/status/2113226378623455456",
+   "text": "@heykeithbrown Roughly $10k/month. It was important for us to cut out much of the HubSpot noise we didn't need and build custom sales workflows (pricing calculators, quotes, contracts) that connect directly to our production planner, SKUs, and IMS",
+   "createdAt": "Thu Oct 22 11:10:05 +0000 2026",
+   "inReplyToId": "2113225001088278748",
+   "conversationId": "2111096574948618293"
+  }
+ }
+}

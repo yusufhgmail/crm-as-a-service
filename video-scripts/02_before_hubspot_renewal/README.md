@@ -1,0 +1,21 @@
+# Video 2: What to Do Before Your HubSpot Renewal
+
+**Status:** approved
+
+- Script on Drive: https://docs.google.com/document/d/1mvCVg77BYZkiJ3G1ALV-Uux9CTe5wZBjNdzg-lkSgIc/edit
+- Yusuf's lines on Drive: https://docs.google.com/document/d/1aWH9tdbLIjoNiIM-rjL6yaOiur1jC0RRqE7nZkCAKYw/edit
+
+## Files
+
+- `script.md`: full script: on-screen notes, links, sources, Shorts table, title and thumbnail
+- `yusuf_lines.md`: only what Yusuf says, for reading and recording
+- `social/linkedin_x.md`: LinkedIn and X posts
+- `proof`: screenshots and documents that prove the quotes
+
+## Not made yet
+
+- `social/youtube.md`: YouTube description, chapters, pinned comment, community posts, Shorts
+- `social/facebook.md`: Facebook posts
+- `social/instagram.md`: Instagram carousel and Reels captions
+- `social/tiktok.md`: TikTok captions
+- `footage.md`: link to the raw recording on Drive (video files stay on Drive)

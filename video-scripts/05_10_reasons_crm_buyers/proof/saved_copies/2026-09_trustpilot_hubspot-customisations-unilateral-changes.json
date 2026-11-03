@@ -1,0 +1,26 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Reason 2 (poor fit)",
+ "url": "https://www.trustpilot.com/reviews/6aab93ec9c591d1f56ba1c6e",
+ "date": "2026-09-17",
+ "quotes_confirmed_live": [
+  "encourage you to spend even more money customising the platform to suit your business, and then make unilateral changes",
+  "We paid for a CRM to work around our business."
+ ],
+ "full_text": {
+  "survey_record_quote": "encourage you to spend even more money customising the platform to suit your business, and then make unilateral changes",
+  "survey_summary": "After spending on customising HubSpot, unilateral changes broke those customisations; calls it expensive, clunky and no longer fit for purpose.",
+  "live_page_summary": "Reviewer Scott McPhillips (AU), 1 star, HubSpot, 17 Sep 2026. Paid for customisations; HubSpot platform changes broke them; slower product; slow complaint handling."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6aab93ec9c591d1f56ba1c6e",
+  "url": "https://www.trustpilot.com/reviews/6aab93ec9c591d1f56ba1c6e",
+  "date": "2026-09-17",
+  "author": "Scott McPhillips",
+  "segment": "D",
+  "pain_tags": "[\"price\", \"rigidity_fit\", \"consultant_dependency\"]",
+  "quote": "encourage you to spend even more money customising the platform to suit your business, and then make unilateral changes",
+  "summary_en": "After spending on customising HubSpot, unilateral changes broke those customisations; calls it expensive, clunky and no longer fit for purpose."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

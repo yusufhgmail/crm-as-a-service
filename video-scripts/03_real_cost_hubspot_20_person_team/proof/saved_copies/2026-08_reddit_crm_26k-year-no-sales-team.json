@@ -1,0 +1,21 @@
+{
+ "url": "https://www.reddit.com/r/CRM/comments/1vy3y25/spending_26kyear_on_hubspot_with_no_sales_team/",
+ "date": "2026-08-25",
+ "source": "reddit",
+ "quote": "It feels like we're paying enterprise-sales-team pricing for what amounts to an email marketing tool plus a glorified list of clients and event attendees.",
+ "speaker": "u/LabIcy474, nonprofit consulting and training business (buyer)",
+ "how_checked": "saved copy: from our 2026 survey scrape; this site blocks automated reading, so not opened live",
+ "full_text": {
+  "thread_id": "1vy3y25",
+  "subreddit": "CRM",
+  "url": "https://www.reddit.com/r/CRM/comments/1vy3y25/spending_26kyear_on_hubspot_with_no_sales_team/",
+  "parent_id": null,
+  "is_comment": false,
+  "author": "LabIcy474",
+  "date": "2026-08-25T16:01:27+00:00",
+  "score": null,
+  "title": "Spending $26K/year on HubSpot with no sales team — feels like massive overkill. What should we actually be using?",
+  "text": "We run a small consulting + training business in the nonprofit space (donorrelations.com) — consulting engagements, online webinars, a couple of in-person conferences a year, plus content marketing. We're not a SaaS company, we don't have sales reps, and there's no real \"pipeline\" in the traditional sense — no one chasing deals through a sales cycle.\n\nDespite that, we're paying $26K/year for HubSpot. When I actually break down what we use it for, it's basically:\n\n- Tracking registrations/sales for our online webinars\n\n- Tracking conference registrations\n\n- Keeping records on our consulting clients\n\n- Email/marketing automation\n\nThat's genuinely the whole list. No deal pipelines, no sales forecasting, none of the stuff that pricing tier seems to assume you need. We already run Shopify for our actual store, so there's some overlap there I'm questioning too.\n\nIt feels like we're paying enterprise-sales-team pricing for what amounts to an email marketing tool plus a glorified list of clients and event attendees.\n\nFor anyone who's been in a similar spot — service/consulting business, events + webinars, content marketing, no dedicated sales team — what did you move to, and did it actually save money without losing functionality? Trying to figure out if this is a \"drop down a HubSpot tier\" problem or a \"leave HubSpot entirely\" problem.\n\nHappy to answer questions about our current setup if it helps get more specific suggestions.",
+  "search_query": "leaving hubspot"
+ }
+}

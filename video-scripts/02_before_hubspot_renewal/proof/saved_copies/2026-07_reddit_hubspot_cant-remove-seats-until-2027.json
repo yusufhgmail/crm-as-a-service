@@ -1,0 +1,50 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit/X/G2 block automated live checks.",
+ "survey_record": {
+  "url": "https://www.reddit.com/r/hubspot/comments/1v3io34/hubspot_has_become_too_expensive_for_our_business/ozdp7y2/",
+  "date": "2026-07-23",
+  "source": "reddit",
+  "quote": "I’m downsizing my business, and it’s frustrating. That I can’t remove seats to reduce my costs until the next renewal date in 2027"
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_external.jsonl",
+   "record": {
+    "thread_id": "1v3io34",
+    "subreddit": "hubspot",
+    "url": "https://www.reddit.com/r/hubspot/comments/1v3io34/hubspot_has_become_too_expensive_for_our_business/ozdp7y2/",
+    "parent_id": null,
+    "is_comment": true,
+    "author": "mohamedhamad",
+    "date": "2026-07-23T23:04:45+00:00",
+    "score": null,
+    "title": "Hubspot has become too expensive for our business",
+    "text": "I’m downsizing my business, and it’s frustrating. That I can’t remove seats to reduce my costs until the next renewal date in 2027",
+    "search_query": "hubspot too expensive"
+   }
+  },
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "source": "reddit",
+    "platform_id": "t1_ozdp7y2",
+    "author": "/u/mohamedhamad",
+    "author_url": "https://www.reddit.com/user/mohamedhamad",
+    "date": "2026-07-23",
+    "url": "https://www.reddit.com/r/hubspot/comments/1v3io34/hubspot_has_become_too_expensive_for_our_business/ozdp7y2/",
+    "is_comment": true,
+    "parent_url": "https://www.reddit.com/r/hubspot/comments/1v3io34/hubspot_has_become_too_expensive_for_our_business/",
+    "title": "/u/mohamedhamad on Hubspot has become too expensive for our business",
+    "text": "I’m downsizing my business, and it’s frustrating. That I can’t remove seats to reduce my costs until the next renewal date in 2027",
+    "language": "en",
+    "query": "hubspot too expensive",
+    "kw_hits": [
+     "hubspot",
+     "too expensive",
+     "renewal",
+     "seats"
+    ]
+   }
+  }
+ ]
+}
