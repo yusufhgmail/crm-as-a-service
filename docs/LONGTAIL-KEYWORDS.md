@@ -1,3 +1,5 @@
+> **3 Nov 2026:** superseded for the US market by `SEO-KEYWORDS-2026-11-03.md`, which has measured volumes. The US trade niches below ("CRM for painting companies" etc.) have 0–10 searches a month; "CRM for contractors" as one group has 590. The Swedish list is kept for plan B.
+
 # Longtail keyword seed list — dynamic landing system
 
 First working list for the dynamic longtail-keyword landing system (see STRATEGY.md "Marketing" section). Goal: keywords with real search intent, low competition, each mapping to a niche whose landing section the LLM generates on the fly.
