@@ -1,0 +1,25 @@
+{
+ "note": "Saved copy from our survey scrape (Oct 2026). Reddit blocks automated live checks; LinkedIn post body checked live, the author reply is from the saved comment scrape.",
+ "url": "https://www.reddit.com/r/CRM/comments/1vfh292/has_anyone_built_a_crm_from_scratch/p1p6jbq/",
+ "date": "2026-08-04",
+ "quote": "We actually evaluated existing CRMs and even paid for customizations on some over the last several years, but our workflow is a little different because we're managing equipment sales, engineering projects, installations, removals, and project management all within the same opportunities at times.",
+ "raw_file": "raw/reddit_threads.jsonl",
+ "full_text_record": {
+  "source": "reddit",
+  "platform_id": "t1_p1p6jbq",
+  "author": "/u/Legal_Development704",
+  "author_url": "https://www.reddit.com/user/Legal_Development704",
+  "date": "2026-08-04",
+  "url": "https://www.reddit.com/r/CRM/comments/1vfh292/has_anyone_built_a_crm_from_scratch/p1p6jbq/",
+  "is_comment": true,
+  "parent_url": "https://www.reddit.com/r/CRM/comments/1vfh292/has_anyone_built_a_crm_from_scratch/",
+  "title": "/u/Legal_Development704 on Has anyone built a CRM from scratch?",
+  "text": "Thanks for the advice. We actually evaluated existing CRMs and even paid for customizations on some over the last several years, but our workflow is a little different because we’re managing equipment sales, engineering projects, installations, removals, and project management all within the same opportunities at times. We ended up building an internal system because it fit our business better and more naturally than any of the others we tried could.\n My question here was really about making sure I’m covering privacy and security correctly because the CRM is already built",
+  "language": "en",
+  "query": "build our own crm",
+  "kw_hits": [
+   "crm"
+  ]
+ },
+ "checked": "saved copy, read in full 27 Oct 2026 by the video 6 worker; speaker is a buyer (first-person company owner/employee)"
+}
