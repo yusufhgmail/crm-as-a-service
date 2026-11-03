@@ -89,7 +89,7 @@ Changed in this review:
 
 Found but left for a decision:
 
-- **Dead outbound link on the home page.** The "Already stuck in HubSpot or Salesforce?" block links to companynative.com, which returns 404. Remove the link or point it at the contact form until that site exists. (`app/page.tsx`, the `migration` section.)
+- **Outbound link to companynative.com.** The "Already stuck in HubSpot or Salesforce?" block links to the companynative.com root. The site exists (its `/en` path returned 404 on 31 Oct), but whether to keep sending visitors there is undecided. Parked by Ville on 3 Nov; the link stays for now. (`app/page.tsx`, the `migration` section.)
 - **Title and page text don't share words.** The title says "custom CRM" and "small businesses"; the H1 and intro don't use either phrase. Google and AI assistants weigh page text more than the title. One sentence in the hero or the first H2 that says "a custom CRM for small businesses" would close the gap.
 - **FAQ markup won't produce rich results.** Google limits FAQ rich results to government and health sites. The markup still helps AI assistants, so it stays.
 - **`sameAs` is still empty.** Needs the company LinkedIn page and Yusuf's own LinkedIn URL.
