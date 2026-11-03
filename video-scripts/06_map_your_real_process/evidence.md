@@ -28,7 +28,7 @@ All saved 27 Oct 2026. Live pages were checked with WebFetch (the browser was no
 
 ## Screenshots (checked live 3 Nov 2026)
 
-Sharp PNGs in `proof/`, taken live in Chrome with the quoted words highlighted in yellow: every Trustpilot, HubSpot Community and LinkedIn quote, plus HubSpot help-center screens (`2026-11_help-center_…`, HubSpot's own images at full size or highlighted captures) for paid-plan screens the free demo portal can't show. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `survey/evidence/saved_copies/` (on GitHub: `proof/saved_copies/`).
+Sharp PNGs in `proof/`, taken live in Chrome with the quoted words highlighted in yellow: every Trustpilot, HubSpot Community and LinkedIn quote, plus HubSpot help-center screens (`2026-11_help-center_…`, HubSpot's own images at full size or highlighted captures) for paid-plan screens the free demo portal can't show, and the public pricing and catalog pages (`2026-11_hubspot-pricing_…`, `2026-11_hubspot-catalog_…`) with the numbers the script uses boxed in red. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `survey/evidence/saved_copies/` (on GitHub: `proof/saved_copies/`).
 
 - `2026-03_linkedin_coconut-16k-hubspot-didnt-fit.png`
 - `2026-05_trustpilot_pipedrive-proposals-ms-word.png`

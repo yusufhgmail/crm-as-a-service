@@ -33,7 +33,7 @@ HubSpot's own pages (pricing for Sales/Marketing/Service Hub, Product & Services
 
 ## Screenshots (checked live 3 Nov 2026)
 
-Sharp PNGs in `proof/`, taken live in Chrome with the quoted words highlighted in yellow: every Trustpilot, HubSpot Community and LinkedIn quote, plus HubSpot help-center screens (`2026-11_help-center_…`, HubSpot's own images at full size or highlighted captures) for paid-plan screens the free demo portal can't show. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `survey/evidence/saved_copies/` (on GitHub: `proof/saved_copies/`).
+Sharp PNGs in `proof/`, taken live in Chrome with the quoted words highlighted in yellow: every Trustpilot, HubSpot Community and LinkedIn quote, plus HubSpot help-center screens (`2026-11_help-center_…`, HubSpot's own images at full size or highlighted captures) for paid-plan screens the free demo portal can't show, and the public pricing and catalog pages (`2026-11_hubspot-pricing_…`, `2026-11_hubspot-catalog_…`) with the numbers the script uses boxed in red. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `survey/evidence/saved_copies/` (on GitHub: `proof/saved_copies/`).
 
 - `2025-05_trustpilot_1-year-commitment-sales-hub-pro-checkout.png`
 - `2026-01_trustpilot_sold-enterprise-upgrade-couldnt-do-it.png`
@@ -44,3 +44,7 @@ Sharp PNGs in `proof/`, taken live in Chrome with the quoted words highlighted i
 - `2026-11_help-center_deal-approvals-sales-hub-enterprise.png`
 - `2026-11_help-center_quote-approvals-revenue-hub.png`
 - `2026-11_help-center_sla-service-hub-professional.png`
+- `2026-11_hubspot-catalog_core-and-sales-seat-prices.png`
+- `2026-11_hubspot-pricing_sales-starter-15-pipelines.png`
+- `2026-11_hubspot-pricing_sales-starter-50-workflows.png`
+- `2026-11_hubspot-pricing_sales-starter-vs-professional.png`

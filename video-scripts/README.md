@@ -26,3 +26,5 @@ Each folder holds:
 | `README.md` | Status and Drive links |
 
 Copied from the working repo (`videos/finished/`) on 3 Nov 2026.
+
+Before filming videos 1 to 6, see [RECORDING_CHECKLIST.md](RECORDING_CHECKLIST.md).
