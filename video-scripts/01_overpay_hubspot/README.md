@@ -1,16 +1,18 @@
 # Video 1: How to Stop Overpaying for HubSpot: 5 Checks
 
+[All video scripts](../README.md)
+
 **Status:** approved
 
-- Script on Drive: https://docs.google.com/document/d/1cz-zF9dSYYYRxYrc42LIEFPu5X09gLQoTMwMQh1Y3-E/edit
-- Yusuf's lines on Drive: https://docs.google.com/document/d/1iC-YUKR1SVDdlAKWZFvlL-fFgZaQ3krPVs4D_jjDEUA/edit
+- [Script on Drive](https://docs.google.com/document/d/1cz-zF9dSYYYRxYrc42LIEFPu5X09gLQoTMwMQh1Y3-E/edit)
+- [Yusuf's lines on Drive](https://docs.google.com/document/d/1iC-YUKR1SVDdlAKWZFvlL-fFgZaQ3krPVs4D_jjDEUA/edit)
 
 ## Files
 
-- `script.md`: full script: on-screen notes, links, sources, Shorts table, title and thumbnail
-- `yusuf_lines.md`: only what Yusuf says, for reading and recording
-- `social/linkedin_x.md`: LinkedIn and X posts
-- `proof`: screenshots and documents that prove the quotes
+- [script.md](script.md): full script: on-screen notes, links, sources, Shorts table, title and thumbnail
+- [yusuf_lines.md](yusuf_lines.md): only what Yusuf says, for reading and recording
+- [social/linkedin_x.md](social/linkedin_x.md): LinkedIn and X posts
+- [proof](proof): screenshots and documents that prove the quotes
 
 ## Not made yet
 
