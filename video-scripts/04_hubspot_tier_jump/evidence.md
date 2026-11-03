@@ -30,3 +30,12 @@ Saved 26 Oct 2026 for Video 4 ("How to Get the HubSpot Feature You Need Without 
 - G2 "using only 5 percent of", X "$17K a year", HubSpot Community "solution proposed was an upgrade to Enterprise": cut for length.
 
 HubSpot's own pages (pricing for Sales/Marketing/Service Hub, Product & Services Catalog, terms §2.5/§2.6/§3.1/§4.1, help-center tier boxes for deal approvals, custom reports, custom objects, SLA goals, quote approvals, workflows, sequences, forecasting, knowledge base, support portal) were checked on 26 Oct 2026; exact wording is in the script's Sources.
+
+## Screenshots (checked live 3 Nov 2026)
+
+Sharp PNGs of every Trustpilot review the script quotes, taken live in Chrome with the quoted words highlighted in yellow, in `proof/`. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `proof/saved_copies/` (GitHub) and `survey/evidence/saved_copies/`.
+
+- `2025-05_trustpilot_1-year-commitment-sales-hub-pro-checkout.png`
+- `2026-01_trustpilot_sold-enterprise-upgrade-couldnt-do-it.png`
+- `2026-06_trustpilot_service-hub-needs-marketing-hub-for-follow-ups.png`
+- `2026-09_trustpilot_kept-pro-seat-only-one-user-can-call.png`

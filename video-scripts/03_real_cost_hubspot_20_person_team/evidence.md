@@ -28,3 +28,11 @@ Checked 26 Oct 2026. No browser was used for this video (another worker held Chr
 | https://knowledge.hubspot.com/quotes/use-quotes | Line 1 | "You must have a Revenue Hub seat to be able to create quotes." |
 | https://knowledge.hubspot.com/account-management/manage-seats | Line 1 | Settings → Users & Teams → Seats tab; seat types Core, Sales, Service, Revenue… |
 | https://knowledge.hubspot.com/integrations/connect-apps-to-hubspot | Line 4 | Settings → Integrations → Connected Apps; "All products and plans" |
+
+## Screenshots (checked live 3 Nov 2026)
+
+Sharp PNGs of every Trustpilot review the script quotes, taken live in Chrome with the quoted words highlighted in yellow, in `proof/`. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `proof/saved_copies/` (GitHub) and `survey/evidence/saved_copies/`.
+
+- `2026-03_trustpilot_3-subscriptions-1000-month-simple-flow.png`
+- `2026-07_trustpilot_20k-integrator-4-months-nothing-done.png`
+- `2026-09_trustpilot_15k-to-25k-seat-for-quotes.png`

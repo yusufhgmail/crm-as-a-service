@@ -10,12 +10,12 @@
 - `script.md`: full script: on-screen notes, links, sources, Shorts table, title and thumbnail
 - `yusuf_lines.md`: only what Yusuf says, for reading and recording
 - `evidence.md`: every source, how it was checked, rejected candidates
+- `proof/`: sharp highlighted screenshots of every Trustpilot review quoted (3 Nov 2026)
 - `counts.md`: how the survey numbers in the script were counted
 - `social/linkedin_x.md`: LinkedIn and X posts
 
 ## Not made yet
 
-- `proof/`: highlighted screenshots of each live-checked source, taken before filming
 - `social/youtube.md`: YouTube description, chapters, pinned comment, community posts, Shorts
 - `social/facebook.md`: Facebook posts
 - `social/instagram.md`: Instagram carousel and Reels captions

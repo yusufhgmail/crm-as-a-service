@@ -28,3 +28,21 @@ All saved 27 Oct 2026. Trustpilot pages were checked live with WebFetch (the bro
 | 2026-10_reddit_crmsoftware_team-back-to-outlook.json | Video 5: reason 8 (team won't use it) |
 
 Not used after reading the full post: r/CRMSoftware "migrated to DealHub after Salesforce CPQ" (reads like a vendor-shortlist post, so it might be a seller).
+
+## Screenshots (checked live 3 Nov 2026)
+
+Sharp PNGs of every Trustpilot review the script quotes, taken live in Chrome with the quoted words highlighted in yellow, in `proof/`. Reddit, X and G2 block automated checks, so those quotes rely on the saved copies in `proof/saved_copies/` (GitHub) and `survey/evidence/saved_copies/`.
+
+- `2026-04_trustpilot_zoho-a-bit-stuck.png`
+- `2026-05_trustpilot_odoo-35k-year-database-closed.png`
+- `2026-06_trustpilot_salesforce-worst-decision-switch.png`
+- `2026-06_trustpilot_zoho-7-years-3-day-shutdown.png`
+- `2026-07_trustpilot_pipedrive-200k-leads-45k-cap.png`
+- `2026-07_trustpilot_pipedrive-8000-prepaid-integration.png`
+- `2026-07_trustpilot_salesforce-10k-portal-data-deleted.png`
+- `2026-07_trustpilot_salesforce-20-years-extra-licence.png`
+- `2026-07_trustpilot_zoho-to-salesforce-industry-leader.png`
+- `2026-09_trustpilot_hubspot-1450-month-renewed-old-tier.png`
+- `2026-09_trustpilot_hubspot-customisations-unilateral-changes.png`
+- `2026-09_trustpilot_hubspot-customisations-unilateral-changes_2.png`
+- `2026-10_trustpilot_hubspot-forced-expensive-partner.png`

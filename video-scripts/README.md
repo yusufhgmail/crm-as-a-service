@@ -17,7 +17,7 @@ Each folder holds:
 | `script.md` | The full script: on-screen notes, links, title and thumbnail, Shorts table, description, sources |
 | `yusuf_lines.md` | Only what Yusuf says, for reading and recording |
 | `evidence.md` | Every source, how it was checked, and the candidates that were rejected |
-| `proof/` | Highlighted screenshots (videos 1 and 2) and `saved_copies/`: the saved posts behind the Reddit, X, G2 and Trustpilot quotes |
+| `proof/` | Sharp highlighted PNG screenshots of every live-checked quote and `saved_copies/`: the saved posts behind the Reddit, X, G2 and Trustpilot quotes |
 | `counts.md` | Video 5 only: how the survey counts were made |
 | `social/linkedin_x.md` | LinkedIn and X post drafts (not reviewed yet) |
 | `README.md` | Status and Drive links |
