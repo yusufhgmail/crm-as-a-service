@@ -12,6 +12,7 @@
     "build": "vinext build",
     "deploy": "npm run build && wrangler deploy",
     "start": "vinext start",
+    "check:seo": "node scripts/check-seo.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next --ignore-pattern .wrangler"
   },
   "dependencies": {

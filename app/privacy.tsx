@@ -1,18 +1,28 @@
-import type { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { JsonLd, jsonLd, pageMetadata, type PageCopy, type SiteLocale } from './seo';
 
-export const metadata: Metadata = {
-  title: 'Privacy — CRM From Within',
-  robots: { index: true, follow: true },
+// Rendered by app/en/privacy and app/se/privacy. Each route exports static
+// `metadata`: vinext streams async generateMetadata into <body>, where search
+// engines ignore canonical and hreflang.
+
+const copy: Record<SiteLocale, PageCopy> = {
+  en: {
+    title: 'Privacy | CRM From Within',
+    description: 'How CRM From Within handles what you share in the CRM plan and in contact requests: what is stored, why, for how long and your rights.',
+  },
+  se: {
+    title: 'Integritet | CRM From Within',
+    description: 'Så hanterar CRM From Within det du delar i CRM-planen och i kontaktförfrågningar: vad som sparas, varför, hur länge och dina rättigheter.',
+  },
 };
 
-export default async function PrivacyPage({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale } = await params;
-  if (locale !== 'en' && locale !== 'se') notFound();
+export const privacyMetadata = (locale: SiteLocale) => pageMetadata(locale, '/privacy', copy[locale]);
+
+export function PrivacyPage({ locale }: { locale: SiteLocale }) {
   const swedish = locale === 'se';
 
   return (
     <main className="legal-page" lang={swedish ? 'sv' : 'en'}>
+      <JsonLd data={jsonLd(locale, '/privacy', copy[locale])} />
       <nav className="nav shell" aria-label={swedish ? 'Huvudmeny' : 'Main navigation'}>
         <a className="brand" href={`/${locale}`}><span className="brand-mark" aria-hidden="true" /><span>CRM From Within</span></a>
         <a className="button button-small button-dark" href={`/${locale}`}>{swedish ? 'Tillbaka till startsidan' : 'Back to the website'} <span aria-hidden="true">→</span></a>

@@ -26,6 +26,9 @@ export default defineConfig(async ({ command }) => {
       sites(),
       cloudflare({
         viteEnvironment: { name: 'rsc', childEnvironments: ['ssr'] },
+        // CRM_LOCAL_ONLY=1 runs without a Cloudflare login: the pages render,
+        // the assessment chat has no AI to call.
+        remoteBindings: process.env.CRM_LOCAL_ONLY !== '1',
         config: {
           main: 'vinext/server/app-router-entry',
           ai: { binding: 'AI', remote: true },

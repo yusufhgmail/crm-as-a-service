@@ -1,6 +1,7 @@
 'use client';
 
 import { FormEvent, useEffect, useRef, useState } from 'react';
+import { faq } from './faq';
 import { getFunnelSessionId, trackFunnelEvent } from './funnel';
 
 const Arrow = () => <span aria-hidden="true">→</span>;
@@ -566,10 +567,9 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
           <h2>{t('Choose CRM From Within when the company needs a better fit—but nobody wants a CRM project.', 'Välj CRM From Within när företaget behöver bättre passform—men ingen vill ha ett CRM-projekt.')}</h2>
         </div>
         <div className="answer-grid">
-          <article><span>{t('NO CRM ADMIN', 'INGEN CRM-ADMINISTRATÖR')}</span><h3>{t('“Who is going to customize and maintain it?”', '”Vem ska anpassa och underhålla det?”')}</h3><p>{t('Not your team. The CRM observes the work, asks focused questions and is changed by the system and our experts. Your company decides what is approved.', 'Inte ditt team. CRM-systemet observerar arbetet, ställer fokuserade frågor och ändras av systemet och våra experter. Företaget avgör vad som godkänns.')}</p></article>
-          <article><span>{t('SIMPLICITY', 'ENKELHET')}</span><h3>{t('“Will a CRM create more admin?”', '”Skapar ett CRM mer administration?”')}</h3><p>{t('It should not. The core stays small and starts with work the team already does. Anything that adds effort without enough value should change or go.', 'Det ska det inte göra. Grunden är liten och börjar med arbete som teamet redan gör. Det som ökar arbetsbördan utan tillräckligt värde ska ändras eller tas bort.')}</p></article>
-          <article><span>{t('DATA & CONTROL', 'DATA OCH KONTROLL')}</span><h3>{t('“What happens to our data?”', '”Vad händer med vår data?”')}</h3><p>{t('You choose the approved sources and history. Data export, deletion, hosting, access and protection must be agreed clearly before real customer information is imported.', 'Du väljer godkända källor och historik. Dataexport, radering, drift, åtkomst och skydd ska vara tydligt överenskomna innan riktig kundinformation importeras.')}</p></article>
-          <article><span>{t('STANDARD CRM', 'STANDARD-CRM')}</span><h3>{t('“Why not just use HubSpot Free?”', '”Varför inte bara använda HubSpot Free?”')}</h3><p>{t('You should if a generic pipeline is enough and you are happy to configure it. Choose CRM From Within when the main problem is having to design, populate and adapt the CRM yourself.', 'Det bör du göra om en generell pipeline räcker och du gärna ställer in den själv. Välj CRM From Within när huvudproblemet är att själv behöva designa, fylla och anpassa CRM-systemet.')}</p></article>
+          {faq[locale].map((item) => (
+            <article key={item.label}><span>{item.label}</span><h3>{swedish ? `”${item.question}”` : `“${item.question}”`}</h3><p>{item.answer}</p></article>
+          ))}
         </div>
       </section>
 
