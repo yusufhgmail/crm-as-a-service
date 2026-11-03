@@ -2,18 +2,18 @@
 
 Proof for every story quoted in the script, saved 27 Oct 2026 in case a post is edited or deleted.
 
-- **Screenshots** in `proof/` were taken live in Chrome on 27 Oct 2026, with the quoted lines highlighted in yellow.
+- **Screenshots** in `proof/` were taken live in Chrome (27 Oct 2026, retaken sharp on 3 Nov 2026), with the quoted lines highlighted in yellow.
 - **Saved copies** in `proof/saved_copies/` come from our survey scrape. They're used for Reddit, X and G2, which block automated live checks. Each file has the URL, the post date and the exact quote.
 
 ## Screenshots (checked live)
 
 | File | Used in | Source |
 |---|---|---|
-| 2026-02_hubspot-community_paid-seats-never-use-hubspot.jpg | Video 1: leak 1 | https://community.hubspot.com/t/what-can-a-view-only-seat-user-do/134552/10 |
-| 2026-08_hubspot-community_forced-seats-developers.jpg | Video 1: leak 1 | https://community.hubspot.com/t/developer-seats-viewing-crm-data/156443 |
-| 2026-06_trustpilot_10-months-partner-not-our-workflow.jpg | Video 1: leak 5 | https://www.trustpilot.com/reviews/6a2ac7eaaadec9e5b87b8790 |
-| 2026-07_trustpilot_cancel-anytime-3-year-lock-in.jpg | Video 1: hook and leak 4 | https://www.trustpilot.com/reviews/6a5aa86fceeb14dc2ff3800e |
-| 2025-05_trustpilot_98k-a-year.jpg | Video 1: backup hook (not used) | https://www.trustpilot.com/reviews/6834f5182de64f446b6c2435 |
+| 2026-02_hubspot-community_paid-seats-never-use-hubspot.png | Video 1: leak 1 | https://community.hubspot.com/t/what-can-a-view-only-seat-user-do/134552/10 |
+| 2026-08_hubspot-community_forced-seats-developers.png | Video 1: leak 1 | https://community.hubspot.com/t/developer-seats-viewing-crm-data/156443 |
+| 2026-06_trustpilot_10-months-partner-not-our-workflow.png | Video 1: leak 5 | https://www.trustpilot.com/reviews/6a2ac7eaaadec9e5b87b8790 |
+| 2026-07_trustpilot_cancel-anytime-3-year-lock-in.png | Video 1: hook and leak 4 | https://www.trustpilot.com/reviews/6a5aa86fceeb14dc2ff3800e |
+| 2025-05_trustpilot_98k-a-year.png | Video 1: backup hook (not used) | https://www.trustpilot.com/reviews/6834f5182de64f446b6c2435 |
 
 ## Saved copies (Reddit, X, G2)
 
