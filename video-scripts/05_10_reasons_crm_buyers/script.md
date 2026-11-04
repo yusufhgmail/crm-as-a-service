@@ -50,7 +50,7 @@ Pair title 1 with thumbnail 2 first; test 2 with 1, and 3 with 4.
 **ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **5,000+ CRM buyers studied**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we didn't stop at HubSpot. We studied what more than five thousand CRM buyers say about their CRM. Salesforce, Zoho, Pipedrive, and dozens more.
+> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. My last videos were about HubSpot. For this one, we went wider: we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
 
 ## 0:19 Who it's for
 

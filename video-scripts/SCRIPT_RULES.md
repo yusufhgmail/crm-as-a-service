@@ -30,6 +30,11 @@ Every video rests on one study, kept in David's private repo. Check every number
 - Not like this: "So here's your homework." or "If you watch this and change nothing, nothing changes."
 - But like this: "Your move: book thirty minutes with your team this week."
 
+**Read each new line after the one before it.** Say them aloud in order. A line can't refer back to something the viewer hasn't heard yet.
+
+- Not like this: "I built a SaaS company, FunnelBud, and I sold it. And we didn't stop at HubSpot."
+- But like this: "My last videos were about HubSpot. For this one, we went wider."
+
 **Pitch in this order.** Many viewers don't know who we are, so say what we do before saying who doesn't need us. Tie it to this video's problem, say who we are and what they get, say what makes it easy and safe (we move the data, they own the code, no long contract), say who it's for, then give one next step: the fit check.
 
 - Not like this: "If you're a two-person team, you don't need us." before saying what we do.
