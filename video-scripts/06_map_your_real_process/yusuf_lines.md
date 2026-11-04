@@ -8,15 +8,15 @@ Over the last ten years, me and my team have set up CRMs for hundreds of compani
 
 ## Who it's for
 
-Maybe that's you: you pay for a CRM, HubSpot, Salesforce, anything, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard. This video shows you how to map how your team really works, so you know what your CRM has to do before you buy one.
+Maybe that's you: you pay for a CRM, HubSpot, Salesforce, anything, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard. This video shows you how to map how your team really works, so you can find the step that's holding your business back, before you buy anything.
 
 ## Promise
 
-We found a company with a hundred and ten people and more than ten million in yearly recurring revenue. They run marketing, sales and account management in HubSpot, and they're happy with it. But the one step where the money actually changes, a customer upgrading or downgrading, happens six to eight hundred times a year. And they work that out in Excel.
+We found a company in Texas that finds apartments for renters. In 2018 they had a hundred and twenty people and thirteen million dollars in revenue. They were on Zoho, and in the founder's words, leads were still falling through the cracks. They had plenty of leads. They just couldn't work them. So they built their own CRM, for one point two million dollars. The next year they had a hundred people and nineteen million in revenue. Twenty fewer people, six million more. And the founder says that CRM increased revenue per agent by thirty-eight percent.
 
 All the stories here are real, and the links are in the description.
 
-That Excel file doesn't show up on any CRM screen. That's the problem. So in this video I'll show you how to see how a job really moves through your company, how to find every step that happens outside your CRM, what that costs your team, and which ones you can fix today and which ones you can't. Five steps, thirty minutes, and you do it with the people who do the work.
+That's what a bottleneck does. One step holds back the whole company, and it doesn't show up on any CRM screen. So in this video I'll show you how to see how a job really moves through your company, how to find every step that happens outside your CRM, how to spot the one that's holding everything back, and which problems you can fix today and which ones you can't. Five steps, thirty minutes, and you do it with the people who do the work.
 
 ## Plan
 
@@ -58,15 +58,15 @@ One Pipedrive customer, in May, thought they could build proposals inside the CR
 
 Remember the nearly nineteen hundred buyers who said their CRM doesn't fit? Well, around two hundred buyers in our study wrote about the spreadsheets and the re-typing they do next to their CRM. So, five minutes. Green or red, under every sticky.
 
-## Step 4: Draw the re-typing
+## Step 4: Find the bottleneck
 
-Step four. Draw the re-typing. Every time the same information gets typed a second time, the customer's name, the address, the price, the line items, draw a red arrow from where it was typed first to where it's typed again.
+Step four. Find the bottleneck. Start with the re-typing. Every time the same information gets typed a second time, the customer's name, the address, the price, the line items, draw a red arrow from where it was typed first to where it's typed again.
 
 So on our map, the name and address get typed into the estimate. The prices get typed again into the invoice. The job details get copied onto the crew whiteboard. And the payment gets entered in two places. Four red arrows.
 
-One Jobber customer, in June, paid for a full year. Their invoice numbers clashed with QuickBooks, so now every invoice has to start in Jobber. And every payment gets checked in QuickBooks for late fees, then typed in again. That's a red arrow on every payment, for a year.
+Most of those arrows are just annoying. Ten minutes here, ten minutes there. That's not what you're looking for. You're looking for the one step that decides how much work you can win. One small company had a website form connected to an automation. It broke, and nobody saw it for six months. In their words, it cost them tens of thousands of dollars in lost revenue.
 
-Then put a number on each arrow. How many times a week does it happen, times how many minutes. If the office types fifteen estimates into invoices a week, and each takes ten minutes, that's two and a half hours, every week, on one arrow. Ask the person who does it. They know the number exactly.
+So walk your map and ask one question. Where does work pile up and wait? For our roofer, it's the estimate. It only gets written in the evening, when someone has time, so the homeowner waits three days. And some of them call another roofer. Say that costs two jobs a month, at seven thousand two hundred dollars a job. That's more than a hundred and seventy thousand dollars a year, from one step. That's your bottleneck. Ask the people who do the work. They know where it is.
 
 ## Step 5: Sort it: setting, tier or fit
 
@@ -82,13 +82,13 @@ In March, one company needed one more pipeline. On their plan, the next level up
 
 And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. In their words: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
 
-Five minutes, one letter each. When you're done, count them. The S's are this week's to-do list. The T's go on your renewal list. And the F's, with the hours you wrote next to them, are what your CRM really doesn't do for you.
+Five minutes, one letter each. When you're done, count them. The S's are this week's to-do list. The T's go on your renewal list. And if your bottleneck has an F on it, no setting and no plan will ever fix it.
 
-What's one step that still lives outside your CRM? Drop it in the comments, with your team size.
+What's the one step that holds your business back? Drop it in the comments, with your team size.
 
 ## Recap
 
-So, the thirty-minute map. Pick one real job. Write every step, start to paid. Mark where each step really lives. Draw the re-typing and put hours on it. And sort every red one: setting, tier or fit.
+So, the thirty-minute map. Pick one real job. Write every step, start to paid. Mark where each step really lives. Find the bottleneck and put a number on it. And sort every red one: setting, tier or fit.
 
 ## Is a map enough?
 
@@ -96,13 +96,13 @@ Fixing the S's this week is worth doing. But the F's don't go away. You can pay 
 
 ## What we do
 
-There's another way, and it's what we do at CRM From Within. We build you a CRM from your map, so the F's turn green. We move your data over, you own the code, we maintain it, and there's no long contract.
+There's another way, and it's what we do at CRM From Within. We build you a CRM from your map, so the F's turn green. And it doesn't cost a million dollars any more. We move your data over, you own the code, we maintain it, and there's no long contract.
 
 It's for companies of ten to fifty people with a map full of F's. If your map is mostly S's, you don't need us. Fix them this week.
 
 ## Close
 
-Your move: book thirty minutes with your team this week. Map one real job. Put hours on the arrows. And fix every S before Friday.
+Your move: book thirty minutes with your team this week. Map one real job. Find the step everything waits on. And fix every S before Friday.
 
 Mostly F's? Bring your map to a free twenty-minute CRM fit check. The link's in the description.
 

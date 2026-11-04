@@ -54,22 +54,22 @@ Pair title 1 with thumbnail 1 first; test 2 with 3, and 3 with 2.
 **ON SCREEN:** one tag: **CRM doesn't fit how you work? This is for you.**
 
 **YUSUF:**
-> Maybe that's you: you pay for a CRM, HubSpot, Salesforce, anything, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard. This video shows you how to map how your team really works, so you know what your CRM has to do before you buy one.
+> Maybe that's you: you pay for a CRM, HubSpot, Salesforce, anything, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard. This video shows you how to map how your team really works, so you can find the step that's holding your business back, before you buy anything.
 
 ## 0:34 Promise
 
-**ON SCREEN:** quote card: *"With more than 2,000 active contracts, more than 10 million of ARR and an additional 600–800 upgrades or downgrades per year…"* → *"…instead of manually calculating everything in Excel as we do today."* ("10 million of ARR", "600–800 upgrades or downgrades" and "manually calculating everything in Excel" highlighted) · tag **r/hubspot · Mar 2026 · 110 employees**
-Link: https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_or_move_to_salesforce_need/
+**ON SCREEN:** quote card: *"Zoho was a nightmare, it was over complicated and leads were still falling through the cracks."* ("leads were still falling through the cracks" highlighted) · tag **r/startups · May 2021**. Then two bars, one per phrase: **2018: 120 people, $13M** · **2019: 100 people, $19M**. Then quote card: *"…that increased agent revenue per head by 38%."* ("38%" highlighted)
+Link: https://www.reddit.com/r/startups/comments/nh6otg/how_i_bootstrapped_a_40m_company_overnight/
 
 **YUSUF:**
-> We found a company with a hundred and ten people and more than ten million in yearly recurring revenue. They run marketing, sales and account management in HubSpot, and they're happy with it. But the one step where the money actually changes, a customer upgrading or downgrading, happens six to eight hundred times a year. And they work that out in Excel.
+> We found a company in Texas that finds apartments for renters. In 2018 they had a hundred and twenty people and thirteen million dollars in revenue. They were on Zoho, and in the founder's words, leads were still falling through the cracks. They had plenty of leads. They just couldn't work them. So they built their own CRM, for one point two million dollars. The next year they had a hundred people and nineteen million in revenue. Twenty fewer people, six million more. And the founder says that CRM increased revenue per agent by thirty-eight percent.
 >
 > All the stories here are real, and the links are in the description.
 
-**ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then a tag on the quote card: **ARR = yearly recurring revenue**. Then four tags appear beside Yusuf, one per phrase: ✓ **See how work really moves** · ✓ **Find every step outside the CRM** · ✓ **Know what it costs your team** · ✓ **Know what to fix, and how**
+**ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then four tags appear beside Yusuf, one per phrase: ✓ **See how work really moves** · ✓ **Find every step outside the CRM** · ✓ **Spot the bottleneck** · ✓ **Know what to fix, and how**
 
 **YUSUF:**
-> That Excel file doesn't show up on any CRM screen. That's the problem. So in this video I'll show you how to see how a job really moves through your company, how to find every step that happens outside your CRM, what that costs your team, and which ones you can fix today and which ones you can't. Five steps, thirty minutes, and you do it with the people who do the work.
+> That's what a bottleneck does. One step holds back the whole company, and it doesn't show up on any CRM screen. So in this video I'll show you how to see how a job really moves through your company, how to find every step that happens outside your CRM, how to spot the one that's holding everything back, and which problems you can fix today and which ones you can't. Five steps, thirty minutes, and you do it with the people who do the work.
 
 ## 1:38 Plan
 
@@ -77,7 +77,7 @@ Link: https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_o
 1. Pick one real job · 5 min
 2. Write every step · 10 min
 3. Mark where each step lives · 5 min
-4. Draw the re-typing · 5 min
+4. Find the bottleneck · 5 min
 5. Sort: setting, tier or fit · 5 min
 
 Tag on item 5 when he says "one letter": **What to do about it**
@@ -173,28 +173,28 @@ Link: https://www.trustpilot.com/reviews/6a0f7a312c0d32c96933773a
 **YUSUF:**
 > Remember the nearly nineteen hundred buyers who said their CRM doesn't fit? Well, around two hundred buyers in our study wrote about the spreadsheets and the re-typing they do next to their CRM. So, five minutes. Green or red, under every sticky.
 
-## 6:04 Step 4: Draw the re-typing
+## 6:04 Step 4: Find the bottleneck
 
-**ON SCREEN:** step tracker: **Step 4 of 5 · 5 min: Draw the re-typing** · total **20 → 25 min**. Tag: **Re-typing = same info, typed twice**
+**ON SCREEN:** step tracker: **Step 4 of 5 · 5 min: Find the bottleneck** · total **20 → 25 min**. Tag: **Re-typing = same info, typed twice**
 
 **YUSUF:**
-> Step four. Draw the re-typing. Every time the same information gets typed a second time, the customer's name, the address, the price, the line items, draw a red arrow from where it was typed first to where it's typed again.
+> Step four. Find the bottleneck. Start with the re-typing. Every time the same information gets typed a second time, the customer's name, the address, the price, the line items, draw a red arrow from where it was typed first to where it's typed again.
 
 **ON SCREEN:** red arrows drawn on the map: **4 Write estimate → 10 Final invoice** (tag: *prices typed again*) · **1 Lead calls → 4 Write estimate** (tag: *name + address again*) · **6 Contract signed → 8 Schedule crew** (tag: *job details again*) · **10 Final invoice → 11 Paid** (tag: *payment entered twice*)
 
 **YUSUF:**
 > So on our map, the name and address get typed into the estimate. The prices get typed again into the invoice. The job details get copied onto the crew whiteboard. And the payment gets entered in two places. Four red arrows.
 
-**ON SCREEN:** quote card: *"…invoices must be created in Jobber first—not QuickBooks—which is incredibly limiting and inconvenient."* ("must be created in Jobber first" highlighted). Tag under it: **Payments: checked in QuickBooks, re-entered in Jobber** · tag **Trustpilot · Jun 2026 · Jobber**
-Link: https://www.trustpilot.com/reviews/6a31401cd1527f13e6533afe
+**ON SCREEN:** tag on "just annoying": **Annoying ≠ bottleneck**. Then quote card: *"…a broken automation that was hidden from us for 6 months and cost us $10,000's in lost revenue."* ("hidden from us for 6 months" and "$10,000's in lost revenue" highlighted) · tag **Capterra · Feb 2024**
+Link: https://www.capterra.com/p/79367/ActiveCampaign/reviews/#6168093
 
 **YUSUF:**
-> One Jobber customer, in June, paid for a full year. Their invoice numbers clashed with QuickBooks, so now every invoice has to start in Jobber. And every payment gets checked in QuickBooks for late fees, then typed in again. That's a red arrow on every payment, for a year.
+> Most of those arrows are just annoying. Ten minutes here, ten minutes there. That's not what you're looking for. You're looking for the one step that decides how much work you can win. One small company had a website form connected to an automation. It broke, and nobody saw it for six months. In their words, it cost them tens of thousands of dollars in lost revenue.
 
-**ON SCREEN:** whiteboard maths next to each arrow, written as he says it: **times a week × minutes**. Example on the **Estimate → Invoice** arrow: **15 jobs × 10 min = 2.5 hours a week**. Tag: **Your numbers, not ours**. Then: **DO THIS: red arrow for every re-type + times a week × minutes**
+**ON SCREEN:** a big circle around **4 Write estimate**. Tag: **Waits 3 days**. Then whiteboard maths, written as he says it: **2 jobs a month × $7,200 × 12 = $172,800 a year**. Tag: **Made-up roofer. Use your numbers.** Then: **DO THIS: circle the step everything waits on, and price it**
 
 **YUSUF:**
-> Then put a number on each arrow. How many times a week does it happen, times how many minutes. If the office types fifteen estimates into invoices a week, and each takes ten minutes, that's two and a half hours, every week, on one arrow. Ask the person who does it. They know the number exactly.
+> So walk your map and ask one question. Where does work pile up and wait? For our roofer, it's the estimate. It only gets written in the evening, when someone has time, so the homeowner waits three days. And some of them call another roofer. Say that costs two jobs a month, at seven thousand two hundred dollars a job. That's more than a hundred and seventy thousand dollars a year, from one step. That's your bottleneck. Ask the people who do the work. They know where it is.
 
 **ON SCREEN:** the typed list, steps 1 to 4 ticked.
 
@@ -227,28 +227,28 @@ Link: https://www.reddit.com/r/hubspot/comments/1rrrdco/creating_deals_without_a
 **YUSUF:**
 > In March, one company needed one more pipeline. On their plan, the next level up came with fifteen, and cost around five thousand dollars more a year. Fourteen pipelines they'd never use. That's a T. You decide it at renewal, with the numbers.
 
-**ON SCREEN:** on the map, **F** goes on the red arrows **Estimate → Invoice** and **Invoice → Paid**, and on **5 Insurance approves** and **8 Schedule crew**. Then quote card: *"We spent over $16,000 on HubSpot. It didn't work for us"* → *"…after over a year of trying, and working with the Hubspot team, we had to ask if the tool fit our workflow. For us, it just didn't."* ("$16,000", "over a year of trying" and "it just didn't" highlighted) · tag **LinkedIn · Mar 2026 · CEO**
+**ON SCREEN:** on the map, **F** goes on the red arrows **Estimate → Invoice** and **Invoice → Paid**, and on **4 Write estimate**, **5 Insurance approves** and **8 Schedule crew**. Then quote card: *"We spent over $16,000 on HubSpot. It didn't work for us"* → *"…after over a year of trying, and working with the Hubspot team, we had to ask if the tool fit our workflow. For us, it just didn't."* ("$16,000", "over a year of trying" and "it just didn't" highlighted) · tag **LinkedIn · Mar 2026 · CEO**
 Link: https://www.linkedin.com/posts/donalacdao_we-spent-over-16000-on-hubspot-it-didnt-activity-7442208668944769024-yW4S
 
 **YUSUF:**
 > And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. In their words: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
 
-**ON SCREEN:** the map, complete: eleven stickies, green and red stickers, four red arrows, S, T and F on the examples above. The Estimate → Invoice arrow keeps its maths (15 jobs × 10 min = 2.5 hours a week); the other three show **? h**. Then: **DO THIS: S, T or F on every red sticker and arrow**
+**ON SCREEN:** the map, complete: eleven stickies, green and red stickers, four red arrows, S, T and F on the examples above. **4 Write estimate** keeps its circle and its maths ($172,800 a year). Then: **DO THIS: S, T or F on every red sticker and arrow**
 
 **YUSUF:**
-> Five minutes, one letter each. When you're done, count them. The S's are this week's to-do list. The T's go on your renewal list. And the F's, with the hours you wrote next to them, are what your CRM really doesn't do for you.
+> Five minutes, one letter each. When you're done, count them. The S's are this week's to-do list. The T's go on your renewal list. And if your bottleneck has an F on it, no setting and no plan will ever fix it.
 
 **ON SCREEN:** lower-third tag: **Comment: team size + your step that lives outside the CRM**
 
 **YUSUF:**
-> What's one step that still lives outside your CRM? Drop it in the comments, with your team size.
+> What's the one step that holds your business back? Drop it in the comments, with your team size.
 
 ## 9:32 Recap
 
 **ON SCREEN:** the typed list, all five ticked; the finished map beside it.
 
 **YUSUF:**
-> So, the thirty-minute map. Pick one real job. Write every step, start to paid. Mark where each step really lives. Draw the re-typing and put hours on it. And sort every red one: setting, tier or fit.
+> So, the thirty-minute map. Pick one real job. Write every step, start to paid. Mark where each step really lives. Find the bottleneck and put a number on it. And sort every red one: setting, tier or fit.
 
 ## 9:47 Is a map enough?
 
@@ -263,7 +263,7 @@ Link: https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is
 **ON SCREEN:** three tags, one per phrase: **Built from your map** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> There's another way, and it's what we do at CRM From Within. We build you a CRM from your map, so the F's turn green. We move your data over, you own the code, we maintain it, and there's no long contract.
+> There's another way, and it's what we do at CRM From Within. We build you a CRM from your map, so the F's turn green. And it doesn't cost a million dollars any more. We move your data over, you own the code, we maintain it, and there's no long contract.
 
 **ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
 
@@ -272,10 +272,10 @@ Link: https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is
 
 ## 10:42 Close
 
-**ON SCREEN:** checklist building line by line: **This week: ☐ Book 30 min with your team ☐ Map 1 real job ☐ Put hours on the arrows ☐ Fix the S's**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
+**ON SCREEN:** checklist building line by line: **This week: ☐ Book 30 min with your team ☐ Map 1 real job ☐ Find the step everything waits on ☐ Fix the S's**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Your move: book thirty minutes with your team this week. Map one real job. Put hours on the arrows. And fix every S before Friday.
+> Your move: book thirty minutes with your team this week. Map one real job. Find the step everything waits on. And fix every S before Friday.
 >
 > Mostly F's? Bring your map to a free twenty-minute CRM fit check. The link's in the description.
 >
@@ -284,24 +284,24 @@ Link: https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is
 **ON SCREEN:** end screen: next video (video 7): **Salesforce for a 15-Person Company: the Real Cost** + video 1 ("How to Stop Overpaying for HubSpot: 5 Checks") + "Free CRM fit check" button.
 
 **Description:**
-> How to map how your team really works in 30 minutes, with any CRM (HubSpot, Salesforce, Pipedrive and others). Pick one real job, write every step from first contact to paid, mark where each step really lives, draw the re-typing, and sort every problem: setting, tier or fit.
+> How to map how your team really works in 30 minutes, with any CRM (HubSpot, Salesforce, Pipedrive and others). Pick one real job, write every step from first contact to paid, mark where each step really lives, find the bottleneck, and sort every problem: setting, tier or fit.
 >
 > Free 20-minute CRM fit check (show us how your team works, we show you what's possible): [link with utm_campaign=v06]
 >
 > CRM From Within builds custom CRMs you own, built around how you work. Your code, no long contract.
 >
 > Sources (every story in the video):
-> - 110 people, 10M+ ARR, every upgrade calculated in Excel: https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_or_move_to_salesforce_need/
+> - Left Zoho, built their own CRM, 38% more revenue per agent: https://www.reddit.com/r/startups/comments/nh6otg/how_i_bootstrapped_a_40m_company_overnight/
 > - 27 people on Pipedrive, "technically works but it's all manual": https://www.reddit.com/r/revops/comments/1s782br/hiring_gtm_engineer_not_saas_not_a_startup/
 > - Equipment sales, engineering, installs and removals in one deal: https://www.reddit.com/r/CRM/comments/1vfh292/has_anyone_built_a_crm_from_scratch/p1p6jbq/
 > - Proposals in Word with find and replace: https://www.trustpilot.com/reviews/6a0f7a312c0d32c96933773a
-> - Invoices and payments typed twice, Jobber and QuickBooks: https://www.trustpilot.com/reviews/6a31401cd1527f13e6533afe
+> - Broken automation hidden for six months: https://www.capterra.com/p/79367/ActiveCampaign/reviews/#6168093
 > - $5,000 a year for one more pipeline: https://www.reddit.com/r/hubspot/comments/1rrrdco/creating_deals_without_adding_them_to_a_pipeline/
 > - $16,000 on HubSpot, "it just didn't" fit: https://www.linkedin.com/posts/donalacdao_we-spent-over-16000-on-hubspot-it-didnt-activity-7442208668944769024-yW4S
 > - A million dollars customising Salesforce, "now we're locked in": https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is_losing_their_customers_and/or8y0aq/
 > - HubSpot pipelines, limits per plan (HubSpot help center): https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelines
 >
-> 0:00 Who I am · 1:38 The 5 steps · 1:48 Pick one real job · 2:58 Write every step · 4:56 Where each step lives · 6:04 Draw the re-typing · 7:30 Setting, tier or fit · 9:47 Is a map enough? · 10:24 What we do · 10:42 Your homework
+> 0:00 Who I am · 1:38 The 5 steps · 1:48 Pick one real job · 2:58 Write every step · 4:56 Where each step lives · 6:04 Find the bottleneck · 7:30 Setting, tier or fit · 9:47 Is a map enough? · 10:24 What we do · 10:42 Your next step
 
 ---
 
@@ -311,13 +311,13 @@ Each short opens with the proof line ("Me and my team have set up CRMs for hundr
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|
-| 1 | 0:34–1:07 | 35s | "10 million a year in recurring revenue. Every upgrade calculated in Excel." |
+| 1 | 0:34–1:07 | 35s | "120 people and $13M. Then 100 people and $19M." |
 | 2 | 1:48–2:39 | 50s | "Don't map your process. Map one real job." |
 | 3 | 2:58–3:58 | 60s | "Your CRM says 'Closed Won'. Your roofer is on step 6 of 11." |
 | 4 | 3:58–4:23 | 25s | "One deal: a sale, an engineering project, an install and a removal" |
 | 5 | 4:56–5:22 | 25s | "2 green, 9 red: where your work really lives" |
 | 6 | 5:22–6:04 | 40s | "Proposals in Word, with find and replace" |
-| 7 | 6:04–7:30 (trim to 55s) | 55s | "Every red arrow costs you hours. Here's how to count them." |
+| 7 | 6:04–7:30 (trim to 55s) | 55s | "The one step that decides how much work you win" |
 | 8 | 7:30–7:57 | 25s | "The CRM fix nobody set up" |
 | 9 | 7:57–8:30 | 35s | "$5,000 a year for one more pipeline" |
 | 10 | 9:47–10:24 | 35s | "A million dollars customising Salesforce. Now locked in." |
@@ -326,11 +326,12 @@ Each short opens with the proof line ("Me and my team have set up CRMs for hundr
 
 ## Sources
 
-- Hook: 110-person German SaaS company, HubSpot, 2,000+ contracts, "more than 10 million of ARR", 600–800 upgrades or downgrades a year, "instead of manually calculating everything in Excel as we do today"; says it is "quite satisfied" with HubSpot otherwise: https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_or_move_to_salesforce_need/ (4 Mar 2026; saved copy)
+- Hook: Texas apartment-locating brokerage. "2018: 120 people and $13m revenue"; "Zoho was a nightmare, it was over complicated and leads were still falling through the cracks. Agents couldn't stay organized so we decided to build our own custom CRM. That cost a cool $1.2m."; "2019: 100 people and $19m revenue"; "Remember that custom CRM we built? Well that increased agent revenue per head by 38%." The 38% is the founder's own claim. The same post says the multifamily market "exploded" and that he hired a Director of Sales in 2018, so the $6M rise is not all down to the CRM; the script credits the CRM only with the 38%. "So many leads" is from his 2015 entry: https://www.reddit.com/r/startups/comments/nh6otg/how_i_bootstrapped_a_40m_company_overnight/ (20 May 2021; saved copy, Reddit blocks live checks)
 - Step 1, co-founder of a 27-person investment property lender, 10 years, profitable, Pipedrive "isnt wired up the way it needs to be", "Everything technically works but its all manual, somewhat disconnected": https://www.reddit.com/r/revops/comments/1s782br/hiring_gtm_engineer_not_saas_not_a_startup/ (29 Mar 2026; saved copy)
 - Step 2, equipment company, "evaluated existing CRMs and even paid for customizations", "equipment sales, engineering projects, installations, removals, and project management all within the same opportunities": https://www.reddit.com/r/CRM/comments/1vfh292/has_anyone_built_a_crm_from_scratch/p1p6jbq/ (4 Aug 2026; saved copy)
 - Step 3, Pipedrive customer, proposals in "MS Word and editing old proposals with find/replace", first proposal failed to send and deal tracking was lost, "caused me more work than it has saved me"; Pipedrive replied 25 May 2026: https://www.trustpilot.com/reviews/6a0f7a312c0d32c96933773a (21 May 2026; checked live 27 Oct 2026)
-- Step 4, Jobber customer on a yearly plan, "invoices must be created in Jobber first—not QuickBooks", payments checked in QuickBooks and re-entered in Jobber; Jobber replied 10 Jul 2026: https://www.trustpilot.com/reviews/6a31401cd1527f13e6533afe (15 Jun 2026, updated 10 Jul 2026; checked live 27 Oct 2026)
+- Step 4, small IT firm on ActiveCampaign (1–10 employees), "The fragility of the online forms led to a broken automation that was hidden from us for 6 months and cost us $10,000's in lost revenue." Said as "tens of thousands of dollars": https://www.capterra.com/p/79367/ActiveCampaign/reviews/#6168093 (14 Feb 2024; from the study's Capterra scrape, not found on the live page on 4 Nov 2026 because the page shows only its newest reviews)
+- Step 4 maths: made-up roofer, 2 jobs a month × $7,200 (the demo deal) × 12 = $172,800. Teaching numbers, not a real result.
 - Step 5 (tier), HubSpot customer with B2B and B2C branches: a third pipeline means "pay for 15 with the next level", "$5000 extra a year for 14 extra Pipelines I won't be using": https://www.reddit.com/r/hubspot/comments/1rrrdco/creating_deals_without_adding_them_to_a_pipeline/ (12 Mar 2026; saved copy)
 - Step 5 (fit), Coconut's CEO: post "We spent over $16,000 on HubSpot. It didn't work for us" (checked live 27 Oct 2026); author's reply of 27 Mar 2026, "after over a year of trying, and working with the Hubspot team, we had to ask if the tool fit our workflow. For us, it just didn't." (saved copy; LinkedIn hides replies from logged-out readers): https://www.linkedin.com/posts/donalacdao_we-spent-over-16000-on-hubspot-it-didnt-activity-7442208668944769024-yW4S (24 Mar 2026)
 - Is a map enough, former database developer at the buying company: "we spent a million bucks customizing it to our business. So now we're locked in": https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is_losing_their_customers_and/or8y0aq/ (12 Jun 2026; saved copy)

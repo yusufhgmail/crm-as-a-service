@@ -7,7 +7,6 @@ All saved 27 Oct 2026. Live pages were checked with WebFetch (the browser was no
 | File | Used in | Source |
 |---|---|---|
 | saved_copies/2026-05_trustpilot_pipedrive-proposals-in-word.json | Video 6: step 3 (where each step lives) | https://www.trustpilot.com/reviews/6a0f7a312c0d32c96933773a |
-| saved_copies/2026-06_trustpilot_jobber-invoices-quickbooks-reenter.json | Video 6: step 4 (re-typing) | https://www.trustpilot.com/reviews/6a31401cd1527f13e6533afe |
 | saved_copies/2026-03_linkedin_coconut-16k-hubspot-didnt-fit-workflow.json | Video 6: step 5 (fit). Post checked live; the author's reply is a saved copy (not shown to logged-out readers) | https://www.linkedin.com/posts/donalacdao_we-spent-over-16000-on-hubspot-it-didnt-activity-7442208668944769024-yW4S |
 | (vendor page) HubSpot pipelines help page, last updated 29 Sep 2026 | Video 6: step 5 (setting and tier) | https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelines |
 
@@ -15,7 +14,8 @@ All saved 27 Oct 2026. Live pages were checked with WebFetch (the browser was no
 
 | File | Used in |
 |---|---|
-| 2026-03_reddit_hubspot_110-people-upgrades-in-excel.json | Video 6: hook |
+| 2021-05_reddit_startups_custom-crm-38-percent.json | Video 6: hook |
+| 2024-02_capterra_activecampaign-broken-automation-6-months.json | Video 6: step 4 (from the study's Capterra scrape) |
 | 2026-03_reddit_revops_27-people-pipedrive-all-manual.json | Video 6: step 1 |
 | 2026-08_reddit_crm_equipment-sales-workflow-different.json | Video 6: step 2 |
 | 2026-03_reddit_hubspot_5000-a-year-third-pipeline.json | Video 6: step 5 (tier) |

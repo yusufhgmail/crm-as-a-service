@@ -58,7 +58,7 @@ Here's what that looks like: a thirty-person firm. They moved from Salesforce to
 
 In our study, around two hundred and eighty Salesforce customers complained that it's too complicated, and about a hundred and twenty about paying a consultant for every change.
 
-Add that up for your own company. Twelve months of consultant invoices, plus the part nobody counts: the hours your own people spend fixing Salesforce. That's on the bill too.
+Add that up for your own company. Twelve months of consultant invoices, plus the part nobody counts: the hours your own people spend fixing Salesforce. That's on the bill too. But the bigger cost is the three weeks. Every time your business needs to change something, it stands still and waits.
 
 ## Cost 4: The renewal
 

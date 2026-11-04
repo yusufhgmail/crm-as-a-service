@@ -33,6 +33,11 @@ Every video rests on one study, kept in David's private repo. Check every number
 
 **Say something new.** Before filming, check that a video gives viewers something the earlier videos haven't. Video 4 was dropped because it mostly repeated videos 1 to 3.
 
+**Show the bottleneck, not the admin.** Pick examples where the problem blocks growth: lost deals, lost revenue, work the company can't take on. An annoying extra step isn't worth a viewer's time. Say what fixing it unlocked, with the real numbers if the source has them.
+
+- Not like this: "A customer upgrading happens six to eight hundred times a year. And they work that out in Excel."
+- But like this: "In 2018 they had a hundred and twenty people and thirteen million dollars in revenue. Leads were falling through the cracks. They built their own CRM. The next year they had a hundred people and nineteen million."
+
 **Keep the hook, change the words.** We're making 20 videos, so viewers would hear a repeated sentence again and again. Every video still needs a reason to watch to the end. Promise something specific from the end of that video: a question it answers, a callback to the opening story, or a surprise you hold back. Check that the video delivers it, and search the other scripts so the wording and the shape are new.
 
 - Not like this: "And stay for step five."

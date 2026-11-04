@@ -184,7 +184,7 @@ Link: https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_compan
 **ON SCREEN:** the Where-the-money-goes bar, third block: **People $200/hour · 3 weeks per change**.
 
 **YUSUF:**
-> Add that up for your own company. Twelve months of consultant invoices, plus the part nobody counts: the hours your own people spend fixing Salesforce. That's on the bill too.
+> Add that up for your own company. Twelve months of consultant invoices, plus the part nobody counts: the hours your own people spend fixing Salesforce. That's on the bill too. But the bigger cost is the three weeks. Every time your business needs to change something, it stands still and waits.
 
 ## 5:35 Cost 4: The renewal
 
