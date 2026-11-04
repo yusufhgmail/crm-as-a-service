@@ -2,7 +2,9 @@
 
 [All video scripts](README.md)
 
-What the editor already has, and what still has to be recorded. Updated 3 Nov 2026.
+What the editor already has, and what still has to be recorded. Updated 4 Nov 2026.
+
+**Plan:** Yusuf records every video on the iPhone first. David decides how to add the HubSpot screens below.
 
 ## Already in each video's `proof/` folder
 

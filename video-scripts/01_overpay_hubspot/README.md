@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** Camera footage on Andrea's phone (send to David next), HubSpot screens not recorded yet
+**Status:** Camera footage on Andrea's phone (send to David next), David decides how to add the HubSpot screens
 
 - [Script on Drive](https://docs.google.com/document/d/1cz-zF9dSYYYRxYrc42LIEFPu5X09gLQoTMwMQh1Y3-E/edit)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1iC-YUKR1SVDdlAKWZFvlL-fFgZaQ3krPVs4D_jjDEUA/edit)
