@@ -50,7 +50,7 @@ export default function WhyCrmProjectsFailPage() {
           <li><strong>Decide who changes the CRM when the work changes</strong>, before launch. If the answer is “someone will get to it”, the project has already failed; it just has not stopped yet.</li>
           <li><strong>Count use per person weekly</strong> and act on the first drop within days.</li>
         </ol>
-        <p>These five are the design of CRM From Within. The service exists because at a company of 10 to 50 people the fourth point has no good answer: there is nobody to own the CRM, and the system has to own itself, with experts behind it. The <a href="/en/custom-crm-development">service page</a> describes how, and the <a href="/en/ai-native-crm">AI-native CRM guide</a> explains what “own itself” means.</p>
+        <p>These five are the design of CRM From Within. The service exists because at a company of 10 to 50 people the fourth point has no good answer: there is nobody to own the CRM, and the system has to own itself, with experts behind it. The <a href="/en/custom-crm-development">service page</a> shows how, and the <a href="/en/ai-native-crm">AI-native CRM guide</a> explains what “own itself” means.</p>
       </section>
 
       <section>

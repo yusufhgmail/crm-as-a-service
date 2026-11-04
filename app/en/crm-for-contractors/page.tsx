@@ -46,7 +46,7 @@ export default function CrmForContractorsPage() {
         <h2>A CRM built around the contractor’s own stages</h2>
         <p>CRM From Within builds the CRM from the sources the business already uses: the phone system, the inbox, the estimating tool, the calendar, QuickBooks. The system reads them, lays out the stages the business actually goes through (a roofer’s and a remodeler’s are not the same), and asks the office a focused question when something is unclear. The first version is narrow: every open job on one screen with its stage and next step, estimates that have not been answered flagged after three days, and the invoice attached to the job the day it is sent.</p>
         <p>For the crew, the test is simple: a site visit is logged by taking the photos and leaving a voice note, and the CRM does the rest. If the crew has to open a form, the CRM has already failed.</p>
-        <p>The <a href="/en/custom-crm-development">service page</a> describes the build. The <a href="/en/custom-crm-cost">cost guide</a> compares the monthly fee with per-seat licences, which matter for a business where every crew lead would need a seat.</p>
+        <p>What a build includes is on the <a href="/en/custom-crm-development">service page</a>. The <a href="/en/custom-crm-cost">cost guide</a> compares the monthly fee with per-seat licences, which matter for a business where every crew lead would need a seat.</p>
         <p className="guide-note">[Example to add: one contracting client, the trade, how many jobs open at once, and what the unanswered-estimate flag recovered.]</p>
       </section>
 

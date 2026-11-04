@@ -57,7 +57,7 @@ export default function BuildYourOwnCrmPage() {
         <ol>
           <li><strong>Build it and own the job.</strong> Right if one person on the team wants it and will keep wanting it. Budget a few hours a month forever. Keep the prompt above; re-run it when the process changes.</li>
           <li><strong>Rent a CRM.</strong> HubSpot Free or a cheap seat elsewhere. Right if a generic pipeline fits and nobody wants to build anything. The <a href="/en/hubspot-alternative">HubSpot guide</a> covers where that stops.</li>
-          <li><strong>Have it built and kept.</strong> What CRM From Within does: the CRM is built from your real sources the way the prompt describes, you own the code, and the month-three problems are our job for a monthly fee. The <a href="/en/custom-crm-development">service page</a> describes it and the <a href="/en/custom-crm-cost">cost guide</a> prices it.</li>
+          <li><strong>Have it built and kept.</strong> What CRM From Within does: the CRM is built from your real sources the way the prompt describes, you own the code, and the month-three problems are our job for a monthly fee. What that includes is on the <a href="/en/custom-crm-development">service page</a>, and the <a href="/en/custom-crm-cost">cost guide</a> prices it.</li>
         </ol>
       </section>
 

@@ -52,7 +52,7 @@ export default function HubspotAlternativePage() {
       <section>
         <h2>What you give up</h2>
         <p>Honest list: the marketplace of integrations, the familiar interface, the free tier as a fallback, and a vendor with a support line. In exchange you get a system that matches the work, no per-seat bill, and ownership. Whether that trade is worth it depends on how far the generic pipeline is from your real one. If the answer is “not far”, stay on HubSpot. If the team has already built a spreadsheet beside it, the answer is usually “far”.</p>
-        <p>The <a href="/en/custom-crm-development">service page</a> describes the build. The <a href="/en/crm-agency">CRM agency guide</a> explains why a HubSpot partner agency will rarely suggest leaving.</p>
+        <p>For what gets built, see the <a href="/en/custom-crm-development">service page</a>. The <a href="/en/crm-agency">CRM agency guide</a> explains why a HubSpot partner agency will rarely suggest leaving.</p>
       </section>
     </ArticleLayout>
   );

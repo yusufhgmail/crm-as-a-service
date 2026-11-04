@@ -12,7 +12,7 @@ Learned from Upbridge; each one is checkable.
 - **A build story or a real example** in each page. The pages must not be the same page with a niche name swapped; Google treats that as doorway pages.
 - **Dated, with an author.** `dateModified` from `PAGE_DATES`, Yusuf as author, Article JSON-LD.
 - **An FAQ of 3–5 questions** at the end, in the `faq.ts` pattern so the FAQPage markup reads the same text.
-- **In the sitemap, in `llms.txt`, and in `check-seo.mjs` PAGES** before it goes live. `npm run check:seo` fails otherwise.
+- **In the sitemap, in `llms.txt`, and in `check-seo.mjs` PAGES** before it goes live. `npm run check:seo` fails otherwise. The check also fails any guide under 700 words of body text and any pair of guides sharing more than 25% of their 5-word phrases (the doorway guard).
 - **Internal links**: every article links to the home page and to the custom-CRM-development page; the home page links to the three Tier 1 pages.
 - **Plain language.** The voice of the site, not agency copy.
 
@@ -33,6 +33,8 @@ Order follows the 12-week plan: Tier 1 in weeks 1–2 (with the site rewrite), T
 
 ### Wave 2: niche pages (weeks 3–4)
 
+**Drafted 4 Nov 2026** (overnight run). Each niche page has a marked spot, `[Example to add: …]`, shown in orange on the page, for a real client story; the pages should not deploy with that note visible.
+
 | # | Page | Query it owns | What it says |
 |---|---|---|---|
 | 5 | `/crm-for-quickbooks` | crm for quickbooks (880, SD 31) | The options for a company running on QuickBooks and spreadsheets: Method CRM (name it), HubSpot with a connector, a built CRM that reads QuickBooks directly. What sync breaks in practice. |
@@ -40,6 +42,8 @@ Order follows the 12-week plan: Tier 1 in weeks 1–2 (with the site rewrite), T
 | 7 | `/crm-for-contractors` | crm for contractors (590, SD 36) | Quote → job → invoice, leads from the phone and the inbox, field staff on mobile. Must contain contractor-specific detail or it will read as a doorway page. |
 
 ### Wave 3: the video topics as pages (weeks 5–8)
+
+**Drafted 4 Nov 2026** (overnight run). `/en/build-your-own-crm` contains the copyable prompt for the "Use this prompt" video. There is also an index at `/en/guides`, linked from every guide and the home-page footer.
 
 Each matches a topic in the 25 Oct content plan, so the video and the page publish together and link to each other (VideoObject on the page, page URL in the video description).
 

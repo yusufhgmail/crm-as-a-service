@@ -37,7 +37,7 @@ export default function SalesforceAlternativePage() {
           <li><strong>Keep what Salesforce did well.</strong> Reports people rely on are rebuilt; integrations are listed and each one is rebuilt, replaced or dropped on purpose.</li>
           <li><strong>Cancel at renewal.</strong> Salesforce contracts are annual; plan the switch around the date.</li>
         </ol>
-        <p>The <a href="/en/custom-crm-development">service page</a> describes the build and the <a href="/en/custom-crm-cost">cost guide</a> compares it with licences. The <a href="/en/custom-crm-vs-hubspot">ownership comparison</a> uses HubSpot’s numbers, but the shape is the same for Salesforce.</p>
+        <p>What gets built is on the <a href="/en/custom-crm-development">service page</a>, and the <a href="/en/custom-crm-cost">cost guide</a> compares it with licences. The <a href="/en/custom-crm-vs-hubspot">ownership comparison</a> uses HubSpot’s numbers, but the shape is the same for Salesforce.</p>
       </section>
 
       <section>
