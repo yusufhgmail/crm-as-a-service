@@ -186,6 +186,22 @@ export const articles: Article[] = [
       { question: 'Can a failing CRM be rescued?', answer: 'Usually, if the cause is fit rather than the tool. Find the spreadsheet that replaced it, rebuild the CRM around what the spreadsheet does, and remove everything else. If nobody will own that rebuild, the honest options are a simpler tool or a service that owns it.' },
     ],
   },
+  {
+    slug: 'custom-crm-vs-hubspot',
+    title: 'Custom CRM system vs HubSpot: a 3-year comparison',
+    description: 'A custom CRM system versus HubSpot for a 10–50 person company: ownership, who changes it, the three-year cost, and when HubSpot is still the right call.',
+    heading: 'Custom CRM system vs HubSpot: what you own after three years',
+    kicker: 'COMPARISON',
+    answer: 'After three years on HubSpot a 20-person company has paid $66,000 to $111,000 in licences and onboarding and owns an export. After three years with a custom CRM built and kept as a service it has paid $39,000 to $75,000 and owns the system. The money is close; the difference is what you are left holding, who could change it, and what the fourth year costs.',
+    summary: 'custom CRM system versus HubSpot for a 10–50 person company: what you own, who makes changes, growth, lock-in, and the three-year numbers.',
+    published: '2026-11-04',
+    modified: '2026-11-04',
+    faq: [
+      { question: 'Is a custom CRM more expensive than HubSpot?', answer: 'Over three years for a 20-person team, a custom CRM as a service costs about the same or less than HubSpot Professional. Over five years it is clearly less, because the licence keeps running and the ownership does not. For a team of five on HubSpot Free, HubSpot is cheaper by any measure.' },
+      { question: 'What does “custom CRM system” mean?', answer: 'A CRM whose objects, stages and views are built for one company\'s process, rather than a general product configured to approximate it. It can be built by a development shop, by the company itself, or built and run by a service that keeps adapting it.' },
+      { question: 'Can we move from HubSpot to a custom CRM later?', answer: 'Yes. HubSpot exports contacts, companies, deals, notes and emails. The migration is mostly the work of mapping those to a process that fits, which is also the most useful part. The HubSpot alternative guide walks through it.' },
+    ],
+  },
 ];
 
 export const articleBySlug = (slug: string) => articles.find((article) => article.slug === slug);
