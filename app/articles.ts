@@ -170,6 +170,22 @@ export const articles: Article[] = [
       { question: 'Is an AI-native CRM safe with customer data?', answer: 'It is only as safe as the boundaries around the model. Security, access and the customer table should be fixed and tested, and the model should only be allowed to change workflow, with every change approved and reversible. A system that lets the model edit anything is not safe.' },
     ],
   },
+  {
+    slug: 'why-crm-projects-fail',
+    title: 'Why CRM projects fail, and how to see it coming',
+    description: 'Why CRM projects fail at small companies: adoption, not features. The five patterns from 450 FunnelBud customers and how to measure adoption weekly.',
+    heading: 'Why CRM projects fail, and how to see it coming',
+    kicker: 'ADOPTION',
+    answer: 'CRM projects at small companies fail for one reason that wears five disguises: people stop using the system. The CRM did not match the work, so a spreadsheet grew beside it; nobody owned it; data entry was a chore; the pipeline was designed in a workshop, not from reality; and nobody measured use. The fix is to measure weekly use per person from launch and treat a drop as a defect in the CRM, not the team.',
+    summary: 'the five ways CRM projects fail at 10–50 person companies, seen across 450 FunnelBud customers, and the one weekly number that predicts it.',
+    published: '2026-11-04',
+    modified: '2026-11-04',
+    faq: [
+      { question: 'What percentage of CRM projects fail?', answer: 'Published estimates over the past two decades range from a third to well over half, depending on how failure is defined. We do not rely on those figures. In the FunnelBud years, across more than 450 businesses, the failures we saw had a consistent shape, and that shape is what this guide describes.' },
+      { question: 'How do you measure CRM adoption?', answer: 'Count, every week, how many of the people who should use the CRM actually did: logged in, updated a record, completed a next step. Per person, not in total. A single person dropping out is the early warning; a team-wide average hides it.' },
+      { question: 'Can a failing CRM be rescued?', answer: 'Usually, if the cause is fit rather than the tool. Find the spreadsheet that replaced it, rebuild the CRM around what the spreadsheet does, and remove everything else. If nobody will own that rebuild, the honest options are a simpler tool or a service that owns it.' },
+    ],
+  },
 ];
 
 export const articleBySlug = (slug: string) => articles.find((article) => article.slug === slug);
