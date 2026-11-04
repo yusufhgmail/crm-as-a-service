@@ -36,3 +36,27 @@ Salesforce help pages (help.salesforce.com) load by script and could not be read
 - Trustpilot 6a79e5540404f0c6ef538ad7 (17–27% renewal increase): the reviewer is also a Salesforce consultant, so a seller.
 - Trustpilot 6acf8e75 ("an adder") and 6abc0be8 (auto-renewed, 4 days): checked live, cut for length.
 - Reddit 1x1em06 (9% and 20% renewal increases): cut for length.
+
+## Screenshots (checked live 4 Nov 2026)
+
+Sharp PNGs in `proof/`, taken live in Chrome (pricing and help pages) or rendered from Salesforce's own contract PDF, with the script's words highlighted in yellow and numbers boxed in red.
+
+| File | Used in | What it shows |
+|---|---|---|
+| 2026-11_salesforce-pricing_five-editions-per-user-month.png | Cost 1 | Starter $25, Pro Suite $100, Core $195, Advanced $395, Max $550 user/month (also: Premier Success is an add-on on Pro Suite) |
+| 2026-11_salesforce-pricing_pro-suite-5-flows-no-approvals.png | Cost 1 | Pro Suite: Flow Builder "5 flows per org", no Approval Processes (Core and up have both) |
+| 2026-11_salesforce-pricing_pro-suite-api-extra-25.png | Cost 1 | Pro Suite: Web Services API "Additional $25 USD/user/month" |
+| 2026-11_salesforce-pricing_faq-add-ons-apps-additional-products.png | Cost 2 | FAQ "Are there upfront costs or additional fees?": "all kinds of add-ons, apps, and additional products" |
+| 2026-11_salesforce-msa_last-updated-october-15-2026.png | Cost 4 | Main Services Agreement "last updated on October 15, 2026" |
+| 2026-11_salesforce-msa_11-2-auto-renew-30-days-and-re-pricing.png | Cost 4, cost 5 | §11.2: auto-renews for one-year terms, written notice (email acceptable) 30 days before the end, re-pricing when volume or length decreases |
+| 2026-11_salesforce-msa_5-1-licences-cannot-be-decreased.png | Cost 4 | §5.1 (iii): quantities can't be decreased during the term |
+| 2026-11_salesforce-msa_data-export-within-30-days.png | Cost 5 check | Ask for your data within 30 days; after that, no obligation to keep it |
+| 2026-11_salesforce_main-services-agreement_oct-15-2026.pdf | Cost 4, 5 | The current contract PDF, downloaded 4 Nov 2026 |
+| 2026-11_help-center_view-licenses-company-information.png | Cost 1 check | Licences are on the Company Information page in Setup |
+| 2026-11_help-center_manage-renewals-90-days.png | Cost 4 check | Renewal shows at 90 days; "We can't accommodate cancellation requests until it's time to renew" |
+| 2026-11_help-center_contracts-subscription-days-left.png, 2026-11_help-center_contract-renewal-status-pane.png, 2026-11_help-center_manage-renewal-confirm-contact-dont-renew.png | Cost 4 check | Salesforce's own images of Your Account → Contracts → Manage Renewal, at full size |
+| 2026-11_help-center_data-export-now.png | Cost 5 check | Setup → Data Export → Export Now |
+
+Note: the help page says "Launch the Your Account app, click Go to Contracts". The script's path (Setup gear → Your Account → Contracts) matches the saved your-account page.
+
+Reddit blocks automated browsers (Chrome's extension refuses the site), so the Reddit quotes rely on the saved copies in `survey/evidence/saved_copies/` (on GitHub: `proof/saved_copies/`), the same as videos 1 to 6.
