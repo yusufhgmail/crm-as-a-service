@@ -4,7 +4,7 @@
 
 ## Proof
 
-Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
+Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
 
 ## Who it's for
 

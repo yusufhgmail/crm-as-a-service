@@ -48,10 +48,10 @@ Pair the title with thumbnail 1 first (or 5); thumbnails 2–4 are price variati
 
 ## 0:00 Proof
 
-**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **850+ Salesforce customers studied**
+**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold a CRM SaaS** · then **850+ Salesforce customers studied**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
+> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
 
 ## 0:17 Who it's for
 
@@ -343,7 +343,7 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 
 ## Ten shorts
 
-Each short opens with the proof line ("Me and my team have set up CRMs for hundreds of companies, and I built and sold a SaaS company") and ends with: "Full video: Salesforce for a 15-Person Company: the Real Cost."
+Each short opens with the proof line ("Me and my team have set up CRMs for hundreds of companies, and I built and sold a CRM SaaS company") and ends with: "Full video: Salesforce for a 15-Person Company: the Real Cost."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

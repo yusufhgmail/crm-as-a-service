@@ -44,10 +44,10 @@ Pair title 1 with thumbnail 1 first; test 2 with 3, and 3 with 2.
 
 ## 0:00 Proof
 
-**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **5,000+ CRM buyers studied** · **Nearly 1,900: "doesn't fit how we work"**
+**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold a CRM SaaS** · then **5,000+ CRM buyers studied** · **Nearly 1,900: "doesn't fit how we work"**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say. Nearly nineteen hundred of them said the same thing: it doesn't fit how we work.
+> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. And we studied what more than five thousand CRM buyers say. Nearly nineteen hundred of them said the same thing: it doesn't fit how we work.
 
 ## 0:22 Who it's for
 
@@ -307,7 +307,7 @@ Link: https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is
 
 ## Ten shorts
 
-Each short opens with the proof line ("Me and my team have set up CRMs for hundreds of companies, and I built and sold a SaaS company") and ends with: "Full video: Map How Your Team Works Before You Buy a CRM (30 Minutes)."
+Each short opens with the proof line ("Me and my team have set up CRMs for hundreds of companies, and I built and sold a CRM SaaS company") and ends with: "Full video: Map How Your Team Works Before You Buy a CRM (30 Minutes)."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

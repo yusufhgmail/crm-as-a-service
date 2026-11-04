@@ -45,10 +45,10 @@ Pair title 1 with thumbnail 1 first; test 2 with 5, and 3 with 3.
 
 ## 0:00 Proof
 
-**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **300+ HubSpot customers on the tier jump**
+**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold a CRM SaaS** · then **300+ HubSpot customers on the tier jump**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
+> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
 
 ## 0:22 Who it's for
 
@@ -354,7 +354,7 @@ Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 
 ## Ten shorts
 
-Each short opens with the proof line ("Me and my team have set up CRMs for hundreds of companies, and I built and sold a SaaS company") and ends with: "Full video: How to Get the HubSpot Feature You Need Without Upgrading."
+Each short opens with the proof line ("Me and my team have set up CRMs for hundreds of companies, and I built and sold a CRM SaaS company") and ends with: "Full video: How to Get the HubSpot Feature You Need Without Upgrading."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

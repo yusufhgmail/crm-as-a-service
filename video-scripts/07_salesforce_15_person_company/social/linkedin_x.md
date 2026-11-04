@@ -138,7 +138,7 @@ I'll say that plainly. Me and my team have set up CRMs for hundreds of companies
 
 The companies we help are ten to fifty people, where the way they sell and deliver doesn't fit a standard CRM.
 
-After I sold FunnelBud, I started CRM From Within. We build custom CRMs around exactly how your company sells and delivers. You own the code. We maintain it and add features as you grow, so you're never stuck with one engineer. There's no long contract, and if you ever want to leave, you keep everything.
+After I sold my CRM SaaS company, I started CRM From Within. We build custom CRMs around exactly how your company sells and delivers. You own the code. We maintain it and add features as you grow, so you're never stuck with one engineer. There's no long contract, and if you ever want to leave, you keep everything.
 
 Whatever you decide, start with the list of things your CRM can't do, or can only do through a consultant. That list is what any new system has to do on day one.
 

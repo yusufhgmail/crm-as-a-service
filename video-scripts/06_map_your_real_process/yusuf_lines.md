@@ -4,7 +4,7 @@
 
 ## Proof
 
-Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say. Nearly nineteen hundred of them said the same thing: it doesn't fit how we work.
+Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. And we studied what more than five thousand CRM buyers say. Nearly nineteen hundred of them said the same thing: it doesn't fit how we work.
 
 ## Who it's for
 

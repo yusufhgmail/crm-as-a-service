@@ -4,7 +4,7 @@
 
 ## Proof
 
-Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. My last videos were about HubSpot. For this one, we went wider: we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
+Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. My last videos were about HubSpot. For this one, we went wider: we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
 
 ## Who it's for
 

@@ -43,7 +43,7 @@ Every video rests on one study, kept in David's private repo. Check every number
 
 **Read each new line after the one before it.** Say them aloud in order. A line can't refer back to something the viewer hasn't heard yet.
 
-- Not like this: "I built a SaaS company, FunnelBud, and I sold it. And we didn't stop at HubSpot."
+- Not like this: "I built a CRM SaaS company, and I sold it. And we didn't stop at HubSpot."
 - But like this: "My last videos were about HubSpot. For this one, we went wider."
 
 **Pitch in this order.** Many viewers don't know who we are, so say what we do before saying who doesn't need us. Tie it to this video's problem, say who we are and what they get, say what makes it easy and safe (we move the data, they own the code, no long contract), say who it's for, then give one next step: the fit check.
@@ -58,4 +58,4 @@ Every video rests on one study, kept in David's private repo. Check every number
 
 # Facts about Yusuf
 
-**FunnelBud was a SaaS company, not an agency.** He says: "I built a SaaS company, FunnelBud, and I sold it." Titles say "Ex-SaaS Founder", never "Ex-CRM Agency Owner".
+**Never name FunnelBud.** Call it his old CRM SaaS company that he sold, in spoken lines, on-screen tags, descriptions and social posts. It was a SaaS company, not an agency. He says: "I built a CRM SaaS company, and I sold it." Titles say "Ex-SaaS Founder", never "Ex-CRM Agency Owner". Videos already recorded stay as they are.

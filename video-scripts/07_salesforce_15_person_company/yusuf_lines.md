@@ -4,7 +4,7 @@
 
 ## Proof
 
-Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
+Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
 
 ## Who it's for
 
