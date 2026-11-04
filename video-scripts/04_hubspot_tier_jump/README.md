@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved
+**Status:** Discarded: repeats videos 1 to 3
 
 - [Script on Drive](https://docs.google.com/document/d/1Z23Z9sJXHJ7Im3wLGM54nLLjkIagsuJZbvupNuNPY7k/edit)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1fJdvO9AJkhYt4utcCisSxN1diVdzR8O4wntPsN_KUcw/edit)

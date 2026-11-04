@@ -312,7 +312,9 @@ Link: https://x.com/mishavitels/status/2113226378623455456
 >
 > Next: how to get the HubSpot feature you need without upgrading.
 
-**ON SCREEN:** end screen: next video (video 4: "How to Get the HubSpot Feature You Need Without Upgrading") + video 1 ("How to Stop Overpaying for HubSpot: 5 Checks") + "Free CRM fit check" button.
+**EDIT:** cut that last line. Video 4 was discarded.
+
+**ON SCREEN:** end screen: next video (video 5: "Why 5,000+ CRM Buyers Want Out: 10 Reasons") + video 1 ("How to Stop Overpaying for HubSpot: 5 Checks") + "Free CRM fit check" button.
 
 **Description:**
 > What HubSpot really costs a 20-person team, line by line, at HubSpot's own list prices (October 2026): the seats, the hubs, the required setup, the apps around it, and the test that tells you whether it's worth it for your business.

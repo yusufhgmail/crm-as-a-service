@@ -31,6 +31,8 @@ Every video rests on one study, kept in David's private repo. Check every number
 - Not like this: "If you're on HubSpot, or you're about to sign, and you've never seen the whole bill in one place, this one's for you."
 - But like this: "The biggest group, around twenty-five hundred of them, are still on their CRM and thinking about leaving. If that's you, this video shows you why they want out, so you can tell whether your CRM is the problem."
 
+**Say something new.** Before filming, check that a video gives viewers something the earlier videos haven't. Video 4 was dropped because it mostly repeated videos 1 to 3.
+
 **Keep the hook, change the words.** We're making 20 videos, so viewers would hear a repeated sentence again and again. Every video still needs a reason to watch to the end. Promise something specific from the end of that video: a question it answers, a callback to the opening story, or a surprise you hold back. Check that the video delivers it, and search the other scripts so the wording and the shape are new.
 
 - Not like this: "And stay for step five."
