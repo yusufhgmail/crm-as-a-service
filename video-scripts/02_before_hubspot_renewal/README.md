@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** Camera footage on Andrea's phone (send to David next), David decides how to add the HubSpot screens
+**Status:** [Camera footage on Drive](https://drive.google.com/drive/folders/1zm8_GRG8a9pCym_uHusxnzf9KgnfSU8M) (3 clips), David decides how to add the HubSpot screens
 
 - [Script on Drive](https://docs.google.com/document/d/1mvCVg77BYZkiJ3G1ALV-Uux9CTe5wZBjNdzg-lkSgIc/edit)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1aWH9tdbLIjoNiIM-rjL6yaOiur1jC0RRqE7nZkCAKYw/edit)
@@ -20,4 +20,3 @@
 - `social/facebook.md`: Facebook posts
 - `social/instagram.md`: Instagram carousel and Reels captions
 - `social/tiktok.md`: TikTok captions
-- `footage.md`: link to the raw recording on Drive (video files stay on Drive)

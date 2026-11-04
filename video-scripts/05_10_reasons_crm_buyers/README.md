@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** Camera footage done
+**Status:** [Camera footage on Drive](https://drive.google.com/drive/folders/18bC7fGa7JoKuhrSj2jiadb4LVqu1G2AA)
 
 - [Script on Drive](https://docs.google.com/document/d/1DG6TOGqAgn9QqGiB3dt-U0Ls_UKVfCrY9rwyAUCT6uc/edit)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1xVBy4jGhKD08jF-sxPk-tiuN8AkKg1ev8lrNfS7X6h0/edit)
@@ -22,4 +22,3 @@
 - `social/facebook.md`: Facebook posts
 - `social/instagram.md`: Instagram carousel and Reels captions
 - `social/tiktok.md`: TikTok captions
-- `footage.md`: link to the raw recording on Drive (video files stay on Drive)
