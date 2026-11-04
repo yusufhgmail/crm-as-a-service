@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved
+**Status:** Camera footage done
 
 - [Script on Drive](https://docs.google.com/document/d/1DG6TOGqAgn9QqGiB3dt-U0Ls_UKVfCrY9rwyAUCT6uc/edit)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1xVBy4jGhKD08jF-sxPk-tiuN8AkKg1ev8lrNfS7X6h0/edit)
