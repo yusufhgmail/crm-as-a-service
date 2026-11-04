@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved
+**Status:** [Camera footage on Drive](https://drive.google.com/drive/folders/1L6K5bRL4Aos57tuObOSIoO8H5fGRgF7v)
 
 - [Script on Drive](https://docs.google.com/document/d/1cM4hjuB2nHpK1p49S1LvcfdHqZ9AOIQ_lfh3SlaCxKU/edit)
 
@@ -19,4 +19,3 @@
 - `social/facebook.md`: Facebook posts
 - `social/instagram.md`: Instagram carousel and Reels captions
 - `social/tiktok.md`: TikTok captions
-- `footage.md`: link to the raw recording on Drive (video files stay on Drive)
