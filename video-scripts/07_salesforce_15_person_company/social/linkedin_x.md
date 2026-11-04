@@ -55,7 +55,7 @@ They've been on Salesforce for seven years, and the whole company lives in it. T
 
 Then they told their rep they might leave. So the rep moved them up to the top tier, thirty-five thousand dollars a year. And when the owner said they plan to double the team, the answer was a four-year agreement.
 
-I've set up CRMs for more than 450 companies. Salesforce can do almost anything, and I understand why a firm like this stays. But the quote is only where the bill starts. They also needed a dialer, call recording, accounting sync, an AI tool, and forms. The forms tool alone was quoted at four thousand eight hundred a year, and every one of those is a separate vendor with its own twelve-month lock-in.
+Me and my team have set up CRMs for hundreds of companies. Salesforce can do almost anything, and I understand why a firm like this stays. But the quote is only where the bill starts. They also needed a dialer, call recording, accounting sync, an AI tool, and forms. The forms tool alone was quoted at four thousand eight hundred a year, and every one of those is a separate vendor with its own twelve-month lock-in.
 
 The owner described their Salesforce as a system of record built around their specific operating model. That's why they can't just leave. It's also why the price keeps going up.
 
@@ -64,7 +64,7 @@ For a small company, Salesforce is too much and not enough at the same time. You
 What does your team do outside Salesforce every week?
 
 ### Post 2 · how-to
-I've set up CRMs for more than 450 companies. Here's the Salesforce renewal check I'd do this week.
+Me and my team have set up CRMs for hundreds of companies. Here's the Salesforce renewal check I'd do this week.
 
 Click the Setup gear, open Your Account, then Contracts. Write down your renewal date and whether it auto-renews.
 
@@ -104,7 +104,7 @@ What's on your list?
 ### Post 4 · how-to
 Salesforce's Pro Suite gets five automations. For the whole company.
 
-I've set up CRMs for more than 450 companies. Salesforce can do almost anything, and its edition table is where the limits show.
+Me and my team have set up CRMs for hundreds of companies. Salesforce can do almost anything, and its edition table is where the limits show.
 
 On Pro Suite, here's what it says. Five flows, and a flow is an automation. Like, a deal is won, so a job gets created. No approval processes. And the API, which is how Salesforce talks to your accounting, costs twenty-five dollars more per user per month.
 
@@ -134,7 +134,7 @@ What did your last small change cost you?
 ### Post 6 · opinion
 If you're a two-person team, or a standard setup works fine for you, you don't need us.
 
-I'll say that plainly. I've set up CRMs for more than 450 companies.
+I'll say that plainly. Me and my team have set up CRMs for hundreds of companies.
 
 The companies we help are ten to fifty people, where the way they sell and deliver doesn't fit a standard CRM.
 
@@ -147,7 +147,7 @@ How long is your list of workarounds?
 ## LinkedIn carousel
 
 ### Post text
-Five costs of Salesforce for a 15-person company, at today's prices: the licence, the add-ons, the people, the renewal and the fit. I've set up CRMs for more than 450 companies, and this month we studied what more than 850 Salesforce customers say. Which of the five is hiding in your bill? Swipe through, and the full video is in the comments.
+Five costs of Salesforce for a 15-person company, at today's prices: the licence, the add-ons, the people, the renewal and the fit. Me and my team have set up CRMs for hundreds of companies, and this month we studied what more than 850 Salesforce customers say. Which of the five is hiding in your bill? Swipe through, and the full video is in the comments.
 
 ### Slide 1
 Salesforce for a 15-person company. 5 real costs, at today's prices.
@@ -185,7 +185,7 @@ Full video: Salesforce for a 15-Person Company. Link in the comments.
 
 Salesforce for a 15-person company. What does it really cost?
 
-I've set up CRMs for more than 450 companies. This month we studied what more than 850 Salesforce customers say it costs them.
+Me and my team have set up CRMs for hundreds of companies. This month we studied what more than 850 Salesforce customers say it costs them.
 
 Fifteen people on Pro Suite is $18,000 a year. Need a sixth automation? That's Core, $35,100. Almost double for the same 15 people.
 

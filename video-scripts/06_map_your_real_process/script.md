@@ -307,7 +307,7 @@ Link: https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is
 
 ## Ten shorts
 
-Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my SaaS company") and ends with: "Full video: Map How Your Team Works Before You Buy a CRM (30 Minutes)."
+Each short opens with the proof line ("Me and my team have set up CRMs for hundreds of companies, and I built and sold a SaaS company") and ends with: "Full video: Map How Your Team Works Before You Buy a CRM (30 Minutes)."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

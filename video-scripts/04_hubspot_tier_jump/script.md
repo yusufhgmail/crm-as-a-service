@@ -2,7 +2,7 @@
 
 *Draft, 27 Oct 2026 · whiteboard + screen recordings · about 11 minutes*
 
-**Checked 26 Oct 2026:** HubSpot's prices, catalog, terms and help-center tier boxes, word for word. Trustpilot quotes checked live; the 2026 Reddit quotes checked against our saved copy (`survey/evidence/saved_copies/`). **Before filming:** re-check HubSpot prices the same week. The script uses list prices, not HubSpot's current Starter promotion; Marketing Hub Professional shows "$800/mo" and "$890/mo" (the script uses $800).
+**Checked 26 Oct 2026:** HubSpot's prices, catalog, terms and help-center tier boxes, word for word. Trustpilot quotes checked live; the 2026 Reddit quotes checked against our saved copy (`survey/evidence/saved_copies/`). **Before filming:** re-check HubSpot prices the same week (Sales and Marketing pricing pages re-checked 4 Nov 2026, no change). The script uses list prices, not HubSpot's current Starter promotion; Marketing Hub Professional shows "$800/mo" and "$890/mo" (the script uses $800).
 
 
 **Screens to record** (no paid HubSpot account needed):
@@ -27,7 +27,7 @@
 2. **DON'T UPGRADE YET** with a red arrow to HubSpot's "Upgrade" button
 3. **$600 → $3,000/MO** with two bars
 4. **13× FOR 1 FEATURE** with the Marketing Hub bars ($60 vs $800)
-5. **5 CHECKS BEFORE YOU UPGRADE** with the whiteboard list
+5. **5 STEPS BEFORE YOU UPGRADE** with the whiteboard list
 
 Pair title 1 with thumbnail 1 first; test 2 with 5, and 3 with 3.
 
@@ -45,10 +45,10 @@ Pair title 1 with thumbnail 1 first; test 2 with 5, and 3 with 3.
 
 ## 0:00 Proof
 
-**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **300+ HubSpot customers on the tier jump**
+**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **300+ HubSpot customers on the tier jump**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
+> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
 
 ## 0:22 Who it's for
 
@@ -81,10 +81,10 @@ Link: https://www.trustpilot.com/reviews/695fd6824ffad717ec0cace4
 4. Look for a smaller step
 5. Ask if it's on any tier
 
-Tag on item 5 when he says "check five": **Not about price**
+Tag on item 5 when he says "step five": **Not about price**
 
 **YUSUF:**
-> Five checks before you upgrade anything. Check five is a single question, and it would have saved that first company.
+> Five steps before you upgrade anything. Step five is a single question, and it would have saved that company.
 
 ---
 
@@ -122,7 +122,7 @@ Links: https://www.hubspot.com/pricing/sales · https://knowledge.hubspot.com/re
 **ON SCREEN:** card, one row per phrase: **The job: sales manager approves discounts over 10%** · **Who, how often: manager, about 20 a month** · **HubSpot says I need: Sales Hub Enterprise**. Then: **DO THIS TODAY: write the job, who, how often**
 
 **YUSUF:**
-> So here's the check. Write one line. Not "we need Enterprise". Write the job. Something like, our sales manager approves any discount over ten percent, about twenty times a month. Then write which feature HubSpot says you need for it. You'll use that line in every step.
+> So write one line. Not "we need Enterprise". Write the job. Something like, our sales manager approves any discount over ten percent, about twenty times a month. Then write which feature HubSpot says you need for it. Keep that line. Step five needs it.
 
 ## 2:54 Step 2: Price the whole jump
 
@@ -151,22 +151,19 @@ Link: https://www.hubspot.com/pricing/marketing
 **YUSUF:**
 > Marketing Hub is the steepest. Three people on Starter pay sixty dollars a month. Professional starts at eight hundred, plus a three-thousand-dollar onboarding fee you can't skip. That's thirteen times the monthly price.
 
-**ON SCREEN:** a typed sum, line by line: **New seats × new price × 12** + **Other Core seats repriced × 12** + **Onboarding** = **Year-one jump**. Then: **DO THIS TODAY: write your year-one jump number**
+**ON SCREEN:** a typed sum, line by line: **New seats × new price × 12** + **Other Core seats repriced × 12** + **Onboarding** = **Year-one jump**. Then: **DO THIS TODAY: write your year-one jump number**. Then tag on "a whole tier": **1 feature. A whole tier.**
 
 **YUSUF:**
-> The check: write down one number. New seats at the new price, plus every other Core seat at its new price, times twelve, plus onboarding. That's what the one feature really costs in year one.
+> So write down one number. New seats at the new price, plus every other Core seat at its new price, times twelve, plus onboarding. That's what it really costs in year one. You want one feature, and HubSpot sells you a whole tier.
 
 **ON SCREEN:** the typed list, steps 1 and 2 ticked.
-
-**YUSUF:**
-> So that's steps one and two. You know the job, and you know the real price of the jump.
 
 ## 4:30 Free CRM fit check
 
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Quick one. If you'd rather stop climbing tiers, we do a free twenty-minute CRM fit check. The link's in the description. OK, step three.
+> If you'd rather stop climbing tiers, book a free twenty-minute CRM fit check, and we'll show you what a CRM with no tiers could look like. The link's in the description. OK, step three.
 
 ## 4:50 Step 3: Read the commitment
 
@@ -180,26 +177,26 @@ Link: https://www.hubspot.com/pricing/sales
 Link: https://www.trustpilot.com/reviews/6838795d0c24c948e37b55e5
 
 **YUSUF:**
-> We found a customer who moved to Sales Hub Professional. Nobody told them about the one-year commitment. They only saw it on the checkout page.
+> We found a customer who moved to Sales Hub Professional. They say nobody told them about the one-year commitment, and they only saw it on the checkout page.
 
 **ON SCREEN:** screenshot of HubSpot's terms page, tagged **legal.hubspot.com · checked Oct 2026**, each passage boxed on its spoken clause, with a caption: "fee goes up mid-term" (**Upgrading raises your fee mid-term** · §3.1) · "can't downgrade" (**No downgrades until renewal** · §2.5) · "renews by itself" (**Renews automatically, up to 1 year** · §4.1)
 
 Link: https://legal.hubspot.com/terms-of-service
 
 **YUSUF:**
-> And this is in HubSpot's own terms. When you upgrade, your fee goes up mid-term. You can't downgrade until renewal. And then it renews by itself, for up to a year. So once you've said yes, you can't take it back.
+> And here's what HubSpot's own terms say. When you upgrade, your fee goes up mid-term. You can't downgrade until renewal. And then it renews by itself, for up to a year. So once you've said yes, you can't take it back.
 
 **ON SCREEN:** a short email, typed out as he says it:
 > **Subject:** Before we upgrade to Professional
 > 1. How long is the commitment, and when does it start?
-> 2. Does this change or extend our current renewal date?
+> 2. Does this change our renewal date?
 > 3. What is the onboarding fee?
 > 4. What can we remove at renewal?
 
 Then: **DO THIS BEFORE YOU CLICK UPGRADE: send these 4 questions**
 
 **YUSUF:**
-> The check: before you click upgrade, email your HubSpot rep these four questions, and keep the replies.
+> So before you click upgrade, email your HubSpot rep four questions, and keep the replies. How long is the commitment, and when does it start? Does this change our renewal date? What's the onboarding fee? And what can we remove at renewal?
 
 ## 5:59 Step 4: Look for a smaller step
 
@@ -224,12 +221,17 @@ Link: https://legal.hubspot.com/hubspot-product-and-services-catalog
 Link: https://www.trustpilot.com/reviews/6a99d4f1907cde1804fc2c0a
 
 **YUSUF:**
-> One company was told to keep one Professional seat and put everyone else on cheaper seats. Then only that one person could make calls. So test the exact job with the exact people before you sign.
+> One company we found says they were told to keep one Professional seat and put everyone else on cheaper seats. Then only that one person could make calls. So test the exact job with the exact people before you sign.
 
 **ON SCREEN:** tag: **3. One tool, for one job**. Screen recording (upbridge portal), zoomed: Marketplace → App Marketplace, red box on the search box, held while Yusuf says "an app from HubSpot's marketplace". Then tag **A tool you already pay for** on "or a tool you already pay for". No specific app shown or named.
 
 **YUSUF:**
 > Number three. An app from HubSpot's marketplace, or a tool you already pay for that connects to HubSpot. Then you pay for one job, and not a whole tier.
+
+**ON SCREEN:** a four-row worksheet. On "your jump number": **The whole jump: $37,500** (from step 2). On "each of those three", one row per phrase, blanks left for the viewer: **Smaller version: $___ · Only who needs it: $___ · One tool: $___**. Then: **DO THIS THIS WEEK: price 3 smaller steps next to the jump**
+
+**YUSUF:**
+> So next to your jump number, write what each of those three would cost. If one is a fraction of the jump, you've got your answer.
 
 **ON SCREEN:** screenshot of HubSpot's terms page, tagged **legal.hubspot.com · checked Oct 2026**, "adding or removing features" boxed; caption: **HubSpot can add or remove features during your term** · §2.6
 Link: https://legal.hubspot.com/terms-of-service
@@ -240,21 +242,18 @@ Link: https://www.reddit.com/r/hubspot/comments/1v3io34/hubspot_has_become_too_e
 **YUSUF:**
 > And one warning. The tiers move. HubSpot's terms let them add or remove features during your term. In July 2026, a customer said HubSpot removed a feature in the middle of their contract, and didn't tell them first. Now it's pay for the new Revenue Hub, or cancel.
 
+**ON SCREEN:** the staircase, its steps sliding sideways; tag: **HubSpot can move the steps**
+
+**YUSUF:**
+> That's the catch with renting your CRM. HubSpot can move the steps while you're standing on them.
+
 **ON SCREEN:** card: **New customers in Europe, from 1 Oct 2026: one plan, seats + credits** · source tag **HubSpot pricing terms**
 Link: https://www.hubspot.com/flexible-seats-and-credits-pricing-supplement
 
 **YUSUF:**
 > And when I recorded this, new customers in Europe had started buying one plan for the whole company, with seats and credits, instead of a tier for each hub. So check which setup you're on before you price anything.
 
-**ON SCREEN:** a four-row worksheet. On "your jump number": **The whole jump: $37,500** (from step 2). On "three smaller ways", one row per phrase, blanks left for the viewer: **Smaller version: $___ · Only who needs it: $___ · One tool: $___**. Then: **DO THIS THIS WEEK: price 3 smaller steps next to the jump**
-
-**YUSUF:**
-> The check: next to your jump number, write three smaller ways to get the job done, and what each costs. Very often one of them is a fraction of the jump.
-
 **ON SCREEN:** the typed list, steps 3 and 4 ticked.
-
-**YUSUF:**
-> So that's three and four. You know what you're signing, and you've looked for a smaller step.
 
 ## 7:47 Step 5: Ask if it's on any tier
 
@@ -273,7 +272,7 @@ Link: https://www.trustpilot.com/reviews/695fd6824ffad717ec0cace4
 Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 
 **YUSUF:**
-> And sometimes it's not even on your hub. One Service Hub customer wanted to send automatic follow-up emails on tickets. Anything past ticket created and ticket closed? You need Marketing Hub too. Nobody told them that in the sales process, and it's not on the pricing page.
+> And sometimes it's not even on your hub. One Service Hub customer wanted to send automatic follow-up emails on tickets. They say anything past ticket created and ticket closed needs Marketing Hub too, and that it was never mentioned in the sales process or on the pricing page.
 
 **ON SCREEN:** bar chart, "HubSpot customers who complained about…": The tier jump **300+** (grey) · **"It doesn't fit how we work": ~380** (accent)
 
@@ -283,7 +282,7 @@ Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 **ON SCREEN:** whiteboard, written large: **"Show me this exact job working, on the tier you're selling me, before I sign."** Then: **DO THIS BEFORE YOU SIGN: ask to see your exact job working**
 
 **YUSUF:**
-> The check: take your job from step one, and ask HubSpot, in writing, show me this exact job working, on the tier you're selling me, before I sign. Not a slide. Your job, on the screen. And if they can't, you've just saved yourself a year of paying for it.
+> So take your job from step one, and ask HubSpot, in writing: show me this exact job working, on the tier you're selling me, before I sign. Not a slide. Your job, on the screen. And if they can't, you've just saved yourself a year of paying for it.
 
 **ON SCREEN:** lower-third tag: **Comment: team size + the feature that pushed you up a tier**
 
@@ -309,19 +308,19 @@ Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 **ON SCREEN:** three tags, one per phrase: **Built for how you work** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> That's the problem we solve at CRM From Within. We build you a CRM around how your company sells and delivers, so there's no next tier to jump to. We move your data over, you own the code, we maintain it, and there's no long contract.
+> That's the problem my company, CRM From Within, solves. We build you a CRM around how your company sells and delivers, so there's no next tier to jump to. We move your data over, you own the code, we maintain it, and there's no long contract.
 
 **ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
 
 **YUSUF:**
-> That makes sense for companies of ten to fifty people that a standard CRM doesn't fit. If yours does, stay on it and use the five checks.
+> That makes sense for companies of ten to fifty people that a standard CRM doesn't fit. If yours does, stay on it and use the five steps.
 
 ## 10:20 Close
 
-**ON SCREEN:** checklist building line by line: **☐ Write the job ☐ Your year-one jump number ☐ Send the 4 questions ☐ Price 3 smaller steps ☐ See your job working**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
+**ON SCREEN:** the upgrade button, with a typed tag beside it: **Write the job. See it working.** Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Before you upgrade, write the job down. Work out your year-one jump number. Send the four questions. Price three smaller steps. And ask to see your exact job working. Otherwise, the next time that upgrade button pops up, you'll just click it.
+> Next time that upgrade button pops up, don't just click it. Write the job down, and ask to see it working.
 >
 > If what you need isn't on any tier, that's what our free twenty-minute CRM fit check is for. The link's in the description.
 >
@@ -330,7 +329,7 @@ Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 **ON SCREEN:** end screen: next video (video 5: "Why 5,000+ CRM Buyers Want Out: 10 Reasons") + video 1 ("How to Stop Overpaying for HubSpot: 5 Checks") + "Free CRM fit check" button.
 
 **Description:**
-> How to get the HubSpot feature you need without upgrading: five checks before you jump a tier. Name the job, price the whole jump, read the commitment, look for a smaller step, and ask if it's on any tier at all.
+> How to get the HubSpot feature you need without upgrading: five steps before you jump a tier. Name the job, price the whole jump, read the commitment, look for a smaller step, and ask if it's on any tier at all.
 >
 > Free 20-minute CRM fit check (show us how your team works, we show you what's possible): [link with utm_campaign=v04]
 >
@@ -349,13 +348,13 @@ Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 > - Which tier each feature needs (HubSpot help center): https://knowledge.hubspot.com/object-settings/pipeline-approvals · https://knowledge.hubspot.com/reports/create-custom-reports · https://knowledge.hubspot.com/object-settings/create-custom-objects · https://knowledge.hubspot.com/help-desk/set-sla-goals-in-help-desk · https://knowledge.hubspot.com/quotes/set-up-quote-approvals
 > - HubSpot's seats-and-credits terms: https://www.hubspot.com/flexible-seats-and-credits-pricing-supplement
 >
-> 0:00 Proof · 1:20 The 5 checks · 1:30 Name the job · 2:54 Price the whole jump · 4:50 Read the commitment · 5:59 A smaller step · 7:47 Is it on any tier? · 9:25 Is skipping the jump enough? · 10:04 What we do · 10:20 Your homework
+> 0:00 Proof · 1:20 The 5 steps · 1:30 Name the job · 2:54 Price the whole jump · 4:50 Read the commitment · 5:59 A smaller step · 7:47 Is it on any tier? · 9:25 Is skipping the jump enough? · 10:04 What we do · 10:20 Before you click upgrade
 
 ---
 
 ## Ten shorts
 
-Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my SaaS company") and ends with: "Full video: How to Get the HubSpot Feature You Need Without Upgrading."
+Each short opens with the proof line ("Me and my team have set up CRMs for hundreds of companies, and I built and sold a SaaS company") and ends with: "Full video: How to Get the HubSpot Feature You Need Without Upgrading."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

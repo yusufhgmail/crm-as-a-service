@@ -134,7 +134,7 @@ A Jobber customer paid for a full year. Now every payment gets typed in twice.
 
 They say their invoice numbers clashed with QuickBooks, so now every invoice has to start in Jobber. And every payment gets checked in QuickBooks for late fees, then typed in again. That's a red arrow on every payment, for a year.
 
-I've set up CRMs for more than 450 companies, and this is what step four of the map is for. Every time the same information gets typed a second time, the customer's name, the address, the price, the line items, draw a red arrow from where it was typed first to where it's typed again.
+Me and my team have set up CRMs for hundreds of companies, and this is what step four of the map is for. Every time the same information gets typed a second time, the customer's name, the address, the price, the line items, draw a red arrow from where it was typed first to where it's typed again.
 
 On our demo roofer, the name and address get typed into the estimate. The prices get typed again into the invoice. The job details get copied onto the crew whiteboard. And the payment gets entered in two places. Four red arrows.
 
@@ -166,7 +166,7 @@ A former developer at one company says they spent a million dollars customising 
 
 And then, in his words, "So now we're locked in."
 
-I've set up CRMs for more than 450 companies, and this is why a better map isn't the whole answer. Fixing the S's this week is worth doing. But the F's don't go away. You can pay to bend the CRM around them. And once you have, in his words, you're locked in.
+Me and my team have set up CRMs for hundreds of companies, and this is why a better map isn't the whole answer. Fixing the S's this week is worth doing. But the F's don't go away. You can pay to bend the CRM around them. And once you have, in his words, you're locked in.
 
 The map shows you which problems are settings, which are tiers, and which are fit. A setting is something your CRM can already do. A tier, you decide at renewal. A fit problem is one where no setting and no plan does it your way.
 

@@ -138,7 +138,7 @@ This customer says nobody told them about HubSpot's one-year commitment.
 
 They moved to Sales Hub Professional, and they only saw it on the checkout page.
 
-I've set up CRMs for more than 450 companies. Read the commitment before you click.
+Me and my team have set up CRMs for hundreds of companies. Read the commitment before you click.
 
 On HubSpot's pricing page, Starter says "commit monthly". Professional says "commit annually". So you don't just get a bigger bill. You go from a plan you can leave next month to a contract for a year.
 
@@ -161,7 +161,7 @@ HubSpot isn't a bad product, but this is worth knowing before you plan around a 
 
 Another customer, a Service Hub user, wanted to send automatic follow-up emails on tickets. They say anything past ticket created and ticket closed needs Marketing Hub too. Nobody told them that in the sales process, and it's not on the pricing page.
 
-I've set up CRMs for more than 450 companies. The feature list you buy against is a snapshot. That's why I'd ask HubSpot in writing to show you your exact job working, on the tier they're selling you, before you sign. Not a slide. Your job, on the screen.
+Me and my team have set up CRMs for hundreds of companies. The feature list you buy against is a snapshot. That's why I'd ask HubSpot in writing to show you your exact job working, on the tier they're selling you, before you sign. Not a slide. Your job, on the screen.
 
 If they can't, you've just saved yourself a year of paying for it.
 
@@ -187,10 +187,10 @@ What would your smallest step look like?
 ## LinkedIn carousel
 
 ### Post text
-I've set up CRMs for more than 450 companies. When we studied what HubSpot customers say about their bills, more than three hundred complained about the jump from one tier to the next. Here are five checks to run before you upgrade. What's the feature that almost pushed you up a tier? Swipe through, and the full video is in the comments.
+Me and my team have set up CRMs for hundreds of companies. When we studied what HubSpot customers say about their bills, more than three hundred complained about the jump from one tier to the next. Here are five checks to run before you upgrade. What's the feature that almost pushed you up a tier? Swipe through, and the full video is in the comments.
 
 ### Slide 1
-How to get the HubSpot feature you need without upgrading. 5 checks before you jump a tier.
+How to get the HubSpot feature you need without upgrading. 5 steps before you jump a tier.
 
 ### Slide 2
 Check 1: Name the job, not the feature. Write one line: who does what, how often, and which feature HubSpot says you need.
@@ -225,7 +225,7 @@ Full video: How to Get the HubSpot Feature You Need Without Upgrading. Link in t
 
 More than 300 HubSpot customers in our study complained about the jump from one tier to the next.
 
-So here are 5 checks before you upgrade anything.
+So here are 5 steps before you upgrade anything.
 
 Name the job, not the feature. Not "we need Enterprise". Write what you need done, who does it and how often. Then which feature HubSpot says you need for it.
 

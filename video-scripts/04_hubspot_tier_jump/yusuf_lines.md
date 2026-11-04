@@ -4,7 +4,7 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
+Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
 
 ## Who it's for
 
@@ -20,7 +20,7 @@ So in this video I'll show you what an upgrade really costs, how to not get lock
 
 ## Plan
 
-Five checks before you upgrade anything. Check five is a single question, and it would have saved that first company.
+Five steps before you upgrade anything. Step five is a single question, and it would have saved that company.
 
 ## Step 1: Name the job, not the feature
 
@@ -30,7 +30,7 @@ And that was still true when I recorded this, in November 2026. Here's HubSpot's
 
 So here's where the features that push people up a tier live. Custom reports and full workflows, your if-this-then-that automations, those are Professional. Custom objects, so your own record type, like jobs or inspections, that's Enterprise. Response-time targets for support tickets, that's Service Hub Professional. And quote approvals need Revenue Hub, which is a different product.
 
-So here's the check. Write one line. Not "we need Enterprise". Write the job. Something like, our sales manager approves any discount over ten percent, about twenty times a month. Then write which feature HubSpot says you need for it. You'll use that line in every step.
+So write one line. Not "we need Enterprise". Write the job. Something like, our sales manager approves any discount over ten percent, about twenty times a month. Then write which feature HubSpot says you need for it. Keep that line. Step five needs it.
 
 ## Step 2: Price the whole jump
 
@@ -42,23 +42,21 @@ And here's the part nobody tells you. Your Core seats, so the ordinary logins, g
 
 Marketing Hub is the steepest. Three people on Starter pay sixty dollars a month. Professional starts at eight hundred, plus a three-thousand-dollar onboarding fee you can't skip. That's thirteen times the monthly price.
 
-The check: write down one number. New seats at the new price, plus every other Core seat at its new price, times twelve, plus onboarding. That's what the one feature really costs in year one.
-
-So that's steps one and two. You know the job, and you know the real price of the jump.
+So write down one number. New seats at the new price, plus every other Core seat at its new price, times twelve, plus onboarding. That's what it really costs in year one. You want one feature, and HubSpot sells you a whole tier.
 
 ## Free CRM fit check
 
-Quick one. If you'd rather stop climbing tiers, we do a free twenty-minute CRM fit check. The link's in the description. OK, step three.
+If you'd rather stop climbing tiers, book a free twenty-minute CRM fit check, and we'll show you what a CRM with no tiers could look like. The link's in the description. OK, step three.
 
 ## Step 3: Read the commitment
 
 Step three. Read the commitment before you click. On HubSpot's pricing page, Starter says "commit monthly". Professional says "commit annually". So you don't just get a bigger bill. You go from a plan you can leave next month to a contract for a year.
 
-We found a customer who moved to Sales Hub Professional. Nobody told them about the one-year commitment. They only saw it on the checkout page.
+We found a customer who moved to Sales Hub Professional. They say nobody told them about the one-year commitment, and they only saw it on the checkout page.
 
-And this is in HubSpot's own terms. When you upgrade, your fee goes up mid-term. You can't downgrade until renewal. And then it renews by itself, for up to a year. So once you've said yes, you can't take it back.
+And here's what HubSpot's own terms say. When you upgrade, your fee goes up mid-term. You can't downgrade until renewal. And then it renews by itself, for up to a year. So once you've said yes, you can't take it back.
 
-The check: before you click upgrade, email your HubSpot rep these four questions, and keep the replies.
+So before you click upgrade, email your HubSpot rep four questions, and keep the replies. How long is the commitment, and when does it start? Does this change our renewal date? What's the onboarding fee? And what can we remove at renewal?
 
 ## Step 4: Look for a smaller step
 
@@ -68,17 +66,17 @@ Number one. Is there a smaller version on your tier? When I recorded this, Sales
 
 Number two. Buy it only for the people who actually use it. Only the sales seats get the full sales features. Everyone else can sit on a cheaper Core seat. But test it first.
 
-One company was told to keep one Professional seat and put everyone else on cheaper seats. Then only that one person could make calls. So test the exact job with the exact people before you sign.
+One company we found says they were told to keep one Professional seat and put everyone else on cheaper seats. Then only that one person could make calls. So test the exact job with the exact people before you sign.
 
 Number three. An app from HubSpot's marketplace, or a tool you already pay for that connects to HubSpot. Then you pay for one job, and not a whole tier.
 
+So next to your jump number, write what each of those three would cost. If one is a fraction of the jump, you've got your answer.
+
 And one warning. The tiers move. HubSpot's terms let them add or remove features during your term. In July 2026, a customer said HubSpot removed a feature in the middle of their contract, and didn't tell them first. Now it's pay for the new Revenue Hub, or cancel.
 
+That's the catch with renting your CRM. HubSpot can move the steps while you're standing on them.
+
 And when I recorded this, new customers in Europe had started buying one plan for the whole company, with seats and credits, instead of a tier for each hub. So check which setup you're on before you price anything.
-
-The check: next to your jump number, write three smaller ways to get the job done, and what each costs. Very often one of them is a fraction of the jump.
-
-So that's three and four. You know what you're signing, and you've looked for a smaller step.
 
 ## Step 5: Ask if it's on any tier
 
@@ -86,11 +84,11 @@ Step five. Before you pay for any tier, ask: is what we need on any tier at all?
 
 Remember the company from the start? They paid for the top tier, and it still couldn't do the job. That's not a tier problem. It's a fit problem.
 
-And sometimes it's not even on your hub. One Service Hub customer wanted to send automatic follow-up emails on tickets. Anything past ticket created and ticket closed? You need Marketing Hub too. Nobody told them that in the sales process, and it's not on the pricing page.
+And sometimes it's not even on your hub. One Service Hub customer wanted to send automatic follow-up emails on tickets. They say anything past ticket created and ticket closed needs Marketing Hub too, and that it was never mentioned in the sales process or on the pricing page.
 
 In our study, nearly four hundred HubSpot customers complained that it just doesn't fit how they work. That's more than complained about the tier jump.
 
-The check: take your job from step one, and ask HubSpot, in writing, show me this exact job working, on the tier you're selling me, before I sign. Not a slide. Your job, on the screen. And if they can't, you've just saved yourself a year of paying for it.
+So take your job from step one, and ask HubSpot, in writing: show me this exact job working, on the tier you're selling me, before I sign. Not a slide. Your job, on the screen. And if they can't, you've just saved yourself a year of paying for it.
 
 What's the one feature that pushed you up a tier, or almost did? Tell me in the comments, with your team size.
 
@@ -104,13 +102,13 @@ So steps one to four save you from one jump. But it's still a staircase. Next ye
 
 ## What we do
 
-That's the problem we solve at CRM From Within. We build you a CRM around how your company sells and delivers, so there's no next tier to jump to. We move your data over, you own the code, we maintain it, and there's no long contract.
+That's the problem my company, CRM From Within, solves. We build you a CRM around how your company sells and delivers, so there's no next tier to jump to. We move your data over, you own the code, we maintain it, and there's no long contract.
 
-That makes sense for companies of ten to fifty people that a standard CRM doesn't fit. If yours does, stay on it and use the five checks.
+That makes sense for companies of ten to fifty people that a standard CRM doesn't fit. If yours does, stay on it and use the five steps.
 
 ## Close
 
-Before you upgrade, write the job down. Work out your year-one jump number. Send the four questions. Price three smaller steps. And ask to see your exact job working. Otherwise, the next time that upgrade button pops up, you'll just click it.
+Next time that upgrade button pops up, don't just click it. Write the job down, and ask to see it working.
 
 If what you need isn't on any tier, that's what our free twenty-minute CRM fit check is for. The link's in the description.
 

@@ -92,7 +92,7 @@ The second part is the one you don't control.
 Which of your increases were because you grew, and which because they changed the terms?
 
 ### Post 2 · how-to
-I've set up CRMs for more than 450 companies. Here are three checks you can do this week, whatever CRM you use.
+Me and my team have set up CRMs for hundreds of companies. Here are three checks you can do this week, whatever CRM you use.
 
 1. Limits. Find your plan's limits: contacts, leads, users, records, automations. Write today's usage next to each. Anything above seventy percent is a tier jump waiting to happen. More than six hundred buyers hit a limit and found the only way past it was a much pricier plan.
 
@@ -130,7 +130,7 @@ A business prepaid almost eight thousand dollars for a year of Pipedrive. The qu
 
 This business in Vermont did it because their sales team told them it connected. They spent three months trying to make it work. It never did. Pipedrive's answer was, we didn't build that connection. And no refund.
 
-I've set up CRMs for more than 450 companies. Integrations are number five in our study of more than five thousand CRM buyers: more than a thousand said their CRM doesn't connect to their accounting, quoting tool, phone or email, or the connection keeps breaking.
+Me and my team have set up CRMs for hundreds of companies. Integrations are number five in our study of more than five thousand CRM buyers: more than a thousand said their CRM doesn't connect to their accounting, quoting tool, phone or email, or the connection keeps breaking.
 
 The question that story raises is simple. Who built the connection, and who fixes it when it breaks?
 
@@ -166,7 +166,7 @@ If people go back to Outlook and their own notes, that's not a discipline proble
 
 So ask each person what they track outside the CRM. Then count the fields they fill in after one call. If the answer is "a lot", you have your answer.
 
-I've set up CRMs for more than 450 companies. Nearly nineteen hundred buyers in our study said their CRM just doesn't fit how they work, and that's reason number two.
+Me and my team have set up CRMs for hundreds of companies. Nearly nineteen hundred buyers in our study said their CRM just doesn't fit how they work, and that's reason number two.
 
 What do your people track outside the CRM?
 

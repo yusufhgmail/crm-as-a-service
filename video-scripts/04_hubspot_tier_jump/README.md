@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** Camera footage done, David decides how to add the HubSpot screens
+**Status:** approved
 
 - [Script on Drive](https://docs.google.com/document/d/1Z23Z9sJXHJ7Im3wLGM54nLLjkIagsuJZbvupNuNPY7k/edit)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1fJdvO9AJkhYt4utcCisSxN1diVdzR8O4wntPsN_KUcw/edit)

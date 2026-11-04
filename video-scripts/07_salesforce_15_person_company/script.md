@@ -343,7 +343,7 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 
 ## Ten shorts
 
-Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my SaaS company") and ends with: "Full video: Salesforce for a 15-Person Company: the Real Cost."
+Each short opens with the proof line ("Me and my team have set up CRMs for hundreds of companies, and I built and sold a SaaS company") and ends with: "Full video: Salesforce for a 15-Person Company: the Real Cost."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|
