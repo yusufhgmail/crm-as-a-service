@@ -90,6 +90,22 @@ export const articles: Article[] = [
       { question: 'What do we lose by leaving HubSpot?', answer: 'The marketplace of integrations and the familiarity. If the team relies on a dozen HubSpot apps, list them before deciding; each one is either rebuilt, replaced or kept through the API.' },
     ],
   },
+  {
+    slug: 'crm-for-quickbooks',
+    title: 'CRM for QuickBooks: the options that actually sync',
+    description: 'The three ways to get a CRM that works with QuickBooks Online or Desktop: Method CRM, HubSpot with a connector, or a CRM built to read QuickBooks directly.',
+    heading: 'CRM for QuickBooks: the options that actually sync',
+    kicker: 'QUICKBOOKS',
+    answer: 'A company that runs on QuickBooks has three real CRM options: Method CRM, which is built for QuickBooks and syncs customers, estimates and invoices both ways; HubSpot or another rented CRM with a QuickBooks connector, which syncs some objects one way; or a CRM built around the company that reads QuickBooks directly, so nothing has to be entered twice. The right one depends on how much of the sales process lives outside QuickBooks.',
+    summary: 'the three CRM options for a company on QuickBooks Online or Desktop, what each syncs, and where sync breaks in practice.',
+    published: '2026-11-04',
+    modified: '2026-11-04',
+    faq: [
+      { question: 'Does QuickBooks have a built-in CRM?', answer: 'No. QuickBooks keeps customers, estimates, invoices and payments, which is the back half of a sale. It has no leads, no pipeline, no activity log and no follow-up. That is why every CRM for QuickBooks is a separate product that syncs with it.' },
+      { question: 'Does HubSpot sync with QuickBooks?', answer: 'HubSpot has a QuickBooks Online integration that syncs invoices, contacts and products, with limits on direction and on which fields map. QuickBooks Desktop needs a third-party connector. Check which objects sync which way before relying on it.' },
+      { question: 'What usually breaks in a QuickBooks sync?', answer: 'Duplicates, because the CRM and QuickBooks each create a customer record for the same company; customer-specific price lists that do not exist in the CRM; and estimates edited in one system after they were sent from the other. The fix is one system of record per object, agreed before the sync is switched on.' },
+    ],
+  },
 ];
 
 export const articleBySlug = (slug: string) => articles.find((article) => article.slug === slug);
