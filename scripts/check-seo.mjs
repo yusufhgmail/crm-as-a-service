@@ -15,7 +15,7 @@ const PAGES = [
   { path: '/en/privacy', lang: 'en', alternates: { en: '/en/privacy', sv: '/se/privacy', 'x-default': '/en/privacy' } },
   { path: '/se/privacy', lang: 'sv', alternates: { en: '/en/privacy', sv: '/se/privacy', 'x-default': '/en/privacy' } },
   // Guides: English only, so no hreflang; each carries an Article with dates.
-  ...['custom-crm-development', 'custom-crm-cost', 'crm-agency', 'hubspot-alternative', 'crm-for-quickbooks', 'crm-for-distributors']
+  ...['custom-crm-development', 'custom-crm-cost', 'crm-agency', 'hubspot-alternative', 'crm-for-quickbooks', 'crm-for-distributors', 'crm-for-contractors']
     .map((slug) => ({ path: `/en/${slug}`, lang: 'en', alternates: {}, article: true })),
 ];
 

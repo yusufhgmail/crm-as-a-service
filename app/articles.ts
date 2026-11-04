@@ -122,6 +122,22 @@ export const articles: Article[] = [
       { question: 'Can the CRM read our price lists?', answer: 'It should. Customer-specific pricing usually lives in QuickBooks or the ERP. A CRM that cannot see it produces wrong quotes. A built CRM reads the price list from the system that owns it instead of copying it.' },
     ],
   },
+  {
+    slug: 'crm-for-contractors',
+    title: 'CRM for contractors: from first call to final invoice',
+    description: 'What a CRM for a contracting business has to cover: leads from the phone, estimates, the job stages between quote and invoice, crews in the field, follow-up.',
+    heading: 'CRM for contractors: from the first call to the final invoice',
+    kicker: 'CONTRACTORS',
+    answer: 'A contractor\'s CRM has to follow a job, not a deal: the call or form that started it, the site visit, the estimate, the approval, the scheduling, the work, the change orders and the invoice. Most of that happens on a phone in a truck. The CRM that works is the one the office and the crew both touch without typing, built around the stages the business actually uses.',
+    summary: 'what a contractor\'s CRM has to cover from lead to invoice, why field-service apps and generic CRMs each miss half of it, and what a built CRM looks like.',
+    published: '2026-11-04',
+    modified: '2026-11-04',
+    faq: [
+      { question: 'What is the difference between a CRM and field service software for contractors?', answer: 'Field service software (Jobber, Housecall Pro, ServiceTitan) runs the job: scheduling, dispatch, invoicing. A CRM runs the relationship before and after: the lead, the estimate follow-up, the repeat customer. Many contractors need both halves and end up with one tool plus a spreadsheet for the other.' },
+      { question: 'Do small contractors need a CRM?', answer: 'A one-truck operation can run on a phone and a notebook. The CRM question starts when estimates go out and nobody follows up, when two people answer the phone, or when the owner cannot say which leads from last month turned into jobs.' },
+      { question: 'Can a contractor CRM work from a phone?', answer: 'It has to. If logging a site visit takes more than a tap and a voice note, the crew will not do it. A CRM for contractors is judged on what it captures without typing: calls, photos, the estimate sent, the approval received.' },
+    ],
+  },
 ];
 
 export const articleBySlug = (slug: string) => articles.find((article) => article.slug === slug);
