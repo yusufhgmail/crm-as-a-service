@@ -138,6 +138,22 @@ export const articles: Article[] = [
       { question: 'Can a contractor CRM work from a phone?', answer: 'It has to. If logging a site visit takes more than a tap and a voice note, the crew will not do it. A CRM for contractors is judged on what it captures without typing: calls, photos, the estimate sent, the approval received.' },
     ],
   },
+  {
+    slug: 'build-your-own-crm',
+    title: 'Can you build your own CRM with AI? What works',
+    description: 'What happens when a small business builds its own CRM with Claude or ChatGPT: what works in a weekend, what breaks in month three, and a prompt to start with.',
+    heading: 'Can you build your own CRM with AI?',
+    kicker: 'BUILD YOUR OWN',
+    answer: 'Yes. With Claude, ChatGPT or a coding tool, a non-developer can get a working CRM in a weekend: contacts, companies, a pipeline, notes. What is hard is not the build but the next six months: keeping it running, changing it as the work changes, and keeping customer data safe while doing so. This guide gives the prompt to start with and tells you where it stops.',
+    summary: 'what a small business can build itself with AI, where a self-built CRM breaks after launch, and a copyable prompt to start from.',
+    published: '2026-11-04',
+    modified: '2026-11-04',
+    faq: [
+      { question: 'What is the cheapest way to build your own CRM?', answer: 'A spreadsheet or Airtable with a few views is the cheapest and takes an hour. The next step up is a small web app generated with an AI coding tool and hosted for a few dollars a month. Both are free of licences; both are owned by whoever built them, including the maintenance.' },
+      { question: 'Is it safe to put customer data in a self-built CRM?', answer: 'Only if someone owns the security: access control, backups, updates to the libraries it depends on, and a plan for deleting data on request. Those are the parts a weekend build skips and the parts a company is liable for.' },
+      { question: 'Build it ourselves or have it built?', answer: 'Build it yourself if one person enjoys the job and will keep doing it. Have it built, and kept, if the point is a CRM that fits without anyone on the team owning a software project. The cost guide puts the two side by side.' },
+    ],
+  },
 ];
 
 export const articleBySlug = (slug: string) => articles.find((article) => article.slug === slug);
