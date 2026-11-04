@@ -202,6 +202,22 @@ export const articles: Article[] = [
       { question: 'Can we move from HubSpot to a custom CRM later?', answer: 'Yes. HubSpot exports contacts, companies, deals, notes and emails. The migration is mostly the work of mapping those to a process that fits, which is also the most useful part. The HubSpot alternative guide walks through it.' },
     ],
   },
+  {
+    slug: 'salesforce-alternative',
+    title: 'Salesforce alternative for small business: own it',
+    description: 'When Salesforce is too much for a 10–50 person company, what the usual alternatives change, and what a custom CRM you own involves instead.',
+    heading: 'A Salesforce alternative for small business: own the CRM instead',
+    kicker: 'SALESFORCE ALTERNATIVE',
+    answer: 'Salesforce is built for companies with an admin, often several. A company of 10 to 50 people that bought it usually ends up paying per seat for a system it uses a tenth of and cannot change without help. The alternatives are a lighter rented CRM, which keeps the model and lowers the bill, or a custom CRM the company owns and a service keeps adapting, which removes both the licence and the admin.',
+    summary: 'when Salesforce is too much for a small company, what the usual alternatives change, and what moving to an owned CRM involves.',
+    published: '2026-11-04',
+    modified: '2026-11-04',
+    faq: [
+      { question: 'Why do small companies leave Salesforce?', answer: 'Three reasons we hear most: the per-seat cost once Starter is outgrown, the dependence on an admin or partner for every change, and the gap between the configured pipeline and how the team actually works. The last one is the one that stops people using it.' },
+      { question: 'Can we export our data from Salesforce?', answer: 'Yes. Salesforce exports every object to CSV, including custom ones, attachments and activity history. The export is the easy part. Mapping it to a CRM that fits the work is where the time goes, and where a migration earns its keep.' },
+      { question: 'Is HubSpot a good Salesforce alternative?', answer: 'For many small companies, yes: HubSpot Free is simpler and Professional is competitive. It is still a rented, configured CRM. If the problem with Salesforce was cost alone, HubSpot helps. If it was fit and admin, the HubSpot guide explains where the same problem returns.' },
+    ],
+  },
 ];
 
 export const articleBySlug = (slug: string) => articles.find((article) => article.slug === slug);
