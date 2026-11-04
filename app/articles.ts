@@ -109,7 +109,7 @@ export const articles: Article[] = [
   {
     slug: 'crm-for-distributors',
     title: 'CRM for distributors and wholesalers that fits the work',
-    description: 'What a CRM for a small B2B distributor or wholesaler has to handle: reorder cycles, customer price lists, rep routes, QuickBooks, and the spreadsheet it replaces.',
+    description: 'What a CRM for a B2B distributor or wholesaler has to handle: reorder cycles, customer price lists, rep routes, QuickBooks, and the spreadsheet it replaces.',
     heading: 'CRM for distributors and wholesalers: what it has to handle',
     kicker: 'DISTRIBUTORS',
     answer: 'A distributor\'s CRM is not a sales pipeline. Most revenue comes from existing accounts reordering, so the CRM has to track reorder cycles, customer-specific pricing, the rep\'s route and the parent-site structure of accounts, and read QuickBooks for what was actually invoiced. Generic CRMs model a deal that closes once. A distributor needs a CRM shaped around accounts that buy every few weeks.',
