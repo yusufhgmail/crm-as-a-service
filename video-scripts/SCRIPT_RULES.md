@@ -4,6 +4,10 @@ Title: Video script rules
 
 Yusuf's corrections to the scripts. Read this before writing or changing a script, and follow it in every new video, whoever writes it.
 
+# The study
+
+Every video rests on one study, kept in David's private repo. Check every number and every "a lot of people" against it before it goes in a script. Use the figure that matches the video: all CRM buyers, HubSpot customers or Salesforce customers.
+
 # Spoken lines
 
 **Announce every example.** A listener can't see what "this company" points at. Say it's an example or that we found it in our research, then say "one company", not "this company".
@@ -14,7 +18,7 @@ Yusuf's corrections to the scripts. Read this before writing or changing a scrip
 **Open with the problem.** "Who it's for" names a problem viewers recognize, using what the research found where we can, then says what the video does about it.
 
 - Not like this: "If you're on HubSpot, or you're about to sign, and you've never seen the whole bill in one place, this one's for you."
-- But like this: "In that study, a lot of people said they're confused about HubSpot's pricing. So this video clears that up: what a twenty-person team really pays, so nothing surprises you."
+- But like this: "The biggest group, around twenty-five hundred of them, are still on their CRM and thinking about leaving. If that's you, this video shows you why they want out, so you can tell whether your CRM is the problem."
 
 **Keep the hook, change the words.** We're making 20 videos, so viewers would hear a repeated sentence again and again. Every video still needs a reason to watch to the end. Promise something specific from the end of that video: a question it answers, a callback to the opening story, or a surprise you hold back. Check that the video delivers it, and search the other scripts so the wording and the shape are new.
 

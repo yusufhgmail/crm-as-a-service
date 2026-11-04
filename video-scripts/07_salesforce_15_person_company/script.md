@@ -48,17 +48,17 @@ Pair the title with thumbnail 1 first (or 5); thumbnails 2–4 are price variati
 
 ## 0:00 Proof
 
-**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **850+ Salesforce customers studied**
+**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **850+ Salesforce customers studied**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
+> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
 
 ## 0:17 Who it's for
 
 **ON SCREEN:** one tag: **Small team on Salesforce? This is for you.**
 
 **YUSUF:**
-> If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video shows you what it really costs a fifteen-person company, so nothing catches you out.
+> More than four hundred of them complained about what they pay. If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video shows you what it really costs a fifteen-person company, so nothing catches you out.
 
 ## 0:28 Promise
 

@@ -4,11 +4,11 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
+Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
 
 ## Who it's for
 
-Maybe you feel the same: you pay for a CRM every month, and you keep wondering if it's the right one. This video shows you why buyers want out, so you can tell whether your CRM is the problem.
+The biggest group, around twenty-five hundred of them, are still on their CRM and thinking about leaving. If that's you, this video shows you why they want out, so you can tell whether your CRM is the problem.
 
 ## Promise
 

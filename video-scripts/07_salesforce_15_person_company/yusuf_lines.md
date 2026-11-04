@@ -4,11 +4,11 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
+Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
 
 ## Who it's for
 
-If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video shows you what it really costs a fifteen-person company, so nothing catches you out.
+More than four hundred of them complained about what they pay. If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video shows you what it really costs a fifteen-person company, so nothing catches you out.
 
 ## Promise
 

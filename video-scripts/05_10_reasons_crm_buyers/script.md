@@ -47,17 +47,17 @@ Pair title 1 with thumbnail 2 first; test 2 with 1, and 3 with 4.
 
 ## 0:00 Proof
 
-**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **5,000+ CRM buyers studied**
+**ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **5,000+ CRM buyers studied**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
+> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
 
 ## 0:19 Who it's for
 
 **ON SCREEN:** one tag: **Fed up with your CRM? This is for you.**
 
 **YUSUF:**
-> Maybe you feel the same: you pay for a CRM every month, and you keep wondering if it's the right one. This video shows you why buyers want out, so you can tell whether your CRM is the problem.
+> The biggest group, around twenty-five hundred of them, are still on their CRM and thinking about leaving. If that's you, this video shows you why they want out, so you can tell whether your CRM is the problem.
 
 ## 0:28 Promise
 
