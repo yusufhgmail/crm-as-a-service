@@ -1,0 +1,47 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit blocks automated live checks.",
+ "used_in": "Video 7: point 3 (people) and point 5 (another SaaS CRM)",
+ "url": "https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_company_stay_with/p7o5f3i/",
+ "date": "2026-09-03",
+ "quotes": [
+  "In Salesforce every small change needed a consultant who charged us 200 dollars per hour and took three weeks.",
+  "Is Salesforce overkill for 3 users growing to 10? Probably yes. But Zoho will frustrate you in different ways."
+ ],
+ "full_text": "We moved from Salesforce to Zoho about two years ago, 30 person firm, not construction but similar in that we track long project cycles not high volume leads. Your situation sounds very close to ours.\n The cost difference is real but you pay for it in other ways. Zoho can do most of what Salesforce does, just not as smoothly. The UI complaints you read about are not people being picky, it genuinely feels like using software from 2015 sometimes. But here is the thing, after two months everyone stopped noticing. My sales team does not care about pretty interfaces, they care if it works and does not crash. Zoho works.\n On the ecosystem question, that one I would be more careful about. CRM and Books talk to each other decently, but we tried connecting Inventory and it was mess. Data syncing issues, duplicate records, weird permission conflicts. We ended up keeping separate inventory system. The \"one ecosystem\" pitch is oversold unless you are using only their most polished products.\n Internal administration is where Zoho wins hard for us. In Salesforce every small change needed a consultant who charged us 200 dollars per hour and took three weeks. In Zoho I watched some youtube videos and now I handle 90 percent of workflow adjustments myself. Your goal of not needing a consultant for simple changes is very achievable.\n Is Salesforce overkill for 3 users growing to 10? Probably yes. But Zoho will frustrate you in different ways. Not worse, just different. If you go Zoho, negotiate hard on implementation support upfront, their standard support is slow and you want dedicated onboarding help for first three months.",
+ "survey_record": {
+  "rec_id": "reddit:t1_p7o5f3i",
+  "url": "https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_company_stay_with/p7o5f3i/",
+  "date": "2026-09-03",
+  "author": "u/Accomplished_Eye1564",
+  "segment": "C",
+  "pain_tags": "[\"consultant_dependency\", \"price\", \"integration\", \"support\"]",
+  "team_size": "30 person firm",
+  "money_quoted": "[\"200 dollars per hour\"]",
+  "quote": "In Salesforce every small change needed a consultant who charged us 200 dollars per hour and took three weeks. In Zoho I watched some youtube videos and now I handle 90 percent of workflow adjustments myself.",
+  "summary_en": "30-person firm moved from Salesforce to Zoho two years ago and now handles about 90% of workflow changes in-house instead of paying a $200/hour consultant, though the UI feels dated and Zoho Inventory syncing was messy.",
+  "speaker_role": "buyer"
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_company_stay_with/p7o5f3i/",
+    "date": "2026-09-03",
+    "author": "/u/Accomplished_Eye1564",
+    "title": "/u/Accomplished_Eye1564 on 50-Person Construction Company: Stay With Salesforce or Switch to Zoho?",
+    "text": "We moved from Salesforce to Zoho about two years ago, 30 person firm, not construction but similar in that we track long project cycles not high volume leads. Your situation sounds very close to ours.\n The cost difference is real but you pay for it in other ways. Zoho can do most of what Salesforce does, just not as smoothly. The UI complaints you read about are not people being picky, it genuinely feels like using software from 2015 sometimes. But here is the thing, after two months everyone stopped noticing. My sales team does not care about pretty interfaces, they care if it works and does not crash. Zoho works.\n On the ecosystem question, that one I would be more careful about. CRM and Books talk to each other decently, but we tried connecting Inventory and it was mess. Data syncing issues, duplicate records, weird permission conflicts. We ended up keeping separate inventory system. The \"one ecosystem\" pitch is oversold unless you are using only their most polished products.\n Internal administration is where Zoho wins hard for us. In Salesforce every small change needed a consultant who charged us 200 dollars per hour and took three weeks. In Zoho I watched some youtube videos and now I handle 90 percent of workflow adjustments myself. Your goal of not needing a consultant for simple changes is very achievable.\n Is Salesforce overkill for 3 users growing to 10? Probably yes. But Zoho will frustrate you in different ways. Not worse, just different. If you go Zoho, negotiate hard on implementation support upfront, their standard support is slow and you want dedicated onboarding help for first three months."
+   }
+  },
+  {
+   "file": "stage/p1/records.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_company_stay_with/p7o5f3i/",
+    "date": "2026-09-03",
+    "author": "u/Accomplished_Eye1564",
+    "title": null,
+    "text": "We moved from Salesforce to Zoho about two years ago, 30 person firm, not construction but similar in that we track long project cycles not high volume leads. Your situation sounds very close to ours.\nThe cost difference is real but you pay for it in other ways. Zoho can do most of what Salesforce does, just not as smoothly. The UI complaints you read about are not people being picky, it genuinely feels like using software from 2015 sometimes. But here is the thing, after two months everyone stopped noticing. My sales team does not care about pretty interfaces, they care if it works and does not crash. Zoho works.\nOn the ecosystem question, that one I would be more careful about. CRM and Books talk to each other decently, but we tried connecting Inventory and it was mess. Data syncing issues, duplicate records, weird permission conflicts. We ended up keeping separate inventory system. The \"one ecosystem\" pitch is oversold unless you are using only their most polished products.\nInternal administration is where Zoho wins hard for us. In Salesforce every small change needed a consultant who charged us 200 dollars per hour and took three weeks. In Zoho I watched some youtube videos and now I handle 90 percent of workflow adjustments myself. Your goal of not needing a consultant for simple changes is very achievable.\nIs Salesforce overkill for 3 users growing to 10? Probably yes. But Zoho will frustrate you in different ways. Not worse, just different. If you go Zoho, negotiate hard on implementation support upfront, their standard support is slow and you want dedicated onboarding help for first three months."
+   }
+  }
+ ],
+ "how_checked": "saved copy: quote matched word for word against the raw scrape text on 27 Oct 2026; speaker_role=buyer in survey.sqlite; post read in full for signs of selling services (none found)"
+}

@@ -1,0 +1,46 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit blocks automated live checks.",
+ "used_in": "Video 7: point 5 (own software, the risk)",
+ "url": "https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3hbr7g/",
+ "date": "2026-08-13",
+ "quotes": [
+  "You don't really want to hire _an engineer_ to build and maintain something - at best it will be a massive key person risk"
+ ],
+ "full_text": "I experienced all three in the past:\n - SF \"addiction\"\n - Building a shadow IT for the features we need\n - Building a full-on custom CRM\n Most other comments answered questions 1-4, so I'll focus on 5. You don't really want to hire _an engineer_ to build and maintain something - at best it will be a massive key person risk, at worst it will be a total failure and revenue loss if you hire a wrong person. Building custom software requires a realy capability - if you don't want to own it, you need to \"rent\" it.\n The reason SF, HubSpot and others exist is not because it's hard to code a CRM, but because it's hard to make sure it's working consistently \"good enough\" or \"well\" for pretty much _all of your use cases_. The downside is you're potentially paying for a lot of use cases you don't really care about.\n To make the math with custom software work, you need to ask yourself a simple question - if you had a CRM that implements _only_ your specific use cases and costs $30k/year, but anything else would require additional dev work, would this be a win?",
+ "survey_record": {
+  "rec_id": "seed:companynative_all_leads_full_oct25:ad7724c9357b",
+  "url": "https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3hbr7g/",
+  "date": "2026-08-13",
+  "author": "u/mr_pants99",
+  "segment": "H",
+  "pain_tags": "[\"maintenance_burden\", \"consultant_dependency\", \"price\"]",
+  "team_size": null,
+  "money_quoted": "[\"$30k/year\"]",
+  "quote": "You don't really want to hire _an engineer_ to build and maintain something - at best it will be a massive key person risk, at worst it will be a total failure and revenue loss if you hire a wrong person.",
+  "summary_en": "Having lived through Salesforce, shadow IT and a full custom CRM, warns against hiring a single engineer (key-person risk) and says to 'rent' build capability instead.",
+  "speaker_role": "buyer"
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3hbr7g/",
+    "date": "2026-08-13",
+    "author": "/u/mr_pants99",
+    "title": "/u/mr_pants99 on Small business outgrowing Salesforce Professional. The upgrade math doesn’t work. Looking for a reality check.",
+    "text": "I experienced all three in the past:\n - SF \"addiction\"\n - Building a shadow IT for the features we need\n - Building a full-on custom CRM\n Most other comments answered questions 1-4, so I'll focus on 5. You don't really want to hire _an engineer_ to build and maintain something - at best it will be a massive key person risk, at worst it will be a total failure and revenue loss if you hire a wrong person. Building custom software requires a realy capability - if you don't want to own it, you need to \"rent\" it.\n The reason SF, HubSpot and others exist is not because it's hard to code a CRM, but because it's hard to make sure it's working consistently \"good enough\" or \"well\" for pretty much _all of your use cases_. The downside is you're potentially paying for a lot of use cases you don't really care about.\n To make the math with custom software work, you need to ask yourself a simple question - if you had a CRM that implements _only_ your specific use cases and costs $30k/year, but anything else would require additional dev work, would this be a win?"
+   }
+  },
+  {
+   "file": "stage/p1/records.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3hbr7g/",
+    "date": "2026-08-13",
+    "author": "u/mr_pants99",
+    "title": null,
+    "text": "I experienced all three in the past:\n- SF \"addiction\"\n- Building a shadow IT for the features we need\n- Building a full-on custom CRM\nMost other comments answered questions 1-4, so I'll focus on 5. You don't really want to hire _an engineer_ to build and maintain something - at best it will be a massive key person risk, at worst it will be a total failure and revenue loss if you hire a wrong person. Building custom software requires a realy capability - if you don't want to own it, you need to \"rent\" it.\nThe reason SF, HubSpot and others exist is not because it's hard to code a CRM, but because it's hard to make sure it's working consistently \"good enough\" or \"well\" for pretty much _all of your use cases_. The downside is you're potentially paying for a lot of use cases you don't really care about.\nTo make the math with custom software work, you need to ask yourself a simple question - if you had a CRM that implements _only_ your specific use cases and costs $30k/year, but anything else would require additional dev work, would this be a win?"
+   }
+  }
+ ],
+ "how_checked": "saved copy: quote matched word for word against the raw scrape text on 27 Oct 2026; speaker_role=buyer in survey.sqlite; post read in full for signs of selling services (none found)"
+}

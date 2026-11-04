@@ -1,0 +1,56 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit blocks automated live checks.",
+ "used_in": "Video 7: point 4 (renewal)",
+ "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/",
+ "date": "2026-01-23",
+ "quotes": [
+  "It was ~100k in ACV last year. I halved our license count and everything went to list price."
+ ],
+ "full_text": "It was ~100k in ACV last year. I halved our license count and everything went to list price. I said if I'm going to pay list price, I'm going to determine exactly how many of each license I need a week before the anniversary date so I don't over-buy. Seems they didn't like that.",
+ "survey_record": {
+  "rec_id": "reddit:t1_o1bj999",
+  "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/",
+  "date": "2026-01-23",
+  "author": "u/Ok-Dragonfly-8324",
+  "segment": "G",
+  "pain_tags": "[\"price\", \"contract_renewal\"]",
+  "team_size": null,
+  "money_quoted": "[\"~100k in ACV\"]",
+  "quote": "It was ~100k in ACV last year. I halved our license count and everything went to list price. I said if I'm going to pay list price, I'm going to determine exactly how many of each license I need a week before the anniversary date so I don't over-buy. Seems they didn't like that.",
+  "summary_en": "Salesforce customer at about 100k ACV halved its licence count, lost all discounts to list price, and wanted to set exact licence counts just before the anniversary date, which Salesforce resisted.",
+  "speaker_role": "buyer"
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_external.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/",
+    "date": "2026-01-23T22:10:23+00:00",
+    "author": "Ok-Dragonfly-8324",
+    "title": "Despite 89 days notice, Salesforce is refusing to turn off auto-renewal for a contract",
+    "text": "It was ~100k in ACV last year. I halved our license count and everything went to list price. I said if I'm going to pay list price, I'm going to determine exactly how many of each license I need a week before the anniversary date so I don't over-buy. Seems they didn't like that."
+   }
+  },
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/",
+    "date": "2026-01-23",
+    "author": "/u/Ok-Dragonfly-8324",
+    "title": "/u/Ok-Dragonfly-8324 on Despite 89 days notice, Salesforce is refusing to turn off auto-renewal for a contract",
+    "text": "It was ~100k in ACV last year. I halved our license count and everything went to list price. I said if I'm going to pay list price, I'm going to determine exactly how many of each license I need a week before the anniversary date so I don't over-buy. Seems they didn't like that."
+   }
+  },
+  {
+   "file": "stage/p1/records.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/",
+    "date": "2026-01-23",
+    "author": "u/Ok-Dragonfly-8324",
+    "title": null,
+    "text": "It was ~100k in ACV last year. I halved our license count and everything went to list price. I said if I'm going to pay list price, I'm going to determine exactly how many of each license I need a week before the anniversary date so I don't over-buy. Seems they didn't like that."
+   }
+  }
+ ],
+ "how_checked": "saved copy: quote matched word for word against the raw scrape text on 27 Oct 2026; speaker_role=buyer in survey.sqlite; post read in full for signs of selling services (none found)"
+}

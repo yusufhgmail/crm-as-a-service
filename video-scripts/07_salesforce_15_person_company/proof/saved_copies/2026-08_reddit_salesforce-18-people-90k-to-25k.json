@@ -1,0 +1,48 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit blocks automated live checks.",
+ "used_in": "Video 7: point 5 (another SaaS CRM)",
+ "url": "https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3dclo1/",
+ "date": "2026-08-12",
+ "quotes": [
+  "We were in similar spot with 18 people last year",
+  "Migration took about 4 months and cost around 40k between implementation help and lost productivity during switch.",
+  "our annual CRM spend went from 90k to under 25k"
+ ],
+ "full_text": "Sounds like you already know the answer, just don't want to admit it. Salesforce knows they got you by the balls with those custom workflows and they're pricing accordingly.\n We were in similar spot with 18 people last year, not as customized as you but still painful to leave. Migration took about 4 months and cost around 40k between implementation help and lost productivity during switch. Was worth it though, our annual CRM spend went from 90k to under 25k and we actually have features that work without bolting on six different subscriptions.\n For custom objects specifically, Zoho is surprisingly capable if you can get past the interface. Not as pretty as HubSpot but the customization depth is closer to what you're used to. Creatio looks good on paper but the partner ecosystem is thin and finding people who know it well is rough.\n On the Agentforce thing, sat through same dog and pony show. It's absolutely emperor's new clothes at this point unless you're a massive org with a dedicated admin team. The demo was basically a chatbot that could look up account info, which my sales team can already do in 3 clicks.\n Your situation is exactly why people leave Salesforce. Not because it's bad product, but because the pricing model punishes growth.",
+ "survey_record": {
+  "rec_id": "seed:companynative_all_leads_full_oct25:fffe6e7ea8e8",
+  "url": "https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3dclo1/",
+  "date": "2026-08-12",
+  "author": "u/Successful-Piglet988",
+  "segment": "C",
+  "pain_tags": "[\"price\", \"seat_growth\", \"migration_risk\", \"ai_features\"]",
+  "team_size": "18 people",
+  "money_quoted": "[\"around 40k\", \"90k to under 25k\"]",
+  "quote": "Migration took about 4 months and cost around 40k between implementation help and lost productivity during switch. Was worth it though, our annual CRM spend went from 90k to under 25k and we actually have features that work without bolting on six different subscriptions.",
+  "summary_en": "A buyer with 18 people left Salesforce last year via a 4-month migration costing about 40k, cutting annual CRM spend from 90k to under 25k.",
+  "speaker_role": "buyer"
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3dclo1/",
+    "date": "2026-08-13",
+    "author": "/u/Successful-Piglet988",
+    "title": "/u/Successful-Piglet988 on Small business outgrowing Salesforce Professional. The upgrade math doesn’t work. Looking for a reality check.",
+    "text": "Sounds like you already know the answer, just don't want to admit it. Salesforce knows they got you by the balls with those custom workflows and they're pricing accordingly.\n We were in similar spot with 18 people last year, not as customized as you but still painful to leave. Migration took about 4 months and cost around 40k between implementation help and lost productivity during switch. Was worth it though, our annual CRM spend went from 90k to under 25k and we actually have features that work without bolting on six different subscriptions.\n For custom objects specifically, Zoho is surprisingly capable if you can get past the interface. Not as pretty as HubSpot but the customization depth is closer to what you're used to. Creatio looks good on paper but the partner ecosystem is thin and finding people who know it well is rough.\n On the Agentforce thing, sat through same dog and pony show. It's absolutely emperor's new clothes at this point unless you're a massive org with a dedicated admin team. The demo was basically a chatbot that could look up account info, which my sales team can already do in 3 clicks.\n Your situation is exactly why people leave Salesforce. Not because it's bad product, but because the pricing model punishes growth."
+   }
+  },
+  {
+   "file": "stage/p1/records.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3dclo1/",
+    "date": "2026-08-12",
+    "author": "u/Successful-Piglet988",
+    "title": null,
+    "text": "Sounds like you already know the answer, just don't want to admit it. Salesforce knows they got you by the balls with those custom workflows and they're pricing accordingly.\nWe were in similar spot with 18 people last year, not as customized as you but still painful to leave. Migration took about 4 months and cost around 40k between implementation help and lost productivity during switch. Was worth it though, our annual CRM spend went from 90k to under 25k and we actually have features that work without bolting on six different subscriptions.\nFor custom objects specifically, Zoho is surprisingly capable if you can get past the interface. Not as pretty as HubSpot but the customization depth is closer to what you're used to. Creatio looks good on paper but the partner ecosystem is thin and finding people who know it well is rough.\nOn the Agentforce thing, sat through same dog and pony show. It's absolutely emperor's new clothes at this point unless you're a massive org with a dedicated admin team. The demo was basically a chatbot that could look up account info, which my sales team can already do in 3 clicks.\nYour situation is exactly why people leave Salesforce. Not because it's bad product, but because the pricing model punishes growth."
+   }
+  }
+ ],
+ "how_checked": "saved copy: quote matched word for word against the raw scrape text on 27 Oct 2026; speaker_role=buyer in survey.sqlite; post read in full for signs of selling services (none found)"
+}

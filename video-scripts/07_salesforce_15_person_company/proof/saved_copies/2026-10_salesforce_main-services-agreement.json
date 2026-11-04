@@ -1,0 +1,13 @@
+{
+ "note": "Vendor page downloaded and read 27 Oct 2026 (HTML/PDF text extracted locally); quotes are word for word.",
+ "used_in": "Video 7: point 4 (renewal), point 5 (data)",
+ "url": "https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf",
+ "checked": "2026-10-27",
+ "quotes": [
+  "Header: \"This Agreement was last updated on September 1, 2026.\"",
+  "§5.1 Fees: \"(i) fees are based on Services subscriptions purchased and not actual usage, (ii) payment obligations are non- cancelable and fees paid are non-refundable, and (iii) quantities purchased cannot be decreased during the relevant subscription term.\"",
+  "§11.2 Term of Purchased Subscriptions: \"Except as otherwise specified in an Order Form, subscriptions will automatically renew for additional one year terms, unless either party gives the other written notice (email acceptable) at least 30 days before the end of the relevant subscription term. Except as expressly provided in the applicable Order Form, renewal of promotional or one-time priced subscriptions will be at SFDC’s applicable list price in effect at the time of the applicable renewal. Notwithstanding anything to the contrary, any renewal in which subscription volume or subscription length for any Services has decreased from the prior term will result in re-pricing at renewal without regard to the prior term’s per-unit pricing.\"",
+  "§2.2: \"Upon request by Customer made within 30 days after the effective date of termination or expiration of this Agreement, SFDC will make Customer Data available to Customer for export or download as provided in the Documentation. After such 30-day period, SFDC will have no obligation to maintain or provide any Customer Data\""
+ ],
+ "how_checked": "checked 27 Oct 2026: page fetched and text extracted; quotes copied word for word"
+}

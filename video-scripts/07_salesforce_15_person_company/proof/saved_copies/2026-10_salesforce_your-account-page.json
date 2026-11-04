@@ -1,0 +1,11 @@
+{
+ "note": "Vendor page downloaded and read 27 Oct 2026 (HTML/PDF text extracted locally); quotes are word for word.",
+ "used_in": "Video 7: point 4 screen",
+ "url": "https://www.salesforce.com/your-account/",
+ "checked": "2026-10-27",
+ "quotes": [
+  "\"Manage your contracts 24/7\" \"Add licenses or products\" \"Change billing or contact details\" \"Manage upcoming renewals\"",
+  "\"You can manage your account in Salesforce by clicking the Setup gear in the top right corner and selecting Your Account (Lightning Experience), or Log into Your Account. You can also find Your Account in the App Launcher.\""
+ ],
+ "how_checked": "checked 27 Oct 2026: page fetched and text extracted; quotes copied word for word"
+}

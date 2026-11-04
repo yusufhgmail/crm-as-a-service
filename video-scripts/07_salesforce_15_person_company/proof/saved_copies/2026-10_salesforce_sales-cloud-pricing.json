@@ -1,0 +1,19 @@
+{
+ "note": "Vendor page downloaded and read 27 Oct 2026 (HTML/PDF text extracted locally); quotes are word for word.",
+ "used_in": "Video 7: point 1, point 2",
+ "url": "https://www.salesforce.com/sales/pricing/",
+ "checked": "2026-10-27",
+ "quotes": [
+  "Starter Suite \"$ 25\" \"USD/User/Month\" \"(Billed monthly or annually)\"",
+  "Pro Suite \"$ 100\" \"USD/User/Month\" \"(Billed annually)\"",
+  "Core \"$ 195\" \"USD/User/Month\" \"(Billed annually)\"",
+  "Advanced \"$ 395\" \"USD/User/Month\" \"(Billed annually)\"",
+  "Max \"$ 550\" \"USD/User/Month\" \"(Billed annually)\"",
+  "Comparison table, Pro Suite column: Flow Builder \"5 flows per org\"; Approval Processes not included (included from Core); Web Services API \"Additional $25 USD/user/month\" (included from Core); Premier Success Plan \"Available for purchase\" (included from Core); Full Sandbox not included",
+  "FAQ: \"Salesforce has all kinds of add-ons, apps, and additional products to help your company stay ahead in your industry.\"",
+  "FAQ: \"Most Salesforce products use annual contracts, but Salesforce subscription terms vary.\"",
+  "\"This page is provided for information purposes only and subject to change.\""
+ ],
+ "how_checked": "checked 27 Oct 2026: page fetched and text extracted; quotes copied word for word",
+ "faq_rechecked_live": "FAQ sentence rechecked live 27 Oct 2026 04:14 UTC by downloading the page (string found verbatim)"
+}
