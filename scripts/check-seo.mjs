@@ -14,6 +14,9 @@ const PAGES = [
   { path: '/se', lang: 'sv', alternates: { en: '/en', sv: '/se', 'x-default': '/en' } },
   { path: '/en/privacy', lang: 'en', alternates: { en: '/en/privacy', sv: '/se/privacy', 'x-default': '/en/privacy' } },
   { path: '/se/privacy', lang: 'sv', alternates: { en: '/en/privacy', sv: '/se/privacy', 'x-default': '/en/privacy' } },
+  // Guides: English only, so no hreflang; each carries an Article with dates.
+  ...['custom-crm-development', 'custom-crm-cost', 'crm-agency', 'hubspot-alternative']
+    .map((slug) => ({ path: `/en/${slug}`, lang: 'en', alternates: {}, article: true })),
 ];
 
 // Earlier brands this codebase has carried. "CRM That Fits" is matched by case
@@ -35,7 +38,7 @@ const tags = (html, name) => html.match(new RegExp(`<${name}\\b[^>]*>`, 'gi')) ?
 const meta = (html, key) => tags(html, 'meta').map((tag) => [attr(tag, 'name') ?? attr(tag, 'property'), attr(tag, 'content')]).filter(([k]) => k === key).map(([, v]) => v);
 const decode = (s) => s.replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#x27;|&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
 
-async function checkPage({ path, lang, alternates }) {
+async function checkPage({ path, lang, alternates, article = false }) {
   const { status, text: html } = await get(path);
   if (status !== 200) return fail(path, `status ${status}`);
 
@@ -94,6 +97,14 @@ async function checkPage({ path, lang, alternates }) {
     const page = (graph['@graph'] ?? [graph]).find((node) => node['@type'] === 'WebPage');
     if (!page) fail(path, 'JSON-LD has no WebPage');
     else if (page.url !== SITE + path) fail(path, `WebPage.url ${page.url}`);
+    if (article) {
+      const node = (graph['@graph'] ?? [graph]).find((n) => n['@type'] === 'Article');
+      if (!node) fail(path, 'JSON-LD has no Article');
+      else {
+        for (const key of ['headline', 'datePublished', 'dateModified', 'author', 'publisher']) if (!node[key]) fail(path, `Article has no ${key}`);
+        if (node.dateModified && page?.dateModified && node.dateModified !== page.dateModified) fail(path, 'Article.dateModified differs from WebPage.dateModified');
+      }
+    }
   }
 }
 

@@ -1,3 +1,4 @@
+import { articles } from '../articles';
 import { faq } from '../faq';
 import { SITE } from '../seo';
 
@@ -23,6 +24,10 @@ const body = `# CRM From Within
 ## Questions
 
 ${faq.en.map(({ question, answer }) => `- **${question}** ${answer}`).join('\n')}
+
+## Guides
+
+${articles.map((article) => `- [${article.heading}](${SITE}/en/${article.slug}): ${article.summary}`).join('\n')}
 
 ## Pages
 

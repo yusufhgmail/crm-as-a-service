@@ -1,6 +1,7 @@
 'use client';
 
 import { FormEvent, useEffect, useRef, useState } from 'react';
+import { articles } from './articles';
 import { faq } from './faq';
 import { getFunnelSessionId, trackFunnelEvent } from './funnel';
 
@@ -606,6 +607,12 @@ export function Site({ locale = 'en' }: { locale?: Locale }) {
 
       <footer>
         <div className="shell footer-top"><a className="brand" href="#top"><span className="brand-mark" aria-hidden="true" /><span>CRM From Within</span></a><p>{t('A production-ready CRM that shapes itself around your company.', 'Ett produktionsklart CRM som formar sig efter ditt företag.')}</p><a href="#assessment-chat" className="button button-small button-primary" data-funnel-location="footer">{t('See if it fits', 'Se om det passar')} <Arrow /></a></div>
+        {!swedish && (
+          <div className="shell footer-guides" aria-label="Guides">
+            <span>Guides:</span>
+            {articles.map((article) => <a key={article.slug} href={`/en/${article.slug}`}>{article.heading}</a>)}
+          </div>
+        )}
         <div className="shell footer-bottom"><span>© 2026 CRM From Within · {t('A Yusuf Young AB company', 'Ett bolag inom Yusuf Young AB')}</span><span><a href={`/${locale}/privacy`}>{t('Privacy', 'Integritet')}</a> · <a href={swedish ? '/en' : '/se'}>{swedish ? 'English' : 'Svenska'}</a></span></div>
       </footer>
     </main>

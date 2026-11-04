@@ -22,6 +22,8 @@ Order follows the 12-week plan: Tier 1 in weeks 1–2 (with the site rewrite), T
 
 ### Wave 1: service pages (weeks 1–2)
 
+**Drafted 4 Nov 2026** on the branch, as `app/en/<slug>/page.tsx` with the shared layout in `app/article.tsx` and the metadata in `app/articles.ts`. All four pass `check:seo`. The text is a draft for Yusuf to read before deploy: the prices ($3,000 proof, $1,000–2,000 a month) follow the 25 Oct plan, and the HubSpot figures were checked against hubspot.com on 4 Nov.
+
 | # | Page | Query it owns | What it says |
 |---|---|---|---|
 | 1 | `/custom-crm-development` | custom crm development service (320, SD 7) | The service page. What gets built, how (observe the work, ask, build, test, approve), what the client owns, what it costs to start (the ~$3,000 paid proof), who it is not for (HubSpot Free is fine if a generic pipeline is enough). One build story. |

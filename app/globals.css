@@ -450,6 +450,36 @@ h2 em { color: var(--orange-text); font-style: italic; }
 .legal-content section p { margin: 13px 0 0; color: #4f6965; font-size: 14px; line-height: 1.75; }
 .legal-updated { margin: 35px 0 0; color: #748682; font-size: 10px; }
 
+/* Guides (app/article.tsx) */
+.guide-content h1 { font-size: clamp(36px, 5vw, 56px); }
+.guide-answer { margin-bottom: 18px; color: var(--ink); font-size: 19px; }
+.guide-byline { margin: 0 0 50px; color: #748682; font-size: 12px; }
+.guide-byline a { text-decoration: underline; text-underline-offset: 3px; }
+.guide-content section p { font-size: 16px; color: #3f5753; }
+.guide-content section ul, .guide-content section ol { margin: 14px 0 0; padding-left: 22px; color: #3f5753; font-size: 16px; line-height: 1.7; }
+.guide-content section li { margin-top: 8px; }
+.guide-content section li strong, .guide-content section p strong { color: var(--ink); }
+.guide-content section a { color: var(--orange-text); text-decoration: underline; text-underline-offset: 3px; }
+.guide-table { margin: 24px 0 0; overflow-x: auto; }
+.guide-table table { width: 100%; border-collapse: collapse; background: var(--cream); border: 1px solid #cdd4cd; border-radius: 12px; font-size: 14px; }
+.guide-table caption { padding: 0 0 10px; text-align: left; color: var(--ink); font-size: 13px; font-weight: 700; }
+.guide-table th, .guide-table td { padding: 11px 14px; border-top: 1px solid var(--line); text-align: left; vertical-align: top; }
+.guide-table thead th { border-top: 0; background: #f0eee7; color: var(--ink); font-size: 11px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; }
+.guide-table tbody th { color: var(--ink); font-weight: 650; }
+.guide-table tbody td { color: #3f5753; }
+.guide-table figcaption { margin-top: 8px; color: #748682; font-size: 12px; line-height: 1.5; }
+.guide-faq h3 { margin: 22px 0 0; font-size: 17px; }
+.guide-faq p { margin-top: 6px; }
+.guide-cta { margin-top: 30px; padding: 34px; border-radius: 17px; background: var(--ink); color: white; border-top: 0 !important; }
+.guide-cta h2 { color: white; }
+.guide-cta p { color: #c6d6d2 !important; }
+.guide-cta .button { margin-top: 20px; }
+.guide-related ul { margin: 12px 0 0; padding-left: 22px; }
+.guide-related li { margin-top: 6px; }
+.guide-related a { color: var(--orange-text); text-decoration: underline; text-underline-offset: 3px; }
+.footer-guides { display: flex; flex-wrap: wrap; gap: 8px 18px; padding: 0 0 22px; color: #91aaa5; font-size: 12px; }
+.footer-guides a:hover { color: white; }
+
 footer { padding: 54px 0 22px; background: #061a1b; color: white; }
 .footer-top { display: flex; align-items: center; justify-content: space-between; padding-bottom: 42px; }
 .footer-top > p { color: #91aaa5; font-family: Georgia, 'Times New Roman', serif; font-size: 19px; font-style: italic; }

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { articles, type Faq } from './articles';
 
 export const SITE = 'https://crmfromwithin.com';
 export const OG_IMAGE = `${SITE}/og-crm-from-within.png`;
@@ -20,19 +21,36 @@ const LANGUAGE: Record<SiteLocale, { hreflang: string; og: string }> = {
 export const htmlLang = (locale: SiteLocale) => LANGUAGE[locale].hreflang;
 
 /**
- * The day each page's content last changed. The sitemap's lastmod and the
- * JSON-LD dateModified both read from here, so they always agree. Bump the
- * date when the page's text changes, not on every deploy.
+ * The day each shared (English + Swedish) page's content last changed. The
+ * sitemap's lastmod and the JSON-LD dateModified both read from here, so they
+ * always agree. Bump the date when the page's text changes, not on every deploy.
+ * Guides carry their own dates in articles.ts.
  */
 export const PAGE_DATES: Record<string, string> = {
   '': '2026-09-04',
   '/privacy': '2026-08-30',
 };
 
-/** Every indexable page as [locale, path]. The sitemap, llms.txt and the SEO check list the same set. */
-export const PAGES = (['en', 'se'] as const).flatMap((locale) =>
-  Object.keys(PAGE_DATES).map((page) => ({ locale, page, path: `/${locale}${page}` })),
-);
+export type SitePage = {
+  locale: SiteLocale;
+  /** Path without the locale prefix, '' for the home page. */
+  page: string;
+  /** Full path, e.g. /en/privacy. */
+  path: string;
+  date: string;
+  /** Locales the page exists in. One locale means no hreflang links. */
+  languages: SiteLocale[];
+};
+
+/** Every indexable page. The sitemap, llms.txt and the SEO check list the same set. */
+export const PAGES: SitePage[] = [
+  ...(['en', 'se'] as const).flatMap((locale) =>
+    Object.entries(PAGE_DATES).map(([page, date]) => ({ locale, page, path: `/${locale}${page}`, date, languages: ['en', 'se'] as SiteLocale[] })),
+  ),
+  ...articles.map((article) => ({ locale: 'en' as const, page: `/${article.slug}`, path: `/en/${article.slug}`, date: article.modified, languages: ['en'] as SiteLocale[] })),
+];
+
+export const pageDate = (page: string) => PAGES.find((entry) => entry.page === page)?.date;
 
 export type PageCopy = {
   title: string;
@@ -41,29 +59,35 @@ export type PageCopy = {
   ogDescription?: string;
 };
 
+export const hreflangLinks = (page: string, languages: SiteLocale[]) =>
+  languages.length < 2
+    ? undefined
+    : {
+        en: `${SITE}/en${page}`,
+        sv: `${SITE}/se${page}`,
+        'x-default': `${SITE}/en${page}`,
+      };
+
 /** Canonical, reciprocal hreflang (with x-default), Open Graph and Twitter tags for one locale of a page. */
-export function pageMetadata(locale: SiteLocale, page: string, copy: PageCopy): Metadata {
+export function pageMetadata(locale: SiteLocale, page: string, copy: PageCopy, languages: SiteLocale[] = ['en', 'se']): Metadata {
   const url = `${SITE}/${locale}${page}`;
   const ogTitle = copy.ogTitle ?? copy.title;
   const ogDescription = copy.ogDescription ?? copy.description;
+  const other = languages.find((candidate) => candidate !== locale);
   return {
     title: copy.title,
     description: copy.description,
     robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 },
     alternates: {
       canonical: url,
-      languages: {
-        en: `${SITE}/en${page}`,
-        sv: `${SITE}/se${page}`,
-        'x-default': `${SITE}/en${page}`,
-      },
+      languages: hreflangLinks(page, languages),
     },
     openGraph: {
       type: 'website',
       url,
       siteName: 'CRM From Within',
       locale: LANGUAGE[locale].og,
-      alternateLocale: LANGUAGE[locale === 'en' ? 'se' : 'en'].og,
+      alternateLocale: other ? LANGUAGE[other].og : undefined,
       title: ogTitle,
       description: ogDescription,
       images: [{ url: OG_IMAGE, width: 1200, height: 630, alt: 'CRM From Within' }],
@@ -77,10 +101,13 @@ export function pageMetadata(locale: SiteLocale, page: string, copy: PageCopy): 
   };
 }
 
-export type Faq = { question: string; answer: string };
+export type ArticleDates = { published: string; modified: string; headline: string };
 
-/** One JSON-LD graph: the company, the site, the founder and this page (plus its FAQ when it shows one). */
-export function jsonLd(locale: SiteLocale, page: string, copy: PageCopy, faq: Faq[] = []) {
+/**
+ * One JSON-LD graph: the company, the site, the founder and this page, plus
+ * its FAQ when it shows one and an Article node when it is a guide.
+ */
+export function jsonLd(locale: SiteLocale, page: string, copy: PageCopy, faq: Faq[] = [], article?: ArticleDates) {
   const url = `${SITE}/${locale}${page}`;
   const inLanguage = htmlLang(locale);
   return {
@@ -122,8 +149,21 @@ export function jsonLd(locale: SiteLocale, page: string, copy: PageCopy, faq: Fa
         inLanguage,
         isPartOf: { '@id': `${SITE}/#website` },
         about: { '@id': `${SITE}/#org` },
-        dateModified: PAGE_DATES[page],
+        dateModified: article?.modified ?? pageDate(page),
       },
+      ...(article ? [{
+        '@type': 'Article',
+        '@id': `${url}#article`,
+        headline: article.headline,
+        description: copy.description,
+        inLanguage,
+        datePublished: article.published,
+        dateModified: article.modified,
+        author: { '@id': `${SITE}/#founder` },
+        publisher: { '@id': `${SITE}/#org` },
+        image: OG_IMAGE,
+        mainEntityOfPage: { '@id': `${url}#page` },
+      }] : []),
       ...(faq.length ? [{
         '@type': 'FAQPage',
         '@id': `${url}#faq`,
