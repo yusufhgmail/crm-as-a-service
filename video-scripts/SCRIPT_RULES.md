@@ -61,6 +61,11 @@ Every video rests on one study, kept in David's private repo. Check every number
 # Facts about Yusuf
 
 **Never name FunnelBud.** Call it his old CRM SaaS company that he sold, in spoken lines, on-screen tags, descriptions and social posts. It was a SaaS company, not an agency. He says: "I built a CRM SaaS company, and I sold it." Titles say "Ex-SaaS Founder", never "Ex-CRM Agency Owner". Videos already recorded stay as they are.
+
+**Keep his old company and the new work apart.** His old company is his credibility. The study, the videos and what we sell are his new company, CRM From Within. When the two come close together, say which is which.
+
+- Not like this: "I built a CRM SaaS company, and I sold it. And we studied what more than five thousand CRM buyers say."
+- But like this: "I built a CRM SaaS company, and I sold it. Now, at my new company, CRM From Within, we've studied what more than five thousand CRM buyers say."
 **An agency and CRM software are two different things.** Leaving an agency means keeping the CRM and changing who looks after it. Leaving CRM software means moving to a different CRM. Say which one you mean, and never call a software company an agency. We target people leaving their CRM system, not people leaving an agency.
 
 - Not like this: "When a company leaves whoever set up its CRM."
