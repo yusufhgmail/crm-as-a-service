@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 import { headers } from 'next/headers';
+import { env } from 'cloudflare:workers';
 import { Analytics } from './analytics';
 import { htmlLang, LOCALE_HEADER, SITE } from './seo';
 import './globals.css';
@@ -31,13 +32,15 @@ export default async function RootLayout({
   children: React.ReactNode;
 }>) {
   const locale = (await headers()).get(LOCALE_HEADER) === 'se' ? 'se' : 'en';
+  // Set POSTHOG_KEY as a Worker var or secret to turn PostHog on; empty keeps it off.
+  const posthogKey = (env as { POSTHOG_KEY?: string }).POSTHOG_KEY || '';
   return (
     <html lang={htmlLang(locale)}>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
-        <Analytics />
+        <Analytics posthogKey={posthogKey} />
       </body>
     </html>
   );

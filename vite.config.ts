@@ -33,7 +33,12 @@ export default defineConfig(async ({ command }) => {
           main: 'vinext/server/app-router-entry',
           ai: { binding: 'AI', remote: true },
           ...(command === 'serve' ? {
-            vars: { FUNNEL_DASHBOARD_PASSWORD: process.env.FUNNEL_DASHBOARD_PASSWORD || '' },
+            vars: {
+              FUNNEL_DASHBOARD_PASSWORD: process.env.FUNNEL_DASHBOARD_PASSWORD || '',
+              // Optional: PostHog project key and IndexNow key. Empty means off.
+              POSTHOG_KEY: process.env.POSTHOG_KEY || '',
+              INDEXNOW_KEY: process.env.INDEXNOW_KEY || '',
+            },
           } : {}),
         },
       }),
