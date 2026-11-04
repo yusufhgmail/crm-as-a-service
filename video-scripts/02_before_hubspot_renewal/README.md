@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved
+**Status:** Recorded, on Andrea's phone (send to David next)
 
 - [Script on Drive](https://docs.google.com/document/d/1mvCVg77BYZkiJ3G1ALV-Uux9CTe5wZBjNdzg-lkSgIc/edit)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1aWH9tdbLIjoNiIM-rjL6yaOiur1jC0RRqE7nZkCAKYw/edit)
