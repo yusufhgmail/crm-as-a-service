@@ -31,6 +31,7 @@ ${articles.map((article) => `- [${article.heading}](${SITE}/en/${article.slug}):
 
 ## Pages
 
+- [Guides](${SITE}/en/guides): every guide above on one page.
 - [CRM From Within (English)](${SITE}/en): what the CRM does, how it adapts, the comparison with a standard CRM, and a short chat to see if it fits.
 - [CRM From Within (Svenska)](${SITE}/se): the same page in Swedish.
 - [Privacy](${SITE}/en/privacy): what is stored from the CRM plan and contact requests, why, and your rights.

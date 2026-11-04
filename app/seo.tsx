@@ -47,6 +47,7 @@ export const PAGES: SitePage[] = [
   ...(['en', 'se'] as const).flatMap((locale) =>
     Object.entries(PAGE_DATES).map(([page, date]) => ({ locale, page, path: `/${locale}${page}`, date, languages: ['en', 'se'] as SiteLocale[] })),
   ),
+  { locale: 'en', page: '/guides', path: '/en/guides', date: articles.map((a) => a.modified).sort().at(-1)!, languages: ['en'] },
   ...articles.map((article) => ({ locale: 'en' as const, page: `/${article.slug}`, path: `/en/${article.slug}`, date: article.modified, languages: ['en'] as SiteLocale[] })),
 ];
 

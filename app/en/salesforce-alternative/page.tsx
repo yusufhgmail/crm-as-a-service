@@ -41,6 +41,11 @@ export default function SalesforceAlternativePage() {
       </section>
 
       <section>
+        <h2>What you give up by leaving</h2>
+        <p>Be honest about this before deciding. Salesforce’s AppExchange is the largest integration marketplace in the category; if the team relies on apps from it, each one has to be rebuilt, replaced or kept through the API. Reports that someone spent weeks on are rebuilt from scratch, which is a chance to drop the ones nobody reads. And a Salesforce skill on a CV is easier to hire for than knowledge of a system built for one company, which is why the owned CRM comes with a service rather than a handover. If the integrations list is long and the reports are loved, the lighter rented CRM may be the better first step, with ownership later.</p>
+      </section>
+
+      <section>
         <h2>When to stay on Salesforce</h2>
         <ul>
           <li>You have, or are about to hire, a Salesforce admin, and the platform is part of how the company plans to run at 100 people.</li>

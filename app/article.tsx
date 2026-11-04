@@ -50,7 +50,7 @@ export function ArticleLayout({ article, children }: { article: Article; childre
 
         {related.length > 0 && (
           <section className="guide-related">
-            <h2>More guides</h2>
+            <h2><a href="/en/guides">More guides</a></h2>
             <ul>
               {related.map((item) => (
                 <li key={item.slug}><a href={`/en/${item.slug}`}>{item.heading}</a></li>

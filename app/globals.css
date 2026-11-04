@@ -588,3 +588,9 @@ footer { padding: 54px 0 22px; background: #061a1b; color: white; }
   .footer-top > p { margin: 0; }
   .footer-bottom { align-items: flex-start; flex-direction: column; gap: 10px; }
 }
+.guide-index { margin: 20px 0 0; padding: 0; list-style: none; }
+.guide-index li { padding: 26px 0; border-top: 1px solid #ccd4cd; }
+.guide-index h2 { margin: 6px 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 26px; letter-spacing: -.02em; }
+.guide-index h2 a:hover { color: var(--orange-text); }
+.guide-index p { margin: 8px 0 0; color: #3f5753; font-size: 15px; line-height: 1.65; }
+.guide-index .section-kicker { margin: 0; }

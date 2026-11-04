@@ -14,6 +14,7 @@ const PAGES = [
   { path: '/se', lang: 'sv', alternates: { en: '/en', sv: '/se', 'x-default': '/en' } },
   { path: '/en/privacy', lang: 'en', alternates: { en: '/en/privacy', sv: '/se/privacy', 'x-default': '/en/privacy' } },
   { path: '/se/privacy', lang: 'sv', alternates: { en: '/en/privacy', sv: '/se/privacy', 'x-default': '/en/privacy' } },
+  { path: '/en/guides', lang: 'en', alternates: {} },
   // Guides: English only, so no hreflang; each carries an Article with dates.
   ...['custom-crm-development', 'custom-crm-cost', 'crm-agency', 'hubspot-alternative', 'crm-for-quickbooks', 'crm-for-distributors', 'crm-for-contractors', 'build-your-own-crm', 'ai-native-crm', 'why-crm-projects-fail', 'custom-crm-vs-hubspot', 'salesforce-alternative']
     .map((slug) => ({ path: `/en/${slug}`, lang: 'en', alternates: {}, article: true })),
@@ -147,11 +148,36 @@ async function checkRedirects() {
   if (![301, 308].includes(slash.status)) fail('/en/', `answers ${slash.status}, expected a permanent redirect`);
 }
 
-await Promise.all([...PAGES.map(checkPage), checkSitemap(), checkRobots(), checkLlms(), checkRedirects()]);
+// Doorway guard: two guides must not be the same page with words swapped.
+// Compares the body text (H1 to the FAQ) as 5-word shingles; Jaccard over
+// 0.25 fails. The shared layout is excluded, so only the written text counts.
+async function checkSimilarity() {
+  const guides = PAGES.filter((p) => p.article);
+  const shingles = {};
+  for (const { path } of guides) {
+    const { text: html } = await get(path);
+    const start = html.indexOf('<h1');
+    const end = html.indexOf('class="guide-faq"');
+    const body = decode(html.slice(start, end > start ? end : undefined).replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' '))
+      .toLowerCase().replace(/[^a-z0-9$%\s]/g, ' ').split(/\s+/).filter(Boolean);
+    const set = new Set();
+    for (let i = 0; i + 5 <= body.length; i++) set.add(body.slice(i, i + 5).join(' '));
+    shingles[path] = set;
+    if (body.length < 700) fail(path, `only ${body.length} words of body text (min 700)`);
+  }
+  for (let i = 0; i < guides.length; i++) for (let j = i + 1; j < guides.length; j++) {
+    const a = shingles[guides[i].path], b = shingles[guides[j].path];
+    let common = 0; for (const s of a) if (b.has(s)) common++;
+    const jaccard = common / (a.size + b.size - common);
+    if (jaccard > 0.25) fail(guides[i].path, `${(jaccard * 100).toFixed(0)}% of 5-word phrases shared with ${guides[j].path}; reads as a doorway page`);
+  }
+}
+
+await Promise.all([...PAGES.map(checkPage), checkSitemap(), checkRobots(), checkLlms(), checkRedirects(), checkSimilarity()]);
 
 if (failures.length) {
   console.error(`SEO check against ${BASE}: ${failures.length} problem(s)\n`);
   for (const line of failures.sort()) console.error(`  ✗ ${line}`);
   process.exit(1);
 }
-console.log(`SEO check against ${BASE}: all good (${PAGES.length} pages, sitemap, robots.txt, llms.txt, redirects)`);
+console.log(`SEO check against ${BASE}: all good (${PAGES.length} pages, sitemap, robots.txt, llms.txt, redirects, guide similarity)`);
