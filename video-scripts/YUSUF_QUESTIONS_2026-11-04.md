@@ -2,7 +2,7 @@
 
 Svara gärna med röstmemo, en fråga i taget. Korta exempel räcker. Säg till om något får nämnas med namn eller måste vara anonymt.
 
-✅ besvarad · 🔴 behöver Yusufs svar · ➖ inget fall finns · ⏸ väntar på att video 16 görs om
+✅ besvarad · ➖ inget fall finns · ⏸ väntar på att video 16 görs om
 
 **Video 8: När er Salesforce-admin slutar**
 1. ✅ Har du varit med om att ett bolag tappat sin CRM-admin eller konsult? Vad hände veckan efter?
@@ -11,13 +11,13 @@ Svara gärna med röstmemo, en fråga i taget. Korta exempel räcker. Säg till 
 4. ✅ Vad önskar du att de hade gjort innan personen slutade?
 
 **Video 10: Bygga, köpa eller äga sitt CRM**
-1. 🔴 När har du sett att ett vanligt hyrt CRM (HubSpot, Pipedrive m.fl.) räcker helt? Ge ett exempel.
+1. ✅ När har du sett att ett vanligt hyrt CRM (HubSpot, Pipedrive m.fl.) räcker helt? Ge ett exempel.
 2. ✅ När har du sett att det inte räckte, och vad fick de göra istället?
 3. ✅ Har du sett någon bygga eget som gick dåligt? Vad gick fel?
 4. ✅ Vilken fråga ställer du själv för att avgöra om ett bolag ska hyra eller äga?
 
 **Video 11: Hålla sitt eget CRM igång**
-1. 🔴 På FunnelBud: vad gick sönder oftast, och hur märkte ni det?
+1. ✅ På FunnelBud: vad gick sönder oftast, och hur märkte ni det?
 2. ✅ Vad tog mest tid i underhållet som kunderna inte såg?
 3. ✅ Har du något exempel på en integration som slutade fungera och vad det kostade kunden?
 4. ✅ Vad var det du lärde dig om drift och support som du gör annorlunda nu?
@@ -41,13 +41,13 @@ Svara gärna med röstmemo, en fråga i taget. Korta exempel räcker. Säg till 
 4. ⏸ Vilken sak ska en kund alltid kräva innan de byter byrå?
 
 **Video 19: Koppla QuickBooks (eller ekonomisystemet) först**
-1. 🔴 Hur många av bolagen du hjälpt hade problem med kopplingen mellan CRM och ekonomisystem? Ungefär.
+1. ✅ Hur många av bolagen du hjälpt hade problem med kopplingen mellan CRM och ekonomisystem? Ungefär.
 2. ➖ Har du ett exempel där fel i den kopplingen kostade pengar eller tid (dubbla fakturor, fel kund, osv.)?
 3. ✅ Vilken koppling borde man alltid göra först, och varför?
-4. 🔴 Vad är det vanligaste som går fel när den kopplingen sätts upp?
+4. ✅ Vad är det vanligaste som går fel när den kopplingen sätts upp?
 
 **Allmänt (gäller alla)**
 - ✅ Får vi skriva "hundratals företag"? Ungefär hur många år har du hållit på med CRM?
-- 🔴 Finns det någon historia du alltid berättar för kunder, som vi borde använda i en video?
-- 🔴 Vilka kunder får nämnas med namn?
-- 🔴 Två faktafrågor till, som står i svarsfilen.
+- ➖ Finns det någon historia du alltid berättar för kunder, som vi borde använda i en video?
+- ✅ Vilka kunder får nämnas med namn?
+- ✅ Två faktafrågor till, som står i svarsfilen.

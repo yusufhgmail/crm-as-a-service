@@ -71,6 +71,8 @@ Every video rests on one study, kept in David's private repo. Check every number
 
 - Not like this: "I built a CRM SaaS company, and I sold it. And we studied what more than five thousand CRM buyers say."
 - But like this: "I built a CRM SaaS company, and I sold it. Now, at my new company, CRM From Within, we've studied what more than five thousand CRM buyers say."
+**Never name FunnelBud customers.** Tell their stories without names. People in our public research can be named if they gave their own name.
+
 **An agency and CRM software are two different things.** Leaving an agency means keeping the CRM and changing who looks after it. Leaving CRM software means moving to a different CRM. Say which one you mean, and never call a software company an agency. We target people leaving their CRM system, not people leaving an agency.
 
 - Not like this: "When a company leaves whoever set up its CRM."
