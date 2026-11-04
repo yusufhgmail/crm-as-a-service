@@ -106,6 +106,22 @@ export const articles: Article[] = [
       { question: 'What usually breaks in a QuickBooks sync?', answer: 'Duplicates, because the CRM and QuickBooks each create a customer record for the same company; customer-specific price lists that do not exist in the CRM; and estimates edited in one system after they were sent from the other. The fix is one system of record per object, agreed before the sync is switched on.' },
     ],
   },
+  {
+    slug: 'crm-for-distributors',
+    title: 'CRM for distributors and wholesalers that fits the work',
+    description: 'What a CRM for a small B2B distributor or wholesaler has to handle: reorder cycles, customer price lists, rep routes, QuickBooks, and the spreadsheet it replaces.',
+    heading: 'CRM for distributors and wholesalers: what it has to handle',
+    kicker: 'DISTRIBUTORS',
+    answer: 'A distributor\'s CRM is not a sales pipeline. Most revenue comes from existing accounts reordering, so the CRM has to track reorder cycles, customer-specific pricing, the rep\'s route and the parent-site structure of accounts, and read QuickBooks for what was actually invoiced. Generic CRMs model a deal that closes once. A distributor needs a CRM shaped around accounts that buy every few weeks.',
+    summary: 'why a generic pipeline CRM fails a small B2B distributor or wholesaler, what the CRM has to model instead, and how the spreadsheet gets replaced.',
+    published: '2026-11-04',
+    modified: '2026-11-04',
+    faq: [
+      { question: 'Do distributors need a CRM or an ERP?', answer: 'Both do different jobs. The ERP or QuickBooks holds inventory, orders and invoices. The CRM holds the relationship: who to call, when they usually reorder, what was quoted, what the rep learned on the last visit. Small distributors often run the second job in a spreadsheet, which is what the CRM replaces.' },
+      { question: 'What is the best CRM for a small wholesale business?', answer: 'The one that models accounts that reorder, not deals that close. That rules out most pipeline CRMs unless they are heavily customised. Options are an industry-specific distribution CRM, a general CRM bent to fit, or a CRM built around the company\'s own reorder and route logic.' },
+      { question: 'Can the CRM read our price lists?', answer: 'It should. Customer-specific pricing usually lives in QuickBooks or the ERP. A CRM that cannot see it produces wrong quotes. A built CRM reads the price list from the system that owns it instead of copying it.' },
+    ],
+  },
 ];
 
 export const articleBySlug = (slug: string) => articles.find((article) => article.slug === slug);
