@@ -4,7 +4,7 @@ The finished, approved YouTube scripts for CRM From Within, one folder per video
 
 | # | Video | Recording copy |
 |---|---|---|
-| 1 | [How to Stop Overpaying for HubSpot: 5 Checks](01_overpay_hubspot/script.md) | [Yusuf's lines](01_overpay_hubspot/yusuf_lines.md) |
+| 1 | [How to Stop Overpaying for HubSpot: 5 Checks](01_overpay_hubspot/script.md) · **Recorded (editing next)** | [Yusuf's lines](01_overpay_hubspot/yusuf_lines.md) |
 | 2 | [What to Do Before Your HubSpot Renewal](02_before_hubspot_renewal/script.md) | [Yusuf's lines](02_before_hubspot_renewal/yusuf_lines.md) |
 | 3 | [What HubSpot Costs a 20-Person Team](03_real_cost_hubspot_20_person_team/script.md) | [Yusuf's lines](03_real_cost_hubspot_20_person_team/yusuf_lines.md) |
 | 4 | [How to Get the HubSpot Feature You Need Without Upgrading](04_hubspot_tier_jump/script.md) | [Yusuf's lines](04_hubspot_tier_jump/yusuf_lines.md) |
