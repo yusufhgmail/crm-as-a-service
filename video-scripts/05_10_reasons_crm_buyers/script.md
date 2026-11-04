@@ -69,10 +69,10 @@ Link: https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f
 >
 > These are real buyers, and every source is in the description.
 
-**ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then four tags appear beside Yusuf: ✓ **Know the 10 reasons** · ✓ **Spot them in your company** · ✓ **One check for each** · ✓ **Avoid a switch you regret**
+**ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then three tags appear beside Yusuf: ✓ **Know the 10 reasons** · ✓ **Spot them in your company** · ✓ **Avoid a switch you regret**
 
 **YUSUF:**
-> So in this video I'll go through the ten reasons companies want out of their CRM, ranked by how many buyers said it. And for each one I'll show you a real company, and one check you can do this week.
+> So in this video I'll go through the ten reasons companies want out of their CRM, ranked by how many buyers said it. And for each one I'll show you a real company it happened to.
 
 ## 1:16 Plan
 
@@ -104,7 +104,7 @@ Link: https://www.trustpilot.com/reviews/6a025433437d00ac40c8168d
 **ON SCREEN:** typed three-row card, appearing as he says "take three years of CRM invoices": **Year 1** · **Year 2** · **Year 3**, each with two empty boxes labelled **We grew** | **They changed price, tier or terms**. Then: **DO THIS THIS MONTH: split 3 years of CRM invoices: we grew vs they changed it**
 
 **YUSUF:**
-> The check: take three years of CRM invoices. For every increase, write down why. Because you grew? Or because they changed the price, the tier or the terms? The second part is the one you don't control.
+> Try this: take three years of CRM invoices. For every increase, ask why. Because you grew? Or because they changed the price, the tier or the terms? That second part is the one you don't control, and it's the real cost of renting your CRM.
 
 ## 2:49 Reason 2: It doesn't fit how we work
 
@@ -119,15 +119,12 @@ Link: https://www.trustpilot.com/reviews/6aab93ec9c591d1f56ba1c6e
 **YUSUF:**
 > One Australian company paid to customise HubSpot so it fit their business. Then HubSpot kept changing the platform, and those changes got in the way of what they'd paid to build. In their words, we paid for a CRM to work around our business.
 
-**ON SCREEN:** whiteboard: Yusuf draws your process as five boxes in a row. Under each, a tag: **CRM** · **Spreadsheet** · **Someone's head**. Then: **DO THIS THIS WEEK: draw your process + mark where each step really lives**
+**ON SCREEN:** whiteboard: **Built for everyone** → **Your business bends around it** → **Spreadsheets · People's heads**
 
 **YUSUF:**
-> The check: write down each step a customer goes through in your business, from first call to paid invoice. Under each step, write where it really lives: in the CRM, in a spreadsheet, or in someone's head. Every step that isn't in the CRM is a workaround your team has just accepted.
+> That's what a CRM built for everyone does. Your business bends around it, and the parts that don't bend end up in spreadsheets and in people's heads.
 
 **ON SCREEN:** the whiteboard list, 1 and 2 ticked.
-
-**YUSUF:**
-> So that's one and two: price you can't control, and a CRM that doesn't fit how you work.
 
 ## 3:39 Reason 3: Too complicated
 
@@ -145,7 +142,7 @@ Link: https://www.trustpilot.com/reviews/6a66c979ddd22a6a6b93bcec
 **ON SCREEN:** screen recording (upbridge portal), zoomed: a contact record. A click counter tag counts up live from the recording as the cursor logs one call: **Clicks to log 1 call: ___**. Then: **DO THIS THIS WEEK: count the clicks for your 3 most common tasks**
 
 **YUSUF:**
-> The check: take your team's three most common tasks. Log a call, create a quote, move a deal. Count the clicks.
+> Try it with your own team. Take your three most common tasks. Log a call, create a quote, move a deal. Count the clicks. A lot of those clicks are there for some other company's way of working.
 
 ## 4:11 Reason 4: Support
 
@@ -163,12 +160,9 @@ Link: https://www.trustpilot.com/reviews/6a235a6c9807b36e21a4a010
 **ON SCREEN:** screen recording (upbridge portal), zoomed: Contacts → arrow tag on **Export** → **All properties**. Then: **DO THIS THIS MONTH: if the CRM is off for 3 days, what do we do? Write it down.**
 
 **YUSUF:**
-> The check: imagine your CRM is off for three days, starting tomorrow. What do you do? Where are the phone numbers, and who knows what you promised which customer? Then run a full export, and actually open the file.
+> Now imagine your CRM is off for three days, starting tomorrow. What do you do? Where are the phone numbers, and who knows what you promised which customer? If you can't answer that, your business depends on someone else's support desk. So run a full export, and actually open the file.
 
 **ON SCREEN:** the whiteboard list, 1 to 4 ticked.
-
-**YUSUF:**
-> So that's three and four: a system that's too complicated to use, and support that doesn't show up.
 
 ## 4:47 Free CRM fit check
 
@@ -190,10 +184,10 @@ Link: https://www.trustpilot.com/reviews/6a54ca3777ef6cfb1a59ba27
 **YUSUF:**
 > A business in Vermont prepaid almost eight thousand dollars for a year of Pipedrive, because their sales team told them it connected to their quoting tool. They spent three months trying to make it work. It never did. Pipedrive's answer was, we didn't build that connection. And no refund.
 
-**ON SCREEN:** a three-column table typed out as he says it: **Tool** · **Who built the connection** · **Who fixes it when it breaks**. Then: **DO THIS THIS WEEK: list every tool your CRM must talk to + who fixes it**
+**ON SCREEN:** typed line: **Who fixes it when it breaks?**
 
 **YUSUF:**
-> The check: list every system your CRM talks to, who built each connection, and who fixes it when it breaks. If the answer is nobody, that's where it's going to break.
+> So ask one question about every tool your CRM talks to: who fixes it when the connection breaks? If the answer is nobody, that's where it's going to break.
 
 ## 5:57 Reason 6: Renewals and contracts
 
@@ -212,12 +206,9 @@ Link: https://www.trustpilot.com/reviews/6aa2d3bcf3b3feadee2d1996
 Link: https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account
 
 **YUSUF:**
-> The check, for any CRM: write down your renewal date, your notice period, and whether auto-renew is on. Set a reminder ninety days before. And get every agreed change in writing, including what you must do and by when.
+> So whatever CRM you're on, write down your renewal date and your notice period, and set a reminder ninety days before. And get every agreed change in writing, including what you must do and by when.
 
 **ON SCREEN:** the whiteboard list, 1 to 6 ticked.
-
-**YUSUF:**
-> So that's five and six: connections that don't work, and renewals you don't see coming.
 
 ## 6:50 Reason 7: Tier jumps and limits
 
@@ -232,10 +223,10 @@ Link: https://www.trustpilot.com/reviews/6a56555b62380bda2ac088b0
 **YUSUF:**
 > Another company signed up for unlimited leads. They imported over two hundred thousand, and built their whole workflow inside. Then nine months later they get a limit of forty-five thousand, unless they upgrade to a plan that costs, in their words, about ten times as much.
 
-**ON SCREEN:** typed two-column card, appearing as he says "Write today's usage next to each": **Limit on your plan** | **Your usage today**. Then: **DO THIS THIS WEEK: write down your usage vs every limit on your plan**
+**ON SCREEN:** typed tag: **They set the limits. They can move them.**
 
 **YUSUF:**
-> The check: find your plan's limits. Contacts, leads, users, records, automations. Write today's usage next to each. Anything above seventy percent is a tier jump waiting to happen.
+> That's the risk with renting. The vendor decides where the limits are, and they can move them after you've built your whole business inside.
 
 ## 7:41 Reason 8: The team won't use it
 
@@ -250,15 +241,12 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1wz1yw8/our_biggest_sales_pr
 **YUSUF:**
 > Here's an example: a sales manager at an industrial safety supplier, six people on the team. Every call meant more fields to fill in and deals to drag around. So after a few weeks everyone went back to Outlook and their own notes.
 
-**ON SCREEN:** whiteboard: **1 call = ___ fields** · **Tracked outside the CRM: ___**. Then: **DO THIS THIS WEEK: ask each rep what they track outside the CRM**
+**ON SCREEN:** whiteboard: **Not a discipline problem** → **The CRM doesn't fit**
 
 **YUSUF:**
-> The check: ask each person what they track outside the CRM. Then count the fields they fill in after one call. If the answer is "a lot", it's not a discipline problem. The CRM doesn't fit.
+> When that happens, it's not a discipline problem. The CRM doesn't fit how they work.
 
 **ON SCREEN:** the whiteboard list, 1 to 8 ticked.
-
-**YUSUF:**
-> So that's seven and eight: limits you don't control, and a team that won't use it.
 
 ## 8:20 Reason 9: Paying for every change
 
@@ -273,10 +261,10 @@ Link: https://www.trustpilot.com/reviews/6adf21103df1c059a67db03d
 **YUSUF:**
 > Here's one from October. A growing company on HubSpot felt locked in. They had to hire an expensive partner just for the basic setup, and then they got charged for add-ons they never agreed to. In their words, it crippled their cash flow.
 
-**ON SCREEN:** typed card, two lines, appearing as he says "partner and consultant invoice": **Partner invoices, last 12 months: $____** · **Changes you are still waiting on: ____**. Then: **DO THIS THIS WEEK: add up 12 months of partner and consultant invoices**
+**ON SCREEN:** typed tag: **Rent + a bill for every change**
 
 **YUSUF:**
-> The check: add up every partner and consultant invoice from the last twelve months, and list the changes you're still waiting on.
+> So you pay rent on the software, and then you pay again every time you want to change it.
 
 ## 9:08 Reason 10: Seats
 
@@ -291,15 +279,12 @@ Link: https://www.trustpilot.com/reviews/6a6a070f8e25b90490a8b4c6
 **YUSUF:**
 > One business has been on Salesforce for twenty years. Then they wanted someone else to run things while they're on holiday, and Salesforce said, buy another licence.
 
-**ON SCREEN:** screen recording (upbridge portal), zoomed: Settings → Users & Teams. Arrow tag on **Last active**; red box around the **Last active** column. Then a full-width tag: **DO THIS THIS WEEK: list every paid login + who really needs it**
+**ON SCREEN:** typed tag: **More people = bigger bill, same software**
 
 **YUSUF:**
-> The check: open your users list. For every paid login, write down who uses it, when they last logged in, and whether they edit or only look. The ones who only look, that's where the bill grows quietly.
+> So your bill grows with your team, even when the software isn't doing anything new for you.
 
 **ON SCREEN:** the whiteboard list, all ten ticked.
-
-**YUSUF:**
-> So that's nine and ten: paying for every change, and paying for every login.
 
 **ON SCREEN:** lower-third tag: **Comment: team size + your CRM + your #1 reason**
 
@@ -349,10 +334,10 @@ Link: https://www.trustpilot.com/reviews/6a286f4cb8d9494ce5c310aa
 
 ## 11:32 Close
 
-**ON SCREEN:** checklist building line by line: **This week: ☐ Pick your top 3 of the 10 ☐ Do their checks ☐ Sort them: setting, tier or fit**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
+**ON SCREEN:** checklist building line by line: **This week: ☐ Pick your top 3 of the 10 ☐ Sort them: setting, tier or fit**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Now pick the three reasons that sound most like your company, and do their checks this week. Then sort what you find. Is it a setting you can fix today? A tier you negotiate at renewal? Or a fit problem, where no plan fixes it?
+> Now pick the three reasons that sound most like your company, and sort each one. Is it a setting you can fix today? A tier you negotiate at renewal? Or a fit problem, where no plan fixes it?
 >
 > If most of your list is fit problems, book a free twenty-minute CRM fit check. The link's in the description.
 >
@@ -361,7 +346,7 @@ Link: https://www.trustpilot.com/reviews/6a286f4cb8d9494ce5c310aa
 **ON SCREEN:** end screen: next video "Map How Your Team Works Before You Buy a CRM (30 Minutes)" (video 6) + "Free CRM fit check" button.
 
 **Description:**
-> Why companies want out of their CRM: we studied public posts and reviews from 5,000+ CRM buyers (agencies and vendors removed) and ranked the 10 reasons, each with a real company and one check to do this week.
+> Why companies want out of their CRM: we studied public posts and reviews from 5,000+ CRM buyers (agencies and vendors removed) and ranked the 10 reasons, each with a real company it happened to.
 >
 > Free 20-minute CRM fit check (show us how your team works, we show you what's possible): [link with utm_campaign=v05]
 >

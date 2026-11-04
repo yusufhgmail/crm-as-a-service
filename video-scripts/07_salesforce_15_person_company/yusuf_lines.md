@@ -20,7 +20,7 @@ So in this video I'll show you what Salesforce really costs a fifteen-person com
 
 ## Plan
 
-Five costs. For each one I'll show you a real company, a real number, and one thing you can check today. Number five is the three real ways out, and where switching goes wrong. Because about one in five who move to another rented CRM regret it.
+Five costs. For each one I'll show you a real company and a real number. Number five is the three real ways out, and where switching goes wrong. Because about one in five who move to another rented CRM regret it.
 
 ## Cost 1: The licence
 
@@ -34,7 +34,7 @@ If you're on Pro Suite, here's the catch, and it's in Salesforce's own table. Pr
 
 So let's do the maths for fifteen people. Pro Suite is eighteen thousand dollars a year. Add the API and it's twenty-two thousand five hundred. Now say you need a sixth automation, or an approval step. That's Core. Thirty-five thousand one hundred. Almost double Pro Suite, for the same fifteen people.
 
-The check. In Setup, open Company Information. Write down your edition, the licences you pay for, and the ones actually used. Then count the automations your business really needs. More than five? Now you know what your next quote looks like.
+So count the automations your business really needs. More than five? Now you know what your next quote looks like.
 
 ## Cost 2: The add-ons
 
@@ -44,9 +44,7 @@ Back to our twelve-person firm. They needed a dialer, call recording, accounting
 
 And watch the contract. One customer found Premier Success, a paid support plan, in their renewal. They took it out. The rep put it back. Six times. Removing it saved thirty thousand dollars.
 
-The check. List every app and add-on around your Salesforce, with its price and renewal date. Then read every line of your order form. Anything you didn't ask for, ask why it's there.
-
-So that's one and two. The licence you actually need, which is usually not the one on the price page. And everything bolted on around it.
+So read every line of your order form. Anything you didn't ask for, ask why it's there.
 
 ## Free CRM fit check
 
@@ -60,7 +58,7 @@ Here's what that looks like: a thirty-person firm. They moved from Salesforce to
 
 In our study, around two hundred and eighty Salesforce customers complained that it's too complicated, and about a hundred and twenty about paying a consultant for every change.
 
-The check. Add up twelve months of consultant invoices. Then add the part nobody counts. The hours your own people spend fixing Salesforce. Put both on the bill.
+Add that up for your own company. Twelve months of consultant invoices, plus the part nobody counts: the hours your own people spend fixing Salesforce. That's on the bill too.
 
 ## Cost 4: The renewal
 
@@ -72,9 +70,7 @@ That's what happened to one customer. They paid about a hundred thousand a year,
 
 More than a hundred and fifty Salesforce customers in our study complained about renewals and contracts.
 
-The check. Click the Setup gear, open Your Account, then Contracts. Write down your renewal date and whether it auto-renews. Set a reminder ninety days before. That day, email your rep what you want to change. Keep every reply. The contract says thirty days. Give yourself ninety.
-
-So that's three and four. The people it takes to run it. And a contract that lets you grow, but never shrink.
+So find your renewal date. Click the Setup gear, open Your Account, then Contracts. Set a reminder ninety days before, and that day, email your rep what you want to change. The contract says thirty days. Give yourself ninety.
 
 ## Cost 5: The fit, and the way out
 
@@ -92,7 +88,7 @@ Number three, software you own. Built only for what your business does. One comp
 
 And now the honest risk. Someone who has built a custom CRM themselves warned a small-company owner in the same spot. Don't hire one engineer to build it and maintain it. Because if that person leaves, nobody knows how it works. Building it is the easy part. Keeping it running is the hard part.
 
-The check, before you pick any way out. Ask your team one question. What do we do outside Salesforce every week, because it can't do it, or because changing it costs a consultant? Write down every spreadsheet and every manual step. Then mark what's really yours. Your pricing rules, your jobs, your projects, your approvals. That list is what any new system has to do on day one. And run a data export this month. When the contract ends, you have to ask for your data within thirty days. After that, Salesforce has no obligation to keep it.
+Before you pick any way out, ask your team one question. What do we do outside Salesforce every week, because it can't do it, or because changing it costs a consultant? Write down every spreadsheet and every manual step. Then mark what's really yours. Your pricing rules, your jobs, your projects, your approvals. That list is what any new system has to do on day one. And run a data export this month. When the contract ends, you have to ask for your data within thirty days. After that, Salesforce has no obligation to keep it.
 
 What's one thing you wish Salesforce could do for you? Tell me below, and how many people are on your team.
 
@@ -112,7 +108,7 @@ We work with companies of ten to fifty people that a standard setup doesn't fit.
 
 ## Close
 
-Before your next renewal, write down your edition and the licences you actually use. List every add-on. Add up a year of consultants. Put your renewal in the calendar, ninety days early. List your workarounds. And test your export. Otherwise, the renewal just comes around and decides for you.
+Before your next renewal, read your order form. Add up a year of consultants. Put your renewal in the calendar, ninety days early. List your workarounds. And test your export. Otherwise, the renewal just comes around and decides for you.
 
 If your list is mostly things Salesforce can't do, show it to us on a free twenty-minute CRM fit check. The link's in the description.
 

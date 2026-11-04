@@ -4,6 +4,11 @@ Title: Video script rules
 
 Yusuf's corrections to the scripts. Read this before writing or changing a script, and follow it in every new video, whoever writes it.
 
+**What the videos are for:** attract the right people, give them real value, and frame their problems so they view our offer favorably and wonder what we do and how we can help. Every rule here and in David's template serves that goal. Nothing has to appear in every video, including checks, recaps and steps. Keep a check when it helps the viewer or frames the problem. Cut it when it's only there to fill a slot.
+
+- Not like this: "The check: write down each step a customer goes through in your business." after every reason, because the template has one.
+- But like this: "That's what a CRM built for everyone does. Your business bends around it, and the parts that don't bend end up in spreadsheets and in people's heads."
+
 For every change to a script, however small:
 
 1. Check that it fits the theme and the text around it, so the script makes sense in full.

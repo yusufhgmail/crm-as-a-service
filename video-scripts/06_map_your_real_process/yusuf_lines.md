@@ -44,8 +44,6 @@ Another company sells equipment. They looked at existing CRMs and paid for custo
 
 And one rule. If someone says "and then it just happens", ask who does it.
 
-So that's steps one and two: one real job, and every step it took, start to paid.
-
 ## Free CRM fit check
 
 If you'd like to see what a CRM built around your map could look like, there's a free twenty-minute CRM fit check in the description. Now, step three.
@@ -69,8 +67,6 @@ So on our map, the name and address get typed into the estimate. The prices get 
 One Jobber customer, in June, paid for a full year. Their invoice numbers clashed with QuickBooks, so now every invoice has to start in Jobber. And every payment gets checked in QuickBooks for late fees, then typed in again. That's a red arrow on every payment, for a year.
 
 Then put a number on each arrow. How many times a week does it happen, times how many minutes. If the office types fifteen estimates into invoices a week, and each takes ten minutes, that's two and a half hours, every week, on one arrow. Ask the person who does it. They know the number exactly.
-
-So that's steps three and four: which steps live outside your CRM, and what the re-typing costs you every week.
 
 ## Step 5: Sort it: setting, tier or fit
 

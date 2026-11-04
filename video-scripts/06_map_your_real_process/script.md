@@ -141,9 +141,6 @@ Link: https://www.reddit.com/r/CRM/comments/1vfh292/has_anyone_built_a_crm_from_
 
 **ON SCREEN:** the typed list, steps 1 and 2 ticked.
 
-**YUSUF:**
-> So that's steps one and two: one real job, and every step it took, start to paid.
-
 ## 4:36 Free CRM fit check
 
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
@@ -200,9 +197,6 @@ Link: https://www.trustpilot.com/reviews/6a31401cd1527f13e6533afe
 > Then put a number on each arrow. How many times a week does it happen, times how many minutes. If the office types fifteen estimates into invoices a week, and each takes ten minutes, that's two and a half hours, every week, on one arrow. Ask the person who does it. They know the number exactly.
 
 **ON SCREEN:** the typed list, steps 1 to 4 ticked.
-
-**YUSUF:**
-> So that's steps three and four: which steps live outside your CRM, and what the re-typing costs you every week.
 
 ## 7:30 Step 5: Sort it: setting, tier or fit
 

@@ -87,7 +87,7 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforc
 Tag on item 5 when he says "number five": **Where switching goes wrong**
 
 **YUSUF:**
-> Five costs. For each one I'll show you a real company, a real number, and one thing you can check today. Number five is the three real ways out, and where switching goes wrong. Because about one in five who move to another rented CRM regret it.
+> Five costs. For each one I'll show you a real company and a real number. Number five is the three real ways out, and where switching goes wrong. Because about one in five who move to another rented CRM regret it.
 
 ---
 
@@ -121,11 +121,11 @@ Link: https://www.salesforce.com/sales/pricing/
 **YUSUF:**
 > So let's do the maths for fifteen people. Pro Suite is eighteen thousand dollars a year. Add the API and it's twenty-two thousand five hundred. Now say you need a sixth automation, or an approval step. That's Core. Thirty-five thousand one hundred. Almost double Pro Suite, for the same fifteen people.
 
-**ON SCREEN:** Salesforce help-center screenshot: **Setup → Company Information**, arrow tag on **User Licenses**, red box on the licences bought vs used · source tag **Salesforce help center**. Then: **DO THIS TODAY: write down your edition · licences bought · licences used · automations you need**
+**ON SCREEN:** typed tag: **More than 5 automations? Your next quote is Core**
 Link: https://help.salesforce.com/s/articleView?language=en_US&id=platform.users_license_types_view.htm&type=5
 
 **YUSUF:**
-> The check. In Setup, open Company Information. Write down your edition, the licences you pay for, and the ones actually used. Then count the automations your business really needs. More than five? Now you know what your next quote looks like.
+> So count the automations your business really needs. More than five? Now you know what your next quote looks like.
 
 ## 3:19 Cost 2: The add-ons
 
@@ -149,15 +149,12 @@ Link: https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternativ
 **YUSUF:**
 > And watch the contract. One customer found Premier Success, a paid support plan, in their renewal. They took it out. The rep put it back. Six times. Removing it saved thirty thousand dollars.
 
-**ON SCREEN:** the Where-the-money-goes bar, second block: **Add-ons $4,800 (forms alone, quoted)**. Then: **DO THIS TODAY: list every add-on + its renewal date + its price**
+**ON SCREEN:** the Where-the-money-goes bar, second block: **Add-ons $4,800 (forms alone, quoted)**.
 
 **YUSUF:**
-> The check. List every app and add-on around your Salesforce, with its price and renewal date. Then read every line of your order form. Anything you didn't ask for, ask why it's there.
+> So read every line of your order form. Anything you didn't ask for, ask why it's there.
 
 **ON SCREEN:** the typed list, costs 1 and 2 ticked.
-
-**YUSUF:**
-> So that's one and two. The licence you actually need, which is usually not the one on the price page. And everything bolted on around it.
 
 ## 4:25 Free CRM fit check
 
@@ -184,10 +181,10 @@ Link: https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_compan
 **YUSUF:**
 > In our study, around two hundred and eighty Salesforce customers complained that it's too complicated, and about a hundred and twenty about paying a consultant for every change.
 
-**ON SCREEN:** the Where-the-money-goes bar, third block: **People $200/hour · 3 weeks per change**. Then: **DO THIS TODAY: add up 12 months of consultant invoices + hours your own team spends fixing Salesforce**
+**ON SCREEN:** the Where-the-money-goes bar, third block: **People $200/hour · 3 weeks per change**.
 
 **YUSUF:**
-> The check. Add up twelve months of consultant invoices. Then add the part nobody counts. The hours your own people spend fixing Salesforce. Put both on the bill.
+> Add that up for your own company. Twelve months of consultant invoices, plus the part nobody counts: the hours your own people spend fixing Salesforce. That's on the bill too.
 
 ## 5:35 Cost 4: The renewal
 
@@ -220,12 +217,9 @@ Link: https://help.salesforce.com/s/articleView?language=en_US&id=xcloud.users_y
 **YUSUF:**
 > More than a hundred and fifty Salesforce customers in our study complained about renewals and contracts.
 >
-> The check. Click the Setup gear, open Your Account, then Contracts. Write down your renewal date and whether it auto-renews. Set a reminder ninety days before. That day, email your rep what you want to change. Keep every reply. The contract says thirty days. Give yourself ninety.
+> So find your renewal date. Click the Setup gear, open Your Account, then Contracts. Set a reminder ninety days before, and that day, email your rep what you want to change. The contract says thirty days. Give yourself ninety.
 
 **ON SCREEN:** the typed list, costs 1 to 4 ticked. Fourth block of the money bar: **Renewal: halved licences → list price**.
-
-**YUSUF:**
-> So that's three and four. The people it takes to run it. And a contract that lets you grow, but never shrink.
 
 ## 6:58 Cost 5: The fit, and the way out
 
@@ -268,14 +262,14 @@ Link: https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_sa
 **YUSUF:**
 > And now the honest risk. Someone who has built a custom CRM themselves warned a small-company owner in the same spot. Don't hire one engineer to build it and maintain it. Because if that person leaves, nobody knows how it works. Building it is the easy part. Keeping it running is the hard part.
 
-**ON SCREEN:** the fork again, with the tag **DO THIS TODAY: list every workaround · mark what's really yours** on "The check". Then Salesforce help-center screenshot: **Setup → Data Export**, arrow on **Export Now**, source tag **Salesforce help center**, on "run a data export this month".
+**ON SCREEN:** the fork again, with the tag **DO THIS TODAY: list every workaround · mark what's really yours** on "Before you pick". Then Salesforce help-center screenshot: **Setup → Data Export**, arrow on **Export Now**, source tag **Salesforce help center**, on "run a data export this month".
 Link: https://help.salesforce.com/s/articleView?id=admin_exportdata.htm&language=en_US
 
 **ON SCREEN:** the MSA PDF zoomed on §2.2, highlighted: *"Upon request by Customer made within 30 days after the effective date of termination or expiration of this Agreement, SFDC will make Customer Data available"* and *"After such 30-day period, SFDC will have no obligation to maintain or provide any Customer Data"*, on "After that, Salesforce has no obligation to keep it". Tag **Ask within 30 days (§2.2)**
 Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf
 
 **YUSUF:**
-> The check, before you pick any way out. Ask your team one question. What do we do outside Salesforce every week, because it can't do it, or because changing it costs a consultant? Write down every spreadsheet and every manual step. Then mark what's really yours. Your pricing rules, your jobs, your projects, your approvals. That list is what any new system has to do on day one. And run a data export this month. When the contract ends, you have to ask for your data within thirty days. After that, Salesforce has no obligation to keep it.
+> Before you pick any way out, ask your team one question. What do we do outside Salesforce every week, because it can't do it, or because changing it costs a consultant? Write down every spreadsheet and every manual step. Then mark what's really yours. Your pricing rules, your jobs, your projects, your approvals. That list is what any new system has to do on day one. And run a data export this month. When the contract ends, you have to ask for your data within thirty days. After that, Salesforce has no obligation to keep it.
 
 **ON SCREEN:** lower-third tag: **Comment: team size + 1 thing you wish Salesforce could do**
 
@@ -311,10 +305,10 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 
 ## 10:45 Close
 
-**ON SCREEN:** checklist building line by line: **This week: ☐ Edition + licences used ☐ List every add-on ☐ 12 months of consultants ☐ Renewal date + 90-day reminder ☐ List your workarounds ☐ Test the export**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
+**ON SCREEN:** checklist building line by line: **Before your renewal: ☐ Read your order form ☐ 12 months of consultants ☐ Renewal date + 90-day reminder ☐ List your workarounds ☐ Test the export**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Before your next renewal, write down your edition and the licences you actually use. List every add-on. Add up a year of consultants. Put your renewal in the calendar, ninety days early. List your workarounds. And test your export. Otherwise, the renewal just comes around and decides for you.
+> Before your next renewal, read your order form. Add up a year of consultants. Put your renewal in the calendar, ninety days early. List your workarounds. And test your export. Otherwise, the renewal just comes around and decides for you.
 >
 > If your list is mostly things Salesforce can't do, show it to us on a free twenty-minute CRM fit check. The link's in the description.
 >

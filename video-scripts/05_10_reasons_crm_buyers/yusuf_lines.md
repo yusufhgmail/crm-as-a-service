@@ -16,7 +16,7 @@ Here's a story from July. A company upgraded to Salesforce Enterprise and paid o
 
 These are real buyers, and every source is in the description.
 
-So in this video I'll go through the ten reasons companies want out of their CRM, ranked by how many buyers said it. And for each one I'll show you a real company, and one check you can do this week.
+So in this video I'll go through the ten reasons companies want out of their CRM, ranked by how many buyers said it. And for each one I'll show you a real company it happened to.
 
 ## Plan
 
@@ -30,7 +30,7 @@ Only around six hundred of them complained about price and nothing else. More th
 
 One company we found says it pays Odoo thirty-five thousand dollars a year. They say they were charged a fee of about seven thousand Canadian dollars for staying on an older version, which they never agreed to. They disputed it, and they say their database was closed. So they paid, in their words, under pressure, to get access back. So price isn't just about money. It's about control.
 
-The check: take three years of CRM invoices. For every increase, write down why. Because you grew? Or because they changed the price, the tier or the terms? The second part is the one you don't control.
+Try this: take three years of CRM invoices. For every increase, ask why. Because you grew? Or because they changed the price, the tier or the terms? That second part is the one you don't control, and it's the real cost of renting your CRM.
 
 ## Reason 2: It doesn't fit how we work
 
@@ -38,9 +38,7 @@ Number two. Nearly nineteen hundred buyers said their CRM just doesn't fit how t
 
 One Australian company paid to customise HubSpot so it fit their business. Then HubSpot kept changing the platform, and those changes got in the way of what they'd paid to build. In their words, we paid for a CRM to work around our business.
 
-The check: write down each step a customer goes through in your business, from first call to paid invoice. Under each step, write where it really lives: in the CRM, in a spreadsheet, or in someone's head. Every step that isn't in the CRM is a workaround your team has just accepted.
-
-So that's one and two: price you can't control, and a CRM that doesn't fit how you work.
+That's what a CRM built for everyone does. Your business bends around it, and the parts that don't bend end up in spreadsheets and in people's heads.
 
 ## Reason 3: Too complicated
 
@@ -48,7 +46,7 @@ Number three: too complicated. More than twelve hundred buyers said their CRM is
 
 One small business left Zoho for the industry leader, Salesforce. They found it extremely difficult, and paid a firm just to move their data.
 
-The check: take your team's three most common tasks. Log a call, create a quote, move a deal. Count the clicks.
+Try it with your own team. Take your three most common tasks. Log a call, create a quote, move a deal. Count the clicks. A lot of those clicks are there for some other company's way of working.
 
 ## Reason 4: Support
 
@@ -56,9 +54,7 @@ Number four: support. More than a thousand buyers said that when something broke
 
 A seven-year Zoho customer says apps they'd paid for were switched off, and they had to shut down for three days. They say support couldn't switch them back on, and there was no support at the weekend.
 
-The check: imagine your CRM is off for three days, starting tomorrow. What do you do? Where are the phone numbers, and who knows what you promised which customer? Then run a full export, and actually open the file.
-
-So that's three and four: a system that's too complicated to use, and support that doesn't show up.
+Now imagine your CRM is off for three days, starting tomorrow. What do you do? Where are the phone numbers, and who knows what you promised which customer? If you can't answer that, your business depends on someone else's support desk. So run a full export, and actually open the file.
 
 ## Free CRM fit check
 
@@ -70,7 +66,7 @@ Number five: integrations. That's your CRM sharing data with your accounting, yo
 
 A business in Vermont prepaid almost eight thousand dollars for a year of Pipedrive, because their sales team told them it connected to their quoting tool. They spent three months trying to make it work. It never did. Pipedrive's answer was, we didn't build that connection. And no refund.
 
-The check: list every system your CRM talks to, who built each connection, and who fixes it when it breaks. If the answer is nobody, that's where it's going to break.
+So ask one question about every tool your CRM talks to: who fixes it when the connection breaks? If the answer is nobody, that's where it's going to break.
 
 ## Reason 6: Renewals and contracts
 
@@ -78,9 +74,7 @@ Number six: renewals and contracts. Around seven hundred buyers complained about
 
 One company says it pays HubSpot around fourteen hundred and fifty pounds a month. They say HubSpot advised them to cut their marketing contacts, the people they can send marketing email to, before renewal, and they did. They say the separate quote that had to be activated ten days before wasn't explained when they got that advice. So it renewed at the old tier, and now they're billed a hundred and forty-two pounds a month for contacts they don't use.
 
-The check, for any CRM: write down your renewal date, your notice period, and whether auto-renew is on. Set a reminder ninety days before. And get every agreed change in writing, including what you must do and by when.
-
-So that's five and six: connections that don't work, and renewals you don't see coming.
+So whatever CRM you're on, write down your renewal date and your notice period, and set a reminder ninety days before. And get every agreed change in writing, including what you must do and by when.
 
 ## Reason 7: Tier jumps and limits
 
@@ -88,7 +82,7 @@ Number seven: tier jumps and limits. A tier is the plan level you pay for. More 
 
 Another company signed up for unlimited leads. They imported over two hundred thousand, and built their whole workflow inside. Then nine months later they get a limit of forty-five thousand, unless they upgrade to a plan that costs, in their words, about ten times as much.
 
-The check: find your plan's limits. Contacts, leads, users, records, automations. Write today's usage next to each. Anything above seventy percent is a tier jump waiting to happen.
+That's the risk with renting. The vendor decides where the limits are, and they can move them after you've built your whole business inside.
 
 ## Reason 8: The team won't use it
 
@@ -96,9 +90,7 @@ Number eight: the team won't use it. Around four hundred buyers said their peopl
 
 Here's an example: a sales manager at an industrial safety supplier, six people on the team. Every call meant more fields to fill in and deals to drag around. So after a few weeks everyone went back to Outlook and their own notes.
 
-The check: ask each person what they track outside the CRM. Then count the fields they fill in after one call. If the answer is "a lot", it's not a discipline problem. The CRM doesn't fit.
-
-So that's seven and eight: limits you don't control, and a team that won't use it.
+When that happens, it's not a discipline problem. The CRM doesn't fit how they work.
 
 ## Reason 9: Paying for every change
 
@@ -106,7 +98,7 @@ Number nine: paying for every change. Around four hundred buyers said they can't
 
 Here's one from October. A growing company on HubSpot felt locked in. They had to hire an expensive partner just for the basic setup, and then they got charged for add-ons they never agreed to. In their words, it crippled their cash flow.
 
-The check: add up every partner and consultant invoice from the last twelve months, and list the changes you're still waiting on.
+So you pay rent on the software, and then you pay again every time you want to change it.
 
 ## Reason 10: Seats
 
@@ -114,9 +106,7 @@ And number ten: seats. A seat is one person's login, and most CRMs charge for ea
 
 One business has been on Salesforce for twenty years. Then they wanted someone else to run things while they're on holiday, and Salesforce said, buy another licence.
 
-The check: open your users list. For every paid login, write down who uses it, when they last logged in, and whether they edit or only look. The ones who only look, that's where the bill grows quietly.
-
-So that's nine and ten: paying for every change, and paying for every login.
+So your bill grows with your team, even when the software isn't doing anything new for you.
 
 Which of the ten is yours? Put your CRM, your team size and your number one reason in the comments.
 
@@ -142,7 +132,7 @@ We work with companies of ten to fifty people. If a standard CRM fits you, stay 
 
 ## Close
 
-Now pick the three reasons that sound most like your company, and do their checks this week. Then sort what you find. Is it a setting you can fix today? A tier you negotiate at renewal? Or a fit problem, where no plan fixes it?
+Now pick the three reasons that sound most like your company, and sort each one. Is it a setting you can fix today? A tier you negotiate at renewal? Or a fit problem, where no plan fixes it?
 
 If most of your list is fit problems, book a free twenty-minute CRM fit check. The link's in the description.
 
