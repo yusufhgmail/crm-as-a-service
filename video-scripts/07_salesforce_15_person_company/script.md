@@ -1,8 +1,8 @@
 # Video 7: Salesforce for a 15-Person Company: the Real Cost
 
-*Draft, 27 Oct 2026 · whiteboard + screen recordings · about 12 minutes*
+*Approved by David, 3 Nov 2026 · whiteboard + screen recordings · about 12 minutes*
 
-**Checked 27 Oct 2026** (the Main Services Agreement checked 30 Oct 2026): Salesforce's prices, edition limits, Main Services Agreement (15 Oct 2026: §2.2, §5.1, §11.2) and Your Account page, word for word. Reddit quotes checked against saved copies in `survey/evidence/saved_copies/`. **Before filming:** update funnelbud.com and Yusuf's YouTube bio (sold, 450+ clients). Re-check prices that week.
+**Checked 27 Oct 2026** (the Main Services Agreement checked 30 Oct 2026): Salesforce's prices, edition limits, Main Services Agreement (15 Oct 2026: §2.2, §5.1, §11.2) and Your Account page, word for word. Reddit quotes checked against saved copies in `survey/evidence/saved_copies/`. **Rechecked 3–4 Nov 2026:** every fact live (prices, contract, help center) and fixed; sharp proof screenshots in `proof/`, listed in evidence.md. **Before filming:** update funnelbud.com and Yusuf's YouTube bio (sold, 450+ clients). Re-check prices that week.
 
 
 **Screens to record** (no Salesforce account needed):
