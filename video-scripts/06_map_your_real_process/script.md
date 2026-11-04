@@ -64,7 +64,7 @@ Link: https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_o
 **YUSUF:**
 > We found a company with a hundred and ten people and more than ten million in yearly recurring revenue. They run marketing, sales and account management in HubSpot, and they're happy with it. But the one step where the money actually changes, a customer upgrading or downgrading, happens six to eight hundred times a year. And they work that out in Excel.
 >
-> Every story in this video is real, and every one is linked in the description, so you can read them yourself.
+> All the stories here are real, and the links are in the description.
 
 **ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then a tag on the quote card: **ARR = yearly recurring revenue**. Then four tags appear beside Yusuf, one per phrase: ✓ **See how work really moves** · ✓ **Find every step outside the CRM** · ✓ **Know what it costs your team** · ✓ **Know what to fix, and how**
 
@@ -80,10 +80,10 @@ Link: https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_o
 4. Draw the re-typing · 5 min
 5. Sort: setting, tier or fit · 5 min
 
-Tag on item 5 when he says "step five": **What to do about it**
+Tag on item 5 when he says "one letter": **What to do about it**
 
 **YUSUF:**
-> Five steps, and the minutes add up to thirty. Step five is where the map tells you what to actually do about it.
+> Five steps, and the minutes add up to thirty. At the end, one letter on each problem tells you what to fix this week, what to leave for your renewal, and what no plan will ever fix.
 
 ---
 
@@ -149,7 +149,7 @@ Link: https://www.reddit.com/r/CRM/comments/1vfh292/has_anyone_built_a_crm_from_
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Real quick. If you want to see what a CRM built around your map could look like, we do a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. Now, step three.
+> If you'd like to see what a CRM built around your map could look like, there's a free twenty-minute CRM fit check in the description. Now, step three.
 
 ## 4:56 Step 3: Mark where each step lives
 
@@ -237,7 +237,7 @@ Link: https://www.reddit.com/r/hubspot/comments/1rrrdco/creating_deals_without_a
 Link: https://www.linkedin.com/posts/donalacdao_we-spent-over-16000-on-hubspot-it-didnt-activity-7442208668944769024-yW4S
 
 **YUSUF:**
-> And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. This CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. Their answer: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
+> And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. Their answer: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
 
 **ON SCREEN:** the map, complete: eleven stickies, green and red stickers, four red arrows, S, T and F on the examples above. The Estimate → Invoice arrow keeps its maths (15 jobs × 10 min = 2.5 hours a week); the other three show **? h**. Then: **DO THIS: S, T or F on every red sticker and arrow**
 
@@ -247,7 +247,7 @@ Link: https://www.linkedin.com/posts/donalacdao_we-spent-over-16000-on-hubspot-i
 **ON SCREEN:** lower-third tag: **Comment: team size + your step that lives outside the CRM**
 
 **YUSUF:**
-> And tell me in the comments: how many people are on your team, and what's one step that still lives outside your CRM? I read every comment.
+> What's one step that still lives outside your CRM? Drop it in the comments, with your team size.
 
 ## 9:32 Recap
 
@@ -267,25 +267,25 @@ Link: https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is
 **ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
 
 **YUSUF:**
-> If you're a two-person team, or a standard setup works for you, you don't need us. We help companies of ten to fifty people whose way of selling and delivering doesn't fit a standard CRM.
+> If a standard setup works for you, keep it. We're for companies of ten to fifty people whose way of selling and delivering doesn't fit one.
 
 ## 10:24 What we do
 
 **ON SCREEN:** three tags, one per phrase: **Built from your map** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> After I sold FunnelBud, I started CRM From Within. We build custom CRMs around how your company works, so the F's turn green. You own the code, we maintain it, and there's no long contract. If you leave, you keep everything.
+> That's what CRM From Within does. We build a custom CRM around how your company works, so the F's turn green. You own the code, we maintain it, and there's no long contract.
 
 ## 10:42 Close
 
 **ON SCREEN:** checklist building line by line: **This week: ☐ Book 30 min with your team ☐ Map 1 real job ☐ Put hours on the arrows ☐ Fix the S's**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So here's your homework. Book thirty minutes with your team this week. Map one real job. Put hours on the arrows. And fix every S before Friday. If you watch this and change nothing, nothing changes.
+> Your move: book thirty minutes with your team this week. Map one real job. Put hours on the arrows. And fix every S before Friday.
 >
-> If your map is mostly F's, bring it to a free twenty-minute CRM fit check. You show us how your team works, and we show you what a CRM built for you could do. The link's in the description.
+> Mostly F's? Bring your map to a free twenty-minute CRM fit check. The link's in the description.
 >
-> And in the next video, I'll show you what Salesforce really costs a fifteen-person company, and what the real alternatives are. It's called Salesforce for a 15-Person Company: the Real Cost.
+> Next up: what Salesforce really costs a fifteen-person company, and the real alternatives.
 
 **ON SCREEN:** end screen: next video (video 7): **Salesforce for a 15-Person Company: the Real Cost** + video 1 ("How to Stop Overpaying for HubSpot: 5 Checks") + "Free CRM fit check" button.
 

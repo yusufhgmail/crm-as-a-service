@@ -14,7 +14,7 @@ Maybe you feel the same: you pay for a CRM every month, and you keep wondering i
 
 Here's a story from July. A company upgraded to Salesforce Enterprise and paid over ten thousand dollars for a custom portal for their sales reps. It never did what they needed. Then Salesforce wouldn't let them go back to a cheaper plan. And while they were moving to HubSpot, in their words, they learned Salesforce had deleted all their data.
 
-Every story in this video is real, and every one is linked in the description, so you can read them yourself.
+These are real buyers, and every source is in the description.
 
 So in this video I'll go through the ten reasons companies want out of their CRM, ranked by how many buyers said it. And for each one I'll show you a real company, and one check you can do this week.
 
@@ -22,7 +22,7 @@ So in this video I'll go through the ten reasons companies want out of their CRM
 
 So here's how we did it. We didn't send out a survey. We read public posts and reviews, from the places listed on screen. We kept only people who actually use or pay for a CRM. Every agency, consultant and vendor, we took out. And we counted each person once.
 
-I'll start with number one, the biggest, and go to number ten. Then the surprising part: many of the people who complain never leave.
+I'll start with number one, the biggest, and go to number ten. After that, I'll show you what surprised us most: how many of these people actually leave, and how many regret it.
 
 ## Reason 1: Price
 
@@ -38,7 +38,7 @@ The check: take three years of CRM invoices. For every increase, write down why.
 
 Number two. Nearly nineteen hundred buyers said their CRM just doesn't fit how they work. The CRM was built for a standard company, and they're not one.
 
-This Australian company paid to customise HubSpot so it fit their business. Then HubSpot kept changing the platform, and those changes got in the way of what they'd paid to build. In their words, we paid for a CRM to work around our business.
+One Australian company paid to customise HubSpot so it fit their business. Then HubSpot kept changing the platform, and those changes got in the way of what they'd paid to build. In their words, we paid for a CRM to work around our business.
 
 The check: draw how a customer moves through your business, from first call to paid invoice. Under each one, write where it really lives: in the CRM, in a spreadsheet, or in someone's head. Every box that isn't "CRM" is a workaround your team has just accepted.
 
@@ -64,7 +64,7 @@ So that's three and four: a system that's too complicated to use, and support th
 
 ## Free CRM fit check
 
-Real quick. If you want to see what a CRM built around your business could look like, we do a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. OK, number five.
+If you're nodding along, we do a free twenty-minute CRM fit check. The link's in the description. OK, number five.
 
 ## Reason 5: Integrations
 
@@ -120,7 +120,7 @@ The check: open your users list. For every paid login, write down who uses it, w
 
 So that's nine and ten: paying for every change, and paying for every login.
 
-Tell me in the comments: your team size, your CRM, and your number one reason from these ten. I read every comment.
+Which of the ten is yours? Put your CRM, your team size and your number one reason in the comments.
 
 ## Recap
 
@@ -134,16 +134,16 @@ And that's the most common story. They're not leaving, they're stuck. Switching 
 
 And the ones who do switch? Of the buyers who posted about a switch, more than five hundred regret it. That's about half as many as the ones who are happy. And one company says switching to Salesforce was the worst decision they ever made. Another CRM comes with the same seats, tiers and renewals.
 
-So before you switch, figure out which of the ten is really your problem. And just to be clear about who we help: if you're a two-person team, or a standard setup works fine for you, you don't need us. We work with companies of ten to fifty people where the way they sell and deliver doesn't fit a standard CRM.
+So before you switch, figure out which of the ten is really your problem. And if a standard setup works for you, you don't need us. We help companies of ten to fifty people that a standard CRM doesn't fit.
 
 ## What we do
 
-After I sold FunnelBud, I started CRM From Within. We build custom CRMs around how your company works. You own the code, we maintain it, and there's no long contract. If you leave, you keep everything.
+My company, CRM From Within, builds custom CRMs around how your company works. You own the code, we maintain it, and if you leave, you keep everything.
 
 ## Close
 
-So here's your homework. Pick the three reasons that sound most like your company, and do their checks this week. Then sort what you find. Is it a setting you can fix today? A tier you negotiate at renewal? Or a fit problem, where no plan fixes it? If you watch this and don't change anything, nothing changes.
+Now pick the three reasons that sound most like your company, and do their checks this week. Then sort what you find. Is it a setting you can fix today? A tier you negotiate at renewal? Or a fit problem, where no plan fixes it?
 
-If most of your list is fit problems, bring it to a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description.
+If most of your list is fit problems, book a free twenty-minute CRM fit check. The link's in the description.
 
-And in the next video, I'll show you how to map how your team really works, in thirty minutes, so you know exactly where your CRM doesn't fit.
+In the next one, you'll map how your team really works, in thirty minutes, so you know exactly where your CRM doesn't fit.

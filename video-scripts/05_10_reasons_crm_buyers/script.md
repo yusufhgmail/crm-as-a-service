@@ -67,7 +67,7 @@ Link: https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f
 **YUSUF:**
 > Here's a story from July. A company upgraded to Salesforce Enterprise and paid over ten thousand dollars for a custom portal for their sales reps. It never did what they needed. Then Salesforce wouldn't let them go back to a cheaper plan. And while they were moving to HubSpot, in their words, they learned Salesforce had deleted all their data.
 >
-> Every story in this video is real, and every one is linked in the description, so you can read them yourself.
+> These are real buyers, and every source is in the description.
 
 **ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then four tags appear beside Yusuf: ✓ **Know the 10 reasons** · ✓ **Spot them in your company** · ✓ **One check for each** · ✓ **Avoid a switch you regret**
 
@@ -87,7 +87,7 @@ Link: https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f
 **ON SCREEN:** Yusuf writes **1 → 10** on the whiteboard.
 
 **YUSUF:**
-> I'll start with number one, the biggest, and go to number ten. Then the surprising part: many of the people who complain never leave.
+> I'll start with number one, the biggest, and go to number ten. After that, I'll show you what surprised us most: how many of these people actually leave, and how many regret it.
 
 ---
 
@@ -125,7 +125,7 @@ Link: https://www.trustpilot.com/reviews/6a025433437d00ac40c8168d
 Link: https://www.trustpilot.com/reviews/6aab93ec9c591d1f56ba1c6e
 
 **YUSUF:**
-> This Australian company paid to customise HubSpot so it fit their business. Then HubSpot kept changing the platform, and those changes got in the way of what they'd paid to build. In their words, we paid for a CRM to work around our business.
+> One Australian company paid to customise HubSpot so it fit their business. Then HubSpot kept changing the platform, and those changes got in the way of what they'd paid to build. In their words, we paid for a CRM to work around our business.
 
 **ON SCREEN:** whiteboard: Yusuf draws your process as five boxes in a row. Under each, a tag: **CRM** · **Spreadsheet** · **Someone's head**. Then: **DO THIS THIS WEEK: draw your process + mark where each step really lives**
 
@@ -183,7 +183,7 @@ Link: https://www.trustpilot.com/reviews/6a235a6c9807b36e21a4a010
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Real quick. If you want to see what a CRM built around your business could look like, we do a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. OK, number five.
+> If you're nodding along, we do a free twenty-minute CRM fit check. The link's in the description. OK, number five.
 
 ## 5:06 Reason 5: Integrations
 
@@ -312,7 +312,7 @@ Link: https://www.trustpilot.com/reviews/6a6a070f8e25b90490a8b4c6
 **ON SCREEN:** lower-third tag: **Comment: team size + your CRM + your #1 reason**
 
 **YUSUF:**
-> Tell me in the comments: your team size, your CRM, and your number one reason from these ten. I read every comment.
+> Which of the ten is yours? Put your CRM, your team size and your number one reason in the comments.
 
 ## 9:58 Recap
 
@@ -343,25 +343,25 @@ Link: https://www.trustpilot.com/reviews/6a286f4cb8d9494ce5c310aa
 **ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
 
 **YUSUF:**
-> So before you switch, figure out which of the ten is really your problem. And just to be clear about who we help: if you're a two-person team, or a standard setup works fine for you, you don't need us. We work with companies of ten to fifty people where the way they sell and deliver doesn't fit a standard CRM.
+> So before you switch, figure out which of the ten is really your problem. And if a standard setup works for you, you don't need us. We help companies of ten to fifty people that a standard CRM doesn't fit.
 
 ## 11:18 What we do
 
 **ON SCREEN:** three tags, one per phrase: **Built for how you work** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> After I sold FunnelBud, I started CRM From Within. We build custom CRMs around how your company works. You own the code, we maintain it, and there's no long contract. If you leave, you keep everything.
+> My company, CRM From Within, builds custom CRMs around how your company works. You own the code, we maintain it, and if you leave, you keep everything.
 
 ## 11:32 Close
 
 **ON SCREEN:** checklist building line by line: **This week: ☐ Pick your top 3 of the 10 ☐ Do their checks ☐ Sort them: setting, tier or fit**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So here's your homework. Pick the three reasons that sound most like your company, and do their checks this week. Then sort what you find. Is it a setting you can fix today? A tier you negotiate at renewal? Or a fit problem, where no plan fixes it? If you watch this and don't change anything, nothing changes.
+> Now pick the three reasons that sound most like your company, and do their checks this week. Then sort what you find. Is it a setting you can fix today? A tier you negotiate at renewal? Or a fit problem, where no plan fixes it?
 >
-> If most of your list is fit problems, bring it to a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description.
+> If most of your list is fit problems, book a free twenty-minute CRM fit check. The link's in the description.
 >
-> And in the next video, I'll show you how to map how your team really works, in thirty minutes, so you know exactly where your CRM doesn't fit.
+> In the next one, you'll map how your team really works, in thirty minutes, so you know exactly where your CRM doesn't fit.
 
 **ON SCREEN:** end screen: next video "Map How Your Team Works Before You Buy a CRM (30 Minutes)" (video 6) + "Free CRM fit check" button.
 

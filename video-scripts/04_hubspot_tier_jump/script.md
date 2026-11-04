@@ -65,7 +65,7 @@ Link: https://www.trustpilot.com/reviews/695fd6824ffad717ec0cace4
 **YUSUF:**
 > One company in our research was sold an upgrade to Enterprise, that's HubSpot's top tier, for something they needed. They paid. Then they found out it couldn't do it. They needed a whole second account. And in their own words, they're heavily out of pocket.
 >
-> Every story in this video is real, and every one is linked in the description, so you can read them yourself.
+> You can read that one yourself. Every source is in the description.
 
 **ON SCREEN:** tag under the quote card: **All sources in the description**. Then four tags beside Yusuf, one per phrase: ✓ **Know the real price** · ✓ **No surprise 1-year contract** · ✓ **The feature, not the tier** · ✓ **Know when no tier will do**
 
@@ -81,10 +81,10 @@ Link: https://www.trustpilot.com/reviews/695fd6824ffad717ec0cace4
 4. Look for a smaller step
 5. Ask if it's on any tier
 
-Tag on item 5 when he says "the last one": **Not about price**
+Tag on item 5 when he says "check five": **Not about price**
 
 **YUSUF:**
-> Five checks before you upgrade anything. The last one would have saved that first company, and it's not about price.
+> Five checks before you upgrade anything. Check five is a single question, and it would have saved that first company.
 
 ---
 
@@ -166,7 +166,7 @@ Link: https://www.hubspot.com/pricing/marketing
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Real quick. If you want to see what a CRM built around your business could look like, we do a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. OK, step three.
+> Quick one. If you'd rather stop climbing tiers, we do a free twenty-minute CRM fit check. The link's in the description. OK, step three.
 
 ## 4:50 Step 3: Read the commitment
 
@@ -282,7 +282,7 @@ Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 **ON SCREEN:** lower-third tag: **Comment: team size + the feature that pushed you up a tier**
 
 **YUSUF:**
-> And tell me in the comments: how many people are on your team, and what's the one feature that pushed you, or almost pushed you, up a tier? I read every comment.
+> What's the one feature that pushed you up a tier, or almost did? Tell me in the comments, with your team size.
 
 ## 9:12 Recap
 
@@ -301,25 +301,25 @@ Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 **ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
 
 **YUSUF:**
-> But just to be clear about who we help. If you're a two-person team, or a standard setup works fine for you, you don't need us. We work with companies of ten to fifty people where the way they sell and deliver doesn't fit a standard CRM.
+> We're not for everyone. A two-person team on a standard setup doesn't need us. We help companies of ten to fifty people that a standard CRM doesn't fit.
 
 ## 10:04 What we do
 
 **ON SCREEN:** three tags, one per phrase: **Built for how you work** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> After I sold FunnelBud, I started CRM From Within. We build custom CRMs around exactly how your company sells and delivers. You own the code, we maintain it, and there's no long contract. If you ever leave, you keep everything.
+> At CRM From Within, we build custom CRMs around how your company sells and delivers, so there's no next tier to jump to. You own the code, we maintain it, and there's no long contract.
 
 ## 10:20 Close
 
 **ON SCREEN:** checklist building line by line: **☐ Write the job ☐ Your year-one jump number ☐ Send the 4 questions ☐ Price 3 smaller steps ☐ See your job working**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So here's your homework. Write the job down today. Work out your year-one jump number. Send the four questions before you click anything. Price three smaller steps. And before you sign, ask to see your exact job working. And if you watch this and don't change anything, then next time that upgrade button pops up, you'll just click it.
+> Before you upgrade, write the job down. Work out your year-one jump number. Send the four questions. Price three smaller steps. And ask to see your exact job working. Otherwise, the next time that upgrade button pops up, you'll just click it.
 >
-> If step five showed you that what you need isn't on any tier, bring it to a free twenty-minute CRM fit check. You show us how your team works, and we show you what a CRM built for you could do. The link's in the description.
+> If what you need isn't on any tier, that's what our free twenty-minute CRM fit check is for. The link's in the description.
 >
-> And in the next video, Why Companies Want Out of Their CRM, I'll show you the ten reasons, from more than five thousand CRM buyers.
+> Next up: the ten reasons companies want out of their CRM, from more than five thousand buyers.
 
 **ON SCREEN:** end screen: next video (video 5: "Why 5,000+ CRM Buyers Want Out: 10 Reasons") + video 1 ("How to Stop Overpaying for HubSpot: 5 Checks") + "Free CRM fit check" button.
 

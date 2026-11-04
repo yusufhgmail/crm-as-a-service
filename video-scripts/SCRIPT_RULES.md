@@ -16,10 +16,15 @@ Yusuf's corrections to the scripts. Read this before writing or changing a scrip
 - Not like this: "If you're on HubSpot, or you're about to sign, and you've never seen the whole bill in one place, this one's for you."
 - But like this: "In that study, a lot of people said they're confused about HubSpot's pricing. So this video clears that up: what a twenty-person team really pays, so nothing surprises you."
 
-**Don't repeat stock lines.** We're making 20 videos, so viewers would hear a repeated sentence again and again. Search the other scripts for any set phrase before you use it. To keep people watching, say what the last part gives them, in that video's own words.
+**Keep the hook, change the words.** We're making 20 videos, so viewers would hear a repeated sentence again and again. Every video still needs a reason to watch to the end. Promise something specific from the end of that video: a question it answers, a callback to the opening story, or a surprise you hold back. Check that the video delivers it, and search the other scripts so the wording and the shape are new.
 
 - Not like this: "And stay for step five."
-- But like this: "And the last one isn't a cost at all. It's the test that tells you whether the other four are worth paying."
+- But like this: "And the last one isn't a cost at all. It's the test that tells you if forty thousand dollars a year is a great deal or a terrible one."
+
+**Every line earns its place.** People want information, not filler. Each line must give the viewer something or do a job for us. Keep the fit check, the comment question, who we help and what we do to one or two short sentences, and word them differently in each video.
+
+- Not like this: "So here's your homework." or "If you watch this and change nothing, nothing changes."
+- But like this: "Your move: book thirty minutes with your team this week."
 
 **Keep it true later.** Videos stay online for years, and prices and plans change. Give the total instead of the pricing model when you can. Say once when the prices were checked, call them an example, and put a "Prices as of" tag on price screens. Never say "today", "this month" or "this October".
 

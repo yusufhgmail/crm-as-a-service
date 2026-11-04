@@ -68,7 +68,7 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforc
 **YUSUF:**
 > Our research turned up this one, from August. A twelve-person firm. They've been on Salesforce for seven years, and the whole company lives in it. They needed more automation, so they asked for an AI demo. That demo ended at eighty-five thousand dollars for year one. Then they told their rep they might leave. So the rep moved them up to Unlimited, their old top plan, thirty-five thousand dollars a year. And when the owner said they plan to double the team, the answer was a four-year agreement.
 >
-> Every story in this video is real, and every one is linked in the description, so you can read them yourself.
+> That story's linked in the description, like every story here.
 
 **ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then four tags appear beside Yusuf, one per phrase: ✓ **Know your real cost** · ✓ **Find the hidden add-ons** · ✓ **Know your renewal terms** · ✓ **See your real options**
 
@@ -164,7 +164,7 @@ Link: https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternativ
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Real quick. If you want to see what a CRM built around your business could look like, we do a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. OK, cost three.
+> One quick thing. We do a free twenty-minute CRM fit check, to show you what a CRM built for your business could look like. The link's in the description. OK, cost three.
 
 ## 4:43 Cost 3: The people
 
@@ -280,7 +280,7 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 **ON SCREEN:** lower-third tag: **Comment: team size + 1 thing you wish Salesforce could do**
 
 **YUSUF:**
-> And tell me in the comments: how many people are on your team, and what's one thing you wish Salesforce could do for you? I read every comment.
+> What's one thing you wish Salesforce could do for you? Tell me below, and how many people are on your team.
 
 ## 9:31 Recap
 
@@ -300,25 +300,25 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 **ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
 
 **YUSUF:**
-> And just to be clear about who we help. If you're a two-person team, or a standard setup works fine for you, you don't need us. We work with companies of ten to fifty people where the way they sell and deliver doesn't fit a standard CRM.
+> If a standard setup works fine for you, stay where you are. We work with companies of ten to fifty people that it doesn't fit.
 
 ## 10:20 What we do
 
 **ON SCREEN:** five tags, one per phrase: **Built for how you work** · **You own the code** · **We maintain it** · **No long contract** · **Leave with everything**
 
 **YUSUF:**
-> After I sold FunnelBud, I started CRM From Within. We build custom CRMs around exactly how your company sells and delivers. If Salesforce can't do it, we build it. You own the code. We maintain it and add features as you grow, so you're never stuck with one engineer. There's no long contract, and if you ever want to leave, you keep everything.
+> CRM From Within builds custom CRMs around how your company sells and delivers. If Salesforce can't do it, we build it. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
 
 ## 10:45 Close
 
 **ON SCREEN:** checklist building line by line: **This week: ☐ Edition + licences used ☐ List every add-on ☐ 12 months of consultants ☐ Renewal date + 90-day reminder ☐ List your workarounds ☐ Test the export**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So here's your homework. Write down your edition and the licences you actually use. List every add-on. Add up a year of consultants. Put your renewal in the calendar, ninety days early. List your workarounds. And test your export. If you watch this and don't change anything, nothing changes. The next renewal just comes around and decides for you.
+> Before your next renewal, write down your edition and the licences you actually use. List every add-on. Add up a year of consultants. Put your renewal in the calendar, ninety days early. List your workarounds. And test your export. Otherwise, the renewal just comes around and decides for you.
 >
-> If your list is mostly things Salesforce can't do, bring it to a free twenty-minute CRM fit check. You show us how your team works, and we show you what a CRM built for you could do. The link's in the description.
+> If your list is mostly things Salesforce can't do, show it to us on a free twenty-minute CRM fit check. The link's in the description.
 >
-> And in the next video, I'll go through what to do when your Salesforce admin leaves. It's called What to Do When Your Salesforce Admin Leaves.
+> Next up: what to do when your Salesforce admin leaves.
 
 **ON SCREEN:** end screen: next video, title on screen **What to Do When Your Salesforce Admin Leaves** (video 8) + "Free CRM fit check" button.
 

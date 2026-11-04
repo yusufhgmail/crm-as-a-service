@@ -14,13 +14,13 @@ Maybe that's you: you pay for a CRM, HubSpot, Salesforce, anything, and your tea
 
 We found a company with a hundred and ten people and more than ten million in yearly recurring revenue. They run marketing, sales and account management in HubSpot, and they're happy with it. But the one step where the money actually changes, a customer upgrading or downgrading, happens six to eight hundred times a year. And they work that out in Excel.
 
-Every story in this video is real, and every one is linked in the description, so you can read them yourself.
+All the stories here are real, and the links are in the description.
 
 That Excel file doesn't show up on any CRM screen. That's the problem. So in this video I'll show you how to see how a job really moves through your company, how to find every step that happens outside your CRM, what that costs your team, and which ones you can fix today and which ones you can't. Five steps, thirty minutes, and you do it with the people who do the work.
 
 ## Plan
 
-Five steps, and the minutes add up to thirty. Step five is where the map tells you what to actually do about it.
+Five steps, and the minutes add up to thirty. At the end, one letter on each problem tells you what to fix this week, what to leave for your renewal, and what no plan will ever fix.
 
 ## Step 1: Pick one real job
 
@@ -48,7 +48,7 @@ So that's steps one and two: one real job, and every step it took, start to paid
 
 ## Free CRM fit check
 
-Real quick. If you want to see what a CRM built around your map could look like, we do a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. Now, step three.
+If you'd like to see what a CRM built around your map could look like, there's a free twenty-minute CRM fit check in the description. Now, step three.
 
 ## Step 3: Mark where each step lives
 
@@ -84,11 +84,11 @@ That's a second pipeline, and HubSpot's free plan gives you zero extra pipelines
 
 In March, one company needed one more pipeline. On their plan, the next level up came with fifteen, and cost around five thousand dollars more a year. Fourteen pipelines they'd never use. That's a T. You decide it at renewal, with the numbers.
 
-And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. This CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. Their answer: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
+And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. Their answer: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
 
 Five minutes, one letter each. When you're done, count them. The S's are this week's to-do list. The T's go on your renewal list. And the F's, with the hours you wrote next to them, are what your CRM really doesn't do for you.
 
-And tell me in the comments: how many people are on your team, and what's one step that still lives outside your CRM? I read every comment.
+What's one step that still lives outside your CRM? Drop it in the comments, with your team size.
 
 ## Recap
 
@@ -98,16 +98,16 @@ So, the thirty-minute map. Pick one real job. Write every step, start to paid. M
 
 Fixing the S's this week is worth doing. But the F's don't go away. You can pay to bend the CRM around them. A former developer at one company says they spent a million dollars customising Salesforce to their business. And then, in his words, "So now we're locked in."
 
-If you're a two-person team, or a standard setup works for you, you don't need us. We help companies of ten to fifty people whose way of selling and delivering doesn't fit a standard CRM.
+If a standard setup works for you, keep it. We're for companies of ten to fifty people whose way of selling and delivering doesn't fit one.
 
 ## What we do
 
-After I sold FunnelBud, I started CRM From Within. We build custom CRMs around how your company works, so the F's turn green. You own the code, we maintain it, and there's no long contract. If you leave, you keep everything.
+That's what CRM From Within does. We build a custom CRM around how your company works, so the F's turn green. You own the code, we maintain it, and there's no long contract.
 
 ## Close
 
-So here's your homework. Book thirty minutes with your team this week. Map one real job. Put hours on the arrows. And fix every S before Friday. If you watch this and change nothing, nothing changes.
+Your move: book thirty minutes with your team this week. Map one real job. Put hours on the arrows. And fix every S before Friday.
 
-If your map is mostly F's, bring it to a free twenty-minute CRM fit check. You show us how your team works, and we show you what a CRM built for you could do. The link's in the description.
+Mostly F's? Bring your map to a free twenty-minute CRM fit check. The link's in the description.
 
-And in the next video, I'll show you what Salesforce really costs a fifteen-person company, and what the real alternatives are. It's called Salesforce for a 15-Person Company: the Real Cost.
+Next up: what Salesforce really costs a fifteen-person company, and the real alternatives.

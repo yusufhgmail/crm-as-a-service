@@ -14,7 +14,7 @@ If your company runs on Salesforce, maybe you've wondered if you're paying for a
 
 Our research turned up this one, from August. A twelve-person firm. They've been on Salesforce for seven years, and the whole company lives in it. They needed more automation, so they asked for an AI demo. That demo ended at eighty-five thousand dollars for year one. Then they told their rep they might leave. So the rep moved them up to Unlimited, their old top plan, thirty-five thousand dollars a year. And when the owner said they plan to double the team, the answer was a four-year agreement.
 
-Every story in this video is real, and every one is linked in the description, so you can read them yourself.
+That story's linked in the description, like every story here.
 
 So in this video I'll show you what Salesforce really costs a fifteen-person company, at the prices when I recorded this. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
 
@@ -50,7 +50,7 @@ So that's one and two. The licence you actually need, which is usually not the o
 
 ## Free CRM fit check
 
-Real quick. If you want to see what a CRM built around your business could look like, we do a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. OK, cost three.
+One quick thing. We do a free twenty-minute CRM fit check, to show you what a CRM built for your business could look like. The link's in the description. OK, cost three.
 
 ## Cost 3: The people
 
@@ -94,7 +94,7 @@ And now the honest risk. Someone who has built a custom CRM themselves warned a 
 
 The check, before you pick any way out. Ask your team one question. What do we do outside Salesforce every week, because it can't do it, or because changing it costs a consultant? Write down every spreadsheet and every manual step. Then mark what's really yours. Your pricing rules, your jobs, your projects, your approvals. That list is what any new system has to do on day one. And run a data export this month. When the contract ends, you have to ask for your data within thirty days. After that, Salesforce has no obligation to keep it.
 
-And tell me in the comments: how many people are on your team, and what's one thing you wish Salesforce could do for you? I read every comment.
+What's one thing you wish Salesforce could do for you? Tell me below, and how many people are on your team.
 
 ## Recap
 
@@ -104,16 +104,16 @@ So, the five costs. The licence you really need. The add-ons around it. The peop
 
 A smaller Salesforce gets you a smaller bill. For a year. The add-ons still renew one by one. Every change still needs a consultant. And your list of workarounds doesn't get any shorter.
 
-And just to be clear about who we help. If you're a two-person team, or a standard setup works fine for you, you don't need us. We work with companies of ten to fifty people where the way they sell and deliver doesn't fit a standard CRM.
+If a standard setup works fine for you, stay where you are. We work with companies of ten to fifty people that it doesn't fit.
 
 ## What we do
 
-After I sold FunnelBud, I started CRM From Within. We build custom CRMs around exactly how your company sells and delivers. If Salesforce can't do it, we build it. You own the code. We maintain it and add features as you grow, so you're never stuck with one engineer. There's no long contract, and if you ever want to leave, you keep everything.
+CRM From Within builds custom CRMs around how your company sells and delivers. If Salesforce can't do it, we build it. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
 
 ## Close
 
-So here's your homework. Write down your edition and the licences you actually use. List every add-on. Add up a year of consultants. Put your renewal in the calendar, ninety days early. List your workarounds. And test your export. If you watch this and don't change anything, nothing changes. The next renewal just comes around and decides for you.
+Before your next renewal, write down your edition and the licences you actually use. List every add-on. Add up a year of consultants. Put your renewal in the calendar, ninety days early. List your workarounds. And test your export. Otherwise, the renewal just comes around and decides for you.
 
-If your list is mostly things Salesforce can't do, bring it to a free twenty-minute CRM fit check. You show us how your team works, and we show you what a CRM built for you could do. The link's in the description.
+If your list is mostly things Salesforce can't do, show it to us on a free twenty-minute CRM fit check. The link's in the description.
 
-And in the next video, I'll go through what to do when your Salesforce admin leaves. It's called What to Do When Your Salesforce Admin Leaves.
+Next up: what to do when your Salesforce admin leaves.

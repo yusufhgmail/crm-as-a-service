@@ -14,13 +14,13 @@ Maybe you're there right now: you need one thing, it's on the next tier up, and 
 
 One company in our research was sold an upgrade to Enterprise, that's HubSpot's top tier, for something they needed. They paid. Then they found out it couldn't do it. They needed a whole second account. And in their own words, they're heavily out of pocket.
 
-Every story in this video is real, and every one is linked in the description, so you can read them yourself.
+You can read that one yourself. Every source is in the description.
 
 So in this video I'll show you what an upgrade really costs, how to not get locked into a year you didn't plan for, how to get the one feature without buying the whole tier, and how to know when what you need isn't on any tier at all.
 
 ## Plan
 
-Five checks before you upgrade anything. The last one would have saved that first company, and it's not about price.
+Five checks before you upgrade anything. Check five is a single question, and it would have saved that first company.
 
 ## Step 1: Name the job, not the feature
 
@@ -48,7 +48,7 @@ So that's steps one and two. You know the job, and you know the real price of th
 
 ## Free CRM fit check
 
-Real quick. If you want to see what a CRM built around your business could look like, we do a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. OK, step three.
+Quick one. If you'd rather stop climbing tiers, we do a free twenty-minute CRM fit check. The link's in the description. OK, step three.
 
 ## Step 3: Read the commitment
 
@@ -90,7 +90,7 @@ In our study, nearly four hundred HubSpot customers complained that it just does
 
 The check: take your job from step one, and ask HubSpot, in writing, show me this exact job working, on the tier you're selling me, before I sign. Not a slide. Your job, on the screen. And if they can't, you've just saved yourself a year of paying for it.
 
-And tell me in the comments: how many people are on your team, and what's the one feature that pushed you, or almost pushed you, up a tier? I read every comment.
+What's the one feature that pushed you up a tier, or almost did? Tell me in the comments, with your team size.
 
 ## Recap
 
@@ -100,16 +100,16 @@ So, before you jump a HubSpot tier. Name the job. Price the whole jump. Read the
 
 So steps one to four save you from one jump. But it's still a staircase. Next year there's another feature, and another step. And if what you need isn't on any tier at all, then going up a step doesn't fix anything.
 
-But just to be clear about who we help. If you're a two-person team, or a standard setup works fine for you, you don't need us. We work with companies of ten to fifty people where the way they sell and deliver doesn't fit a standard CRM.
+We're not for everyone. A two-person team on a standard setup doesn't need us. We help companies of ten to fifty people that a standard CRM doesn't fit.
 
 ## What we do
 
-After I sold FunnelBud, I started CRM From Within. We build custom CRMs around exactly how your company sells and delivers. You own the code, we maintain it, and there's no long contract. If you ever leave, you keep everything.
+At CRM From Within, we build custom CRMs around how your company sells and delivers, so there's no next tier to jump to. You own the code, we maintain it, and there's no long contract.
 
 ## Close
 
-So here's your homework. Write the job down today. Work out your year-one jump number. Send the four questions before you click anything. Price three smaller steps. And before you sign, ask to see your exact job working. And if you watch this and don't change anything, then next time that upgrade button pops up, you'll just click it.
+Before you upgrade, write the job down. Work out your year-one jump number. Send the four questions. Price three smaller steps. And ask to see your exact job working. Otherwise, the next time that upgrade button pops up, you'll just click it.
 
-If step five showed you that what you need isn't on any tier, bring it to a free twenty-minute CRM fit check. You show us how your team works, and we show you what a CRM built for you could do. The link's in the description.
+If what you need isn't on any tier, that's what our free twenty-minute CRM fit check is for. The link's in the description.
 
-And in the next video, Why Companies Want Out of Their CRM, I'll show you the ten reasons, from more than five thousand CRM buyers.
+Next up: the ten reasons companies want out of their CRM, from more than five thousand buyers.

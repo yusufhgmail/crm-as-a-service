@@ -68,7 +68,7 @@ Link: https://www.reddit.com/r/CRM/comments/1vy3y25/spending_26kyear_on_hubspot_
 **YUSUF:**
 > Here's an example we found in our research, from August. It's a consulting and training company. They run webinars and conferences, and they have consulting clients. No sales team. They wrote out what they use HubSpot for. It was four things. And they were paying twenty-six thousand dollars a year for it. In their words, it's enterprise-sales-team pricing for what amounts to an email marketing tool plus a glorified list of clients and event attendees.
 >
-> Every story in this video is real, and every one is linked in the description, so you can read them yourself.
+> Every story here is real, and linked in the description.
 
 **ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then four tags appear beside Yusuf, one per phrase: ✓ **See the whole bill** · ✓ **Know what each line buys** · ✓ **Find the costs off the invoice** · ✓ **Decide if it fits**
 
@@ -87,7 +87,7 @@ Link: https://www.reddit.com/r/CRM/comments/1vy3y25/spending_26kyear_on_hubspot_
 Tag on item 5 when he says "the last one": **Not about price**
 
 **YUSUF:**
-> Five lines. The first three are on HubSpot's own price page. The fourth never shows up on your HubSpot invoice. And the last one isn't a cost at all. It's the test that tells you whether the other four are worth paying.
+> Five lines. The first three are on HubSpot's own price page. The fourth never shows up on your HubSpot invoice. And the last one isn't a cost at all. It's the test that tells you if forty thousand dollars a year is a great deal or a terrible one.
 
 ---
 
@@ -170,7 +170,7 @@ Link: https://knowledge.hubspot.com/account-management/manage-seats
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Real quick. We do a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. OK, line three.
+> Want to see what a CRM built for your team could look like? Book a free twenty-minute CRM fit check. The link's in the description. OK, line three.
 
 ## 4:52 Line 3: The setup
 
@@ -267,7 +267,7 @@ Link: https://x.com/mishavitels/status/2113226378623455456
 **ON SCREEN:** lower-third tag: **Comment: team size + monthly HubSpot bill + 1 job it can't do**
 
 **YUSUF:**
-> And tell me in the comments: how many people are on your team, roughly what you pay HubSpot a month, and one job it can't do your way. I read every comment.
+> In the comments, tell me your team size and one job HubSpot can't do your way.
 
 ## 8:59 Recap
 
@@ -286,25 +286,25 @@ Link: https://x.com/mishavitels/status/2113226378623455456
 **ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
 
 **YUSUF:**
-> And just to be clear about who we help. If you're a two-person team, or a standard setup works fine for you, you don't need us. We work with companies of ten to fifty people, where the way they sell and deliver doesn't fit a standard CRM.
+> If you're a two-person team, or a standard setup works fine, you don't need us. We work with companies of ten to fifty people that a standard CRM doesn't fit.
 
 ## 9:58 What we do
 
 **ON SCREEN:** three tags, one per phrase: **Built for your jobs** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> After I sold FunnelBud, I started CRM From Within. We build custom CRMs around how your company sells and delivers: your quotes, jobs and accounting in one system. You own the code, we maintain it, and there's no long contract. If you leave, you take everything.
+> That's why I started CRM From Within. We build custom CRMs around how your company sells and delivers: your quotes, jobs and accounting in one system. You own the code, we maintain it, and if you leave, you take everything.
 
 ## 10:17 Close
 
 **ON SCREEN:** checklist building line by line: **☐ Seat types, counts, prices ☐ 1 job per hub ☐ Every setup cost + what's unfinished ☐ Every connected app + its cost ☐ Jobs list: ✓ or ✗**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So here's your homework. This week, write down your seat types and what each one costs. Write one job next to every hub. Add up your setup costs. List every connected app and what you pay for it. And make your jobs list, with a yes or no next to each. If you watch this and change nothing, nothing changes.
+> So this week, write down your seat types and what each one costs. Write one job next to every hub. Add up your setup costs. List every connected app and what you pay for it. And make your jobs list, with a yes or no next to each.
 >
-> If your list is mostly no's, bring it to a free twenty-minute CRM fit check. You show us how your team works, and we show you what a CRM built for you could do. The link's in the description.
+> If your list is mostly no's, bring it to a free twenty-minute CRM fit check. The link's in the description.
 >
-> And in the next video, I'll show you how to get the HubSpot feature you need without upgrading.
+> Next: how to get the HubSpot feature you need without upgrading.
 
 **ON SCREEN:** end screen: next video (video 4: "How to Get the HubSpot Feature You Need Without Upgrading") + video 1 ("How to Stop Overpaying for HubSpot: 5 Checks") + "Free CRM fit check" button.
 
