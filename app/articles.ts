@@ -154,6 +154,22 @@ export const articles: Article[] = [
       { question: 'Build it ourselves or have it built?', answer: 'Build it yourself if one person enjoys the job and will keep doing it. Have it built, and kept, if the point is a CRM that fits without anyone on the team owning a software project. The cost guide puts the two side by side.' },
     ],
   },
+  {
+    slug: 'ai-native-crm',
+    title: 'What is an AI-native CRM? A plain definition',
+    description: 'An AI-native CRM is one where the AI does the data entry and the adapting, not a chatbot bolted on. The definition, a test, and what it means for small firms.',
+    heading: 'What is an AI-native CRM?',
+    kicker: 'DEFINITION',
+    answer: 'An AI-native CRM is a CRM where the model does the work people used to do to keep the CRM true: reading email and calls to update records, noticing when the process has changed, and changing the CRM to match. A CRM with an AI assistant added to the same forms is AI-assisted, not AI-native. The test is whether the team still has to type and configure.',
+    summary: 'a plain definition of AI-native CRM, the difference from an AI-assisted one, a test to tell them apart, and what it changes for a small business.',
+    published: '2026-11-04',
+    modified: '2026-11-04',
+    faq: [
+      { question: 'Is HubSpot an AI-native CRM?', answer: 'No, by this definition. HubSpot is a configured CRM with AI features (Breeze) added on top of the same objects and forms. Those features help, but the team still configures the system and still types most of what is in it.' },
+      { question: 'Does an AI-native CRM need a chatbot?', answer: 'No. The chat is the least important part. What matters is what happens without anyone asking: records updated from the inbox, a deal moved because the invoice was sent, a question raised when a pattern changed.' },
+      { question: 'Is an AI-native CRM safe with customer data?', answer: 'It is only as safe as the boundaries around the model. Security, access and the customer table should be fixed and tested, and the model should only be allowed to change workflow, with every change approved and reversible. A system that lets the model edit anything is not safe.' },
+    ],
+  },
 ];
 
 export const articleBySlug = (slug: string) => articles.find((article) => article.slug === slug);
