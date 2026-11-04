@@ -33,6 +33,11 @@ Every video rests on one study, kept in David's private repo. Check every number
 
 **Say something new.** Before filming, check that a video gives viewers something the earlier videos haven't. Video 4 was dropped because it mostly repeated videos 1 to 3.
 
+**Sound like a person talking.** Shorter never means telegram style. Use full spoken sentences joined with "so", "and" and "but". No colon reveals, no slogans, and no fragments standing in for sentences. Read every line aloud as Yusuf would say it to a friend, using the voice guide in David's repo.
+
+- Not like this: "In 2018: a hundred and twenty people, thirteen million dollars in revenue. Twenty fewer people, six million more."
+- But like this: "In 2018 they had a hundred and twenty people and thirteen million dollars in revenue. That's twenty fewer people and six million dollars more."
+
 **Show the bottleneck, not the admin.** Pick examples where the problem blocks growth: lost deals, lost revenue, work the company can't take on. An annoying extra step isn't worth a viewer's time. Say what fixing it unlocked, with the real numbers if the source has them.
 
 - Not like this: "A customer upgrading happens six to eight hundred times a year. And they work that out in Excel."
