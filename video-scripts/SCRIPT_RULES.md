@@ -43,7 +43,7 @@ Every video rests on one study, kept in David's private repo. Check every number
 - Not like this: "And stay for step five."
 - But like this: "And the last one isn't a cost at all. It's the test that tells you if forty thousand dollars a year is a great deal or a terrible one."
 
-**Every line earns its place.** People want information, not filler. Each line must give the viewer something or do a job for us. Keep the fit check and the comment question to one short sentence, and word them differently in each video.
+**Every line earns its place.** People want information, not filler. Each line must give the viewer something or do a job for us. Keep the fit check and the comment question to one short sentence, and word them differently in each video. Then say everything in the fewest words that keep the hook, the excitement and the information.
 
 - Not like this: "So here's your homework." or "If you watch this and change nothing, nothing changes." Don't explain how we ran the study either: "We didn't send out a survey. We read public posts and reviews." That belongs in the description.
 - But like this: "Your move: book thirty minutes with your team this week."

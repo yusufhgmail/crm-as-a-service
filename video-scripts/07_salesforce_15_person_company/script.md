@@ -51,14 +51,14 @@ Pair the title with thumbnail 1 first (or 5); thumbnails 2–4 are price variati
 **ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **Hundreds of companies** · **10+ years in CRM** · **Built & sold a CRM SaaS** · **Now: CRM From Within** · then **850+ Salesforce customers studied**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. Now, at my new company, CRM From Within, we've studied what more than 850 Salesforce customers say about what it really costs them.
+> In ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. Now, at my new company, CRM From Within, we've studied what more than 850 Salesforce customers say it really costs them.
 
 ## 0:17 Who it's for
 
 **ON SCREEN:** one tag: **Small team on Salesforce? This is for you.**
 
 **YUSUF:**
-> More than four hundred of them complained about what they pay. If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video gives you the real numbers.
+> More than four hundred of them complained about what they pay. Maybe you've wondered if you're paying for a platform built for a company fifty times your size. Here are the real numbers.
 
 ## 0:28 Promise
 
@@ -66,14 +66,14 @@ Pair the title with thumbnail 1 first (or 5); thumbnails 2–4 are price variati
 Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforce_12_employees_upgrade_quote/
 
 **YUSUF:**
-> Our research turned up this one, from August. A twelve-person firm. They've been on Salesforce for seven years, and the whole company lives in it. They needed more automation, so they asked for an AI demo. That demo ended at eighty-five thousand dollars for year one. Then they told their rep they might leave. So the rep moved them up to Unlimited, their old top plan, thirty-five thousand dollars a year. And when the owner said they plan to double the team, the answer was a four-year agreement.
+> Our research turned up this one, from August. A twelve-person firm, seven years on Salesforce, the whole company in it. They needed more automation, so they asked for an AI demo. It ended at eighty-five thousand dollars for year one. They told their rep they might leave. So the rep moved them up to Unlimited, their old top plan, thirty-five thousand a year. And when the owner said they plan to double the team, the answer was a four-year agreement.
 >
-> That story's linked in the description, like every story here.
+> It's linked in the description, like every story here.
 
 **ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then four tags appear beside Yusuf, one per phrase: ✓ **Know your real cost** · ✓ **Find the hidden add-ons** · ✓ **Know your renewal terms** · ✓ **See your real options**
 
 **YUSUF:**
-> So in this video I'll show you what Salesforce really costs a fifteen-person company, using the prices from when I recorded this. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
+> In this video: what Salesforce really costs a fifteen-person company, the money that isn't on the price page, how the contract really renews, and the real alternatives. So you decide with your own numbers, not the sales rep's.
 
 ## 1:30 Plan
 
@@ -87,7 +87,7 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforc
 Tag on item 5 when he says "number five": **Where switching goes wrong**
 
 **YUSUF:**
-> Five costs. For each one I'll show you a real company and a real number. Number five is the three real ways out, and where switching goes wrong. Because about one in five who move to another rented CRM regret it.
+> Five costs, each with a real company and a real number. Number five is the three real ways out, and where switching goes wrong. About one in five who move to another rented CRM regret it.
 
 ---
 
@@ -96,7 +96,7 @@ Tag on item 5 when he says "number five": **Where switching goes wrong**
 **ON SCREEN:** cost tracker: **Cost 1 of 5: The licence**. Tag when he says it: **Licence = 1 person's login, per month**
 
 **YUSUF:**
-> Cost number one: the licence. Salesforce charges per person, per month. And the price depends on your edition. That's the package that decides which features you get.
+> Cost number one: the licence. Salesforce charges per person, per month, and the price depends on your edition, the package of features you get.
 
 **ON SCREEN:** screen recording of salesforce.com/sales/pricing, zoomed on the five edition cards · source tag **salesforce.com, Oct 2026**
 Link: https://www.salesforce.com/sales/pricing/
@@ -104,35 +104,35 @@ Link: https://www.salesforce.com/sales/pricing/
 **ON SCREEN:** small tag on every price screen in this video: **Prices as of Nov 2026**
 
 **YUSUF:**
-> Here are the prices when I recorded this, in November 2026, from Salesforce's own page. They'll change, so treat them as an example.
+> Here are the prices when I recorded this, in November 2026. They'll change, so treat them as an example.
 
 **ON SCREEN:** whiteboard: Yusuf draws the five-step staircase; typed tag on each step: **Starter Suite $25** · **Pro Suite $100** · **Core $195** · **Advanced $395** · **Max $550** · tags **Per user, per month** and **Billed annually**
 
 **YUSUF:**
-> Starter Suite, twenty-five dollars per user per month. Pro Suite, a hundred. Core, a hundred and ninety-five. Advanced, three hundred and ninety-five. Max, five hundred and fifty. Everything from Pro Suite up is billed annually.
+> Starter Suite, twenty-five dollars per user per month. Pro Suite, a hundred. Core, a hundred and ninety-five. Advanced, three hundred and ninety-five. Max, five hundred and fifty. From Pro Suite up, you're billed annually.
 
 **ON SCREEN:** the comparison table on the same page, zoomed, red boxes on the Pro Suite column: **Flow Builder: "5 flows per org"** · **Approval Processes: not included** · **Web Services API: "Additional $25 USD/user/month"**. Tag: **Flow = an automation**
 
 **YUSUF:**
-> If you're on Pro Suite, here's the catch, and it's in Salesforce's own table. Pro Suite gets five flows. A flow is an automation. Like, a deal is won, so a job gets created. Five of those, for the whole company. No approval processes. And the API, which is how Salesforce talks to your accounting, costs twenty-five dollars more per user per month.
+> Here's the catch on Pro Suite, in Salesforce's own table. Five flows. A flow is an automation: a deal is won, so a job gets created. Five of those, for the whole company. No approval processes. And the API, how Salesforce talks to your accounting, costs twenty-five dollars more per user per month.
 
 **ON SCREEN:** bar chart, **15 people, per year**: **Pro Suite $18,000** · **Pro Suite + API $22,500** · **Core $35,100** · **Advanced $71,100**. The first block of the Where-the-money-goes bar fills in: **Licences $18,000 · Pro Suite, 15 people**.
 
 **YUSUF:**
-> So let's do the maths for fifteen people. Pro Suite is eighteen thousand dollars a year. Add the API and it's twenty-two thousand five hundred. Now say you need a sixth automation, or an approval step. That's Core. Thirty-five thousand one hundred. Almost double Pro Suite, for the same fifteen people.
+> For fifteen people, Pro Suite is eighteen thousand dollars a year. Add the API: twenty-two thousand five hundred. Need a sixth automation, or an approval step? That's Core. Thirty-five thousand one hundred. Almost double, for the same fifteen people.
 
 **ON SCREEN:** typed tag: **More than 5 automations? Your next quote is Core**
 Link: https://help.salesforce.com/s/articleView?language=en_US&id=platform.users_license_types_view.htm&type=5
 
 **YUSUF:**
-> So count the automations your business really needs. More than five? Now you know what your next quote looks like.
+> So count the automations you really need. More than five? Now you know your next quote.
 
 ## 3:19 Cost 2: The add-ons
 
 **ON SCREEN:** cost tracker: **Cost 2 of 5: Add-ons**. Tag: **Add-on = a separate subscription for a missing piece**
 
 **YUSUF:**
-> Cost number two: the add-ons. What's on the price page is not your bill. It's where the bill starts. And Salesforce says so themselves, in their own FAQ.
+> Cost number two: the add-ons. The price page is not your bill. It's where the bill starts. Salesforce says so themselves, in their own FAQ.
 
 **ON SCREEN:** quote card from salesforce.com/sales/pricing (FAQ, "Are there upfront costs or additional fees?"): *"Salesforce has all kinds of add-ons, apps, and additional products…"* · tag **salesforce.com, Oct 2026**
 Link: https://www.salesforce.com/sales/pricing/
@@ -141,7 +141,7 @@ Link: https://www.salesforce.com/sales/pricing/
 Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforce_12_employees_upgrade_quote/
 
 **YUSUF:**
-> Back to our twelve-person firm. They needed a dialer, call recording, accounting sync, an AI tool, and forms. The forms tool alone was quoted at four thousand eight hundred a year. And every one of those is a separate vendor with its own twelve-month lock-in.
+> Our twelve-person firm needed a dialer, call recording, accounting sync, an AI tool and forms. The forms tool alone was quoted at four thousand eight hundred a year. Each one is a separate vendor with its own twelve-month lock-in.
 
 **ON SCREEN:** quote card: *"I shaved a solid $30,000 off our renewal by removing Premier Success from the contract, which our account rep kept including in the Docusign SIX TIMES…"* · tag **r/salesforce · May 2026**. Tag beside it: **Premier Success = paid support plan**
 Link: https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternatives/ol052or/
@@ -161,20 +161,20 @@ Link: https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternativ
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> One quick thing. We do a free twenty-minute CRM fit check, to show you what a CRM built for your business could look like. The link's in the description. OK, cost three.
+> One quick thing. Our free twenty-minute CRM fit check shows you what a CRM built for your business could look like. The link's in the description. Cost three.
 
 ## 4:43 Cost 3: The people
 
 **ON SCREEN:** cost tracker: **Cost 3 of 5: The people**. Tag: **Admin = the person who changes how Salesforce works**
 
 **YUSUF:**
-> Cost number three: the people. Salesforce can do almost anything. But somebody has to set it up, and somebody has to change it. A small company usually doesn't have an admin. So you pay a consultant, by the hour.
+> Cost number three: the people. Salesforce can do almost anything, but somebody has to set it up and change it. A small company usually has no admin, so you pay a consultant by the hour.
 
 **ON SCREEN:** quote card: *"In Salesforce every small change needed a consultant who charged us 200 dollars per hour and took three weeks."* · tag **r/CRM · Sep 2026 · 30-person firm**
 Link: https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_company_stay_with/p7o5f3i/
 
 **YUSUF:**
-> Here's what that looks like: a thirty-person firm. They moved from Salesforce to Zoho, and wrote about it in September 2026. On Salesforce, every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
+> One thirty-person firm moved from Salesforce to Zoho, and wrote about it in September 2026. Every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
 
 **ON SCREEN:** the complaints chart, first two bars: Price **430+** (grey) · **Too complicated: around 280** (accent). Then the fourth bar appears: **Paying a consultant for changes: about 120**
 
@@ -184,7 +184,7 @@ Link: https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_compan
 **ON SCREEN:** the Where-the-money-goes bar, third block: **People $200/hour · 3 weeks per change**.
 
 **YUSUF:**
-> Add that up for your own company. Twelve months of consultant invoices, plus the part nobody counts: the hours your own people spend fixing Salesforce. That's on the bill too. But the bigger cost is the three weeks. Every time your business needs to change something, it stands still and waits.
+> Add up twelve months of consultant invoices, plus the hours your own people spend fixing Salesforce. But the bigger cost is the three weeks. Every time your business needs to change something, it stands still and waits.
 
 ## 5:35 Cost 4: The renewal
 
@@ -198,12 +198,12 @@ Small tag under the card: **Order form = the paper you signed**
 Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf
 
 **YUSUF:**
-> Cost number four: the renewal. This is Salesforce's own main services agreement, updated in October 2026. Unless your order form says otherwise, you renew automatically for another year. If you want to stop it, you have to give written notice at least thirty days before the term ends. Email counts. And unless your order form says otherwise, you can't reduce your licences during the term.
+> Cost number four: the renewal. This is Salesforce's own main services agreement, updated in October 2026. Unless your order form says otherwise, you renew automatically for another year, and you can't reduce your licences during the term. To stop it, give written notice at least thirty days before the term ends. Email counts.
 
 **ON SCREEN:** the MSA PDF, zoomed on §11.2, highlighted: *"any renewal in which subscription volume or subscription length for any Services has decreased from the prior term will result in re-pricing at renewal without regard to the prior term's per-unit pricing."* 
 
 **YUSUF:**
-> And look at this sentence. If you renew with fewer licences, or a shorter term, they re-price you. Without regard to what you paid per licence before. In plain words, buy less, and each licence can cost more.
+> And look at this sentence. Renew with fewer licences or a shorter term, and they re-price you, without regard to what you paid before. Buy less, and each licence can cost more.
 
 **ON SCREEN:** quote card: *"It was ~100k in ACV last year. I halved our license count and everything went to list price."* · tag **r/salesforce · Jan 2026**. Tag: **ACV = what you pay per year**
 Link: https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/
@@ -217,7 +217,7 @@ Link: https://help.salesforce.com/s/articleView?language=en_US&id=xcloud.users_y
 **YUSUF:**
 > More than a hundred and fifty Salesforce customers in our study complained about renewals and contracts.
 >
-> So find your renewal date. Click the Setup gear, open Your Account, then Contracts. Set a reminder ninety days before, and that day, email your rep what you want to change. The contract says thirty days. Give yourself ninety.
+> So find your renewal date. Setup gear, Your Account, Contracts. Set a reminder ninety days before, and that day, email your rep what you want to change. The contract says thirty days. Give yourself ninety.
 
 **ON SCREEN:** the typed list, costs 1 to 4 ticked. Fourth block of the money bar: **Renewal: halved licences → list price**.
 
@@ -226,62 +226,62 @@ Link: https://help.salesforce.com/s/articleView?language=en_US&id=xcloud.users_y
 **ON SCREEN:** cost tracker: **Cost 5 of 5: Fit**. The Where-the-money-goes bar's fifth block: **?** with the tag **What it can't do**
 
 **YUSUF:**
-> Cost number five. Here's the thing. For a small company, Salesforce is too much and not enough at the same time. You pay for a platform built for thousands of users. And your own way of working still doesn't fit, unless you pay a consultant.
+> Cost number five. For a small company, Salesforce is too much and not enough at the same time. You pay for a platform built for thousands of users, and your way of working still doesn't fit, unless you pay a consultant.
 
 **ON SCREEN:** quote card: *"…it's not a stock sales pipeline, it's a system of record built around our specific operating model."* · tag **r/CRMSoftware · Aug 2026**
 Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforce_12_employees_upgrade_quote/
 
 **YUSUF:**
-> Our twelve-person firm said it best. Their Salesforce is built around how their business runs. So they can't easily leave. So, three real ways out.
+> Our twelve-person firm said it best. Their Salesforce is built around how their business runs, so they can't easily leave. Three real ways out.
 
 **ON SCREEN:** a three-way fork graphic, filled in one branch at a time: **1. A smaller Salesforce** · **2. Another rented CRM** · **3. Software you own**
 
 **YUSUF:**
-> Number one, a smaller Salesforce. Fewer licences, fewer add-ons, a lower edition. But you just saw that renewal clause. Cut licences at renewal and they re-price you. Each licence can cost more.
+> Number one, a smaller Salesforce. Fewer licences, fewer add-ons, a lower edition. But cut licences at renewal and they re-price you.
 
 **ON SCREEN:** under **2. Another rented CRM**: quote card: *"We were in similar spot with 18 people last year… Migration took about 4 months and cost around 40k… our annual CRM spend went from 90k to under 25k"* · tag **r/CRM · Aug 2026**
 Link: https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3dclo1/
 
 **YUSUF:**
-> Number two, another rented CRM. HubSpot, Zoho, Pipedrive. One eighteen-person company moved in 2025. It took four months and cost them about forty thousand dollars. And their yearly CRM bill went from ninety thousand to under twenty-five.
+> Number two, another rented CRM. One eighteen-person company moved in 2025. Four months, about forty thousand dollars. Their yearly CRM bill went from ninety thousand to under twenty-five.
 
 **ON SCREEN:** bar chart: "Salesforce customers in our study who'd already moved to another rented CRM": **Glad they moved: about 160** · **Regretted it: nearly 40**
 
 **YUSUF:**
-> And in our study, about one in five Salesforce customers who moved to another rented CRM regretted it.
+> But about one in five Salesforce customers in our study who moved to another rented CRM regretted it.
 
 **ON SCREEN:** under **3. Software you own**: quote card: *"We're spending close to $100k per year on 50ish Salesforce licenses. It will cost me less than half that to finish the new system and handle ongoing hosting."* · tag **r/CRMSoftware · Sep 2026**
 Link: https://www.reddit.com/r/CRMSoftware/comments/1wkpmnz/anyone_here_successfully_move_off_salesforce/pasfa5b/
 
 **YUSUF:**
-> Number three, software you own. Built only for what your business does. One company pays about a hundred thousand a year for fifty licences. And they're building their own for less than half of that, hosting included. They're still building.
+> Number three, software you own, built only for what your business does. One company pays about a hundred thousand a year for fifty licences. They're building their own for less than half of that, hosting included. They're still building.
 
 **ON SCREEN:** quote card: *"You don't really want to hire _an engineer_ to build and maintain something - at best it will be a massive key person risk…"* · tag **r/CRM · Aug 2026**. Tag: **Key person risk = only one person knows how it works**
 Link: https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3hbr7g/
 
 **YUSUF:**
-> And now the honest risk. Someone who has built a custom CRM themselves warned a small-company owner in the same spot. Don't hire one engineer to build it and maintain it. Because if that person leaves, nobody knows how it works. Building it is the easy part. Keeping it running is the hard part.
+> The honest risk: someone who has built a custom CRM warned a small-company owner not to hire one engineer to build and maintain it. If that person leaves, nobody knows how it works. Building it is the easy part. Keeping it running is the hard part.
 
-**ON SCREEN:** the fork again, with the tag **DO THIS TODAY: list every workaround · mark what's really yours** on "Before you pick". Then Salesforce help-center screenshot: **Setup → Data Export**, arrow on **Export Now**, source tag **Salesforce help center**, on "run a data export this month".
+**ON SCREEN:** the fork again, with the tag **DO THIS TODAY: list every workaround** on "Before you pick". Then Salesforce help-center screenshot: **Setup → Data Export**, arrow on **Export Now**, source tag **Salesforce help center**, on "run a data export this month".
 Link: https://help.salesforce.com/s/articleView?id=admin_exportdata.htm&language=en_US
 
 **ON SCREEN:** the MSA PDF zoomed on §2.2, highlighted: *"Upon request by Customer made within 30 days after the effective date of termination or expiration of this Agreement, SFDC will make Customer Data available"* and *"After such 30-day period, SFDC will have no obligation to maintain or provide any Customer Data"*, on "After that, Salesforce has no obligation to keep it". Tag **Ask within 30 days (§2.2)**
 Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf
 
 **YUSUF:**
-> Before you pick any way out, ask your team one question. What do we do outside Salesforce every week, because it can't do it, or because changing it costs a consultant? Write down every spreadsheet and every manual step. Then mark what's really yours. Your pricing rules, your jobs, your projects, your approvals. That list is what any new system has to do on day one. And run a data export this month. When the contract ends, you have to ask for your data within thirty days. After that, Salesforce has no obligation to keep it.
+> Before you pick any way out, ask your team one question. What do we do outside Salesforce every week, because it can't do it, or because changing it costs a consultant? Write it down. That list is what any new system has to do on day one. And run a data export this month. When the contract ends, you have to ask for your data within thirty days. After that, Salesforce has no obligation to keep it.
 
 **ON SCREEN:** lower-third tag: **Comment: team size + 1 thing you wish Salesforce could do**
 
 **YUSUF:**
-> What's one thing you wish Salesforce could do for you? Tell me below, and how many people are on your team.
+> What's one thing you wish Salesforce could do for you? Tell me below, with your team size.
 
 ## 9:31 Recap
 
 **ON SCREEN:** the typed list, all five ticked; the Where-the-money-goes bar complete, no total.
 
 **YUSUF:**
-> So, the five costs. The licence you really need. The add-ons around it. The people it takes to change it. A renewal that lets you grow but never shrink. And the fit. Too much platform, and still not built for how you work.
+> So, the five costs. The licence you really need. The add-ons around it. The people it takes to change it. A renewal that lets you grow but never shrink. And the fit.
 
 ## 9:48 Is a smaller Salesforce enough?
 
@@ -289,28 +289,28 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 
 
 **YUSUF:**
-> A smaller Salesforce gets you a smaller bill. For a year. The add-ons still renew one by one. Every change still needs a consultant. And your list of workarounds doesn't get any shorter.
+> A smaller Salesforce gets you a smaller bill, for a year. Every change still needs a consultant, and your list of workarounds doesn't get shorter.
 
 ## 10:20 What we do
 
 **ON SCREEN:** five tags, one per phrase: **Built for how you work** · **You own the code** · **We maintain it** · **No long contract** · **Leave with everything**
 
 **YUSUF:**
-> That's where my company, CRM From Within, comes in. We build you a CRM around how your company sells and delivers. If Salesforce can't do it, we build it. We move your data over. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
+> That's where my company, CRM From Within, comes in. We build you a CRM around how your company sells and delivers. We move your data over. You own the code and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
 
 **ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
 
 **YUSUF:**
-> We work with companies of ten to fifty people that a standard setup doesn't fit. If yours fits, stay where you are.
+> We work with companies of ten to fifty people that a standard setup doesn't fit. If yours fits, stay.
 
 ## 10:45 Close
 
-**ON SCREEN:** checklist building line by line: **Before your renewal: ☐ Read your order form ☐ 12 months of consultants ☐ Renewal date + 90-day reminder ☐ List your workarounds ☐ Test the export**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
+**ON SCREEN:** checklist building line by line: **Before your renewal: ☐ Read your order form ☐ 12 months of consultants ☐ Renewal date + 90-day reminder**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> Before your next renewal, read your order form. Add up a year of consultants. Put your renewal in the calendar, ninety days early. List your workarounds. And test your export. Otherwise, the renewal just comes around and decides for you.
+> Before your next renewal, read your order form, add up a year of consultants, and put the date in your calendar, ninety days early. Otherwise, the renewal just comes around and decides for you.
 >
-> If your list is mostly things Salesforce can't do, show it to us on a free twenty-minute CRM fit check. The link's in the description.
+> Mostly things Salesforce can't do? Show us on a free twenty-minute CRM fit check. The link's in the description.
 >
 > Next up: what to do when your Salesforce admin leaves.
 

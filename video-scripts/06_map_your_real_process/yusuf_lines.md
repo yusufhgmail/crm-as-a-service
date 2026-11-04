@@ -4,19 +4,19 @@
 
 ## Proof
 
-Over the last ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. Now, at my new company, CRM From Within, we've studied what more than five thousand CRM buyers say. Nearly nineteen hundred of them said the same thing: it doesn't fit how we work.
+In ten years, me and my team have set up CRMs for hundreds of companies. I built a CRM SaaS company, and I sold it. Now, at my new company, CRM From Within, we've studied what more than five thousand CRM buyers say. Nearly nineteen hundred said the same thing: it doesn't fit how we work.
 
 ## Who it's for
 
-Maybe that's you: you pay for a CRM, HubSpot, Salesforce, anything, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard. This video shows you how to map how your team really works, so you can find the step that's holding your business back, before you buy anything.
+Maybe that's you: you pay for a CRM, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard. This video finds the step that's holding your business back, before you buy anything.
 
 ## Promise
 
-We found a company in Texas that finds apartments for renters. In 2018 they had a hundred and twenty people and thirteen million dollars in revenue. They were on Zoho, and in the founder's words, leads were still falling through the cracks. They had plenty of leads. They just couldn't work them. So they built their own CRM, for one point two million dollars. The next year they had a hundred people and nineteen million in revenue. Twenty fewer people, six million more. And the founder says that CRM increased revenue per agent by thirty-eight percent.
+We found a company in Texas that finds apartments for renters. In 2018: a hundred and twenty people, thirteen million dollars in revenue. They were on Zoho, and in the founder's words, leads were still falling through the cracks. They had plenty of leads. They just couldn't work them. So they built their own CRM, for one point two million dollars. The next year: a hundred people, nineteen million. Twenty fewer people, six million more. The founder says that CRM increased revenue per agent by thirty-eight percent.
 
-All the stories here are real, and the links are in the description.
+Every story here is real. The links are in the description.
 
-That's what a bottleneck does. One step holds back the whole company, and it doesn't show up on any CRM screen. So in this video I'll show you how to see how a job really moves through your company, how to find every step that happens outside your CRM, how to spot the one that's holding everything back, and which problems you can fix today and which ones you can't. Five steps, thirty minutes, and you do it with the people who do the work.
+That's what a bottleneck does. One step holds back the whole company, and no CRM screen shows it. In this video you'll map how a job really moves through your company, find the step holding everything back, and see what you can fix today and what you can't. Five steps, thirty minutes, with the people who do the work.
 
 ## Plan
 
@@ -24,53 +24,53 @@ At the end, one letter on each problem tells you what to fix this week, what to 
 
 ## Step 1: Pick one real job
 
-Step one. Pick one real job. Not your process in general. One actual customer, from the last month, that's already paid. And get the people who touched it in the room: whoever took the first call, whoever priced it, whoever did the work, and whoever sent the invoice.
+Step one. Pick one real job. One actual customer from the last month, already paid. Get the people who touched it in the room: first call, pricing, the work, the invoice.
 
-Why a real job? Ask people how your process works, and they tell you how it should work. Ask what happened with one real job, and they tell you the truth.
+Ask how your process works, and people tell you how it should work. Ask what happened on one real job, and they tell you the truth.
 
-We found the co-founder of a property lender. Twenty-seven people, ten years in business, profitable. And he says, "Everything technically works, but it's all manual, somewhat disconnected." Honestly, that's most companies from the inside. Nothing is broken. It just all runs on people.
+We found the co-founder of a twenty-seven-person property lender, ten years in, profitable. He says, "Everything technically works, but it's all manual, somewhat disconnected." That's most companies. Nothing is broken. It just all runs on people.
 
-I'll do it with our demo roofing company. It's a made-up company in a real HubSpot account. The job is a hail repair, seven thousand two hundred dollars, marked Closed Won. So pick yours, book thirty minutes, and get those four people in a room.
+I'll use our demo roofer, a made-up company in a real HubSpot account. The job: a hail repair, seven thousand two hundred dollars, marked Closed Won.
 
 ## Step 2: Write every step
 
-Step two. Write every step, from the first contact to the money in the bank. One sticky note per step. And every sticky starts with a verb, so someone did something. You've got ten minutes. Go in order, and let the people who did the work say it, not the manager.
+Step two. Write every step, from first contact to money in the bank. One sticky note per step, each starting with a verb. Ten minutes. The people who did the work say it, not the manager.
 
-For our roofer: the lead calls. Someone books an inspection. The inspector goes up, takes photos and measurements. Someone writes the estimate. The insurance adjuster approves it. The homeowner signs. Materials get ordered. A crew gets scheduled. The job's done, with photos. The final invoice goes out. And it gets paid. Eleven steps.
+For our roofer: the lead calls. Someone books an inspection. The inspector takes photos and measurements. Someone writes the estimate. The insurance adjuster approves it. The homeowner signs. Materials get ordered. A crew gets scheduled. The job's done. The final invoice goes out. It gets paid. Eleven steps.
 
-Now look at the CRM board next to it. It ends at Closed Won. For a roofer, that's step six of eleven. The materials, the crew, the invoice, getting paid, all of that happens after the CRM says you're done.
+Now look at the CRM board. It ends at Closed Won. For a roofer, that's step six of eleven. The materials, the crew, the invoice, getting paid: all after the CRM says you're done.
 
-Another company sells equipment. They looked at existing CRMs and paid for customisations on some of them over several years. But one deal for them can be a sale, an engineering project, an installation and a removal, all at once. And they call that "a little different". Put it on sticky notes and you see it's their whole business, not a little difference.
+Another company sells equipment. They paid to customise several CRMs over the years. But one deal can be a sale, an engineering project, an installation and a removal, all at once. They call that "a little different". On sticky notes, it's their whole business.
 
-And one rule. If someone says "and then it just happens", ask who does it.
+One rule. If someone says "and then it just happens", ask who does it.
 
 ## Free CRM fit check
 
-If you'd like to see what a CRM built around your map could look like, there's a free twenty-minute CRM fit check in the description. Now, step three.
+Want a CRM built around your map? Start with the free twenty-minute CRM fit check in the description. Step three.
 
 ## Step 3: Mark where each step lives
 
-Step three. Under each sticky, mark where that step really lives. Green if it happens in the CRM. Red if it happens anywhere else: a spreadsheet, someone's inbox, a text message, the whiteboard, paper, or someone's head.
+Step three. Under each sticky, mark where that step really lives. Green if it's in the CRM. Red if it's anywhere else: a spreadsheet, an inbox, a text, the whiteboard, someone's head.
 
-So for our demo roofer, the first call is in the CRM. The signed contract is in the CRM. Everything else is red. Two green, nine red.
+For our roofer, the first call and the signed contract are in the CRM. Everything else is red. Two green, nine red.
 
-One Pipedrive customer, in May, thought they could build proposals inside the CRM. They couldn't. So it's Microsoft Word, open an old proposal, find and replace. Then the proposal didn't send, they sent it by email instead, and the CRM lost track of the deal. So one red sticker, and the green ones around it stop working too.
+One Pipedrive customer thought they could build proposals inside the CRM. They couldn't. So it's Microsoft Word, find and replace. Then the proposal didn't send, they emailed it instead, and the CRM lost track of the deal. One red sticker, and the green ones around it stop working too.
 
-Remember the nearly nineteen hundred buyers who said their CRM doesn't fit? Well, around two hundred buyers in our study wrote about the spreadsheets and the re-typing they do next to their CRM. So, five minutes. Green or red, under every sticky.
+Nearly nineteen hundred buyers said their CRM doesn't fit. Around two hundred wrote about the spreadsheets and re-typing next to it. Five minutes: green or red under every sticky.
 
 ## Step 4: Find the bottleneck
 
-Step four. Find the bottleneck. Start with the re-typing. Every time the same information gets typed a second time, the customer's name, the address, the price, the line items, draw a red arrow from where it was typed first to where it's typed again.
+Step four. Find the bottleneck. Start with the re-typing. Every time the same information gets typed twice, the name, the address, the price, draw a red arrow.
 
-So on our map, the name and address get typed into the estimate. The prices get typed again into the invoice. The job details get copied onto the crew whiteboard. And the payment gets entered in two places. Four red arrows.
+On our map: name and address into the estimate. Prices into the invoice. Job details onto the crew whiteboard. The payment, in two places. Four red arrows.
 
-Most of those arrows are just annoying. Ten minutes here, ten minutes there. That's not what you're looking for. You're looking for the one step that decides how much work you can win. One small company had a website form connected to an automation. It broke, and nobody saw it for six months. In their words, it cost them tens of thousands of dollars in lost revenue.
+Most of those are just annoying. Ten minutes here, ten there. You're looking for the one step that decides how much work you can win. One small company's website form broke the automation behind it, and nobody saw it for six months. In their words, it cost them tens of thousands of dollars in lost revenue.
 
-So walk your map and ask one question. Where does work pile up and wait? For our roofer, it's the estimate. It only gets written in the evening, when someone has time, so the homeowner waits three days. And some of them call another roofer. Say that costs two jobs a month, at seven thousand two hundred dollars a job. That's more than a hundred and seventy thousand dollars a year, from one step. That's your bottleneck. Ask the people who do the work. They know where it is.
+So ask one question. Where does work pile up and wait? For our roofer, it's the estimate. It only gets written in the evening, so the homeowner waits three days, and some of them call another roofer. Say that costs two jobs a month, at seven thousand two hundred dollars. That's more than a hundred and seventy thousand dollars a year, from one step. That's your bottleneck. The people who do the work know where it is.
 
 ## Step 5: Sort it: setting, tier or fit
 
-Step five. Go through every red sticker and every red arrow, and write one letter on it. S, T or F. Setting, tier or fit.
+Step five. Write one letter on every red sticker and arrow. S, T or F. Setting, tier or fit.
 
 A setting is something your CRM can already do, and nobody set it up. "Book inspection" doesn't need to live on the whiteboard. In HubSpot it's Settings, Objects, Deals, Pipelines, add a stage. That's an S. Fix it this week.
 
@@ -78,31 +78,31 @@ A tier is something your CRM can do, on a bigger plan. Say our roofer wants insu
 
 That's a second pipeline, and when I recorded this, HubSpot's free plan gave you zero extra pipelines.
 
-In March, one company needed one more pipeline. On their plan, the next level up came with fifteen, and cost around five thousand dollars more a year. Fourteen pipelines they'd never use. That's a T. You decide it at renewal, with the numbers.
+One company needed one more pipeline. The next plan up came with fifteen, for around five thousand dollars more a year. Fourteen pipelines they'd never use. That's a T. Decide it at renewal.
 
-And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. In their words: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
+A fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. In their words: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
 
-Five minutes, one letter each. When you're done, count them. The S's are this week's to-do list. The T's go on your renewal list. And if your bottleneck has an F on it, no setting and no plan will ever fix it.
+Now count them. The S's are this week's to-do list. The T's go on your renewal list. And if your bottleneck has an F on it, no setting and no plan will ever fix it.
 
-What's the one step that holds your business back? Drop it in the comments, with your team size.
+What's the one step holding your business back? Tell me in the comments, with your team size.
 
 ## Recap
 
-So, the thirty-minute map. Pick one real job. Write every step, start to paid. Mark where each step really lives. Find the bottleneck and put a number on it. And sort every red one: setting, tier or fit.
+So: pick one real job. Write every step. Mark where each one lives. Find the bottleneck and price it. Sort every red one: setting, tier or fit.
 
 ## Is a map enough?
 
-Fixing the S's this week is worth doing. But the F's don't go away. You can pay to bend the CRM around them. A former developer at one company says they spent a million dollars customising Salesforce to their business. And then, in his words, "So now we're locked in."
+Fixing the S's is worth doing. But the F's don't go away. You can pay to bend the CRM around them. A former developer at one company says they spent a million dollars customising Salesforce. And then, in his words, "So now we're locked in."
 
 ## What we do
 
-There's another way, and it's what we do at CRM From Within. We build you a CRM from your map, so the F's turn green. And it doesn't cost a million dollars any more. We move your data over, you own the code, we maintain it, and there's no long contract.
+There's another way, and it's what we do at CRM From Within. We build you a CRM from your map, so the F's turn green. It doesn't cost a million dollars any more. We move your data over, you own the code, we maintain it, and there's no long contract.
 
-It's for companies of ten to fifty people with a map full of F's. If your map is mostly S's, you don't need us. Fix them this week.
+It's for companies of ten to fifty people with a map full of F's. Mostly S's? You don't need us.
 
 ## Close
 
-Your move: book thirty minutes with your team this week. Map one real job. Find the step everything waits on. And fix every S before Friday.
+Book thirty minutes with your team this week. Map one real job. Find the step everything waits on. Fix every S before Friday.
 
 Mostly F's? Bring your map to a free twenty-minute CRM fit check. The link's in the description.
 
