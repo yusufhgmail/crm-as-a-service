@@ -58,7 +58,7 @@ Pair the title with thumbnail 1 first (or 5); thumbnails 2–4 are price variati
 **ON SCREEN:** one tag: **Small team on Salesforce? This is for you.**
 
 **YUSUF:**
-> More than four hundred of them complained about what they pay. If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video shows you what it really costs a fifteen-person company, so nothing catches you out.
+> More than four hundred of them complained about what they pay. If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video gives you the real numbers.
 
 ## 0:28 Promise
 
@@ -73,7 +73,7 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforc
 **ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then four tags appear beside Yusuf, one per phrase: ✓ **Know your real cost** · ✓ **Find the hidden add-ons** · ✓ **Know your renewal terms** · ✓ **See your real options**
 
 **YUSUF:**
-> So in this video I'll show you what Salesforce really costs a fifteen-person company, at the prices when I recorded this. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
+> So in this video I'll show you what Salesforce really costs a fifteen-person company, using the prices from when I recorded this. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
 
 ## 1:30 Plan
 
@@ -177,7 +177,7 @@ Link: https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternativ
 Link: https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_company_stay_with/p7o5f3i/
 
 **YUSUF:**
-> Here's another example: a thirty-person firm. They moved from Salesforce to Zoho, and wrote about it in September 2026. On Salesforce, every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
+> Here's what that looks like: a thirty-person firm. They moved from Salesforce to Zoho, and wrote about it in September 2026. On Salesforce, every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
 
 **ON SCREEN:** the complaints chart, first two bars: Price **430+** (grey) · **Too complicated: around 280** (accent). Then the fourth bar appears: **Paying a consultant for changes: about 120**
 
@@ -212,7 +212,7 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 Link: https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/
 
 **YUSUF:**
-> That's what happened here. A hundred thousand a year. They cut their licences in half, and everything went to list price.
+> That's what happened to one customer. They paid about a hundred thousand a year, cut their licences in half, and everything went to list price.
 
 **ON SCREEN:** the complaints chart: bar **Renewals & contracts 150+** (accent) on "More than a hundred and fifty". Then Salesforce help-center screenshot of **Your Account → Contracts → Manage Renewal** · source tag **Salesforce help center**: arrows on the Setup gear and **Contracts**, red box on the renewal date and auto-renew field. Timeline **90 days before: written notice by email** → **30 days before: contract deadline** → **Renewal date**. Tag **DO THIS TODAY: renewal date · auto-renew · 90-day email**.
 Link: https://help.salesforce.com/s/articleView?language=en_US&id=xcloud.users_your_account_manage_renewals.htm&type=5
@@ -243,7 +243,7 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforc
 **ON SCREEN:** a three-way fork graphic, filled in one branch at a time: **1. A smaller Salesforce** · **2. Another rented CRM** · **3. Software you own**
 
 **YUSUF:**
-> Number one, a smaller Salesforce. Fewer licences, fewer add-ons, a lower edition. But you just saw section eleven point two. Cut licences at renewal and they re-price you. Each licence can cost more.
+> Number one, a smaller Salesforce. Fewer licences, fewer add-ons, a lower edition. But you just saw that renewal clause. Cut licences at renewal and they re-price you. Each licence can cost more.
 
 **ON SCREEN:** under **2. Another rented CRM**: quote card: *"We were in similar spot with 18 people last year… Migration took about 4 months and cost around 40k… our annual CRM spend went from 90k to under 25k"* · tag **r/CRM · Aug 2026**
 Link: https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3dclo1/
@@ -302,7 +302,7 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 **ON SCREEN:** five tags, one per phrase: **Built for how you work** · **You own the code** · **We maintain it** · **No long contract** · **Leave with everything**
 
 **YUSUF:**
-> That's what CRM From Within is for. We build you a CRM around how your company sells and delivers. If Salesforce can't do it, we build it. We move your data over. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
+> That's where my company, CRM From Within, comes in. We build you a CRM around how your company sells and delivers. If Salesforce can't do it, we build it. We move your data over. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
 
 **ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
 

@@ -20,7 +20,7 @@ That Excel file doesn't show up on any CRM screen. That's the problem. So in thi
 
 ## Plan
 
-Five steps, and the minutes add up to thirty. At the end, one letter on each problem tells you what to fix this week, what to leave for your renewal, and what no plan will ever fix.
+At the end, one letter on each problem tells you what to fix this week, what to leave for your renewal, and what no plan will ever fix.
 
 ## Step 1: Pick one real job
 
@@ -28,7 +28,7 @@ Step one. Pick one real job. Not your process in general. One actual customer, f
 
 Why a real job? Ask people how your process works, and they tell you how it should work. Ask what happened with one real job, and they tell you the truth.
 
-This is the co-founder of a property lender. Twenty-seven people, ten years in business, profitable. And he says, "Everything technically works, but it's all manual, somewhat disconnected." Honestly, that's most companies from the inside. Nothing is broken. It just all runs on people.
+We found the co-founder of a property lender. Twenty-seven people, ten years in business, profitable. And he says, "Everything technically works, but it's all manual, somewhat disconnected." Honestly, that's most companies from the inside. Nothing is broken. It just all runs on people.
 
 I'll do it with our demo roofing company. It's a made-up company in a real HubSpot account. The job is a hail repair, seven thousand two hundred dollars, marked Closed Won. So pick yours, book thirty minutes, and get those four people in a room.
 
@@ -56,7 +56,7 @@ Step three. Under each sticky, mark where that step really lives. Green if it ha
 
 So for our demo roofer, the first call is in the CRM. The signed contract is in the CRM. Everything else is red. Two green, nine red.
 
-This Pipedrive customer, in May, thought they could build proposals inside the CRM. They couldn't. So it's Microsoft Word, open an old proposal, find and replace. Then the proposal didn't send, they sent it by email instead, and the CRM lost track of the deal. So one red sticker, and the green ones around it stop working too.
+One Pipedrive customer, in May, thought they could build proposals inside the CRM. They couldn't. So it's Microsoft Word, open an old proposal, find and replace. Then the proposal didn't send, they sent it by email instead, and the CRM lost track of the deal. So one red sticker, and the green ones around it stop working too.
 
 Remember the nearly nineteen hundred buyers who said their CRM doesn't fit? Well, around two hundred buyers in our study wrote about the spreadsheets and the re-typing they do next to their CRM. So, five minutes. Green or red, under every sticky.
 
@@ -66,7 +66,7 @@ Step four. Draw the re-typing. Every time the same information gets typed a seco
 
 So on our map, the name and address get typed into the estimate. The prices get typed again into the invoice. The job details get copied onto the crew whiteboard. And the payment gets entered in two places. Four red arrows.
 
-This Jobber customer, in June, paid for a full year. Their invoice numbers clashed with QuickBooks, so now every invoice has to start in Jobber. And every payment gets checked in QuickBooks for late fees, then typed in again. That's a red arrow on every payment, for a year.
+One Jobber customer, in June, paid for a full year. Their invoice numbers clashed with QuickBooks, so now every invoice has to start in Jobber. And every payment gets checked in QuickBooks for late fees, then typed in again. That's a red arrow on every payment, for a year.
 
 Then put a number on each arrow. How many times a week does it happen, times how many minutes. If the office types fifteen estimates into invoices a week, and each takes ten minutes, that's two and a half hours, every week, on one arrow. Ask the person who does it. They know the number exactly.
 
@@ -80,11 +80,11 @@ A setting is something your CRM can already do, and nobody set it up. "Book insp
 
 A tier is something your CRM can do, on a bigger plan. Say our roofer wants insurance jobs and cash jobs on separate boards.
 
-That's a second pipeline, and HubSpot's free plan gives you zero extra pipelines.
+That's a second pipeline, and when I recorded this, HubSpot's free plan gave you zero extra pipelines.
 
 In March, one company needed one more pipeline. On their plan, the next level up came with fifteen, and cost around five thousand dollars more a year. Fourteen pipelines they'd never use. That's a T. You decide it at renewal, with the numbers.
 
-And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. Their answer: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
+And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. In their words: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
 
 Five minutes, one letter each. When you're done, count them. The S's are this week's to-do list. The T's go on your renewal list. And the F's, with the hours you wrote next to them, are what your CRM really doesn't do for you.
 
@@ -102,7 +102,7 @@ Fixing the S's this week is worth doing. But the F's don't go away. You can pay 
 
 There's another way, and it's what we do at CRM From Within. We build you a CRM from your map, so the F's turn green. We move your data over, you own the code, we maintain it, and there's no long contract.
 
-It's for companies of ten to fifty people with a map like that. If your map is mostly S's, you don't need us. Fix them this week.
+It's for companies of ten to fifty people with a map full of F's. If your map is mostly S's, you don't need us. Fix them this week.
 
 ## Close
 

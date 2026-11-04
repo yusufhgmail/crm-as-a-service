@@ -83,7 +83,7 @@ Link: https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_o
 Tag on item 5 when he says "one letter": **What to do about it**
 
 **YUSUF:**
-> Five steps, and the minutes add up to thirty. At the end, one letter on each problem tells you what to fix this week, what to leave for your renewal, and what no plan will ever fix.
+> At the end, one letter on each problem tells you what to fix this week, what to leave for your renewal, and what no plan will ever fix.
 
 ---
 
@@ -103,7 +103,7 @@ Tag on item 5 when he says "one letter": **What to do about it**
 Link: https://www.reddit.com/r/revops/comments/1s782br/hiring_gtm_engineer_not_saas_not_a_startup/
 
 **YUSUF:**
-> This is the co-founder of a property lender. Twenty-seven people, ten years in business, profitable. And he says, "Everything technically works, but it's all manual, somewhat disconnected." Honestly, that's most companies from the inside. Nothing is broken. It just all runs on people.
+> We found the co-founder of a property lender. Twenty-seven people, ten years in business, profitable. And he says, "Everything technically works, but it's all manual, somewhat disconnected." Honestly, that's most companies from the inside. Nothing is broken. It just all runs on people.
 
 **ON SCREEN:** screen recording (upbridge portal), zoomed: CRM → Deals → board view. Red box on the deal **Scott – hail repair, 27 Birch Ln · $7,200** in the **Closed Won** column. Tag: **Our demo roofing company**. Then: **DO THIS: pick 1 paid job + get everyone who touched it**
 
@@ -169,7 +169,7 @@ Then a tally: **2 green · 9 red**
 Link: https://www.trustpilot.com/reviews/6a0f7a312c0d32c96933773a
 
 **YUSUF:**
-> This Pipedrive customer, in May, thought they could build proposals inside the CRM. They couldn't. So it's Microsoft Word, open an old proposal, find and replace. Then the proposal didn't send, they sent it by email instead, and the CRM lost track of the deal. So one red sticker, and the green ones around it stop working too.
+> One Pipedrive customer, in May, thought they could build proposals inside the CRM. They couldn't. So it's Microsoft Word, open an old proposal, find and replace. Then the proposal didn't send, they sent it by email instead, and the CRM lost track of the deal. So one red sticker, and the green ones around it stop working too.
 
 **ON SCREEN:** bar chart, "CRM buyers in our study who…": **Said it doesn't fit how they work: nearly 1,900** · **Wrote about spreadsheets or manual re-typing: ~200**. Then: **DO THIS: green or red under every sticky**
 
@@ -192,7 +192,7 @@ Link: https://www.trustpilot.com/reviews/6a0f7a312c0d32c96933773a
 Link: https://www.trustpilot.com/reviews/6a31401cd1527f13e6533afe
 
 **YUSUF:**
-> This Jobber customer, in June, paid for a full year. Their invoice numbers clashed with QuickBooks, so now every invoice has to start in Jobber. And every payment gets checked in QuickBooks for late fees, then typed in again. That's a red arrow on every payment, for a year.
+> One Jobber customer, in June, paid for a full year. Their invoice numbers clashed with QuickBooks, so now every invoice has to start in Jobber. And every payment gets checked in QuickBooks for late fees, then typed in again. That's a red arrow on every payment, for a year.
 
 **ON SCREEN:** whiteboard maths next to each arrow, written as he says it: **times a week × minutes**. Example on the **Estimate → Invoice** arrow: **15 jobs × 10 min = 2.5 hours a week**. Tag: **Your numbers, not ours**. Then: **DO THIS: red arrow for every re-type + times a week × minutes**
 
@@ -225,7 +225,7 @@ Link: https://www.trustpilot.com/reviews/6a31401cd1527f13e6533afe
 Link: https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelines
 
 **YUSUF:**
-> That's a second pipeline, and HubSpot's free plan gives you zero extra pipelines.
+> That's a second pipeline, and when I recorded this, HubSpot's free plan gave you zero extra pipelines.
 
 **ON SCREEN:** quote card: *"…won't let me buy a third Pipeline without having to pay for 15 with the next level…"* → *"I truly don't want to pay $5000 extra a year for 14 extra Pipelines I won't be using."* ("$5000 extra a year" and "14 extra Pipelines I won't be using" highlighted) · tag **r/hubspot · Mar 2026 · their plan then**
 Link: https://www.reddit.com/r/hubspot/comments/1rrrdco/creating_deals_without_adding_them_to_a_pipeline/
@@ -237,7 +237,7 @@ Link: https://www.reddit.com/r/hubspot/comments/1rrrdco/creating_deals_without_a
 Link: https://www.linkedin.com/posts/donalacdao_we-spent-over-16000-on-hubspot-it-didnt-activity-7442208668944769024-yW4S
 
 **YUSUF:**
-> And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. Their answer: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
+> And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. One CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. In their words: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
 
 **ON SCREEN:** the map, complete: eleven stickies, green and red stickers, four red arrows, S, T and F on the examples above. The Estimate → Invoice arrow keeps its maths (15 jobs × 10 min = 2.5 hours a week); the other three show **? h**. Then: **DO THIS: S, T or F on every red sticker and arrow**
 
@@ -274,7 +274,7 @@ Link: https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is
 **ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
 
 **YUSUF:**
-> It's for companies of ten to fifty people with a map like that. If your map is mostly S's, you don't need us. Fix them this week.
+> It's for companies of ten to fifty people with a map full of F's. If your map is mostly S's, you don't need us. Fix them this week.
 
 ## 10:42 Close
 

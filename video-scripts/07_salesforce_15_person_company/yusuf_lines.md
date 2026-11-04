@@ -8,7 +8,7 @@ Over the last ten years, me and my team have set up CRMs for hundreds of compani
 
 ## Who it's for
 
-More than four hundred of them complained about what they pay. If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video shows you what it really costs a fifteen-person company, so nothing catches you out.
+More than four hundred of them complained about what they pay. If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video gives you the real numbers.
 
 ## Promise
 
@@ -16,7 +16,7 @@ Our research turned up this one, from August. A twelve-person firm. They've been
 
 That story's linked in the description, like every story here.
 
-So in this video I'll show you what Salesforce really costs a fifteen-person company, at the prices when I recorded this. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
+So in this video I'll show you what Salesforce really costs a fifteen-person company, using the prices from when I recorded this. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
 
 ## Plan
 
@@ -56,7 +56,7 @@ One quick thing. We do a free twenty-minute CRM fit check, to show you what a CR
 
 Cost number three: the people. Salesforce can do almost anything. But somebody has to set it up, and somebody has to change it. A small company usually doesn't have an admin. So you pay a consultant, by the hour.
 
-Here's another example: a thirty-person firm. They moved from Salesforce to Zoho, and wrote about it in September 2026. On Salesforce, every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
+Here's what that looks like: a thirty-person firm. They moved from Salesforce to Zoho, and wrote about it in September 2026. On Salesforce, every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
 
 In our study, around two hundred and eighty Salesforce customers complained that it's too complicated, and about a hundred and twenty about paying a consultant for every change.
 
@@ -68,7 +68,7 @@ Cost number four: the renewal. This is Salesforce's own main services agreement,
 
 And look at this sentence. If you renew with fewer licences, or a shorter term, they re-price you. Without regard to what you paid per licence before. In plain words, buy less, and each licence can cost more.
 
-That's what happened here. A hundred thousand a year. They cut their licences in half, and everything went to list price.
+That's what happened to one customer. They paid about a hundred thousand a year, cut their licences in half, and everything went to list price.
 
 More than a hundred and fifty Salesforce customers in our study complained about renewals and contracts.
 
@@ -82,7 +82,7 @@ Cost number five. Here's the thing. For a small company, Salesforce is too much 
 
 Our twelve-person firm said it best. Their Salesforce is built around how their business runs. So they can't easily leave. So, three real ways out.
 
-Number one, a smaller Salesforce. Fewer licences, fewer add-ons, a lower edition. But you just saw section eleven point two. Cut licences at renewal and they re-price you. Each licence can cost more.
+Number one, a smaller Salesforce. Fewer licences, fewer add-ons, a lower edition. But you just saw that renewal clause. Cut licences at renewal and they re-price you. Each licence can cost more.
 
 Number two, another rented CRM. HubSpot, Zoho, Pipedrive. One eighteen-person company moved in 2025. It took four months and cost them about forty thousand dollars. And their yearly CRM bill went from ninety thousand to under twenty-five.
 
@@ -106,7 +106,7 @@ A smaller Salesforce gets you a smaller bill. For a year. The add-ons still rene
 
 ## What we do
 
-That's what CRM From Within is for. We build you a CRM around how your company sells and delivers. If Salesforce can't do it, we build it. We move your data over. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
+That's where my company, CRM From Within, comes in. We build you a CRM around how your company sells and delivers. If Salesforce can't do it, we build it. We move your data over. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
 
 We work with companies of ten to fifty people that a standard setup doesn't fit. If yours fits, stay where you are.
 

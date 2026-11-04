@@ -20,7 +20,7 @@ So in this video I'll go through the ten reasons companies want out of their CRM
 
 ## Plan
 
-So here's how we did it. We didn't send out a survey. We read public posts and reviews, from the places listed on screen. We kept only people who actually use or pay for a CRM. Every agency, consultant and vendor, we took out. And we counted each person once.
+Here's how we did the study. We didn't send out a survey. We read public posts and reviews, from the places listed on screen. We kept only people who actually use or pay for a CRM. Every agency, consultant and vendor, we took out. And we counted each person once.
 
 I'll start with number one, the biggest, and go to number ten. After that, I'll show you what surprised us most: how many of these people actually leave, and how many regret it.
 
@@ -30,7 +30,7 @@ Number one: price. Almost three thousand buyers complained about what they pay.
 
 Only around six hundred of them complained about price and nothing else. More than eleven hundred tied it to a renewal, a tier jump or seat costs. So most of the time the complaint is "it keeps going up, and we can't do anything about it". Way more than "this is expensive".
 
-One company we found says it pays Odoo thirty-five thousand dollars a year. They say they were charged a fee of about seven thousand Canadian dollars for staying on an older version, which they never agreed to. They disputed it, and they say their database was closed. So they paid, in their words, under pressure, to get access back. At this level, price means control.
+One company we found says it pays Odoo thirty-five thousand dollars a year. They say they were charged a fee of about seven thousand Canadian dollars for staying on an older version, which they never agreed to. They disputed it, and they say their database was closed. So they paid, in their words, under pressure, to get access back. So price isn't just about money. It's about control.
 
 The check: take three years of CRM invoices. For every increase, write down why. Because you grew? Or because they changed the price, the tier or the terms? The second part is the one you don't control.
 
@@ -40,7 +40,7 @@ Number two. Nearly nineteen hundred buyers said their CRM just doesn't fit how t
 
 One Australian company paid to customise HubSpot so it fit their business. Then HubSpot kept changing the platform, and those changes got in the way of what they'd paid to build. In their words, we paid for a CRM to work around our business.
 
-The check: draw how a customer moves through your business, from first call to paid invoice. Under each one, write where it really lives: in the CRM, in a spreadsheet, or in someone's head. Every box that isn't "CRM" is a workaround your team has just accepted.
+The check: write down each step a customer goes through in your business, from first call to paid invoice. Under each step, write where it really lives: in the CRM, in a spreadsheet, or in someone's head. Every step that isn't in the CRM is a workaround your team has just accepted.
 
 So that's one and two: price you can't control, and a CRM that doesn't fit how you work.
 
@@ -48,7 +48,7 @@ So that's one and two: price you can't control, and a CRM that doesn't fit how y
 
 Number three: too complicated. More than twelve hundred buyers said their CRM is too hard to use.
 
-This small business left Zoho for the industry leader, Salesforce. They found it extremely difficult, and paid a firm just to move their data.
+One small business left Zoho for the industry leader, Salesforce. They found it extremely difficult, and paid a firm just to move their data.
 
 The check: take your team's three most common tasks. Log a call, create a quote, move a deal. Count the clicks.
 
@@ -64,7 +64,7 @@ So that's three and four: a system that's too complicated to use, and support th
 
 ## Free CRM fit check
 
-If you're nodding along, we do a free twenty-minute CRM fit check. The link's in the description. OK, number five.
+If you're nodding along, book a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. OK, number five.
 
 ## Reason 5: Integrations
 
@@ -138,7 +138,7 @@ So before you switch, figure out which of the ten is really your problem.
 
 ## What we do
 
-If it's fit, another rented CRM won't fix it. That's why my company, CRM From Within, builds you a CRM around how your company works. We move your data over, you own the code, we maintain it, and if you leave, you keep everything.
+If the problem is that it doesn't fit how you work, another rented CRM won't fix it. That's why my company, CRM From Within, builds you a CRM around how your company works. We move your data over, you own the code, we maintain it, and if you leave, you keep everything.
 
 We work with companies of ten to fifty people. If a standard CRM fits you, stay with it.
 

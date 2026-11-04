@@ -82,7 +82,7 @@ Link: https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f
 - **Each person counted once**
 
 **YUSUF:**
-> So here's how we did it. We didn't send out a survey. We read public posts and reviews, from the places listed on screen. We kept only people who actually use or pay for a CRM. Every agency, consultant and vendor, we took out. And we counted each person once.
+> Here's how we did the study. We didn't send out a survey. We read public posts and reviews, from the places listed on screen. We kept only people who actually use or pay for a CRM. Every agency, consultant and vendor, we took out. And we counted each person once.
 
 **ON SCREEN:** Yusuf writes **1 → 10** on the whiteboard.
 
@@ -107,7 +107,7 @@ Link: https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f
 Link: https://www.trustpilot.com/reviews/6a025433437d00ac40c8168d
 
 **YUSUF:**
-> One company we found says it pays Odoo thirty-five thousand dollars a year. They say they were charged a fee of about seven thousand Canadian dollars for staying on an older version, which they never agreed to. They disputed it, and they say their database was closed. So they paid, in their words, under pressure, to get access back. At this level, price means control.
+> One company we found says it pays Odoo thirty-five thousand dollars a year. They say they were charged a fee of about seven thousand Canadian dollars for staying on an older version, which they never agreed to. They disputed it, and they say their database was closed. So they paid, in their words, under pressure, to get access back. So price isn't just about money. It's about control.
 
 **ON SCREEN:** typed three-row card, appearing as he says "take three years of CRM invoices": **Year 1** · **Year 2** · **Year 3**, each with two empty boxes labelled **We grew** | **They changed price, tier or terms**. Then: **DO THIS THIS MONTH: split 3 years of CRM invoices: we grew vs they changed it**
 
@@ -130,7 +130,7 @@ Link: https://www.trustpilot.com/reviews/6aab93ec9c591d1f56ba1c6e
 **ON SCREEN:** whiteboard: Yusuf draws your process as five boxes in a row. Under each, a tag: **CRM** · **Spreadsheet** · **Someone's head**. Then: **DO THIS THIS WEEK: draw your process + mark where each step really lives**
 
 **YUSUF:**
-> The check: draw how a customer moves through your business, from first call to paid invoice. Under each one, write where it really lives: in the CRM, in a spreadsheet, or in someone's head. Every box that isn't "CRM" is a workaround your team has just accepted.
+> The check: write down each step a customer goes through in your business, from first call to paid invoice. Under each step, write where it really lives: in the CRM, in a spreadsheet, or in someone's head. Every step that isn't in the CRM is a workaround your team has just accepted.
 
 **ON SCREEN:** the whiteboard list, 1 and 2 ticked.
 
@@ -148,7 +148,7 @@ Link: https://www.trustpilot.com/reviews/6aab93ec9c591d1f56ba1c6e
 Link: https://www.trustpilot.com/reviews/6a66c979ddd22a6a6b93bcec
 
 **YUSUF:**
-> This small business left Zoho for the industry leader, Salesforce. They found it extremely difficult, and paid a firm just to move their data.
+> One small business left Zoho for the industry leader, Salesforce. They found it extremely difficult, and paid a firm just to move their data.
 
 **ON SCREEN:** screen recording (upbridge portal), zoomed: a contact record. A click counter tag counts up live from the recording as the cursor logs one call: **Clicks to log 1 call: ___**. Then: **DO THIS THIS WEEK: count the clicks for your 3 most common tasks**
 
@@ -183,7 +183,7 @@ Link: https://www.trustpilot.com/reviews/6a235a6c9807b36e21a4a010
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> If you're nodding along, we do a free twenty-minute CRM fit check. The link's in the description. OK, number five.
+> If you're nodding along, book a free twenty-minute CRM fit check. You show us how your team works, and we show you what's possible. The link's in the description. OK, number five.
 
 ## 5:06 Reason 5: Integrations
 
@@ -348,7 +348,7 @@ Link: https://www.trustpilot.com/reviews/6a286f4cb8d9494ce5c310aa
 **ON SCREEN:** three tags, one per phrase: **Built for how you work** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> If it's fit, another rented CRM won't fix it. That's why my company, CRM From Within, builds you a CRM around how your company works. We move your data over, you own the code, we maintain it, and if you leave, you keep everything.
+> If the problem is that it doesn't fit how you work, another rented CRM won't fix it. That's why my company, CRM From Within, builds you a CRM around how your company works. We move your data over, you own the code, we maintain it, and if you leave, you keep everything.
 
 **ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
 
