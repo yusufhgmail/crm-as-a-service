@@ -240,6 +240,12 @@ Link: https://www.reddit.com/r/hubspot/comments/1v3io34/hubspot_has_become_too_e
 **YUSUF:**
 > And one warning. The tiers move. HubSpot's terms let them add or remove features during your term. In July 2026, a customer said HubSpot removed a feature in the middle of their contract, and didn't tell them first. Now it's pay for the new Revenue Hub, or cancel.
 
+**ON SCREEN:** card: **New customers in Europe, from 1 Oct 2026: one plan, seats + credits** · source tag **HubSpot pricing terms**
+Link: https://www.hubspot.com/flexible-seats-and-credits-pricing-supplement
+
+**YUSUF:**
+> And when I recorded this, new customers in Europe had started buying one plan for the whole company, with seats and credits, instead of a tier for each hub. So check which setup you're on before you price anything.
+
 **ON SCREEN:** a four-row worksheet. On "your jump number": **The whole jump: $37,500** (from step 2). On "three smaller ways", one row per phrase, blanks left for the viewer: **Smaller version: $___ · Only who needs it: $___ · One tool: $___**. Then: **DO THIS THIS WEEK: price 3 smaller steps next to the jump**
 
 **YUSUF:**
@@ -341,6 +347,7 @@ Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 > - HubSpot seat prices: https://legal.hubspot.com/hubspot-product-and-services-catalog
 > - HubSpot's terms: https://legal.hubspot.com/terms-of-service
 > - Which tier each feature needs (HubSpot help center): https://knowledge.hubspot.com/object-settings/pipeline-approvals · https://knowledge.hubspot.com/reports/create-custom-reports · https://knowledge.hubspot.com/object-settings/create-custom-objects · https://knowledge.hubspot.com/help-desk/set-sla-goals-in-help-desk · https://knowledge.hubspot.com/quotes/set-up-quote-approvals
+> - HubSpot's seats-and-credits terms: https://www.hubspot.com/flexible-seats-and-credits-pricing-supplement
 >
 > 0:00 Proof · 1:20 The 5 checks · 1:30 Name the job · 2:54 Price the whole jump · 4:50 Read the commitment · 5:59 A smaller step · 7:47 Is it on any tier? · 9:25 Is skipping the jump enough? · 10:04 What we do · 10:20 Your homework
 

@@ -46,6 +46,8 @@ Here's what it looks like when hubs you pay for never get switched on. A founder
 
 Every hub you pay for should do a job. If you can't say what it is, why are you paying?
 
+One thing to watch. When I recorded this, new customers in Europe had started buying HubSpot differently: one plan with seats and credits, not separate hubs. So check which one you're on.
+
 The check: Account and Billing, Subscriptions. List every hub you pay for, and next to each one, the one job it does for your business this month.
 
 So that's lines one and two. Already around three thousand dollars a month for twenty people, and we haven't set anything up yet.

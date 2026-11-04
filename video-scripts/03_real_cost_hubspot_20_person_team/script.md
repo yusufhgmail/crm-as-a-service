@@ -154,6 +154,12 @@ Link: https://www.g2.com/products/hubspot-marketing-hub/reviews/hubspot-marketin
 **YUSUF:**
 > Every hub you pay for should do a job. If you can't say what it is, why are you paying?
 
+**ON SCREEN:** card: **New customers in Europe, from 1 Oct 2026: one plan, seats + credits** · source tag **HubSpot pricing terms**
+Link: https://www.hubspot.com/flexible-seats-and-credits-pricing-supplement
+
+**YUSUF:**
+> One thing to watch. When I recorded this, new customers in Europe had started buying HubSpot differently: one plan with seats and credits, not separate hubs. So check which one you're on.
+
 **ON SCREEN:** HubSpot help-center screenshot of Account & Billing → **Subscriptions** → Subscription Summary, red box around the list of hubs and editions · source tag **HubSpot help center**. Then: **DO THIS TODAY: next to each hub, write the 1 job it does**
 Link: https://knowledge.hubspot.com/account-management/manage-seats
 
@@ -328,6 +334,7 @@ Link: https://x.com/mishavitels/status/2113226378623455456
 > - HubSpot help center, quotes need a Revenue Hub seat: https://knowledge.hubspot.com/quotes/set-up-legacy-quotes
 > - HubSpot help center, seat types: https://knowledge.hubspot.com/account-management/manage-seats
 > - HubSpot help center, connected apps: https://knowledge.hubspot.com/integrations/connect-apps-to-hubspot
+> - HubSpot's seats-and-credits terms: https://www.hubspot.com/flexible-seats-and-credits-pricing-supplement
 >
 > 0:00 Who I am · 1:27 The 5 lines · 1:44 The seats · 3:11 The hubs · 4:52 The setup · 6:07 The glue · 7:06 The worth-it test · 9:17 Is a smaller bill enough? · 9:58 What we do · 10:17 Your homework
 

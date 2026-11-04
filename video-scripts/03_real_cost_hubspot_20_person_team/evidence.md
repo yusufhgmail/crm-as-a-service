@@ -46,3 +46,5 @@ Sharp PNGs in `proof/`, taken live in Chrome with the quoted words highlighted i
 - `2026-11_hubspot-pricing_sales-starter-vs-professional.png`
 
 Note from the 3 Nov 2026 check: the quotes help page is now "Set up legacy quotes" (legacy quotes aren't available to new users; new quotes are HubSpot's CPQ on Revenue Hub Professional/Enterprise). The line "You must have a Revenue Hub seat to be able to create quotes." is still on the page.
+
+Note from the 4 Nov 2026 check: HubSpot's flexible seats-and-credits pricing means one edition for the whole account, plus seats and credits. HubSpot's terms (https://www.hubspot.com/flexible-seats-and-credits-pricing-supplement) call it a limited release and price it in euros, but name no regions. The region and date (new customers in EMEA from 1 Oct 2026; existing customers and the US stay on hub pricing, with no US date published) come from https://planmyhub.com/resources/hubspot-new-pricing-model-2026. Recheck before filming.

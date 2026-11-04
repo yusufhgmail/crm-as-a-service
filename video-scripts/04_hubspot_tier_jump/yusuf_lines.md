@@ -74,6 +74,8 @@ Number three. An app from HubSpot's marketplace, or a tool you already pay for t
 
 And one warning. The tiers move. HubSpot's terms let them add or remove features during your term. In July 2026, a customer said HubSpot removed a feature in the middle of their contract, and didn't tell them first. Now it's pay for the new Revenue Hub, or cancel.
 
+And when I recorded this, new customers in Europe had started buying one plan for the whole company, with seats and credits, instead of a tier for each hub. So check which setup you're on before you price anything.
+
 The check: next to your jump number, write three smaller ways to get the job done, and what each costs. Very often one of them is a fraction of the jump.
 
 So that's three and four. You know what you're signing, and you've looked for a smaller step.
