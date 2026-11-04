@@ -20,8 +20,6 @@ So in this video I'll go through the ten reasons companies want out of their CRM
 
 ## Plan
 
-Here's how we did the study. We didn't send out a survey. We read public posts and reviews, from the places listed on screen. We kept only people who actually use or pay for a CRM. Every agency, consultant and vendor, we took out. And we counted each person once.
-
 I'll start with number one, the biggest, and go to number ten. After that, I'll show you what surprised us most: how many of these people actually leave, and how many regret it.
 
 ## Reason 1: Price

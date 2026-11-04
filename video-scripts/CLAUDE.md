@@ -1,6 +1,6 @@
 # Video scripts
 
-Read [SCRIPT_RULES.md](SCRIPT_RULES.md) before writing or changing a script. When Yusuf corrects a script, add the lesson there and apply it to the videos not yet recorded. Keep `yusuf_lines.md` and `script.md` saying the same thing.
+Read [SCRIPT_RULES.md](SCRIPT_RULES.md) before writing or changing a script. When Yusuf corrects a script, follow the three checks at the top of that file and add the lesson there. Keep `yusuf_lines.md` and `script.md` saying the same thing.
 
 This repo is public. The study, the Hormozi notes, the script template and the draft videos are in David's private repo, cloned at `~/code/crm-from-within`. Read them before writing a script, and never copy private material here. SCRIPT_RULES.md wins where they disagree.
 

@@ -4,6 +4,12 @@ Title: Video script rules
 
 Yusuf's corrections to the scripts. Read this before writing or changing a script, and follow it in every new video, whoever writes it.
 
+For every change to a script, however small:
+
+1. Check that it fits the theme and the text around it, so the script makes sense in full.
+2. Ask if it's a general mistake. If so, fix it in every script not yet recorded, and leave recorded videos alone.
+3. Give each of those fixes the same check in its own script.
+
 # The study
 
 Every video rests on one study, kept in David's private repo. Check every number and every "a lot of people" against it before it goes in a script. Use the figure that matches the video: all CRM buyers, HubSpot customers or Salesforce customers.
@@ -27,7 +33,7 @@ Every video rests on one study, kept in David's private repo. Check every number
 
 **Every line earns its place.** People want information, not filler. Each line must give the viewer something or do a job for us. Keep the fit check and the comment question to one short sentence, and word them differently in each video.
 
-- Not like this: "So here's your homework." or "If you watch this and change nothing, nothing changes."
+- Not like this: "So here's your homework." or "If you watch this and change nothing, nothing changes." Don't explain how we ran the study either: "We didn't send out a survey. We read public posts and reviews." That belongs in the description.
 - But like this: "Your move: book thirty minutes with your team this week."
 
 **Read each new line after the one before it.** Say them aloud in order. A line can't refer back to something the viewer hasn't heard yet.

@@ -76,14 +76,6 @@ Link: https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f
 
 ## 1:16 Plan
 
-**ON SCREEN:** card titled **How we studied it**, lines appearing one at a time:
-- **Reddit · Capterra · Trustpilot · G2 · X · LinkedIn · HubSpot Community**
-- **Buyers only: agencies and vendors removed**
-- **Each person counted once**
-
-**YUSUF:**
-> Here's how we did the study. We didn't send out a survey. We read public posts and reviews, from the places listed on screen. We kept only people who actually use or pay for a CRM. Every agency, consultant and vendor, we took out. And we counted each person once.
-
 **ON SCREEN:** Yusuf writes **1 → 10** on the whiteboard.
 
 **YUSUF:**
