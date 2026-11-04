@@ -4,7 +4,7 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say, and more than 200 of them complained about their renewal.
+Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say, and more than 200 of them complained about their renewal.
 
 ## Who it's for
 
@@ -12,7 +12,7 @@ If your HubSpot renewal is coming up in the next few months, this video is for y
 
 ## Promise
 
-This company missed a renewal quote. A month later they found out they'd been moved up to Enterprise, which they never asked for. In the end they renewed at Enterprise anyway, for twenty thousand dollars. Then one Monday morning they were locked out of their own CRM. Three days with no access, and they said that meant zero production.
+Here's an example from our research. One company missed a renewal quote. A month later they found out they'd been moved up to Enterprise, which they never asked for. In the end they renewed at Enterprise anyway, for twenty thousand dollars. Then one Monday morning they were locked out of their own CRM. Three days with no access, and they said that meant zero production.
 
 Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
@@ -28,7 +28,7 @@ Step one: switch off auto-renew. Today. Let's look at what HubSpot's own terms s
 
 Your subscription renews automatically, for up to a year. You can't cancel in the middle of a term. And the only way to stop the renewal is to switch off auto-renew in Account and Billing before the term ends.
 
-This one is from March. A small company on Sales Hub Professional. They'd had staff changes, so a few paid seats were sitting empty, and the plan was to drop them at the renewal. HubSpot's reminder emails landed in spam. The contract auto-renewed on the twenty-sixth of February. About five thousand dollars for a year, for seats nobody uses. And HubSpot's answer was no. The earliest change is February 2027.
+Here's another example, from March. A small company on Sales Hub Professional. They'd had staff changes, so a few paid seats were sitting empty, and the plan was to drop them at the renewal. HubSpot's reminder emails landed in spam. The contract auto-renewed on the twenty-sixth of February. About five thousand dollars for a year, for seats nobody uses. And HubSpot's answer was no. The earliest change is February 2027.
 
 It's in Account and Billing, under Subscriptions, Auto-Renewal Terms. The button says "Cancel auto-renewal". You need to be a super admin or billing admin. And it doesn't cancel anything today. You keep paying until your term ends, and your account keeps working. It just means nothing renews until you've decided. And that's what the next four steps are for.
 
@@ -38,7 +38,7 @@ Step two: count what you actually use. This matters right now because of one lin
 
 Three things. Number one, seats. Who actually logged in in the last thirty days? Number two, marketing contacts, the ones HubSpot bills you for. Who did you actually email in the last six months? And number three, features. What did your team really use this year, and what did you pay for and never even turn on?
 
-This owner wrote this in July. They're downsizing the business, and they still can't remove a single seat until their renewal in 2027. So if you miss the window, you wait a whole year.
+One owner wrote in July that they're downsizing the business, and they still can't remove a single seat until their renewal in 2027. So if you miss the window, you wait a whole year.
 
 Write those three numbers down. You'll use them in step three.
 
@@ -52,7 +52,7 @@ Real quick. If you want to see what a CRM built around your business could look 
 
 Step three: start ninety days before your renewal, and get everything in writing. Remember the two companies from before? They both started too late. The first one missed the quote and lost a month. The second one let the reminders land in spam, and woke up renewed.
 
-And this one is from September. A company paying HubSpot about fourteen hundred and fifty pounds a month. HubSpot advised them to cut their marketing contacts before the February renewal. They did it. It renewed at the old tier anyway, because a separate quote had to be activated ten days before the renewal date. They got no credit and no adjustment, and were told to wait twelve months. That's what happens when nothing is in writing early.
+And here's one from September. A company paying HubSpot about fourteen hundred and fifty pounds a month. HubSpot advised them to cut their marketing contacts before the February renewal. They did it. It renewed at the old tier anyway, because a separate quote had to be activated ten days before the renewal date. They got no credit and no adjustment, and were told to wait twelve months. That's what happens when nothing is in writing early.
 
 So send one email, ninety days out. Ask for a quote line by line. List exactly what you want removed, using your numbers from step two. And ask them to confirm next year's price in writing. HubSpot can raise you to full list price with thirty days' notice, so you want that number way before then.
 
@@ -74,9 +74,9 @@ So that's three and four. Your price is in writing, and you know what you'd walk
 
 Step five. Before you sign up for another year, ask yourself one thing. Does HubSpot actually fit how we work? This one decides if you should renew at all.
 
-This company paid a HubSpot partner for an eight-week custom build. Eight months later it still wasn't done, and they found out that basic things they needed weren't even possible. And they're paying three thousand dollars a month, stuck in a one-year contract.
+We also found a company that paid a HubSpot partner for an eight-week custom build. Eight months later it still wasn't done, and they found out that basic things they needed weren't even possible. And they're paying three thousand dollars a month, stuck in a one-year contract.
 
-And it's not only the smaller plans. This company is on Sales Hub Enterprise, HubSpot's top tier. They sell multi-year deals with a price increase built in, and they asked how to show that revenue in HubSpot. They asked in October 2024. In May 2025 they still hadn't found a way. And in May this year, another company wrote: "This is a huge problem for us, and the workarounds are not scalable."
+And it's not only the smaller plans. One company is on Sales Hub Enterprise, HubSpot's top tier. They sell multi-year deals with a price increase built in, and they asked how to show that revenue in HubSpot. They asked in October 2024. In May 2025 they still hadn't found a way. And in May this year, another company wrote: "This is a huge problem for us, and the workarounds are not scalable."
 
 In our study, around four hundred HubSpot customers complained that it doesn't fit how they work. That's more than complained about renewals.
 

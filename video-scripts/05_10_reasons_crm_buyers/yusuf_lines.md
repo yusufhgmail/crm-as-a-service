@@ -4,11 +4,11 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
+Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
 
 ## Who it's for
 
-If you pay for a CRM every month, and you keep wondering if it's the right one, this video is for you.
+Maybe you feel the same: you pay for a CRM every month, and you keep wondering if it's the right one. This video shows you why buyers want out, so you can tell whether your CRM is the problem.
 
 ## Promise
 
@@ -22,7 +22,7 @@ So in this video I'll go through the ten reasons companies want out of their CRM
 
 So here's how we did it. We didn't send out a survey. We read public posts and reviews, from the places listed on screen. We kept only people who actually use or pay for a CRM. Every agency, consultant and vendor, we took out. And we counted each person once.
 
-I'll start with number one, the biggest, and go to number ten. And stay to the end, because many of the people who complain never leave.
+I'll start with number one, the biggest, and go to number ten. Then the surprising part: many of the people who complain never leave.
 
 ## Reason 1: Price
 
@@ -30,7 +30,7 @@ Number one: price. Almost three thousand buyers complained about what they pay.
 
 Only around six hundred of them complained about price and nothing else. More than eleven hundred tied it to a renewal, a tier jump or seat costs. So most of the time the complaint is "it keeps going up, and we can't do anything about it". Way more than "this is expensive".
 
-This company says it pays Odoo thirty-five thousand dollars a year. They say they were charged a fee of about seven thousand Canadian dollars for staying on an older version, which they never agreed to. They disputed it, and they say their database was closed. So they paid, in their words, under pressure, to get access back. At this level, price means control.
+One company we found says it pays Odoo thirty-five thousand dollars a year. They say they were charged a fee of about seven thousand Canadian dollars for staying on an older version, which they never agreed to. They disputed it, and they say their database was closed. So they paid, in their words, under pressure, to get access back. At this level, price means control.
 
 The check: take three years of CRM invoices. For every increase, write down why. Because you grew? Or because they changed the price, the tier or the terms? The second part is the one you don't control.
 
@@ -78,7 +78,7 @@ The check: list every system your CRM talks to, who built each connection, and w
 
 Number six: renewals and contracts. Around seven hundred buyers complained about auto-renewals, notice periods and price rises at renewal.
 
-This company says it pays HubSpot around fourteen hundred and fifty pounds a month. They say HubSpot advised them to cut their marketing contacts, the people they can send marketing email to, before renewal, and they did. They say the separate quote that had to be activated ten days before wasn't explained when they got that advice. So it renewed at the old tier, and now they're billed a hundred and forty-two pounds a month for contacts they don't use.
+One company says it pays HubSpot around fourteen hundred and fifty pounds a month. They say HubSpot advised them to cut their marketing contacts, the people they can send marketing email to, before renewal, and they did. They say the separate quote that had to be activated ten days before wasn't explained when they got that advice. So it renewed at the old tier, and now they're billed a hundred and forty-two pounds a month for contacts they don't use.
 
 The check, for any CRM: write down your renewal date, your notice period, and whether auto-renew is on. Set a reminder ninety days before. And get every agreed change in writing, including what you must do and by when.
 
@@ -88,7 +88,7 @@ So that's five and six: connections that don't work, and renewals you don't see 
 
 Number seven: tier jumps and limits. A tier is the plan level you pay for. More than six hundred buyers hit a limit on contacts, leads or users, and the only way past it was a much pricier plan.
 
-This company signed up for unlimited leads. They imported over two hundred thousand, and built their whole workflow inside. Then nine months later they get a limit of forty-five thousand, unless they upgrade to a plan that costs, in their words, about ten times as much.
+Another company signed up for unlimited leads. They imported over two hundred thousand, and built their whole workflow inside. Then nine months later they get a limit of forty-five thousand, unless they upgrade to a plan that costs, in their words, about ten times as much.
 
 The check: find your plan's limits. Contacts, leads, users, records, automations. Write today's usage next to each. Anything above seventy percent is a tier jump waiting to happen.
 
@@ -96,7 +96,7 @@ The check: find your plan's limits. Contacts, leads, users, records, automations
 
 Number eight: the team won't use it. Around four hundred buyers said their people just didn't use the CRM.
 
-This is a sales manager at an industrial safety supplier, six people on the team. Every call meant more fields to fill in and deals to drag around. So after a few weeks everyone went back to Outlook and their own notes.
+Here's an example: a sales manager at an industrial safety supplier, six people on the team. Every call meant more fields to fill in and deals to drag around. So after a few weeks everyone went back to Outlook and their own notes.
 
 The check: ask each person what they track outside the CRM. Then count the fields they fill in after one call. If the answer is "a lot", it's not a discipline problem. The CRM doesn't fit.
 
@@ -106,7 +106,7 @@ So that's seven and eight: limits you don't control, and a team that won't use i
 
 Number nine: paying for every change. Around four hundred buyers said they can't change their own CRM. They need a new field or a new report, and that means a partner, so an outside firm, and then an invoice.
 
-This one was posted in October. A growing company on HubSpot felt locked in. They had to hire an expensive partner just for the basic setup, and then they got charged for add-ons they never agreed to. In their words, it crippled their cash flow.
+Here's one from October. A growing company on HubSpot felt locked in. They had to hire an expensive partner just for the basic setup, and then they got charged for add-ons they never agreed to. In their words, it crippled their cash flow.
 
 The check: add up every partner and consultant invoice from the last twelve months, and list the changes you're still waiting on.
 
@@ -114,7 +114,7 @@ The check: add up every partner and consultant invoice from the last twelve mont
 
 And number ten: seats. A seat is one person's login, and most CRMs charge for each one. Around four hundred buyers complained that every new person, even one who just needs to look, means another licence.
 
-This business has been on Salesforce for twenty years. Then they wanted someone else to run things while they're on holiday, and Salesforce said, buy another licence.
+One business has been on Salesforce for twenty years. Then they wanted someone else to run things while they're on holiday, and Salesforce said, buy another licence.
 
 The check: open your users list. For every paid login, write down who uses it, when they last logged in, and whether they edit or only look. The ones who only look, that's where the bill grows quietly.
 
@@ -132,7 +132,7 @@ And here's the surprise. Many of these people never leave. About six in ten of t
 
 And that's the most common story. They're not leaving, they're stuck. Switching feels like a project nobody has time for.
 
-And the ones who do switch? Of the buyers who posted about a switch, more than five hundred regret it. That's about half as many as the ones who are happy. And this company here says switching to Salesforce was the worst decision they ever made. Another CRM comes with the same seats, tiers and renewals.
+And the ones who do switch? Of the buyers who posted about a switch, more than five hundred regret it. That's about half as many as the ones who are happy. And one company says switching to Salesforce was the worst decision they ever made. Another CRM comes with the same seats, tiers and renewals.
 
 So before you switch, figure out which of the ten is really your problem. And just to be clear about who we help: if you're a two-person team, or a standard setup works fine for you, you don't need us. We work with companies of ten to fifty people where the way they sell and deliver doesn't fit a standard CRM.
 

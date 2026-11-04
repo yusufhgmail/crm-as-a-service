@@ -17,7 +17,7 @@
 **Title:** What to Do Before Your HubSpot Renewal
 
 **Title variations to test:**
-1. Ex-CRM Agency Owner: What to Do Before Your HubSpot Renewal
+1. Ex-SaaS Founder: What to Do Before Your HubSpot Renewal
 2. HubSpot Renewal Coming Up? Do These 5 Things First
 3. How to Renew HubSpot Without Getting Locked In
 4. Don't Renew HubSpot Until You've Done These 5 Things
@@ -51,7 +51,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 2, and 3 with 3.
 **ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **200+ HubSpot customers on renewals**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say, and more than 200 of them complained about their renewal.
+> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say, and more than 200 of them complained about their renewal.
 
 ## 0:20 Who it's for
 
@@ -66,7 +66,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 2, and 3 with 3.
 Link: https://community.hubspot.com/t/locked-out-completely-due-to-billing-issue-for-3-days/125492
 
 **YUSUF:**
-> This company missed a renewal quote. A month later they found out they'd been moved up to Enterprise, which they never asked for. In the end they renewed at Enterprise anyway, for twenty thousand dollars. Then one Monday morning they were locked out of their own CRM. Three days with no access, and they said that meant zero production.
+> Here's an example from our research. One company missed a renewal quote. A month later they found out they'd been moved up to Enterprise, which they never asked for. In the end they renewed at Enterprise anyway, for twenty thousand dollars. Then one Monday morning they were locked out of their own CRM. Three days with no access, and they said that meant zero production.
 >
 > Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
@@ -112,7 +112,7 @@ Link: https://legal.hubspot.com/terms-of-service
 Link: https://community.hubspot.com/t/abusive-billing-practices/147435
 
 **YUSUF:**
-> This one is from March. A small company on Sales Hub Professional. They'd had staff changes, so a few paid seats were sitting empty, and the plan was to drop them at the renewal. HubSpot's reminder emails landed in spam. The contract auto-renewed on the twenty-sixth of February. About five thousand dollars for a year, for seats nobody uses. And HubSpot's answer was no. The earliest change is February 2027.
+> Here's another example, from March. A small company on Sales Hub Professional. They'd had staff changes, so a few paid seats were sitting empty, and the plan was to drop them at the renewal. HubSpot's reminder emails landed in spam. The contract auto-renewed on the twenty-sixth of February. About five thousand dollars for a year, for seats nobody uses. And HubSpot's answer was no. The earliest change is February 2027.
 
 **ON SCREEN:** HubSpot help-center screenshot of Account & Billing → **Subscriptions** tab → **Auto-Renewal Terms**, red box on **Cancel auto-renewal**, small tag **Super Admin or billing admin only** · source tag **HubSpot help center**. Then the renewal timeline appears with one marker: **Today: auto-renew OFF**. Then: **DO THIS TODAY: switch off auto-renew**
 Link: https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account
@@ -137,7 +137,7 @@ Link: https://legal.hubspot.com/terms-of-service
 Link: https://www.reddit.com/r/hubspot/comments/1v3io34/hubspot_has_become_too_expensive_for_our_business/ozdp7y2/
 
 **YUSUF:**
-> This owner wrote this in July. They're downsizing the business, and they still can't remove a single seat until their renewal in 2027. So if you miss the window, you wait a whole year.
+> One owner wrote in July that they're downsizing the business, and they still can't remove a single seat until their renewal in 2027. So if you miss the window, you wait a whole year.
 
 **ON SCREEN:** screen recording (upbridge portal, after inviting 3 example.com test users as noted under Screens to record), zoomed: Settings → Users & Teams, arrow tag on **Last active** on the words "who actually logged in", red box around the rows showing the oldest date or "Never". Then a HubSpot help-center screenshot of Contacts → filter **Marketing contact status = Marketing** → arrow tag on the count, source tag **HubSpot help center**. Then the renewal timeline adds a marker: **90 days: usage counted**. Then: **DO THIS THIS WEEK: write down seats used, contacts emailed, features used**
 
@@ -170,7 +170,7 @@ Link: https://community.hubspot.com/t/locked-out-completely-due-to-billing-issue
 Link: https://www.trustpilot.com/reviews/6aa2d3bcf3b3feadee2d1996
 
 **YUSUF:**
-> And this one is from September. A company paying HubSpot about fourteen hundred and fifty pounds a month. HubSpot advised them to cut their marketing contacts before the February renewal. They did it. It renewed at the old tier anyway, because a separate quote had to be activated ten days before the renewal date. They got no credit and no adjustment, and were told to wait twelve months. That's what happens when nothing is in writing early.
+> And here's one from September. A company paying HubSpot about fourteen hundred and fifty pounds a month. HubSpot advised them to cut their marketing contacts before the February renewal. They did it. It renewed at the old tier anyway, because a separate quote had to be activated ten days before the renewal date. They got no credit and no adjustment, and were told to wait twelve months. That's what happens when nothing is in writing early.
 
 **ON SCREEN:** a short email on screen, typed out as he says it:
 > **Subject:** Our renewal on [date]
@@ -236,13 +236,13 @@ Link: https://community.hubspot.com/t/locked-out-completely-due-to-billing-issue
 Link: https://www.facebook.com/groups/520191298474250/permalink/1932542070572492/
 
 **YUSUF:**
-> This company paid a HubSpot partner for an eight-week custom build. Eight months later it still wasn't done, and they found out that basic things they needed weren't even possible. And they're paying three thousand dollars a month, stuck in a one-year contract.
+> We also found a company that paid a HubSpot partner for an eight-week custom build. Eight months later it still wasn't done, and they found out that basic things they needed weren't even possible. And they're paying three thousand dollars a month, stuck in a one-year contract.
 
 **ON SCREEN:** a HubSpot Community thread as a timeline of three quote cards: **Oct 2024** *"I have a multi-year deal… is it not possible to schedule revenue out this way? We are on Sales Hub Enterprise"* → **May 2025** *"Still haven't yet."* → **May 2026** *"This is a huge problem for us and the workarounds are not scalable."* ("Sales Hub Enterprise", "Still haven't yet" and "workarounds are not scalable" highlighted) · tag **HubSpot Community · 8.7k views**
 Link: https://community.hubspot.com/t/multi-year-deal-with-price-escalation/118123
 
 **YUSUF:**
-> And it's not only the smaller plans. This company is on Sales Hub Enterprise, HubSpot's top tier. They sell multi-year deals with a price increase built in, and they asked how to show that revenue in HubSpot. They asked in October 2024. In May 2025 they still hadn't found a way. And in May this year, another company wrote: "This is a huge problem for us, and the workarounds are not scalable."
+> And it's not only the smaller plans. One company is on Sales Hub Enterprise, HubSpot's top tier. They sell multi-year deals with a price increase built in, and they asked how to show that revenue in HubSpot. They asked in October 2024. In May 2025 they still hadn't found a way. And in May this year, another company wrote: "This is a huge problem for us, and the workarounds are not scalable."
 
 **ON SCREEN:** bar chart, "HubSpot customers who complained about…": Renewals & contracts **200+** (grey) · **"It doesn't fit how we work": ~400** (accent)
 
@@ -326,7 +326,7 @@ Link: https://community.hubspot.com/t/multi-year-deal-with-price-escalation/1181
 
 ## Ten shorts
 
-Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my agency") and ends with: "Full video: What to Do Before Your HubSpot Renewal."
+Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my SaaS company") and ends with: "Full video: What to Do Before Your HubSpot Renewal."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

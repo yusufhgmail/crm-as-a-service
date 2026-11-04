@@ -17,7 +17,7 @@
 **Title:** Map How Your Team Works Before You Buy a CRM (30 Minutes)
 
 **Title variations to test:**
-1. Ex-CRM Agency Owner: Map How Your Team Really Works in 30 Minutes
+1. Ex-SaaS Founder: Map How Your Team Really Works in 30 Minutes
 2. Your CRM Doesn't Fit How You Work? Map It in 30 Minutes
 3. How to Find Every Step Your CRM Misses (30-Minute Method)
 4. Map Your Real Process in 30 Minutes (HubSpot, Salesforce, Any CRM)
@@ -47,14 +47,14 @@ Pair title 1 with thumbnail 1 first; test 2 with 3, and 3 with 2.
 **ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **5,000+ CRM buyers studied** · **Nearly 1,900: "doesn't fit how we work"**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than five thousand CRM buyers say. Nearly nineteen hundred of them said the same thing: it doesn't fit how we work.
+> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say. Nearly nineteen hundred of them said the same thing: it doesn't fit how we work.
 
 ## 0:22 Who it's for
 
 **ON SCREEN:** one tag: **CRM doesn't fit how you work? This is for you.**
 
 **YUSUF:**
-> If you pay for a CRM, HubSpot, Salesforce, anything, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard, you're who I made this for.
+> Maybe that's you: you pay for a CRM, HubSpot, Salesforce, anything, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard. This video shows you how to map how your team really works, so you know what your CRM has to do before you buy one.
 
 ## 0:34 Promise
 
@@ -62,7 +62,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 3, and 3 with 2.
 Link: https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_or_move_to_salesforce_need/
 
 **YUSUF:**
-> This company has a hundred and ten people and more than ten million in yearly recurring revenue. They run marketing, sales and account management in HubSpot, and they're happy with it. But the one step where the money actually changes, a customer upgrading or downgrading, happens six to eight hundred times a year. And they work that out in Excel.
+> We found a company with a hundred and ten people and more than ten million in yearly recurring revenue. They run marketing, sales and account management in HubSpot, and they're happy with it. But the one step where the money actually changes, a customer upgrading or downgrading, happens six to eight hundred times a year. And they work that out in Excel.
 >
 > Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
@@ -80,10 +80,10 @@ Link: https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_o
 4. Draw the re-typing · 5 min
 5. Sort: setting, tier or fit · 5 min
 
-Tag on item 5 when he says "stay for step five": **What to do about it**
+Tag on item 5 when he says "step five": **What to do about it**
 
 **YUSUF:**
-> Five steps, and the minutes add up to thirty. And stay for step five. That's where the map tells you what to actually do about it.
+> Five steps, and the minutes add up to thirty. Step five is where the map tells you what to actually do about it.
 
 ---
 
@@ -132,7 +132,7 @@ Link: https://www.reddit.com/r/revops/comments/1s782br/hiring_gtm_engineer_not_s
 Link: https://www.reddit.com/r/CRM/comments/1vfh292/has_anyone_built_a_crm_from_scratch/p1p6jbq/
 
 **YUSUF:**
-> This company sells equipment. They looked at existing CRMs and paid for customisations on some of them over several years. But one deal for them can be a sale, an engineering project, an installation and a removal, all at once. And they call that "a little different". Put it on sticky notes and you see it's their whole business, not a little difference.
+> Another company sells equipment. They looked at existing CRMs and paid for customisations on some of them over several years. But one deal for them can be a sale, an engineering project, an installation and a removal, all at once. And they call that "a little different". Put it on sticky notes and you see it's their whole business, not a little difference.
 
 **ON SCREEN:** **DO THIS: 1 sticky per step, first contact → paid, in order**
 
@@ -231,7 +231,7 @@ Link: https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelin
 Link: https://www.reddit.com/r/hubspot/comments/1rrrdco/creating_deals_without_adding_them_to_a_pipeline/
 
 **YUSUF:**
-> This company, in March, needed one more pipeline. On their plan, the next level up came with fifteen, and cost around five thousand dollars more a year. Fourteen pipelines they'd never use. That's a T. You decide it at renewal, with the numbers.
+> In March, one company needed one more pipeline. On their plan, the next level up came with fifteen, and cost around five thousand dollars more a year. Fourteen pipelines they'd never use. That's a T. You decide it at renewal, with the numbers.
 
 **ON SCREEN:** on the map, **F** goes on the red arrows **Estimate → Invoice** and **Invoice → Paid**, and on **5 Insurance approves** and **8 Schedule crew**. Then quote card: *"We spent over $16,000 on HubSpot. It didn't work for us"* → *"…after over a year of trying, and working with the Hubspot team, we had to ask if the tool fit our workflow. For us, it just didn't."* ("$16,000", "over a year of trying" and "it just didn't" highlighted) · tag **LinkedIn · Mar 2026 · CEO**
 Link: https://www.linkedin.com/posts/donalacdao_we-spent-over-16000-on-hubspot-it-didnt-activity-7442208668944769024-yW4S
@@ -313,7 +313,7 @@ Link: https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is
 
 ## Ten shorts
 
-Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my agency") and ends with: "Full video: Map How Your Team Works Before You Buy a CRM (30 Minutes)."
+Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my SaaS company") and ends with: "Full video: Map How Your Team Works Before You Buy a CRM (30 Minutes)."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

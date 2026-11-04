@@ -18,7 +18,7 @@
 **Title variations to test:**
 1. We Studied 5,000+ CRM Buyers: 10 Reasons Companies Want Out
 2. Why Companies Want Out of Their CRM (10 Reasons, Real Buyers)
-3. Ex-CRM Agency Owner: The 10 Reasons Companies Leave Their CRM
+3. Ex-SaaS Founder: The 10 Reasons Companies Leave Their CRM
 4. 10 Reasons Companies Want Out of HubSpot, Salesforce and the Rest
 
 **Thumbnail variations** (the reasons chart; Yusuf pointing at it; 2–4 words):
@@ -50,14 +50,14 @@ Pair title 1 with thumbnail 2 first; test 2 with 1, and 3 with 4.
 **ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **5,000+ CRM buyers studied**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
+> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say about their CRM. HubSpot, Salesforce, Zoho, Pipedrive, and dozens more.
 
 ## 0:19 Who it's for
 
 **ON SCREEN:** one tag: **Fed up with your CRM? This is for you.**
 
 **YUSUF:**
-> If you pay for a CRM every month, and you keep wondering if it's the right one, this video is for you.
+> Maybe you feel the same: you pay for a CRM every month, and you keep wondering if it's the right one. This video shows you why buyers want out, so you can tell whether your CRM is the problem.
 
 ## 0:28 Promise
 
@@ -87,7 +87,7 @@ Link: https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f
 **ON SCREEN:** Yusuf writes **1 → 10** on the whiteboard.
 
 **YUSUF:**
-> I'll start with number one, the biggest, and go to number ten. And stay to the end, because many of the people who complain never leave.
+> I'll start with number one, the biggest, and go to number ten. Then the surprising part: many of the people who complain never leave.
 
 ---
 
@@ -107,7 +107,7 @@ Link: https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f
 Link: https://www.trustpilot.com/reviews/6a025433437d00ac40c8168d
 
 **YUSUF:**
-> This company says it pays Odoo thirty-five thousand dollars a year. They say they were charged a fee of about seven thousand Canadian dollars for staying on an older version, which they never agreed to. They disputed it, and they say their database was closed. So they paid, in their words, under pressure, to get access back. At this level, price means control.
+> One company we found says it pays Odoo thirty-five thousand dollars a year. They say they were charged a fee of about seven thousand Canadian dollars for staying on an older version, which they never agreed to. They disputed it, and they say their database was closed. So they paid, in their words, under pressure, to get access back. At this level, price means control.
 
 **ON SCREEN:** typed three-row card, appearing as he says "take three years of CRM invoices": **Year 1** · **Year 2** · **Year 3**, each with two empty boxes labelled **We grew** | **They changed price, tier or terms**. Then: **DO THIS THIS MONTH: split 3 years of CRM invoices: we grew vs they changed it**
 
@@ -214,7 +214,7 @@ Link: https://www.trustpilot.com/reviews/6a54ca3777ef6cfb1a59ba27
 Link: https://www.trustpilot.com/reviews/6aa2d3bcf3b3feadee2d1996
 
 **YUSUF:**
-> This company says it pays HubSpot around fourteen hundred and fifty pounds a month. They say HubSpot advised them to cut their marketing contacts, the people they can send marketing email to, before renewal, and they did. They say the separate quote that had to be activated ten days before wasn't explained when they got that advice. So it renewed at the old tier, and now they're billed a hundred and forty-two pounds a month for contacts they don't use.
+> One company says it pays HubSpot around fourteen hundred and fifty pounds a month. They say HubSpot advised them to cut their marketing contacts, the people they can send marketing email to, before renewal, and they did. They say the separate quote that had to be activated ten days before wasn't explained when they got that advice. So it renewed at the old tier, and now they're billed a hundred and forty-two pounds a month for contacts they don't use.
 
 **ON SCREEN:** HubSpot help-center screenshot of Account & Billing → Subscriptions → Auto-Renewal Terms, arrow tag on the **Cancel auto-renewal** button · source tag **HubSpot help center**. Then a typed timeline, built as he says "ninety days before": **90 days before: changes in writing** → **Renewal date**. Then: **DO THIS THIS WEEK: write down renewal date · notice period · auto-renew on/off**
 Link: https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account
@@ -238,7 +238,7 @@ Link: https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account
 Link: https://www.trustpilot.com/reviews/6a56555b62380bda2ac088b0
 
 **YUSUF:**
-> This company signed up for unlimited leads. They imported over two hundred thousand, and built their whole workflow inside. Then nine months later they get a limit of forty-five thousand, unless they upgrade to a plan that costs, in their words, about ten times as much.
+> Another company signed up for unlimited leads. They imported over two hundred thousand, and built their whole workflow inside. Then nine months later they get a limit of forty-five thousand, unless they upgrade to a plan that costs, in their words, about ten times as much.
 
 **ON SCREEN:** typed two-column card, appearing as he says "Write today's usage next to each": **Limit on your plan** | **Your usage today**. Then: **DO THIS THIS WEEK: write down your usage vs every limit on your plan**
 
@@ -256,7 +256,7 @@ Link: https://www.trustpilot.com/reviews/6a56555b62380bda2ac088b0
 Link: https://www.reddit.com/r/CRMSoftware/comments/1wz1yw8/our_biggest_sales_problem_is_followup_would_a_b2b/
 
 **YUSUF:**
-> This is a sales manager at an industrial safety supplier, six people on the team. Every call meant more fields to fill in and deals to drag around. So after a few weeks everyone went back to Outlook and their own notes.
+> Here's an example: a sales manager at an industrial safety supplier, six people on the team. Every call meant more fields to fill in and deals to drag around. So after a few weeks everyone went back to Outlook and their own notes.
 
 **ON SCREEN:** whiteboard: **1 call = ___ fields** · **Tracked outside the CRM: ___**. Then: **DO THIS THIS WEEK: ask each rep what they track outside the CRM**
 
@@ -279,7 +279,7 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1wz1yw8/our_biggest_sales_pr
 Link: https://www.trustpilot.com/reviews/6adf21103df1c059a67db03d
 
 **YUSUF:**
-> This one was posted in October. A growing company on HubSpot felt locked in. They had to hire an expensive partner just for the basic setup, and then they got charged for add-ons they never agreed to. In their words, it crippled their cash flow.
+> Here's one from October. A growing company on HubSpot felt locked in. They had to hire an expensive partner just for the basic setup, and then they got charged for add-ons they never agreed to. In their words, it crippled their cash flow.
 
 **ON SCREEN:** typed card, two lines, appearing as he says "partner and consultant invoice": **Partner invoices, last 12 months: $____** · **Changes you are still waiting on: ____**. Then: **DO THIS THIS WEEK: add up 12 months of partner and consultant invoices**
 
@@ -297,7 +297,7 @@ Link: https://www.trustpilot.com/reviews/6adf21103df1c059a67db03d
 Link: https://www.trustpilot.com/reviews/6a6a070f8e25b90490a8b4c6
 
 **YUSUF:**
-> This business has been on Salesforce for twenty years. Then they wanted someone else to run things while they're on holiday, and Salesforce said, buy another licence.
+> One business has been on Salesforce for twenty years. Then they wanted someone else to run things while they're on holiday, and Salesforce said, buy another licence.
 
 **ON SCREEN:** screen recording (upbridge portal), zoomed: Settings → Users & Teams. Arrow tag on **Last active**; red box around the **Last active** column. Then a full-width tag: **DO THIS THIS WEEK: list every paid login + who really needs it**
 
@@ -338,7 +338,7 @@ Link: https://www.trustpilot.com/reviews/69e12ad76d0ac5d90026ffdb
 Link: https://www.trustpilot.com/reviews/6a286f4cb8d9494ce5c310aa
 
 **YUSUF:**
-> And the ones who do switch? Of the buyers who posted about a switch, more than five hundred regret it. That's about half as many as the ones who are happy. And this company here says switching to Salesforce was the worst decision they ever made. Another CRM comes with the same seats, tiers and renewals.
+> And the ones who do switch? Of the buyers who posted about a switch, more than five hundred regret it. That's about half as many as the ones who are happy. And one company says switching to Salesforce was the worst decision they ever made. Another CRM comes with the same seats, tiers and renewals.
 
 **ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
 

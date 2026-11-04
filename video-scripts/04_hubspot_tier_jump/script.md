@@ -17,7 +17,7 @@
 **Title:** How to Get the HubSpot Feature You Need Without Upgrading
 
 **Title variations to test:**
-1. Ex-CRM Agency Owner: How to Get the HubSpot Feature You Need Without Upgrading
+1. Ex-SaaS Founder: How to Get the HubSpot Feature You Need Without Upgrading
 2. Need One HubSpot Feature? Check These 5 Things Before You Upgrade
 3. The HubSpot Tier Jump: 5× to 13× the Price for One Feature
 4. Don't Upgrade HubSpot Until You've Priced the Whole Jump
@@ -48,14 +48,14 @@ Pair title 1 with thumbnail 1 first; test 2 with 5, and 3 with 3.
 **ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **300+ HubSpot customers on the tier jump**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
+> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
 
 ## 0:22 Who it's for
 
 **ON SCREEN:** one tag: **Need 1 feature on the next tier? This is for you.**
 
 **YUSUF:**
-> If you're on HubSpot, and you just found out the one thing you need is on the next tier up, this one's for you.
+> Maybe you're there right now: you need one thing, it's on the next tier up, and the whole bill jumps with it. This video shows you how to get that one thing without paying for the whole jump.
 
 ## 0:33 Promise
 
@@ -63,7 +63,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 5, and 3 with 3.
 Link: https://www.trustpilot.com/reviews/695fd6824ffad717ec0cace4
 
 **YUSUF:**
-> This company was sold an upgrade to Enterprise, that's HubSpot's top tier, for something they needed. They paid. Then they found out it couldn't do it. They needed a whole second account. And in their own words, they're heavily out of pocket.
+> One company in our research was sold an upgrade to Enterprise, that's HubSpot's top tier, for something they needed. They paid. Then they found out it couldn't do it. They needed a whole second account. And in their own words, they're heavily out of pocket.
 >
 > Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
@@ -81,10 +81,10 @@ Link: https://www.trustpilot.com/reviews/695fd6824ffad717ec0cace4
 4. Look for a smaller step
 5. Ask if it's on any tier
 
-Tag on item 5 when he says "stay for step five": **Not about price**
+Tag on item 5 when he says "the last one": **Not about price**
 
 **YUSUF:**
-> Five checks before you upgrade anything. And stay for step five. It would have saved that first company, and it's not about price.
+> Five checks before you upgrade anything. The last one would have saved that first company, and it's not about price.
 
 ---
 
@@ -96,13 +96,13 @@ Tag on item 5 when he says "stay for step five": **Not about price**
 Link: https://www.reddit.com/r/hubspot/comments/1wh6nel/pricing/pa1iuc4/
 
 **YUSUF:**
-> Step one. Write down the job, not the feature. Take this company. They wanted approvals, so a manager signs off on a deal, say a big discount, before it moves on. That's one feature. And the only way to get it inside HubSpot was Sales Hub Enterprise, the top tier. In their words, it would have nearly doubled their Sales Hub spend. So they said no thanks.
+> Step one. Write down the job, not the feature. Here's an example. One company wanted approvals, so a manager signs off on a deal, say a big discount, before it moves on. That's one feature. And the only way to get it inside HubSpot was Sales Hub Enterprise, the top tier. In their words, it would have nearly doubled their Sales Hub spend. So they said no thanks.
 
 **ON SCREEN:** HubSpot help-center screenshot of "Require approvals for deals", red box on **Available with… Sales Hub Enterprise** · source tag **HubSpot help center**
 Link: https://knowledge.hubspot.com/object-settings/pipeline-approvals
 
 **YUSUF:**
-> And that's still true today. Here's HubSpot's own help page. Deal approvals are Sales Hub Enterprise only.
+> And that was still true when I recorded this, in November 2026. Here's HubSpot's own help page. Deal approvals are Sales Hub Enterprise only.
 
 **ON SCREEN:** the tier map builds as he names each feature:
 - **Sales Hub · Professional:** custom reports · full workflows (drop in on "Custom reports and full workflows")
@@ -129,8 +129,10 @@ Links: https://www.hubspot.com/pricing/sales · https://knowledge.hubspot.com/re
 **ON SCREEN:** step tracker: **Step 2 of 5: Price the whole jump**. The staircase; seat prices appear: **Starter $20/seat** · **Professional $100/seat** · **Enterprise $150/seat** · source tag **hubspot.com, Oct 2026**
 Links: https://www.hubspot.com/pricing/sales · https://legal.hubspot.com/hubspot-product-and-services-catalog
 
+**ON SCREEN:** small tag on every price screen in this video: **Prices as of Nov 2026**
+
 **YUSUF:**
-> Step two. Price the whole jump, not the seat. On Sales Hub, a Starter seat is twenty dollars a month. A Professional sales seat is up to a hundred. Enterprise, a hundred and fifty. Service Hub is the same. That's five times the price per seat.
+> Step two. Price the whole jump, not the seat. These are the prices when I recorded this, so treat them as an example. On Sales Hub, a Starter seat is twenty dollars a month. A Professional sales seat is up to a hundred. Enterprise, a hundred and fifty. Service Hub is the same. That's five times the price per seat.
 
 **ON SCREEN:** bar chart, 30-person sales team, year one (tag: **Example**): **Starter $7,200** vs **Professional $37,500**, bracket: **5.2×**. Tags under the Professional bar: **$36,000 seats** · **+$1,500 onboarding (required)**
 
@@ -178,7 +180,7 @@ Link: https://www.hubspot.com/pricing/sales
 Link: https://www.trustpilot.com/reviews/6838795d0c24c948e37b55e5
 
 **YUSUF:**
-> This customer moved to Sales Hub Professional. Nobody told them about the one-year commitment. They only saw it on the checkout page.
+> We found a customer who moved to Sales Hub Professional. Nobody told them about the one-year commitment. They only saw it on the checkout page.
 
 **ON SCREEN:** screenshot of HubSpot's terms page, tagged **legal.hubspot.com · checked Oct 2026**, each passage boxed on its spoken clause, with a caption: "fee goes up mid-term" (**Upgrading raises your fee mid-term** · §3.1) · "can't downgrade" (**No downgrades until renewal** · §2.5) · "renews by itself" (**Renews automatically, up to 1 year** · §4.1)
 
@@ -210,7 +212,7 @@ Then: **DO THIS BEFORE YOU CLICK UPGRADE: send these 4 questions**
 Link: https://www.hubspot.com/pricing/sales
 
 **YUSUF:**
-> Number one. Is there a smaller version on your tier? Sales Hub Starter today has up to fifty simpler workflows, and up to fifteen pipelines. A pipeline is the list of stages a deal moves through, say one for new customers and one for renewals. If your job is simple, that might be enough.
+> Number one. Is there a smaller version on your tier? When I recorded this, Sales Hub Starter had up to fifty simpler workflows, and up to fifteen pipelines. A pipeline is the list of stages a deal moves through, say one for new customers and one for renewals. If your job is simple, that might be enough.
 
 **ON SCREEN:** tag: **2. Only the people who need it?** Then the catalog's seat table, zoomed: red box on **Sales Seat · $100/month** next to **Core Seat · $50/month**
 Link: https://legal.hubspot.com/hubspot-product-and-services-catalog
@@ -222,7 +224,7 @@ Link: https://legal.hubspot.com/hubspot-product-and-services-catalog
 Link: https://www.trustpilot.com/reviews/6a99d4f1907cde1804fc2c0a
 
 **YUSUF:**
-> This company was told to keep one Professional seat and put everyone else on cheaper seats. Then only that one person could make calls. So test the exact job with the exact people before you sign.
+> One company was told to keep one Professional seat and put everyone else on cheaper seats. Then only that one person could make calls. So test the exact job with the exact people before you sign.
 
 **ON SCREEN:** tag: **3. One tool, for one job**. Screen recording (upbridge portal), zoomed: Marketplace → App Marketplace, red box on the search box, held while Yusuf says "an app from HubSpot's marketplace". Then tag **A tool you already pay for** on "or a tool you already pay for". No specific app shown or named.
 
@@ -236,7 +238,7 @@ Link: https://legal.hubspot.com/terms-of-service
 Link: https://www.reddit.com/r/hubspot/comments/1v3io34/hubspot_has_become_too_expensive_for_our_business/oza0rid/
 
 **YUSUF:**
-> And one warning. The tiers move. HubSpot's terms let them add or remove features during your term. This July, a customer said HubSpot removed a feature in the middle of their contract, and didn't tell them first. Now it's pay for the new Revenue Hub, or cancel.
+> And one warning. The tiers move. HubSpot's terms let them add or remove features during your term. In July 2026, a customer said HubSpot removed a feature in the middle of their contract, and didn't tell them first. Now it's pay for the new Revenue Hub, or cancel.
 
 **ON SCREEN:** a four-row worksheet. On "your jump number": **The whole jump: $37,500** (from step 2). On "three smaller ways", one row per phrase, blanks left for the viewer: **Smaller version: $___ · Only who needs it: $___ · One tool: $___**. Then: **DO THIS THIS WEEK: price 3 smaller steps next to the jump**
 
@@ -265,7 +267,7 @@ Link: https://www.trustpilot.com/reviews/695fd6824ffad717ec0cace4
 Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 
 **YUSUF:**
-> And sometimes it's not even on your hub. This Service Hub customer wanted to send automatic follow-up emails on tickets. Anything past ticket created and ticket closed? You need Marketing Hub too. Nobody told them that in the sales process, and it's not on the pricing page.
+> And sometimes it's not even on your hub. One Service Hub customer wanted to send automatic follow-up emails on tickets. Anything past ticket created and ticket closed? You need Marketing Hub too. Nobody told them that in the sales process, and it's not on the pricing page.
 
 **ON SCREEN:** bar chart, "HubSpot customers who complained about…": The tier jump **300+** (grey) · **"It doesn't fit how we work": ~380** (accent)
 
@@ -346,7 +348,7 @@ Link: https://www.trustpilot.com/reviews/6a3929e60f81fe1d231a4aa5
 
 ## Ten shorts
 
-Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my agency") and ends with: "Full video: How to Get the HubSpot Feature You Need Without Upgrading."
+Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my SaaS company") and ends with: "Full video: How to Get the HubSpot Feature You Need Without Upgrading."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

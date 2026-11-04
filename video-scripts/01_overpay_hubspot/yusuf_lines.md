@@ -4,7 +4,7 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say about their bills.
+Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say about their bills.
 
 ## Who it's for
 

@@ -17,7 +17,7 @@
 **Title:** Salesforce for a 15-Person Company: the Real Cost
 
 **Title variations to test:**
-1. Ex-CRM Agency Owner: Is Salesforce Overkill for a 15-Person Company?
+1. Ex-SaaS Founder: Is Salesforce Overkill for a 15-Person Company?
 2. What Salesforce Really Costs a 15-Person Company
 3. Salesforce for a Small Company: Real Costs, Real Alternatives
 4. Is Salesforce Overkill for Your Company? Do This Math First
@@ -51,14 +51,14 @@ Pair the title with thumbnail 1 first (or 5); thumbnails 2–4 are price variati
 **ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **850+ Salesforce customers studied**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
+> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
 
 ## 0:17 Who it's for
 
 **ON SCREEN:** one tag: **Small team on Salesforce? This is for you.**
 
 **YUSUF:**
-> If your company runs on Salesforce, and you've started to wonder if you're paying for a platform built for a company fifty times your size, this one's for you.
+> If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video shows you what it really costs a fifteen-person company, so nothing catches you out.
 
 ## 0:28 Promise
 
@@ -66,14 +66,14 @@ Pair the title with thumbnail 1 first (or 5); thumbnails 2–4 are price variati
 Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforce_12_employees_upgrade_quote/
 
 **YUSUF:**
-> Take this one, from August. A twelve-person firm. They've been on Salesforce for seven years, and the whole company lives in it. They needed more automation, so they asked for an AI demo. That demo ended at eighty-five thousand dollars for year one. Then they told their rep they might leave. So the rep moved them up to Unlimited, their old top plan, thirty-five thousand dollars a year. And when the owner said they plan to double the team, the answer was a four-year agreement.
+> Our research turned up this one, from August. A twelve-person firm. They've been on Salesforce for seven years, and the whole company lives in it. They needed more automation, so they asked for an AI demo. That demo ended at eighty-five thousand dollars for year one. Then they told their rep they might leave. So the rep moved them up to Unlimited, their old top plan, thirty-five thousand dollars a year. And when the owner said they plan to double the team, the answer was a four-year agreement.
 >
 > Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
 **ON SCREEN:** tag under the quote card as he says it: **All sources in the description**. Then four tags appear beside Yusuf, one per phrase: ✓ **Know your real cost** · ✓ **Find the hidden add-ons** · ✓ **Know your renewal terms** · ✓ **See your real options**
 
 **YUSUF:**
-> So in this video I'll show you what Salesforce really costs a fifteen-person company, with today's prices. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
+> So in this video I'll show you what Salesforce really costs a fifteen-person company, at the prices when I recorded this. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
 
 ## 1:30 Plan
 
@@ -84,10 +84,10 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforc
 4. The renewal
 5. The fit, and the way out
 
-Tag on item 5 when he says "stay for number five": **Where switching goes wrong**
+Tag on item 5 when he says "number five": **Where switching goes wrong**
 
 **YUSUF:**
-> Five costs. For each one I'll show you a real company, a real number, and one thing you can check today. And stay for number five. That's the three real ways out, and where switching goes wrong. Because about one in five who move to another rented CRM regret it.
+> Five costs. For each one I'll show you a real company, a real number, and one thing you can check today. Number five is the three real ways out, and where switching goes wrong. Because about one in five who move to another rented CRM regret it.
 
 ---
 
@@ -101,8 +101,10 @@ Tag on item 5 when he says "stay for number five": **Where switching goes wrong*
 **ON SCREEN:** screen recording of salesforce.com/sales/pricing, zoomed on the five edition cards · source tag **salesforce.com, Oct 2026**
 Link: https://www.salesforce.com/sales/pricing/
 
+**ON SCREEN:** small tag on every price screen in this video: **Prices as of Nov 2026**
+
 **YUSUF:**
-> Here are today's prices, from Salesforce's own page.
+> Here are the prices when I recorded this, in November 2026, from Salesforce's own page. They'll change, so treat them as an example.
 
 **ON SCREEN:** whiteboard: Yusuf draws the five-step staircase; typed tag on each step: **Starter Suite $25** · **Pro Suite $100** · **Core $195** · **Advanced $395** · **Max $550** · tags **Per user, per month** and **Billed annually**
 
@@ -145,7 +147,7 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforc
 Link: https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternatives/ol052or/
 
 **YUSUF:**
-> And watch the contract. This customer found Premier Success, a paid support plan, in their renewal. They took it out. The rep put it back. Six times. Removing it saved thirty thousand dollars.
+> And watch the contract. One customer found Premier Success, a paid support plan, in their renewal. They took it out. The rep put it back. Six times. Removing it saved thirty thousand dollars.
 
 **ON SCREEN:** the Where-the-money-goes bar, second block: **Add-ons $4,800 (forms alone, quoted)**. Then: **DO THIS TODAY: list every add-on + its renewal date + its price**
 
@@ -175,7 +177,7 @@ Link: https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternativ
 Link: https://www.reddit.com/r/CRM/comments/1w6m23z/50person_construction_company_stay_with/p7o5f3i/
 
 **YUSUF:**
-> Take this thirty-person firm. They moved from Salesforce to Zoho, and wrote about it this September. On Salesforce, every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
+> Here's another example: a thirty-person firm. They moved from Salesforce to Zoho, and wrote about it in September 2026. On Salesforce, every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
 
 **ON SCREEN:** the complaints chart, first two bars: Price **430+** (grey) · **Too complicated: around 280** (accent). Then the fourth bar appears: **Paying a consultant for changes: about 120**
 
@@ -199,7 +201,7 @@ Small tag under the card: **Order form = the paper you signed**
 Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf
 
 **YUSUF:**
-> Cost number four: the renewal. This is Salesforce's own main services agreement, updated this October. Unless your order form says otherwise, you renew automatically for another year. If you want to stop it, you have to give written notice at least thirty days before the term ends. Email counts. And unless your order form says otherwise, you can't reduce your licences during the term.
+> Cost number four: the renewal. This is Salesforce's own main services agreement, updated in October 2026. Unless your order form says otherwise, you renew automatically for another year. If you want to stop it, you have to give written notice at least thirty days before the term ends. Email counts. And unless your order form says otherwise, you can't reduce your licences during the term.
 
 **ON SCREEN:** the MSA PDF, zoomed on §11.2, highlighted: *"any renewal in which subscription volume or subscription length for any Services has decreased from the prior term will result in re-pricing at renewal without regard to the prior term's per-unit pricing."* 
 
@@ -247,7 +249,7 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1vmymee/7_years_on_salesforc
 Link: https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3dclo1/
 
 **YUSUF:**
-> Number two, another rented CRM. HubSpot, Zoho, Pipedrive. This eighteen-person company moved last year. It took four months and cost them about forty thousand dollars. And their yearly CRM bill went from ninety thousand to under twenty-five.
+> Number two, another rented CRM. HubSpot, Zoho, Pipedrive. One eighteen-person company moved in 2025. It took four months and cost them about forty thousand dollars. And their yearly CRM bill went from ninety thousand to under twenty-five.
 
 **ON SCREEN:** bar chart: "Salesforce customers in our study who'd already moved to another rented CRM": **Glad they moved: about 160** · **Regretted it: nearly 40**
 
@@ -258,7 +260,7 @@ Link: https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_sa
 Link: https://www.reddit.com/r/CRMSoftware/comments/1wkpmnz/anyone_here_successfully_move_off_salesforce/pasfa5b/
 
 **YUSUF:**
-> Number three, software you own. Built only for what your business does. This company pays about a hundred thousand a year for fifty licences. And they're building their own for less than half of that, hosting included. They're still building.
+> Number three, software you own. Built only for what your business does. One company pays about a hundred thousand a year for fifty licences. And they're building their own for less than half of that, hosting included. They're still building.
 
 **ON SCREEN:** quote card: *"You don't really want to hire _an engineer_ to build and maintain something - at best it will be a massive key person risk…"* · tag **r/CRM · Aug 2026**. Tag: **Key person risk = only one person knows how it works**
 Link: https://www.reddit.com/r/CRM/comments/1vmybl6/small_business_outgrowing_salesforce_professional/p3hbr7g/
@@ -321,7 +323,7 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 **ON SCREEN:** end screen: next video, title on screen **What to Do When Your Salesforce Admin Leaves** (video 8) + "Free CRM fit check" button.
 
 **Description:**
-> Salesforce for a 15-person company: real costs, real alternatives. With today's prices: the licence, the add-ons, the people, the renewal and the fit. Plus the three real ways out.
+> Salesforce for a 15-person company: real costs, real alternatives. With prices from November 2026: the licence, the add-ons, the people, the renewal and the fit. Plus the three real ways out.
 >
 > Free 20-minute CRM fit check (show us how your team works, we show you what's possible): [link with utm_campaign=v07]
 >
@@ -347,7 +349,7 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 
 ## Ten shorts
 
-Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my agency") and ends with: "Full video: Salesforce for a 15-Person Company: the Real Cost."
+Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my SaaS company") and ends with: "Full video: Salesforce for a 15-Person Company: the Real Cost."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

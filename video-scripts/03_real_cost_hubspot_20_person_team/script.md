@@ -17,7 +17,7 @@
 **Title:** What HubSpot Costs a 20-Person Team
 
 **Title variations to test:**
-1. Ex-CRM Agency Owner: What HubSpot Costs a 20-Person Team
+1. Ex-SaaS Founder: What HubSpot Costs a 20-Person Team
 2. HubSpot for a 20-Person Team: The Full Bill, Line by Line
 3. What a 20-Person Team Really Pays for HubSpot
 4. The Real Cost of HubSpot for a 20-Person Team
@@ -51,14 +51,14 @@ Pair title 1 with thumbnail 1 first; test 2 with 4, and 3 with 3.
 **ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **1,400+ HubSpot customers studied** · **~250 put a dollar figure on it**
 
 **YUSUF** (straight to camera):
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say, and nearly 250 of them put a dollar figure on it.
+> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 1,400 HubSpot customers say, and nearly 250 of them put a dollar figure on it.
 
 ## 0:19 Who it's for
 
 **ON SCREEN:** one tag: **Never seen the whole bill? This is for you.**
 
 **YUSUF:**
-> If you're on HubSpot, or you're about to sign, and you've never seen the whole bill in one place, this one's for you.
+> In that study, a lot of people said they're confused about HubSpot's pricing. So this video clears that up: what a twenty-person team really pays, so nothing surprises you.
 
 ## 0:28 Promise
 
@@ -66,7 +66,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 4, and 3 with 3.
 Link: https://www.reddit.com/r/CRM/comments/1vy3y25/spending_26kyear_on_hubspot_with_no_sales_team/
 
 **YUSUF:**
-> Take this one, from August. It's a consulting and training company. They run webinars and conferences, and they have consulting clients. No sales team. They wrote out what they use HubSpot for. It was four things. And they were paying twenty-six thousand dollars a year for it. In their words, it's enterprise-sales-team pricing for what amounts to an email marketing tool plus a glorified list of clients and event attendees.
+> Here's an example we found in our research, from August. It's a consulting and training company. They run webinars and conferences, and they have consulting clients. No sales team. They wrote out what they use HubSpot for. It was four things. And they were paying twenty-six thousand dollars a year for it. In their words, it's enterprise-sales-team pricing for what amounts to an email marketing tool plus a glorified list of clients and event attendees.
 >
 > Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
@@ -84,10 +84,10 @@ Link: https://www.reddit.com/r/CRM/comments/1vy3y25/spending_26kyear_on_hubspot_
 4. The glue
 5. The worth-it test
 
-Tag on item 5 when he says "stay for line five": **Not about price**
+Tag on item 5 when he says "the last one": **Not about price**
 
 **YUSUF:**
-> Five lines. The first three are on HubSpot's own price page. The fourth never shows up on your HubSpot invoice. And stay for line five. It's not a cost at all. It's the test that tells you whether the other four are worth paying.
+> Five lines. The first three are on HubSpot's own price page. The fourth never shows up on your HubSpot invoice. And the last one isn't a cost at all. It's the test that tells you whether the other four are worth paying.
 
 ---
 
@@ -101,8 +101,10 @@ Tag on item 5 when he says "stay for line five": **Not about price**
 **ON SCREEN:** screen recording of hubspot.com/pricing/sales, zoomed on Professional: red box on **$90/mo/seat** and **$100/mo/seat**, arrow tag on **Commit annually** · source tag **hubspot.com, Oct 2026**. Then the bill adds its first row: **Sales Hub Pro · 20 seats × $90–100 = $1,800–2,000/mo**
 Link: https://www.hubspot.com/pricing/sales
 
+**ON SCREEN:** small tag on every price screen in this video: **Prices as of Nov 2026**
+
 **YUSUF:**
-> This is HubSpot's own page today. Ninety to a hundred dollars a seat per month, and you commit for a year. So twenty people, that's eighteen hundred to two thousand dollars a month. And that's just the first line.
+> Here's HubSpot's own page when I recorded this, in November 2026. For twenty people, that's about eighteen hundred to two thousand dollars a month, and you commit for a year. Prices change, so treat that as an example. And that's just the first line.
 
 **ON SCREEN:** tags appear beside the row as he names them: **Core seat** · **Sales seat** · **Service seat** · **Revenue seat**. Small source tag **HubSpot help center**
 Link: https://knowledge.hubspot.com/account-management/manage-seats
@@ -114,13 +116,13 @@ Link: https://knowledge.hubspot.com/account-management/manage-seats
 Link: https://www.trustpilot.com/reviews/6aba25a0b0c45dc9764c02e3
 
 **YUSUF:**
-> This company wrote this in September. They already pay around fifteen thousand euros a year. Then they found out that to create a quote, the most basic step in their sales process, their people need an extra seat. They say their bill is going to twenty-five thousand.
+> Another company wrote in September that they already pay around fifteen thousand euros a year. Then they found out that to create a quote, the most basic step in their sales process, their people need an extra seat. They say their bill is going to twenty-five thousand.
 
 **ON SCREEN:** HubSpot help-center line, as a card: **"You must have a Revenue Hub seat to be able to create quotes."** · source tag **HubSpot help center**. Then hubspot.com/pricing/revenue, red box on **$85/mo/seat** · source tag **hubspot.com, Oct 2026**. Then the bill adds a row: **Revenue seats for quotes · 5 × $85 = $425/mo**
 Links: https://knowledge.hubspot.com/quotes/set-up-legacy-quotes · https://www.hubspot.com/pricing/revenue
 
 **YUSUF:**
-> And it's true. HubSpot's own quotes help page says it: you must have a Revenue Hub seat to be able to create quotes. Revenue Hub Professional starts at eighty-five dollars a seat. Say five of your twenty people send quotes. That's another four hundred and twenty-five dollars a month.
+> And it's true. HubSpot's own quotes help page says it: you must have a Revenue Hub seat to be able to create quotes. Say five of your twenty people send quotes. That's about another four hundred dollars a month.
 
 **ON SCREEN:** HubSpot help-center screenshot of the **Seats** tab, arrow tag on each seat type section, red box on the seat counts · source tag **HubSpot help center**. Then: **DO THIS TODAY: write down each seat type, how many, and the price**
 Link: https://knowledge.hubspot.com/account-management/manage-seats
@@ -192,7 +194,7 @@ Links: https://www.hubspot.com/pricing/sales · https://www.hubspot.com/pricing/
 Link: https://www.trustpilot.com/reviews/6a67e1fcb89a2d721d756675
 
 **YUSUF:**
-> This one is from July. They say they spent nearly twenty thousand dollars, and four months later still had nothing done. They also say HubSpot's agreement puts the integration between you and a third party, and they quote it: "we are not responsible for our recommended HubSpot expert."
+> Here's another example, from July. One company says they spent nearly twenty thousand dollars, and four months later still had nothing done. They also say HubSpot's agreement puts the integration between you and a third party, and they quote it: "we are not responsible for our recommended HubSpot expert."
 
 **ON SCREEN:** the one-time box on the bill adds a row: **Partner setup: ?**. Tag beside it: **Who's responsible if it fails?**
 
@@ -215,7 +217,7 @@ Link: https://www.trustpilot.com/reviews/6a67e1fcb89a2d721d756675
 Link: https://www.trustpilot.com/reviews/69b9e1d9e445635927a70541
 
 **YUSUF:**
-> This customer was already paying for HubSpot Professional and Marketing. They wanted one simple thing: someone fills in a form, and an email goes out. To do it, they needed three separate subscriptions, up to a thousand dollars a month. For a form and an email.
+> We found a customer who was already paying for HubSpot Professional and Marketing. They wanted one simple thing: someone fills in a form, and an email goes out. To do it, they needed three separate subscriptions, up to a thousand dollars a month. For a form and an email.
 
 **ON SCREEN:** tag: **~200 HubSpot customers in our study complained about connecting other tools**
 
@@ -250,7 +252,7 @@ Link: https://www.reddit.com/r/CRM/comments/1vy3y25/spending_26kyear_on_hubspot_
 Link: https://x.com/mishavitels/status/2113226378623455456
 
 **YUSUF:**
-> And here's the other side. This is a manufacturer. They make cups. Their sales run on pricing calculators, quotes and contracts, tied to their production planner and stock. So they replaced HubSpot, and several other tools, with software they own. Asked this October what he saved on HubSpot, the cofounder said roughly ten thousand dollars a month.
+> And here's the other side. We found a manufacturer that makes cups. Their sales run on pricing calculators, quotes and contracts, tied to their production planner and stock. So they replaced HubSpot, and several other tools, with software they own. Asked in October 2026 what he saved on HubSpot, the cofounder said roughly ten thousand dollars a month.
 
 **ON SCREEN:** bar chart, "HubSpot customers in our study who complained about…": Consultants & partners **60+** · Connecting other tools **~200** · **"It doesn't fit how we work": nearly 400** (accent, clearly the longest)
 
@@ -333,7 +335,7 @@ Link: https://x.com/mishavitels/status/2113226378623455456
 
 ## Ten shorts
 
-Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my agency") and ends with: "Full video: What HubSpot Costs a 20-Person Team."
+Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my SaaS company") and ends with: "Full video: What HubSpot Costs a 20-Person Team."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

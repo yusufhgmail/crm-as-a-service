@@ -29,3 +29,7 @@ Each folder holds:
 Copied from the working repo (`videos/finished/`) on 3 Nov 2026.
 
 Before filming videos 1 to 6, see [RECORDING_CHECKLIST.md](RECORDING_CHECKLIST.md).
+
+Before writing or changing a script, see [SCRIPT_RULES.md](SCRIPT_RULES.md).
+
+The files here are the current scripts. The Drive copies predate the 4 Nov edits.

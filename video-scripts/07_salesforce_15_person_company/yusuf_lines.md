@@ -4,29 +4,29 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
+Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 850 Salesforce customers say about what it really costs them.
 
 ## Who it's for
 
-If your company runs on Salesforce, and you've started to wonder if you're paying for a platform built for a company fifty times your size, this one's for you.
+If your company runs on Salesforce, maybe you've wondered if you're paying for a platform built for a company fifty times your size. This video shows you what it really costs a fifteen-person company, so nothing catches you out.
 
 ## Promise
 
-Take this one, from August. A twelve-person firm. They've been on Salesforce for seven years, and the whole company lives in it. They needed more automation, so they asked for an AI demo. That demo ended at eighty-five thousand dollars for year one. Then they told their rep they might leave. So the rep moved them up to Unlimited, their old top plan, thirty-five thousand dollars a year. And when the owner said they plan to double the team, the answer was a four-year agreement.
+Our research turned up this one, from August. A twelve-person firm. They've been on Salesforce for seven years, and the whole company lives in it. They needed more automation, so they asked for an AI demo. That demo ended at eighty-five thousand dollars for year one. Then they told their rep they might leave. So the rep moved them up to Unlimited, their old top plan, thirty-five thousand dollars a year. And when the owner said they plan to double the team, the answer was a four-year agreement.
 
 Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
-So in this video I'll show you what Salesforce really costs a fifteen-person company, with today's prices. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
+So in this video I'll show you what Salesforce really costs a fifteen-person company, at the prices when I recorded this. The money that isn't on the price page. How the contract really renews. And what the real alternatives are, honestly. So you can decide with your own numbers, not the sales rep's.
 
 ## Plan
 
-Five costs. For each one I'll show you a real company, a real number, and one thing you can check today. And stay for number five. That's the three real ways out, and where switching goes wrong. Because about one in five who move to another rented CRM regret it.
+Five costs. For each one I'll show you a real company, a real number, and one thing you can check today. Number five is the three real ways out, and where switching goes wrong. Because about one in five who move to another rented CRM regret it.
 
 ## Cost 1: The licence
 
 Cost number one: the licence. Salesforce charges per person, per month. And the price depends on your edition. That's the package that decides which features you get.
 
-Here are today's prices, from Salesforce's own page.
+Here are the prices when I recorded this, in November 2026, from Salesforce's own page. They'll change, so treat them as an example.
 
 Starter Suite, twenty-five dollars per user per month. Pro Suite, a hundred. Core, a hundred and ninety-five. Advanced, three hundred and ninety-five. Max, five hundred and fifty. Everything from Pro Suite up is billed annually.
 
@@ -42,7 +42,7 @@ Cost number two: the add-ons. What's on the price page is not your bill. It's wh
 
 Back to our twelve-person firm. They needed a dialer, call recording, accounting sync, an AI tool, and forms. The forms tool alone was quoted at four thousand eight hundred a year. And every one of those is a separate vendor with its own twelve-month lock-in.
 
-And watch the contract. This customer found Premier Success, a paid support plan, in their renewal. They took it out. The rep put it back. Six times. Removing it saved thirty thousand dollars.
+And watch the contract. One customer found Premier Success, a paid support plan, in their renewal. They took it out. The rep put it back. Six times. Removing it saved thirty thousand dollars.
 
 The check. List every app and add-on around your Salesforce, with its price and renewal date. Then read every line of your order form. Anything you didn't ask for, ask why it's there.
 
@@ -56,7 +56,7 @@ Real quick. If you want to see what a CRM built around your business could look 
 
 Cost number three: the people. Salesforce can do almost anything. But somebody has to set it up, and somebody has to change it. A small company usually doesn't have an admin. So you pay a consultant, by the hour.
 
-Take this thirty-person firm. They moved from Salesforce to Zoho, and wrote about it this September. On Salesforce, every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
+Here's another example: a thirty-person firm. They moved from Salesforce to Zoho, and wrote about it in September 2026. On Salesforce, every small change needed a consultant. Two hundred dollars an hour, and three weeks of waiting.
 
 In our study, around two hundred and eighty Salesforce customers complained that it's too complicated, and about a hundred and twenty about paying a consultant for every change.
 
@@ -64,7 +64,7 @@ The check. Add up twelve months of consultant invoices. Then add the part nobody
 
 ## Cost 4: The renewal
 
-Cost number four: the renewal. This is Salesforce's own main services agreement, updated this October. Unless your order form says otherwise, you renew automatically for another year. If you want to stop it, you have to give written notice at least thirty days before the term ends. Email counts. And unless your order form says otherwise, you can't reduce your licences during the term.
+Cost number four: the renewal. This is Salesforce's own main services agreement, updated in October 2026. Unless your order form says otherwise, you renew automatically for another year. If you want to stop it, you have to give written notice at least thirty days before the term ends. Email counts. And unless your order form says otherwise, you can't reduce your licences during the term.
 
 And look at this sentence. If you renew with fewer licences, or a shorter term, they re-price you. Without regard to what you paid per licence before. In plain words, buy less, and each licence can cost more.
 
@@ -84,11 +84,11 @@ Our twelve-person firm said it best. Their Salesforce is built around how their 
 
 Number one, a smaller Salesforce. Fewer licences, fewer add-ons, a lower edition. But you just saw section eleven point two. Cut licences at renewal and they re-price you. Each licence can cost more.
 
-Number two, another rented CRM. HubSpot, Zoho, Pipedrive. This eighteen-person company moved last year. It took four months and cost them about forty thousand dollars. And their yearly CRM bill went from ninety thousand to under twenty-five.
+Number two, another rented CRM. HubSpot, Zoho, Pipedrive. One eighteen-person company moved in 2025. It took four months and cost them about forty thousand dollars. And their yearly CRM bill went from ninety thousand to under twenty-five.
 
 And in our study, about one in five Salesforce customers who moved to another rented CRM regretted it.
 
-Number three, software you own. Built only for what your business does. This company pays about a hundred thousand a year for fifty licences. And they're building their own for less than half of that, hosting included. They're still building.
+Number three, software you own. Built only for what your business does. One company pays about a hundred thousand a year for fifty licences. And they're building their own for less than half of that, hosting included. They're still building.
 
 And now the honest risk. Someone who has built a custom CRM themselves warned a small-company owner in the same spot. Don't hire one engineer to build it and maintain it. Because if that person leaves, nobody knows how it works. Building it is the easy part. Keeping it running is the hard part.
 

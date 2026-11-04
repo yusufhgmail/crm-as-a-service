@@ -14,7 +14,7 @@
 **Title:** How to Stop Overpaying for HubSpot: 5 Checks
 
 **Title variations to test:**
-1. Ex-CRM Agency Owner: How to Stop Overpaying for HubSpot: 5 Checks
+1. Ex-SaaS Founder: How to Stop Overpaying for HubSpot: 5 Checks
 2. Are You Overpaying for HubSpot? Check These 5 Things
 3. How to Stop Overpaying for HubSpot: 5 Checks (5 Checks, 1 Hour)
 4. You're Overpaying for HubSpot. Here's Where.
@@ -48,7 +48,7 @@ Test title 1 with thumbnail 1 first, 2 with 4, 3 with 3.
 **ON SCREEN:** Yusuf on camera. Tags pop in beside him as he says each one: **450+ companies** · **10+ years in CRM** · **Built & sold FunnelBud** · then **1,400+ HubSpot customers studied**
 
 **YUSUF (straight to camera):**
-> Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say about their bills.
+> Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say about their bills.
 
 ## 0:17 Who it's for
 
@@ -342,7 +342,7 @@ Link: https://www.reddit.com/r/ClaudeAI/comments/1tq0fe5/replacing_6figure_hubsp
 
 ## Ten shorts
 
-Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my agency") and ends with: "Full video: How to Stop Overpaying for HubSpot: 5 Checks."
+Each short opens with the proof line ("I've set up CRMs for 450+ companies and sold my SaaS company") and ends with: "Full video: How to Stop Overpaying for HubSpot: 5 Checks."
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|

@@ -4,15 +4,15 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
+Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what HubSpot customers say about their bills. More than three hundred of them complained about the same thing. The jump from one tier to the next.
 
 ## Who it's for
 
-If you're on HubSpot, and you just found out the one thing you need is on the next tier up, this one's for you.
+Maybe you're there right now: you need one thing, it's on the next tier up, and the whole bill jumps with it. This video shows you how to get that one thing without paying for the whole jump.
 
 ## Promise
 
-This company was sold an upgrade to Enterprise, that's HubSpot's top tier, for something they needed. They paid. Then they found out it couldn't do it. They needed a whole second account. And in their own words, they're heavily out of pocket.
+One company in our research was sold an upgrade to Enterprise, that's HubSpot's top tier, for something they needed. They paid. Then they found out it couldn't do it. They needed a whole second account. And in their own words, they're heavily out of pocket.
 
 Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
@@ -20,13 +20,13 @@ So in this video I'll show you what an upgrade really costs, how to not get lock
 
 ## Plan
 
-Five checks before you upgrade anything. And stay for step five. It would have saved that first company, and it's not about price.
+Five checks before you upgrade anything. The last one would have saved that first company, and it's not about price.
 
 ## Step 1: Name the job, not the feature
 
-Step one. Write down the job, not the feature. Take this company. They wanted approvals, so a manager signs off on a deal, say a big discount, before it moves on. That's one feature. And the only way to get it inside HubSpot was Sales Hub Enterprise, the top tier. In their words, it would have nearly doubled their Sales Hub spend. So they said no thanks.
+Step one. Write down the job, not the feature. Here's an example. One company wanted approvals, so a manager signs off on a deal, say a big discount, before it moves on. That's one feature. And the only way to get it inside HubSpot was Sales Hub Enterprise, the top tier. In their words, it would have nearly doubled their Sales Hub spend. So they said no thanks.
 
-And that's still true today. Here's HubSpot's own help page. Deal approvals are Sales Hub Enterprise only.
+And that was still true when I recorded this, in November 2026. Here's HubSpot's own help page. Deal approvals are Sales Hub Enterprise only.
 
 So here's where the features that push people up a tier live. Custom reports and full workflows, your if-this-then-that automations, those are Professional. Custom objects, so your own record type, like jobs or inspections, that's Enterprise. Response-time targets for support tickets, that's Service Hub Professional. And quote approvals need Revenue Hub, which is a different product.
 
@@ -34,7 +34,7 @@ So here's the check. Write one line. Not "we need Enterprise". Write the job. So
 
 ## Step 2: Price the whole jump
 
-Step two. Price the whole jump, not the seat. On Sales Hub, a Starter seat is twenty dollars a month. A Professional sales seat is up to a hundred. Enterprise, a hundred and fifty. Service Hub is the same. That's five times the price per seat.
+Step two. Price the whole jump, not the seat. These are the prices when I recorded this, so treat them as an example. On Sales Hub, a Starter seat is twenty dollars a month. A Professional sales seat is up to a hundred. Enterprise, a hundred and fifty. Service Hub is the same. That's five times the price per seat.
 
 So take a thirty-person sales team, year one. On Starter, that's seventy-two hundred dollars. On Professional, it's thirty-six thousand in seats, plus an onboarding fee of fifteen hundred that you can't skip. Thirty-seven and a half thousand. A bit over five times more.
 
@@ -54,7 +54,7 @@ Real quick. If you want to see what a CRM built around your business could look 
 
 Step three. Read the commitment before you click. On HubSpot's pricing page, Starter says "commit monthly". Professional says "commit annually". So you don't just get a bigger bill. You go from a plan you can leave next month to a contract for a year.
 
-This customer moved to Sales Hub Professional. Nobody told them about the one-year commitment. They only saw it on the checkout page.
+We found a customer who moved to Sales Hub Professional. Nobody told them about the one-year commitment. They only saw it on the checkout page.
 
 And this is in HubSpot's own terms. When you upgrade, your fee goes up mid-term. You can't downgrade until renewal. And then it renews by itself, for up to a year. So once you've said yes, you can't take it back.
 
@@ -64,15 +64,15 @@ The check: before you click upgrade, email your HubSpot rep these four questions
 
 Step four. Before you take the whole step, look for a smaller one, in three places.
 
-Number one. Is there a smaller version on your tier? Sales Hub Starter today has up to fifty simpler workflows, and up to fifteen pipelines. A pipeline is the list of stages a deal moves through, say one for new customers and one for renewals. If your job is simple, that might be enough.
+Number one. Is there a smaller version on your tier? When I recorded this, Sales Hub Starter had up to fifty simpler workflows, and up to fifteen pipelines. A pipeline is the list of stages a deal moves through, say one for new customers and one for renewals. If your job is simple, that might be enough.
 
 Number two. Buy it only for the people who actually use it. Only the sales seats get the full sales features. Everyone else can sit on a cheaper Core seat. But test it first.
 
-This company was told to keep one Professional seat and put everyone else on cheaper seats. Then only that one person could make calls. So test the exact job with the exact people before you sign.
+One company was told to keep one Professional seat and put everyone else on cheaper seats. Then only that one person could make calls. So test the exact job with the exact people before you sign.
 
 Number three. An app from HubSpot's marketplace, or a tool you already pay for that connects to HubSpot. Then you pay for one job, and not a whole tier.
 
-And one warning. The tiers move. HubSpot's terms let them add or remove features during your term. This July, a customer said HubSpot removed a feature in the middle of their contract, and didn't tell them first. Now it's pay for the new Revenue Hub, or cancel.
+And one warning. The tiers move. HubSpot's terms let them add or remove features during your term. In July 2026, a customer said HubSpot removed a feature in the middle of their contract, and didn't tell them first. Now it's pay for the new Revenue Hub, or cancel.
 
 The check: next to your jump number, write three smaller ways to get the job done, and what each costs. Very often one of them is a fraction of the jump.
 
@@ -84,7 +84,7 @@ Step five. Before you pay for any tier, ask: is what we need on any tier at all?
 
 Remember the company from the start? They paid for the top tier, and it still couldn't do the job. That's not a tier problem. It's a fit problem.
 
-And sometimes it's not even on your hub. This Service Hub customer wanted to send automatic follow-up emails on tickets. Anything past ticket created and ticket closed? You need Marketing Hub too. Nobody told them that in the sales process, and it's not on the pricing page.
+And sometimes it's not even on your hub. One Service Hub customer wanted to send automatic follow-up emails on tickets. Anything past ticket created and ticket closed? You need Marketing Hub too. Nobody told them that in the sales process, and it's not on the pricing page.
 
 In our study, nearly four hundred HubSpot customers complained that it just doesn't fit how they work. That's more than complained about the tier jump.
 

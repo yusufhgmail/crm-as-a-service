@@ -4,15 +4,15 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than 1,400 HubSpot customers say, and nearly 250 of them put a dollar figure on it.
+Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than 1,400 HubSpot customers say, and nearly 250 of them put a dollar figure on it.
 
 ## Who it's for
 
-If you're on HubSpot, or you're about to sign, and you've never seen the whole bill in one place, this one's for you.
+In that study, a lot of people said they're confused about HubSpot's pricing. So this video clears that up: what a twenty-person team really pays, so nothing surprises you.
 
 ## Promise
 
-Take this one, from August. It's a consulting and training company. They run webinars and conferences, and they have consulting clients. No sales team. They wrote out what they use HubSpot for. It was four things. And they were paying twenty-six thousand dollars a year for it. In their words, it's enterprise-sales-team pricing for what amounts to an email marketing tool plus a glorified list of clients and event attendees.
+Here's an example we found in our research, from August. It's a consulting and training company. They run webinars and conferences, and they have consulting clients. No sales team. They wrote out what they use HubSpot for. It was four things. And they were paying twenty-six thousand dollars a year for it. In their words, it's enterprise-sales-team pricing for what amounts to an email marketing tool plus a glorified list of clients and event attendees.
 
 Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
@@ -20,19 +20,19 @@ So in this video I'll show you the whole bill for a twenty-person team, line by 
 
 ## Plan
 
-Five lines. The first three are on HubSpot's own price page. The fourth never shows up on your HubSpot invoice. And stay for line five. It's not a cost at all. It's the test that tells you whether the other four are worth paying.
+Five lines. The first three are on HubSpot's own price page. The fourth never shows up on your HubSpot invoice. And the last one isn't a cost at all. It's the test that tells you whether the other four are worth paying.
 
 ## Line 1: The seats
 
 Line one: the seats. A seat is one person's login. Let's price a twenty-person team on Sales Hub Professional, the tier with the sales automation and reporting.
 
-This is HubSpot's own page today. Ninety to a hundred dollars a seat per month, and you commit for a year. So twenty people, that's eighteen hundred to two thousand dollars a month. And that's just the first line.
+Here's HubSpot's own page when I recorded this, in November 2026. For twenty people, that's about eighteen hundred to two thousand dollars a month, and you commit for a year. Prices change, so treat that as an example. And that's just the first line.
 
 HubSpot doesn't have one kind of seat. There are Core seats, Sales seats, Service seats and Revenue seats. And some everyday jobs need a specific seat.
 
-This company wrote this in September. They already pay around fifteen thousand euros a year. Then they found out that to create a quote, the most basic step in their sales process, their people need an extra seat. They say their bill is going to twenty-five thousand.
+Another company wrote in September that they already pay around fifteen thousand euros a year. Then they found out that to create a quote, the most basic step in their sales process, their people need an extra seat. They say their bill is going to twenty-five thousand.
 
-And it's true. HubSpot's own quotes help page says it: you must have a Revenue Hub seat to be able to create quotes. Revenue Hub Professional starts at eighty-five dollars a seat. Say five of your twenty people send quotes. That's another four hundred and twenty-five dollars a month.
+And it's true. HubSpot's own quotes help page says it: you must have a Revenue Hub seat to be able to create quotes. Say five of your twenty people send quotes. That's about another four hundred dollars a month.
 
 The check: Settings, Users and Teams, the Seats tab. Write down every seat type you pay for, how many of each, and the price per seat from your invoice.
 
@@ -62,7 +62,7 @@ Both Professional hubs come with a required, one-time onboarding fee. Fifteen hu
 
 So year one, at list prices: between forty-one and forty-four thousand dollars. And that's before your quote templates, pipelines and accounting link are built. For that, companies hire a HubSpot partner.
 
-This one is from July. They say they spent nearly twenty thousand dollars, and four months later still had nothing done. They also say HubSpot's agreement puts the integration between you and a third party, and they quote it: "we are not responsible for our recommended HubSpot expert."
+Here's another example, from July. One company says they spent nearly twenty thousand dollars, and four months later still had nothing done. They also say HubSpot's agreement puts the integration between you and a third party, and they quote it: "we are not responsible for our recommended HubSpot expert."
 
 If this doesn't work, who's responsible? Get the answer in writing before you pay anyone.
 
@@ -72,7 +72,7 @@ The check: add up everything you've paid to set HubSpot up: onboarding, partners
 
 Line four: the glue. It never shows up on your HubSpot invoice. It's every app you pay for so HubSpot can talk to the rest of your business: accounting, scheduling, forms, your job system. Zapier, Make, connectors, add-ons.
 
-This customer was already paying for HubSpot Professional and Marketing. They wanted one simple thing: someone fills in a form, and an email goes out. To do it, they needed three separate subscriptions, up to a thousand dollars a month. For a form and an email.
+We found a customer who was already paying for HubSpot Professional and Marketing. They wanted one simple thing: someone fills in a form, and an email goes out. To do it, they needed three separate subscriptions, up to a thousand dollars a month. For a form and an email.
 
 In our study, around two hundred HubSpot customers complained about connecting it to their other tools.
 
@@ -86,7 +86,7 @@ Line five. Is it worth it? Not a question about price. Forty thousand a year can
 
 Remember the company from the start? That's exactly the test they ran. They need four jobs done, and none of the things their tier was built for. They're paying for the way HubSpot thinks a company sells.
 
-And here's the other side. This is a manufacturer. They make cups. Their sales run on pricing calculators, quotes and contracts, tied to their production planner and stock. So they replaced HubSpot, and several other tools, with software they own. Asked this October what he saved on HubSpot, the cofounder said roughly ten thousand dollars a month.
+And here's the other side. We found a manufacturer that makes cups. Their sales run on pricing calculators, quotes and contracts, tied to their production planner and stock. So they replaced HubSpot, and several other tools, with software they own. Asked in October 2026 what he saved on HubSpot, the cofounder said roughly ten thousand dollars a month.
 
 In our study, nearly four hundred HubSpot customers complained that it doesn't fit how they work. That's more than consultants and connecting tools put together.
 

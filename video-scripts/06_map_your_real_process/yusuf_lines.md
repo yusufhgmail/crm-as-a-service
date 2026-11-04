@@ -4,15 +4,15 @@
 
 ## Proof
 
-Over the last ten years, I've set up CRMs for more than 450 companies. I built a CRM agency, FunnelBud, and I sold it. And this month, we studied what more than five thousand CRM buyers say. Nearly nineteen hundred of them said the same thing: it doesn't fit how we work.
+Over the last ten years, I've set up CRMs for more than 450 companies. I built a SaaS company, FunnelBud, and I sold it. And we studied what more than five thousand CRM buyers say. Nearly nineteen hundred of them said the same thing: it doesn't fit how we work.
 
 ## Who it's for
 
-If you pay for a CRM, HubSpot, Salesforce, anything, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard, you're who I made this for.
+Maybe that's you: you pay for a CRM, HubSpot, Salesforce, anything, and your team still runs half the job in spreadsheets, inboxes and on a whiteboard. This video shows you how to map how your team really works, so you know what your CRM has to do before you buy one.
 
 ## Promise
 
-This company has a hundred and ten people and more than ten million in yearly recurring revenue. They run marketing, sales and account management in HubSpot, and they're happy with it. But the one step where the money actually changes, a customer upgrading or downgrading, happens six to eight hundred times a year. And they work that out in Excel.
+We found a company with a hundred and ten people and more than ten million in yearly recurring revenue. They run marketing, sales and account management in HubSpot, and they're happy with it. But the one step where the money actually changes, a customer upgrading or downgrading, happens six to eight hundred times a year. And they work that out in Excel.
 
 Every story in this video is real, and every one is linked in the description, so you can read them yourself.
 
@@ -20,7 +20,7 @@ That Excel file doesn't show up on any CRM screen. That's the problem. So in thi
 
 ## Plan
 
-Five steps, and the minutes add up to thirty. And stay for step five. That's where the map tells you what to actually do about it.
+Five steps, and the minutes add up to thirty. Step five is where the map tells you what to actually do about it.
 
 ## Step 1: Pick one real job
 
@@ -40,7 +40,7 @@ For our roofer: the lead calls. Someone books an inspection. The inspector goes 
 
 Now look at the CRM board next to it. It ends at Closed Won. For a roofer, that's step six of eleven. The materials, the crew, the invoice, getting paid, all of that happens after the CRM says you're done.
 
-This company sells equipment. They looked at existing CRMs and paid for customisations on some of them over several years. But one deal for them can be a sale, an engineering project, an installation and a removal, all at once. And they call that "a little different". Put it on sticky notes and you see it's their whole business, not a little difference.
+Another company sells equipment. They looked at existing CRMs and paid for customisations on some of them over several years. But one deal for them can be a sale, an engineering project, an installation and a removal, all at once. And they call that "a little different". Put it on sticky notes and you see it's their whole business, not a little difference.
 
 And one rule. If someone says "and then it just happens", ask who does it.
 
@@ -82,7 +82,7 @@ A tier is something your CRM can do, on a bigger plan. Say our roofer wants insu
 
 That's a second pipeline, and HubSpot's free plan gives you zero extra pipelines.
 
-This company, in March, needed one more pipeline. On their plan, the next level up came with fifteen, and cost around five thousand dollars more a year. Fourteen pipelines they'd never use. That's a T. You decide it at renewal, with the numbers.
+In March, one company needed one more pipeline. On their plan, the next level up came with fifteen, and cost around five thousand dollars more a year. Fourteen pipelines they'd never use. That's a T. You decide it at renewal, with the numbers.
 
 And a fit problem is one where no setting and no plan does it your way. Your insurance approvals. Your crew schedule. Your estimate turning into your invoice with your rules. This CEO spent over sixteen thousand dollars on HubSpot, and worked with HubSpot's own team for more than a year. Their answer: "We had to ask if the tool fit our workflow. For us, it just didn't." That's an F.
 
