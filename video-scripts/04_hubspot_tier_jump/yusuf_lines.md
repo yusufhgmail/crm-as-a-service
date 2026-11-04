@@ -100,11 +100,11 @@ So, before you jump a HubSpot tier. Name the job. Price the whole jump. Read the
 
 So steps one to four save you from one jump. But it's still a staircase. Next year there's another feature, and another step. And if what you need isn't on any tier at all, then going up a step doesn't fix anything.
 
-We're not for everyone. A two-person team on a standard setup doesn't need us. We help companies of ten to fifty people that a standard CRM doesn't fit.
-
 ## What we do
 
-At CRM From Within, we build custom CRMs around how your company sells and delivers, so there's no next tier to jump to. You own the code, we maintain it, and there's no long contract.
+That's the problem we solve at CRM From Within. We build you a CRM around how your company sells and delivers, so there's no next tier to jump to. We move your data over, you own the code, we maintain it, and there's no long contract.
+
+That makes sense for companies of ten to fifty people that a standard CRM doesn't fit. If yours does, stay on it and use the five checks.
 
 ## Close
 

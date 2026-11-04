@@ -104,11 +104,11 @@ So, the five costs. The licence you really need. The add-ons around it. The peop
 
 A smaller Salesforce gets you a smaller bill. For a year. The add-ons still renew one by one. Every change still needs a consultant. And your list of workarounds doesn't get any shorter.
 
-If a standard setup works fine for you, stay where you are. We work with companies of ten to fifty people that it doesn't fit.
-
 ## What we do
 
-CRM From Within builds custom CRMs around how your company sells and delivers. If Salesforce can't do it, we build it. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
+That's what CRM From Within is for. We build you a CRM around how your company sells and delivers. If Salesforce can't do it, we build it. We move your data over. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
+
+We work with companies of ten to fifty people that a standard setup doesn't fit. If yours fits, stay where you are.
 
 ## Close
 

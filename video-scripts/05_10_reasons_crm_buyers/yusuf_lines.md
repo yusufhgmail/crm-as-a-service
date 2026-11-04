@@ -134,11 +134,13 @@ And that's the most common story. They're not leaving, they're stuck. Switching 
 
 And the ones who do switch? Of the buyers who posted about a switch, more than five hundred regret it. That's about half as many as the ones who are happy. And one company says switching to Salesforce was the worst decision they ever made. Another CRM comes with the same seats, tiers and renewals.
 
-So before you switch, figure out which of the ten is really your problem. And if a standard setup works for you, you don't need us. We help companies of ten to fifty people that a standard CRM doesn't fit.
+So before you switch, figure out which of the ten is really your problem.
 
 ## What we do
 
-My company, CRM From Within, builds custom CRMs around how your company works. You own the code, we maintain it, and if you leave, you keep everything.
+If it's fit, another rented CRM won't fix it. That's why my company, CRM From Within, builds you a CRM around how your company works. We move your data over, you own the code, we maintain it, and if you leave, you keep everything.
+
+We work with companies of ten to fifty people. If a standard CRM fits you, stay with it.
 
 ## Close
 

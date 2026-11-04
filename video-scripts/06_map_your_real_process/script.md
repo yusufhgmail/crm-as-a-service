@@ -264,17 +264,17 @@ Link: https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is
 **YUSUF:**
 > Fixing the S's this week is worth doing. But the F's don't go away. You can pay to bend the CRM around them. A former developer at one company says they spent a million dollars customising Salesforce to their business. And then, in his words, "So now we're locked in."
 
-**ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
-
-**YUSUF:**
-> If a standard setup works for you, keep it. We're for companies of ten to fifty people whose way of selling and delivering doesn't fit one.
-
 ## 10:24 What we do
 
 **ON SCREEN:** three tags, one per phrase: **Built from your map** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> That's what CRM From Within does. We build a custom CRM around how your company works, so the F's turn green. You own the code, we maintain it, and there's no long contract.
+> There's another way, and it's what we do at CRM From Within. We build you a CRM from your map, so the F's turn green. We move your data over, you own the code, we maintain it, and there's no long contract.
+
+**ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
+
+**YUSUF:**
+> It's for companies of ten to fifty people with a map like that. If your map is mostly S's, you don't need us. Fix them this week.
 
 ## 10:42 Close
 

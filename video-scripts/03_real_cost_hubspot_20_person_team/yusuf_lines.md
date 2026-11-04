@@ -102,11 +102,11 @@ So, that's the real bill for a twenty-person team. The seats. The hubs. The setu
 
 Lines one and two, you can trim. Drop a hub nobody uses. Get the seat types right. That's real money. But the bill is still built around how HubSpot sells, and that's not how you sell. You hire people, the seats grow. And if line five gave you a long list of no's, trimming doesn't fix that.
 
-If you're a two-person team, or a standard setup works fine, you don't need us. We work with companies of ten to fifty people that a standard CRM doesn't fit.
-
 ## What we do
 
-That's why I started CRM From Within. We build custom CRMs around how your company sells and delivers: your quotes, jobs and accounting in one system. You own the code, we maintain it, and if you leave, you take everything.
+That's why I started CRM From Within. We build you a CRM around how your company sells and delivers: your quotes, jobs and accounting in one system. We move your data over and we maintain it. You own the code, there's no long contract, and if you leave, you take everything.
+
+It's for companies of ten to fifty people that a standard CRM doesn't fit. If a standard setup works for you, keep it.
 
 ## Close
 

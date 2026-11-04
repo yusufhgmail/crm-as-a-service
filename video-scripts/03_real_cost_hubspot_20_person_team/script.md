@@ -283,17 +283,17 @@ Link: https://x.com/mishavitels/status/2113226378623455456
 **YUSUF:**
 > Lines one and two, you can trim. Drop a hub nobody uses. Get the seat types right. That's real money. But the bill is still built around how HubSpot sells, and that's not how you sell. You hire people, the seats grow. And if line five gave you a long list of no's, trimming doesn't fix that.
 
-**ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
-
-**YUSUF:**
-> If you're a two-person team, or a standard setup works fine, you don't need us. We work with companies of ten to fifty people that a standard CRM doesn't fit.
-
 ## 9:58 What we do
 
 **ON SCREEN:** three tags, one per phrase: **Built for your jobs** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> That's why I started CRM From Within. We build custom CRMs around how your company sells and delivers: your quotes, jobs and accounting in one system. You own the code, we maintain it, and if you leave, you take everything.
+> That's why I started CRM From Within. We build you a CRM around how your company sells and delivers: your quotes, jobs and accounting in one system. We move your data over and we maintain it. You own the code, there's no long contract, and if you leave, you take everything.
+
+**ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
+
+**YUSUF:**
+> It's for companies of ten to fifty people that a standard CRM doesn't fit. If a standard setup works for you, keep it.
 
 ## 10:17 Close
 

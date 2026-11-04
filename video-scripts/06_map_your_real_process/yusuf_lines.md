@@ -98,11 +98,11 @@ So, the thirty-minute map. Pick one real job. Write every step, start to paid. M
 
 Fixing the S's this week is worth doing. But the F's don't go away. You can pay to bend the CRM around them. A former developer at one company says they spent a million dollars customising Salesforce to their business. And then, in his words, "So now we're locked in."
 
-If a standard setup works for you, keep it. We're for companies of ten to fifty people whose way of selling and delivering doesn't fit one.
-
 ## What we do
 
-That's what CRM From Within does. We build a custom CRM around how your company works, so the F's turn green. You own the code, we maintain it, and there's no long contract.
+There's another way, and it's what we do at CRM From Within. We build you a CRM from your map, so the F's turn green. We move your data over, you own the code, we maintain it, and there's no long contract.
+
+It's for companies of ten to fifty people with a map like that. If your map is mostly S's, you don't need us. Fix them this week.
 
 ## Close
 

@@ -340,17 +340,20 @@ Link: https://www.trustpilot.com/reviews/6a286f4cb8d9494ce5c310aa
 **YUSUF:**
 > And the ones who do switch? Of the buyers who posted about a switch, more than five hundred regret it. That's about half as many as the ones who are happy. And one company says switching to Salesforce was the worst decision they ever made. Another CRM comes with the same seats, tiers and renewals.
 
-**ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
-
 **YUSUF:**
-> So before you switch, figure out which of the ten is really your problem. And if a standard setup works for you, you don't need us. We help companies of ten to fifty people that a standard CRM doesn't fit.
+> So before you switch, figure out which of the ten is really your problem.
 
 ## 11:18 What we do
 
 **ON SCREEN:** three tags, one per phrase: **Built for how you work** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> My company, CRM From Within, builds custom CRMs around how your company works. You own the code, we maintain it, and if you leave, you keep everything.
+> If it's fit, another rented CRM won't fix it. That's why my company, CRM From Within, builds you a CRM around how your company works. We move your data over, you own the code, we maintain it, and if you leave, you keep everything.
+
+**ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
+
+**YUSUF:**
+> We work with companies of ten to fifty people. If a standard CRM fits you, stay with it.
 
 ## 11:32 Close
 

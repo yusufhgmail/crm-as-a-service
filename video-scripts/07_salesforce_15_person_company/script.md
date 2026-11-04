@@ -297,17 +297,17 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 **YUSUF:**
 > A smaller Salesforce gets you a smaller bill. For a year. The add-ons still renew one by one. Every change still needs a consultant. And your list of workarounds doesn't get any shorter.
 
-**ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: 2-person teams · standard setups**
-
-**YUSUF:**
-> If a standard setup works fine for you, stay where you are. We work with companies of ten to fifty people that it doesn't fit.
-
 ## 10:20 What we do
 
 **ON SCREEN:** five tags, one per phrase: **Built for how you work** · **You own the code** · **We maintain it** · **No long contract** · **Leave with everything**
 
 **YUSUF:**
-> CRM From Within builds custom CRMs around how your company sells and delivers. If Salesforce can't do it, we build it. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
+> That's what CRM From Within is for. We build you a CRM around how your company sells and delivers. If Salesforce can't do it, we build it. We move your data over. You own the code, and we maintain it, so you're never stuck with one engineer. There's no long contract, and if you leave, you keep everything.
+
+**ON SCREEN:** tags beside Yusuf: **For: 10–50 people** · **A standard CRM doesn't fit** · then, smaller: **If it fits, keep it**
+
+**YUSUF:**
+> We work with companies of ten to fifty people that a standard setup doesn't fit. If yours fits, stay where you are.
 
 ## 10:45 Close
 
