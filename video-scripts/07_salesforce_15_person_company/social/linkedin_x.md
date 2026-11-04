@@ -147,7 +147,7 @@ How long is your list of workarounds?
 ## LinkedIn carousel
 
 ### Post text
-Five costs of Salesforce for a 15-person company, at today's prices: the licence, the add-ons, the people, the renewal and the fit. Me and my team have set up CRMs for hundreds of companies, and this month we studied what more than 850 Salesforce customers say. Which of the five is hiding in your bill? Swipe through, and the full video is in the comments.
+Five costs of Salesforce for a 15-person company, at today's prices: the licence, the add-ons, the people, the renewal and the fit. Me and my team have set up CRMs for hundreds of companies, and now, at my new company, we've studied what more than 850 Salesforce customers say. Which of the five is hiding in your bill? Swipe through, and the full video is in the comments.
 
 ### Slide 1
 Salesforce for a 15-person company. 5 real costs, at today's prices.
@@ -185,7 +185,7 @@ Full video: Salesforce for a 15-Person Company. Link in the comments.
 
 Salesforce for a 15-person company. What does it really cost?
 
-Me and my team have set up CRMs for hundreds of companies. This month we studied what more than 850 Salesforce customers say it costs them.
+Me and my team have set up CRMs for hundreds of companies. Now, at my new company, we've studied what more than 850 Salesforce customers say it costs them.
 
 Fifteen people on Pro Suite is $18,000 a year. Need a sixth automation? That's Core, $35,100. Almost double for the same 15 people.
 
