@@ -18,7 +18,7 @@ You've probably seen the headlines about software stocks falling and AI writing 
 
 ## Plan
 
-Number one is what happened. Number two is why the per-seat price is the weak spot. Number three is what's hype. Number four is what's real. And number five is who should still rent a CRM. I'll give you that number at the very end.
+First, what happened. Then why the per-seat price is the weak spot. Then what's hype, what's real, and who should still rent a CRM. And I'll give you that one number at the very end.
 
 ## Point 1: What happened
 
@@ -30,7 +30,7 @@ Now, that's just investors making bets, so it doesn't tell you anything about yo
 
 I checked HubSpot's pricing page when I recorded this, in November 2026. Sales Hub Professional was ninety dollars a seat per month, billed yearly. So for twenty people, that's about twenty-two thousand dollars a year, and that's before onboarding and add-ons. Prices change, so take that as an example.
 
-Here's the thing. A seat price only makes sense if the value grows with your headcount. But if software does more of the work, your bill should actually shrink. And with seats, it just keeps growing.
+Here's the thing. Paying per seat only makes sense if you get more out of it with every person you add. But if software's doing more of the work, your bill should be going down. And with seats, it just keeps going up.
 
 So try this. Divide your yearly CRM bill by the number of people who actually open it every day. That's your cost per real user.
 
@@ -46,7 +46,7 @@ Number two, "AI builds your CRM in an afternoon." And sure, it can build a worki
 
 Number three is "the vendors are dropping seats." But just look at Salesforce's own AI pricing page. They charge two dollars per conversation, and there's still a price per user as well. HubSpot's plans now come with credits too. So the seat isn't gone, they're just stacking usage charges on top of it.
 
-And I actually wrote about this in June 2023, almost three years before that selloff. The post is linked below. My point was that when building software gets close to free, the costs don't disappear, they just move. Finding customers and running at scale stay expensive. So the big vendors keep setting the price. That means you shouldn't wait for your CRM bill to come down on its own.
+And I actually wrote about this back in June 2023, almost three years before that selloff. The post is linked below. What I said was, when building software gets close to free, the costs don't disappear, they just move. It's still expensive to find customers and to run all this at scale. So the big vendors still get to set the price. Which means, don't sit around waiting for your CRM bill to come down on its own.
 
 ## Point 4: What's real
 
@@ -54,15 +54,15 @@ Now here's what's real. Building software got much cheaper and faster. What used
 
 For years you had two choices. You could rent a standard CRM and bend to fit it, or you could pay a fortune for a custom build. But now there's actually a third option. You get a CRM built around how you sell and deliver, and a twenty-person company can afford it. And the code belongs to you.
 
-And here's the part that matters most. When you rent a CRM, you run your company on the process the vendor decided on, and changing that gets very expensive. But if your CRM is built from scratch, your way of doing business goes right into it. That's how you sell, how you treat customers, and which deals you say no to. Your competitor can rent the same CRM tomorrow. They can't rent that. It becomes your company's personality, and that's very hard to copy.
+And here's the part that matters most. When you rent a CRM, you're running your company on a process the vendor decided on, and changing it gets very expensive. But when your CRM's built from scratch, your way of doing business goes right into it. How you sell, how you treat customers, which deals you say no to. Your competitor can rent the same CRM tomorrow. They can't rent that. It becomes your company's personality, and that's really hard to copy.
 
-In that same post, I even used a CRM as my example. I wrote that when you need a CRM, you might just have someone build one for you, instead of researching the market to find the best one. And I said two costs wouldn't go away. Someone has to understand how your business works, and someone has to support it. So that's what you're really paying for now, and that's what to check before you hire anyone.
+And in that same post, I even used a CRM as my example. I said that when you need a CRM, you might just get someone to build you one, instead of going through the whole market to find the best one. But I also said two costs wouldn't go away. Someone has to understand how your business works, and someone has to support it. So that's what you're really paying for now. And that's what to check before you hire anyone to build it.
 
-And that third option is exactly what we do at my new company, CRM From Within. We use AI to build each CRM, so it costs a lot less than a normal custom build. CRM is all we build, which means we've seen most of the problems before. There's no price per seat, so your bill doesn't go up every time you hire. And you don't have to build anything yourself. We build it, and we keep it running.
+And that third option is exactly what we do at my new company, CRM From Within. We use AI to build each CRM, so it costs a lot less than a normal custom build. CRM's all we build, so we've seen most of the problems before. There's no price per seat, so your bill doesn't go up every time you hire. And you don't have to build anything yourself. We build it, and we keep it running.
 
 Someone who runs sales at a large software company told us he doesn't care about owning code. He just cares about getting the same features or better, for less. And that's fair, because owning is only worth it if it also works better for you.
 
-So just ask your team straight out. "What do you do every week outside the CRM?" That could be in a spreadsheet, in a notebook, or in their head. Then write down three things. A CRM built for you would cover those, and a rented one doesn't.
+So just ask your team straight out. "What do you do every week outside the CRM?" Could be in a spreadsheet, in a notebook, or just in their head. Write down the top three. Those are the things a CRM built for you would cover, and a rented one doesn't.
 
 ## Point 5: Who should still rent
 
@@ -74,7 +74,7 @@ So here's the number I promised. What does your CRM cost at your headcount three
 
 ## Recap
 
-So basically, the market is betting against the seat, it's not betting against software. The hype is that vendors are giving up seats, and they're not. What's real is that building got cheaper, so owning is now possible at your size, and your way of doing business can go right into it. And if you're small and simple, just keep renting.
+So basically, the market's betting against the seat. It's not betting against software. The hype is that vendors are giving up seats, and they're not. What's real is that building got cheaper, so owning's now possible at your size, and your way of doing business can go right into it. And if you're small and simple, just keep renting.
 
 ## What we do
 
