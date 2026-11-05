@@ -46,7 +46,7 @@ Pair the title with thumbnail 1 first; test variation 1 with 5, and variation 3 
 **ON SCREEN:** Yusuf on camera, one line typed beside him as he asks it: **When did HubSpot support last answer you the same day?** Then a small tag: **Built & sold a CRM SaaS · hundreds of CRM setups**
 
 **YUSUF** (straight to camera):
-> When did HubSpot support last get back to you the same day? I know that queue from the other side. Over the years, I built a CRM SaaS company that set up CRMs for hundreds of customers. And I sold it a few years ago.
+> When did HubSpot support last get back to you the same day? I know that queue from the other side. Over the last ten years, I built a CRM SaaS company that set up CRMs for hundreds of customers. And I sold it a few years ago.
 >
 > So in this video, I'll show you what to do when HubSpot support stops answering. It's five steps, and you can do all of them this week.
 
