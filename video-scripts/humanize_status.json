@@ -172,6 +172,54 @@
         8.0
       ],
       "date": "2026-11-05"
+    },
+    "23_leaving_your_crm_dont_move_the_mess": {
+      "sha": "3793c432bcee3c31",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "24_crm_rescue_roofer_hubspot": {
+      "sha": "ac794995bdb8fd65",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "25_replaced_hubspot_build_story": {
+      "sha": "3f85f3d946edf91b",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "26_installer_quote_to_invoice_build": {
+      "sha": "c3ba8840789a4897",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "27_crm_bill_teardown_1": {
+      "sha": "19b9716fc3d2925f",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
     }
   }
 }
