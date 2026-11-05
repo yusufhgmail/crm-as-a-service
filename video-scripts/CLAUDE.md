@@ -23,3 +23,9 @@ The prompt, in Yusuf's words:
 1. Score it based on how a real human actually speaks, 1-10. Note the specific places where it sounds contrived, scripted, or like AI wrote it. If this is pass 2 or more, if the score didn't change from the previous time you scored it, stop. Otherwise continue to step 2.
 2. Rewrite it accordingly, trying to maximize that score, but without losing any informational value or making it less exciting / dopamine-inducing to listen to.
 3. Repeat from step 1 until you reach the stop condition.
+
+# Read and approved by a human
+
+A human reads every script before Yusuf records it. It's the last column of [README.md](README.md). When David or Yusuf says they've read and approved a script, mark it: `python3 video-scripts/humanize.py read 09 David`. Then commit and push.
+
+Mark a script only when that person says so. Never mark one yourself. Any edit to the spoken lines clears the mark, so tell them it needs reading again.

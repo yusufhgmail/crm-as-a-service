@@ -40,6 +40,8 @@ Every video rests on one study, kept in David's private repo. Check every number
 
 **Run the humanize script prompt.** Every script gets it before anyone records it, and any edit to the spoken lines means it has to run again. `humanize.py` tracks this, and [CLAUDE.md](CLAUDE.md) has the prompt. When a new script comes in without it, tell Yusuf or David forcefully and ask them to approve running it.
 
+**A human reads it before Yusuf records it.** David or Yusuf reads every script first, so obviously bad lines get fixed before filming. The last column of the recordings list shows who read it. Any edit to the spoken lines clears that, so run the humanize script prompt first and read last.
+
 **Show the bottleneck, not the admin.** Pick examples where the problem blocks growth: lost deals, lost revenue, work the company can't take on. An annoying extra step isn't worth a viewer's time. Say what fixing it unlocked, with the real numbers if the source has them.
 
 - Not like this: "A customer upgrading happens six to eight hundred times a year. And they work that out in Excel."
