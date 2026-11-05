@@ -49,7 +49,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 2, and 3 with 4.
 **ON SCREEN:** Yusuf on camera. Tag as he says it: **Built & sold a CRM SaaS**. Then a timeline on the whiteboard: **Build** (short, green) → **Year 1 · Year 2 · Year 3** (long, red). Tag over the long part: **Where the work is**
 
 **YUSUF** (straight to camera):
-> I'll admit something. When I started the CRM SaaS company I later sold, I thought building it was the hard part. But it wasn't. The hard part was everything after that, like updates, things breaking in the middle of the night, and integrations that stopped working. So here's how to keep your own CRM running, in six checks.
+> I'll admit something. When I started the CRM SaaS company I later sold, I thought building it was the hard part. And it wasn't. The hard part was everything after that. There were updates. Things broke in the middle of the night. Integrations just stopped working. So here's how to keep your own CRM running, in six checks.
 
 **ON SCREEN:** on the last sentence: **Keep your own CRM running: 6 checks**
 
@@ -58,14 +58,14 @@ Pair title 1 with thumbnail 1 first; test 2 with 2, and 3 with 4.
 **ON SCREEN:** one tag: **The build works. Then what?**
 
 **YUSUF:**
-> Lots of companies now build their own CRM, with a developer, a no-code tool, or AI. Building it is the easy part. The maintenance is what surprises people.
+> A lot of companies build their own CRM now. They use a developer, a no-code tool, or AI. And building it is actually the easy part. What surprises people is the maintenance.
 
 ## 0:32 Promise
 
 **ON SCREEN:** four tags appear beside Yusuf, one per phrase: ✓ **Someone owns the upkeep** · ✓ **It survives one person leaving** · ✓ **Nothing breaks silently** · ✓ **You know the real yearly cost**
 
 **YUSUF:**
-> In this video, I'll show you six checks. After them, you'll know who keeps your CRM running, and how it survives one person leaving. You'll catch things that break quietly. And you'll know what it really costs per year. So you don't have to learn it the way I did.
+> I'm going to give you six checks. By the end, you'll know who keeps your CRM running, and how it survives one person leaving. You'll catch the things that break quietly. And you'll know what it really costs per year, so you don't have to learn all this the way I did.
 
 ## 1:00 Plan
 
@@ -80,7 +80,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 2, and 3 with 4.
 Tag on item 6 when he says "one number": **The real number**
 
 **YUSUF:**
-> Do all six before you build, or this week if it's already built. And the last check is one number. It's the one I'd have wanted on paper before I started.
+> Do all six before you build, or this week if it's already built. And the last check is just one number. It's the one I wish I'd had on paper before I started.
 
 ---
 
@@ -89,26 +89,26 @@ Tag on item 6 when he says "one number": **The real number**
 **ON SCREEN:** step tracker: **Check 1 of 6: Who maintains it**. Tag: **Maintain = fix, update, change**
 
 **YUSUF:**
-> Check one. Name who maintains it. That's the person who fixes what breaks, applies the updates and makes the changes the team asks for, every week.
+> Check one, name who maintains it. That's the person who fixes what breaks and applies the updates. And they make the changes the team asks for, every week.
 
 **ON SCREEN:** whiteboard, two columns: **What users see** · **What nobody sees**, filled in as he says them: **new field, new report** · **updates, security patches, broken logins, data clean-up**
 
 **YUSUF:**
-> Running a software company taught me that most upkeep is invisible. Users see a new field or a report. They never see the security patches, the logins that stopped working, or the data someone cleaned up by hand. And in a small company, all of that lands on whoever built it, and very often that's the owner.
+> I learned this running a software company. Most upkeep is invisible. Your users see a new field or a report. They never see the security patches, or the logins that stopped working, or the data someone cleaned up by hand. And in a small company, all of that lands on whoever built it. Very often, that's the owner.
 
 **ON SCREEN:** the upkeep sheet, line 1 fills in: **Maintains it: [name] · Backup: [name] · Hours a month: [__]**. Then: **DO THIS TODAY: write two names and the hours**
 
 **YUSUF:**
-> So write down two names. One is who maintains it. The other is who steps in when that person's sick, busy or gone. Next to them, write how many hours a month it honestly takes.
+> So write down two names. One for who maintains it, and one for who steps in when that person's sick, busy or gone. And next to them, write how many hours a month it honestly takes.
 >
-> Now look at the names. Is the first one yours, and you also run the company? Or is the second one missing? Either way, that's your biggest risk.
+> Now look at those names. Is the first one yours, and you also run the company? Or is the second one missing? Either way, that's your biggest risk.
 
 ## 2:15 Check 2: Write it down
 
 **ON SCREEN:** step tracker: **Check 2 of 6: Written down**
 
 **YUSUF:**
-> Check two. Write it down. Sooner or later, the person from check one won't be there, and what lived in their head leaves with them.
+> Check two, write it down. Because sooner or later, the person from check one won't be there, and whatever's in their head leaves with them.
 
 **ON SCREEN:** whiteboard, title **The one-page handover**, five lines written one at a time:
 1. **Where it runs** (server, account, who pays)
@@ -118,17 +118,17 @@ Tag on item 6 when he says "one number": **The real number**
 5. **How to bring it back if it dies**
 
 **YUSUF:**
-> So you don't need a manual, just one page. The five lines that go on it are on screen. The most important one is how to bring it back if it dies. And if you built it with AI, just ask the same tool to write this page as you go.
+> You don't need a manual, just one page. The five lines that go on it are on screen. The most important one is how to bring it back if it dies. And if you built it with AI, just ask the same tool to write this page as you go.
 
 **ON SCREEN:** the upkeep sheet, line 2 fills in: **Written down: 1 page · tested by [name]**. Then: **DO THIS THIS WEEK: give the page to someone else and watch**
 
 **YUSUF:**
-> Then hand the page to someone who didn't build it. Have them find the admin login and make one small change. And don't help. Wherever they get stuck, that's what's missing.
+> Then hand that page to someone who didn't build it. Have them find the admin login and make one small change. And don't help them. Wherever they get stuck, that's what's missing.
 
 **ON SCREEN:** card titled **SAY THIS** (to whoever built it, before you call it done): **"Before we call this finished, please write one page. Where it runs and who pays. How to log in as admin, and how to change it safely. What it connects to. And how to bring it back if it dies."**
 
 **YUSUF:**
-> If someone else built it, just say this. "Before we call this finished, please write one page. Put these five things on it." And send them the list on screen.
+> If someone else built it, just say this. "Before we call this finished, please write one page. Put these five things on it." Then send them the list on screen.
 
 **ON SCREEN:** the typed list, checks 1 and 2 ticked.
 
@@ -137,28 +137,28 @@ Tag on item 6 when he says "one number": **The real number**
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So if you'd rather hand the upkeep to someone else, there's a free twenty-minute fit check in the description.
+> And if you'd rather hand the upkeep to someone else, there's a free twenty-minute fit check in the description.
 
 ## 3:45 Check 3: Restore a backup
 
 **ON SCREEN:** step tracker: **Check 3 of 6: Restore a backup**. Tag: **Hosting = where it runs**
 
 **YUSUF:**
-> Check three. Hosting and backups. With a rented CRM, the vendor does this. With your own, someone on your team does, and you only notice the night it fails.
+> Check three, hosting and backups. If you rent your CRM, the vendor does this. But with your own, someone on your team does it, and you only notice the night it fails.
 
 **ON SCREEN:** whiteboard, two boxes side by side: **Backup = a copy exists** · **Restore = you got it back**. Red box around **Restore**. Tag: **Only the second one counts**
 
 **YUSUF:**
-> Most teams set up backups and never actually try getting one back. And a backup you've never restored is just a hope.
+> Most teams set up backups and never actually try getting one back. And if you've never restored one, you're just hoping it works.
 
 **ON SCREEN:** three lines written on the whiteboard as he says them: **Who gets the alert when it's down?** · **How old is the newest backup?** · **How long did the restore take?**
 
 **ON SCREEN:** the upkeep sheet, line 3 fills in: **Backups: daily · restore tested [date] · took [__] min**. Then: **DO THIS THIS MONTH: restore last night's backup into a copy**
 
 **YUSUF:**
-> So restore last night's backup into a separate copy. Never on top of the live system. And time it.
+> So restore last night's backup into a separate copy, never on top of the live system. And time how long it takes.
 >
-> Then answer three things. Who gets alerted when it's down? How old is the newest backup? And how long did the restore take? If nobody knows, it's better to find out now than in front of a customer.
+> Then answer three questions. Number one, who gets alerted when it's down? Secondly, how old is the newest backup? And number three, how long did the restore take? If nobody knows, it's better to find out now than in front of a customer.
 
 **ON SCREEN:** card titled **SAY THIS** (to whoever runs the server): **"This month, please restore last night's backup into a separate copy, not the live system. Then tell me how long it took, and who got the alert."**
 
@@ -170,36 +170,36 @@ Tag on item 6 when he says "one number": **The real number**
 **ON SCREEN:** step tracker: **Check 4 of 6: Connections**. Tag: **Integration = two systems passing data**
 
 **YUSUF:**
-> Check four. Connections. On its own, a CRM is just a list. The value is in what it's connected to, like your email or your accounting. And those connections break when the other side changes something. Nobody asks you first.
+> Check four, connections. On its own, a CRM is just a list. The value comes from what it's connected to, like your email or your accounting. And those connections break when the other side changes something, and nobody asks you first.
 
 **ON SCREEN:** screen recording (upbridge portal), timed to "one list", zoomed: Settings → Integrations → **Connected apps**, red box around the list. Tag: **Every CRM should show you this list** · **Example: HubSpot**
 
 **YUSUF:**
-> At my old company, integrations were the major problem. When they broke, it was a huge headache, and we often found out from customers. That's because every system sees the world in a completely different way. So every connection has to translate one system's rules into the other's.
+> At my old company, integrations were the major problem. When they broke, it was a huge headache, and we often found out from our customers. That's because every system sees the world in a completely different way. So every connection has to translate one system's rules into the other's.
 
 **ON SCREEN:** tag: **Example: a company with its own quoting software** (no name). Then, one at a time: **CRM couldn't handle their quoting rules** · **Link fails → no quotes go out**
 
 **YUSUF:**
-> Here's an example. One company I worked with later on had built its own quoting software, because their CRM couldn't handle their quoting rules. Then they connected the two. And when that link failed, they just couldn't send quotes. They sent a lot of quotes every day, so that's sales stopping.
+> Here's an example. One company I worked with later on had built its own quoting software, because their CRM couldn't handle their quoting rules. Then they connected the two. And when that link failed, they just couldn't send quotes. They sent a lot of quotes every day, so basically sales stopped.
 >
-> And even when it worked, it was super messy. Two applications, and a pile of extra fields in the CRM, just to send one quote.
+> And even when it worked, it was super messy. They had two applications and a pile of extra fields in the CRM, just to send one quote.
 
 **ON SCREEN:** screen recording (upbridge portal), zoomed on **Connected apps**.
 
 **YUSUF:**
-> So every CRM should give you one list of what's plugged in. Here's HubSpot's, as an example.
+> Now, every CRM should give you one list of what's plugged in. Here's HubSpot's, as an example.
 
 **ON SCREEN:** whiteboard table, filled in as he speaks: **Connection · What breaks if it stops · Who notices · Who fixes it** with example rows **Email → replies go missing** · **Accounting → invoices don't match** · **Web form → leads vanish**
 
 **ON SCREEN:** the upkeep sheet, line 4 fills in: **Connections: [__] listed · each has an owner**. Then: **DO THIS THIS WEEK: list every connection and who fixes it**
 
 **YUSUF:**
-> So list every connection. For each one, write what breaks if it stops. Write who would notice, and who fixes it. If nobody would notice, it can be broken for weeks.
+> So list every connection. For each one, write what breaks if it stops. Then write who would notice, and who fixes it. Because if nobody would notice, it can be broken for weeks.
 
 **ON SCREEN:** card titled **SAY THIS** (to the person who'll own one connection): **"You own the link between the CRM and our accounting. If invoices stop matching, you're the one who notices, and you tell me the same day."**
 
 **YUSUF:**
-> And make the owner official, out loud: "You own the link between the CRM and our accounting. If invoices stop matching, you're the one who notices, and you tell me the same day."
+> And make the owner official, out loud. Tell them, "You own the link between the CRM and our accounting. If invoices stop matching, you're the one who notices, and you tell me the same day."
 
 **ON SCREEN:** the typed list, checks 1 to 4 ticked.
 
@@ -208,12 +208,12 @@ Tag on item 6 when he says "one number": **The real number**
 **ON SCREEN:** step tracker: **Check 5 of 6: Access**. Tag: **Access = who can log in and see what**
 
 **YUSUF:**
-> Check five. Access. Your CRM holds every customer, every quote and every deal. So who can log in, and what can each person see? Permissions are what homemade CRMs most often get wrong, because the first version is built for the person building it.
+> Check five, access. Your CRM holds every customer, every quote and every deal. So who can log in, and what can each person see? Permissions are what homemade CRMs get wrong most often, because the first version gets built for the person building it.
 
 **ON SCREEN:** screen recording (upbridge portal), arrow timed to "Super Admin", zoomed: Settings → **Users & Teams**, arrow tag on the **Super Admin** label, red box around the user list. Tag: **Who are your admins?** · **Example: HubSpot**
 
 **YUSUF:**
-> Any decent CRM shows you who has access. Here's HubSpot's list, and Super Admin means that person can change everything. Yours needs the same list.
+> Any decent CRM shows you who has access. Here's HubSpot's list, and Super Admin means that person can change everything. Your CRM needs the same list.
 
 **ON SCREEN:** whiteboard, three tests written one at a time:
 1. **Log in as your most junior user**
@@ -223,25 +223,25 @@ Tag on item 6 when he says "one number": **The real number**
 **ON SCREEN:** the upkeep sheet, line 5 fills in: **Access: tested [date] · admins: [names]**. Then: **DO THIS THIS WEEK: run the three access tests**
 
 **YUSUF:**
-> So here are three tests. Number one, log in as your most junior user, and check what they see.
+> So here are three tests. Number one, log in as your most junior user, and check what they can see.
 >
-> Number two, remove someone who's left, and make sure their login fails.
+> Secondly, remove someone who's left, and make sure their login fails.
 >
-> And number three, write down who holds the admin and server passwords. If only the builder does, checks one and five just failed together.
+> And number three, write down who holds the admin and server passwords. If that's only the builder, you've just failed checks one and five at the same time.
 
 ## 7:55 Check 6: Price a year, not a build
 
 **ON SCREEN:** step tracker: **Check 6 of 6: Cost per year**. Tag: **Real cost = hosting + hours + changes**
 
 **YUSUF:**
-> Check six. Price a year, not a build. People compare the build cost with one year of subscription. That's the wrong comparison, and I made it myself.
+> Check six, price the whole year, not just the build. People compare what it costs to build with one year of subscription. That's the wrong comparison, and I made it myself.
 
 **ON SCREEN:** **26–40 support hours a month** · **The hours are the cost**. Then whiteboard maths, written as he says it: **Hosting & tools: $___ /month × 12** · **+ Upkeep hours: ___ /month × $___ /hour × 12** · **+ Changes your team asks for: ___ /year** · **= Real cost per year**. Red box around the second and third lines. Tag: **The lines most builds forget**
 
 **YUSUF:**
-> The server is usually cheap, but the person isn't. I've seen a CRM need twenty-six to forty hours of support a month. Even at a modest hourly rate, that's real money, every month. The software can be fine. The hours are the cost.
+> The server's usually cheap, but the person isn't. I've seen a CRM need twenty-six to forty hours of support a month. Even at a modest hourly rate, that's real money, every month. The software can be totally fine. It's the hours that cost you.
 >
-> So write it out. The sum is on screen. Add up a year of hosting and tools. Then add a year of upkeep hours from check one. And then add the changes your team will want next year, because a CRM that doesn't change with your business stops fitting.
+> So write it out, using the sum on screen. First add up a year of hosting and tools. Then add a year of upkeep hours from check one. And then add the changes your team's going to want next year, because a CRM that doesn't change with your business stops fitting.
 
 **ON SCREEN:** the upkeep sheet, line 6 fills in: **Cost per year: $____ (incl. people)**. Then: **DO THIS BEFORE YOU DECIDE: write the yearly number with the hours in it**
 
@@ -255,28 +255,28 @@ Tag on item 6 when he says "one number": **The real number**
 **ON SCREEN:** the upkeep sheet, all six lines filled; the typed list, all six ticked.
 
 **YUSUF:**
-> So that's six checks. You've got two names and one page. You've timed a restore, every connection has an owner, and you've tested access. And you've got a yearly number with the people in it.
+> So that's six checks. You've got two names and one page. You've timed a restore. Every connection has an owner, and you've tested who can get in. And you've got a yearly number that actually includes the people.
 
 ## 9:45 Is passing the checklist enough?
 
 **ON SCREEN:** the timeline from the opening: **Build → Year 1 · Year 2 · Year 3**, now with the upkeep sheet sitting on every year.
 
 **YUSUF:**
-> Now, passing once is only a start. What I learned the hard way is that the checks have to stay true in years two and three. That's when the named person is busy, and the business has moved on. Doing it yourself works when somebody really owns it.
+> Now, passing these once is only a start. What I learned the hard way is that the checks have to stay true in year two and year three. That's when the person you named is busy, and the business has moved on. So doing it yourself can work, as long as somebody really owns it.
 
 ## 10:15 What we do
 
 **ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You own the code** · **We do the upkeep** · **No long contract**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
-> And when nobody can, that's CRM From Within. We build a CRM around how you sell and deliver, and we move your data in. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+> And when nobody can, that's what we do at my new company, CRM From Within. We build a CRM around how you sell and deliver, and we move your data in. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
 
 ## 10:35 Close
 
 **ON SCREEN:** checklist building line by line: **☐ Write two names + the hours ☐ Hand the one-page doc to someone else ☐ Restore last night's backup ☐ List every connection + its owner ☐ Run the 3 access tests ☐ Write the yearly cost with the hours in it**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So start with the two names, and hand someone the page. Restore a backup, and time it. List your connections. Run the access tests. Then write down the yearly number. If you skip it, the day something breaks is the day you find out.
+> So start with the two names, and hand someone the page. Restore a backup, and time it. List your connections, and run the access tests. Then write down the yearly number. If you skip this, you'll find out the day something breaks.
 >
 > In the next video, I'll give you one prompt to plan the CRM you actually need.
 

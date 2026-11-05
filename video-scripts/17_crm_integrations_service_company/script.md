@@ -45,23 +45,23 @@ Test the main title with thumbnail 1 first, then 2 with 3, and 3 with 2.
 **ON SCREEN:** Yusuf on camera. Whiteboard behind him: three boxes, **CRM · Jobs app · QuickBooks**. Tags pop in as he says them. Proof as a tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**. Then the title words: **5 integrations · the whole customer**
 
 **YUSUF** (straight to camera):
-> Imagine a customer calls you and says, "Why did I get a reminder? I paid two weeks ago." So you look it up. The CRM says won, QuickBooks says paid, and the job app says it's still open. That's three systems, and three different answers.
+> Imagine a customer calls you and says, "Why did I get a reminder? I paid two weeks ago." So you look it up. The CRM says won, QuickBooks says paid, and the job app says it's still open. That's three systems giving you three different answers.
 >
-> In this video, I'll go through the five CRM integrations a service company needs, and one check for each one.
+> So in this video, I'll go through the five CRM integrations a service company needs, and I'll give you one check for each one.
 
 ## 0:20 Who it's for
 
 **ON SCREEN:** one tag: **Same customer, typed 3 times?**
 
 **YUSUF:**
-> This is for you if your invoices live in QuickBooks and your jobs are in another app. And someone types the same customer into all of them.
+> This is for you if your invoices live in QuickBooks and your jobs are in another app, and someone ends up typing the same customer into all of them.
 
 ## 0:35 Promise
 
 **ON SCREEN:** four tags beside Yusuf, one per phrase: ✓ **Type every job once** · ✓ **See who's paid, in your CRM** · ✓ **Find the broken connection** · ✓ **Decide what flows where**
 
 **YUSUF:**
-> I'll show you how to type every job once. You'll see who's paid without opening QuickBooks. We'll find the connection that's quietly broken. And then you decide what flows where. By the end, you'll also know who gets told when a connection breaks. In most companies I've seen, the honest answer is nobody.
+> By the end, you'll type every job once, and you'll see who's paid without opening QuickBooks. We'll find the connection that's quietly broken, and then you decide what flows where. And you'll know who gets told when a connection breaks. In most companies I've seen, the honest answer is nobody.
 
 ## 1:15 Plan
 
@@ -84,14 +84,14 @@ He draws the **CRM** box in the middle of the board. Tag on item 1: **The whole 
 **ON SCREEN:** tracker: **Integration 1 of 5: Accounting**. On the map, the **QuickBooks** box and two arrows. Out of the CRM: **Job won → invoice, same lines**. Back in: **Paid / overdue**. Tag: **Integrated = both arrows, nobody typing**
 
 **YUSUF:**
-> Integration one is accounting, and for a lot of service companies, that's QuickBooks. Integrated means a won job puts the invoice in QuickBooks, with the same lines the customer agreed to. And when the customer pays, or doesn't, your CRM knows.
+> So integration one is accounting, and for a lot of service companies, that's QuickBooks. Integrated means a won job puts the invoice in QuickBooks, with the same lines the customer agreed to. And when the customer pays, or doesn't, your CRM knows.
 >
-> Honestly, the typing you save is minor. The real value is that your team sees the whole customer. What they bought, what they paid, and when it's time to renew. And which marketing brought in the revenue. A salesperson or account manager can't do their job well without that.
+> Honestly, the typing you save is minor. The real value is that your team sees the whole customer. They see what the customer bought and what they paid. They see when it's time to renew, and which marketing brought in the revenue. And a salesperson or account manager can't do their job well without that.
 
 **ON SCREEN:** tags as he says them: **What they bought** · **What they paid** · **When to renew** · **Which marketing paid off**. Then a typed note: **CRM: deal won** → **Accounting: invoice sent · paid · paid in part** · tag **About 15% had trouble here (my estimate)**
 
 **YUSUF:**
-> And it's harder than it sounds. In my experience, about fifteen percent of companies had trouble getting the two to agree. The problem is translation. In the CRM, you close the deal, and it's won. But accounting has its own steps. The invoice is sent, then paid, or not paid in full.
+> And it's harder than it sounds. In my experience, about fifteen percent of companies had trouble getting the two to agree. The problem is translation. In the CRM, you close the deal, and it's won. But accounting has its own steps. The invoice gets sent, and then it's paid, or it's not paid in full.
 
 **ON SCREEN:** HubSpot help-center screenshot, "Connect HubSpot and QuickBooks Online": red box on the sync table, tag **All plans · updated Jul 2026**. Then lines boxed one at a time:
 - **"recommended filters will automatically be set for you"** then **"This filter sets up a one-way sync from QuickBooks Online to HubSpot"** · tag **Recommended filter: one way**
@@ -102,22 +102,22 @@ Source tag **HubSpot help center · checked Nov 2026**
 Link: https://knowledge.hubspot.com/integrations/connect-hubspot-and-quickbooks-online
 
 **YUSUF:**
-> So what does a standard connector actually do? Let's take HubSpot's as an example. I checked its help page when I recorded this. It's on every plan, and it syncs contacts, products and invoices. But the recommended setup makes the invoice sync one way, from QuickBooks into HubSpot. Make an invoice in HubSpot, and you can't edit its lines or prices in QuickBooks. If one payment covers three invoices, that payment doesn't reach HubSpot. And extra fields need another subscription, Data Hub Starter or above.
+> So what does a standard connector actually do? Let's take HubSpot's as an example. I checked its help page when I recorded this. It's on every plan, and it syncs contacts, products and invoices. But the recommended setup makes the invoice sync one way, from QuickBooks into HubSpot. If you make an invoice in HubSpot, you can't edit its lines or prices in QuickBooks. If one payment covers three invoices, that payment doesn't reach HubSpot. And if you want extra fields, you need another subscription, Data Hub Starter or above.
 
 **ON SCREEN:** on the map, the arrow back from QuickBooks turns red. Tags as he says them: **Invoice re-typed** · **"Is it paid?" Ask accounts** · **Marked paid by hand**
 
 **YUSUF:**
-> So that's basically a connector built for the average customer, and the workarounds are always the same. Someone re-types the invoice. Someone checks QuickBooks every morning and marks deals paid by hand. Or nobody does, and a salesperson pitches a new job to a customer who still owes you for the last one.
+> So that's basically a connector built for the average customer, and the workarounds are always the same. Someone re-types the invoice. Or someone checks QuickBooks every morning and marks deals paid by hand. Or nobody does, and a salesperson pitches a new job to a customer who still owes you for the last one.
 
 **ON SCREEN:** **DO THIS: trace your last 5 invoices · typed once? · paid shows in your CRM?** A table on the board: **Invoice · Typed by hand? · Paid in CRM?**, five empty rows.
 
 **YUSUF:**
-> Take your last five invoices. Did anyone re-type the lines from the quote? And can you see in the CRM that each one is paid, without opening QuickBooks? Every time the answer's no, that's a red arrow.
+> So take your last five invoices. Did anyone re-type the lines from the quote? And can you see in the CRM that each one is paid, without opening QuickBooks? Every time the answer's no, that's a red arrow.
 
 **ON SCREEN:** card: **SAY THIS (to whoever set up the connector):** "Which way does our QuickBooks sync run? Which fields does it send? And what happens when one payment covers several invoices?"
 
 **YUSUF:**
-> Then ask whoever set up the connector. "Which way does our QuickBooks sync run? Which fields does it send? And what happens when one payment covers several invoices?"
+> Then ask whoever set up the connector, "Which way does our QuickBooks sync run? Which fields does it send? And what happens when one payment covers several invoices?"
 
 ## 4:05 Free CRM fit check
 
@@ -131,13 +131,13 @@ Link: https://knowledge.hubspot.com/integrations/connect-hubspot-and-quickbooks-
 **ON SCREEN:** tracker: **Integration 2 of 5: Quotes**. On the map, **Quotes + e-signature**. Into the CRM: **Signed → deal won, same lines**. Out: **Lines → job + invoice**. Tag: **What they signed = what you bill**
 
 **YUSUF:**
-> Integration two is quotes and e-signature. When this one works, the lines the customer signed become the job and the invoice, and the deal moves to won by itself. It usually breaks on discounts and credits, where the signed quote says one total and the deal says another.
+> Integration two is quotes and e-signature. When this one works, the lines the customer signed become the job and the invoice, and the deal moves to won by itself. And it usually breaks on discounts and credits, where the signed quote says one total and the deal says another.
 
 **ON SCREEN:** HubSpot help-center screenshot, "Use e-signatures with quotes": red box on **"A Revenue Hub seat is required to enable e-signatures on a quote."**, then on the table row **Sales Hub Starter · 10** per user · tag **Pooled monthly limit** · source tag **HubSpot help center** · small tag: **Prices as of Nov 2026**
 Link: https://knowledge.hubspot.com/quotes/use-e-signatures-with-quotes
 
 **YUSUF:**
-> The CRM's own quote tool has rules too. I checked HubSpot's help page when I recorded this. E-signatures on a quote need a Revenue Hub seat, and there's a monthly limit for the whole account. On Sales Hub Starter, that's ten per user, per month.
+> The CRM's own quote tool has rules too. I checked HubSpot's help page when I recorded this. If you want e-signatures on a quote, you need a Revenue Hub seat, and there's a monthly limit for the whole account. On Sales Hub Starter, that's ten per user, per month.
 
 **ON SCREEN:** on the map, both **Quotes** arrows turn red. Tags as he says them: **Quote in Word** · **Total typed into CRM** · **Lines typed into invoice**
 
@@ -147,14 +147,14 @@ Link: https://knowledge.hubspot.com/quotes/use-e-signatures-with-quotes
 **ON SCREEN:** **DO THIS: last signed quote vs CRM deal vs invoice · all 3 match?** Three cards side by side: **Signed quote · $?** · **CRM deal · $?** · **Invoice · $?**
 
 **YUSUF:**
-> Put your last signed quote next to its CRM deal and its invoice. Is it the same total, and the same lines? And did anybody have to type something to make them match?
+> So put your last signed quote next to its CRM deal and its invoice. Is it the same total and the same lines? And did anybody have to type something to make them match?
 
 ## 5:35 Integration 3: Jobs and scheduling
 
 **ON SCREEN:** tracker: **Integration 3 of 5: Jobs**. On the map, **Jobs + scheduling**. Out of the CRM: **Won → job: address, scope, crew**. Back: **Done + extras → invoice**. Tag: **Jobber · ServiceTitan · Housecall Pro · a whiteboard**
 
 **YUSUF:**
-> Number three is jobs and scheduling. What you really want here is simple. A won deal becomes a job, without anyone copying it. And then the extra hour or part goes back onto the invoice.
+> Number three is jobs and scheduling. What you really want here is simple. A won deal becomes a job, without anyone copying it. And then any extra hour or part goes back onto the invoice.
 
 **ON SCREEN:** Jobber help-center screenshot, "QuickBooks Integration FAQs: NEW QuickBooks Integration", red boxes on **"The sync is now one way, from Jobber to QuickBooks."** · **"Jobber is the source of truth for clients and products and services."** · **"“Paid” status on invoices no longer sync back to Jobber."** · tag **Updated Oct 2026** · source tag **Jobber help center · checked Nov 2026**
 Link: https://help.getjobber.com/hc/en-us/articles/12642621815831-QuickBooks-Integration-FAQs-NEW-QuickBooks-Integration
@@ -170,7 +170,7 @@ Link: https://help.getjobber.com/hc/en-us/articles/12642621815831-QuickBooks-Int
 **ON SCREEN:** **DO THIS: 1 customer · address + phone in CRM, job app, QuickBooks · all match?** Three columns on the board: **CRM · Jobs · QuickBooks**.
 
 **YUSUF:**
-> Look up one recent customer in the CRM, the job app and QuickBooks. Is it the same address and the same phone? If not, which one is right?
+> So look up one recent customer in the CRM, the job app and QuickBooks. Is it the same address and the same phone? And if not, which one is right?
 
 ## 6:50 Integration 4: Email and calendar
 
@@ -203,25 +203,25 @@ Link: https://knowledge.hubspot.com/integrations/use-hubspots-integration-with-g
 **ON SCREEN:** card: **SAY THIS (to your top seller):** "Can you open your last three customer meetings in the CRM with me? If they're missing, we connect your calendar today."
 
 **YUSUF:**
-> Do this together with them, it's not a test. "Can you open your last three customer meetings in the CRM with me? If they're missing, we connect your calendar today."
+> Do this together with them, because it's not a test. Just say, "Can you open your last three customer meetings in the CRM with me? If they're missing, we connect your calendar today."
 
 ## 7:55 Integration 5: The glue
 
 **ON SCREEN:** tracker: **Integration 5 of 5: The glue**. On the map, the last box, **Zapier / a person**, with dotted arrows to every other box. Tag: **Everything without a connector**
 
 **YUSUF:**
-> And number five is the glue. That's basically everything between your tools that has no real connector, so Zapier, or Make, or a person copying between screens. Nobody buys it on purpose. It just grows, one small fix at a time.
+> And number five is the glue. That's basically everything between your tools that has no real connector, like Zapier, or Make, or a person copying between screens. Nobody buys it on purpose. It just grows, one small fix at a time.
 
 **ON SCREEN:** Zapier help-center screenshot, "How to troubleshoot errors in Zap workflows", red box on **"Your Zap will automatically turn off if 95% of its runs result in errors in the last 7 days."** · tag **Zap = 1 automation in Zapier** · source tag **Zapier help center · checked Nov 2026**
 Link: https://help.zapier.com/hc/en-us/articles/8496037690637-How-to-troubleshoot-errors-in-Zap-workflows
 
 **YUSUF:**
-> The thing with glue is that it breaks quietly. A Zap is one automation in Zapier. Zapier's help page says it turns itself off if ninety-five percent of its runs fail. That's over seven days. So a tool renames a field, the automation fails, and it switches off. And the first person to notice could be a customer who never got their invoice.
+> The thing with glue is that it breaks quietly. A Zap is one automation in Zapier. And Zapier's help page says a Zap turns itself off if ninety-five percent of its runs fail. That's over the last seven days. So a tool renames a field, the automation fails, and it switches off. And the first person to notice could be a customer who never got their invoice.
 
 **ON SCREEN:** **DO THIS: list every Zap + every copy-paste job · who's told when it breaks?** A list on the board: **Connection · Owner (name)**. Rows with no name get a red dot.
 
 **YUSUF:**
-> So list every automation between your tools, and every copy-paste job. Next to each one, write the name of whoever hears when it breaks. If there's no name, it gets a red dot.
+> So list every automation between your tools, and every copy-paste job. And next to each one, write the name of whoever hears when it breaks. If there's no name, it gets a red dot.
 
 **ON SCREEN:** card: **SAY THIS (to the team):** "Tell me anything you copy from one screen to another every week. I'm putting a name next to every connection we have."
 
@@ -238,28 +238,28 @@ Link: https://help.zapier.com/hc/en-us/articles/8496037690637-How-to-troubleshoo
 **ON SCREEN:** the typed list, all five ticked; the finished map.
 
 **YUSUF:**
-> So let's recap. Number one, the invoice goes over once and paid comes back. Secondly, what they signed is what you bill. Number three, you keep one copy of each customer. Number four, the history lives on the customer. And number five, there's a name on every connection.
+> So let's recap. Number one, the invoice goes over once, and the paid status comes back. Secondly, what they signed is what you bill. Number three, you keep one copy of each customer. Number four, the history lives on the customer record. And number five, there's a name on every connection.
 
 ## 9:25 Is fixing it enough?
 
 **ON SCREEN:** tags on the red arrows as he says them: **Direction: the vendor's call** · **Fields: the vendor's call** · **More: next tier**
 
 **YUSUF:**
-> Some of this you can fix this week. But with a standard connector, someone else decided which way data flows. They decided which fields go, and which plan you need for more. So if you need an arrow it doesn't have, no setting will add it. And every tool you buy to cover that gap is one more subscription, and one more connection that can break.
+> Some of this you can fix this week. But with a standard connector, someone else decided which way data flows. They also decided which fields go, and which plan you need for more. So if you need an arrow it doesn't have, no setting will add it. And every tool you buy to cover that gap is one more subscription, and one more connection that can break.
 
 ## 10:00 What we do
 
 **ON SCREEN:** the integration map redrawn, every arrow green, the QuickBooks arrows included, tag **Built around your map**. Then tags: **We move your data** · **You own the code** · **No long contract** · smaller: **For 10–50 people · connectors fine? Keep them**
 
 **YUSUF:**
-> That's what CRM From Within is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. We move your data and we maintain it. The code is yours, with no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
+> That's what my new company, CRM From Within, is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. We move your data and we maintain it. The code is yours, and there's no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
 
 ## 10:25 Close
 
 **ON SCREEN:** checklist building line by line: **This week: ☐ Trace 5 invoices ☐ Line up 1 signed quote ☐ 1 customer, 3 systems ☐ 3 meetings ☐ A name on every connection**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So back to that phone call. Run the five checks, draw your own map in green, red and dotted, and you'll know exactly which arrow sent that reminder.
+> So back to that phone call. Run the five checks and draw your own map in green, red and dotted. Then you'll know exactly which arrow sent that reminder.
 >
 > If it's mostly red, bring the map to the fit check below.
 >

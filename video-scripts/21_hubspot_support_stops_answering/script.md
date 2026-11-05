@@ -55,7 +55,7 @@ Pair the title with thumbnail 1 first; test variation 1 with 5, and variation 3 
 **ON SCREEN:** one tag: **Ticket open, nobody answering?**
 
 **YUSUF:**
-> Maybe you've got an open ticket, or a billing problem, or a locked account, and nobody's answering. And while you wait, your team can't see its deals or send its quotes.
+> Maybe you've got an open ticket, or a billing problem, or a locked account, and nobody's answering. And while you wait, your team can't see their deals or send their quotes.
 
 ## 0:24 Promise
 
@@ -63,14 +63,14 @@ Pair the title with thumbnail 1 first; test variation 1 with 5, and variation 3 
 Link: https://www.trustpilot.com/reviews/6ac4fdeacc1972832e179cae
 
 **YUSUF:**
-> Here's a public example from October. One company paid HubSpot for the whole year up front, and their CRM account still got suspended. So they tried the chatbot, the chat dropped, and they got sent to sales. They say the sales rep couldn't open a collections ticket, couldn't escalate it and couldn't transfer them. The answer was basically, email collections yourself. And then the chat was closed.
+> Here's a public example from October. One company paid HubSpot for the whole year up front, and their CRM account still got suspended. So they tried the chatbot, and the chat dropped, and then they got sent to sales. And they say the sales rep couldn't open a collections ticket. The rep couldn't escalate it, and couldn't transfer them either. The answer was basically, email collections yourself. And then the chat got closed.
 >
-> That review is real, by the way, and every source is linked in the description.
+> And that review's real, by the way. Every source is linked in the description.
 
-**ON SCREEN:** tag under the quote card: **All sources in the description**. Then four tags beside Yusuf, one per phrase: ✓ **Reach a real person** · ✓ **Everything in writing** · ✓ **Your data outside HubSpot** · ✓ **Know who picks up**
+**ON SCREEN:** tag under the quote card: **All sources in the description**. Then four tags beside Yusuf, one per phrase: ✓ **Reach a real person** · ✓ **Know which door to knock on** · ✓ **Everything in writing** · ✓ **Your data outside HubSpot**
 
 **YUSUF:**
-> So these five steps will get you to a real person at HubSpot. You'll know which door to knock on, you'll have everything in writing before your renewal, and you'll have your data out.
+> So these five steps will get you to a real person at HubSpot. You'll know which door to knock on, and you'll have everything in writing before your renewal. And you'll have your data out.
 
 ## 1:30 Plan
 
@@ -93,24 +93,24 @@ Tag on item 5 when he says "the last one": **Not about this ticket**
 **ON SCREEN:** step tracker: **Step 1 of 5: What your plan promises**. Screen recording (upbridge portal), zoomed: arrow tag on the **help icon** (question mark, top right) → the help panel → red box on **Contact us**. Tag: **Free: help articles + Community**
 
 **YUSUF:**
-> Step one. Know what your plan promises, before something breaks. In HubSpot, the help button is the question mark in the top right. If you're on a free account, you just get help articles and the community forum.
+> Step one, know what your plan promises before something breaks. So in HubSpot, the help button is the question mark in the top right. If you're on a free account, you just get help articles and the community forum.
 
 **ON SCREEN:** card titled **HubSpot's own help page**, rows appearing as he names each tier, source tag **HubSpot help center**: **Free:** Knowledge Base · Community / **Starter:** + chat · email / **Professional & Enterprise:** + phone. Then a tag: **Newer accounts: paid seat only**
 Link: https://knowledge.hubspot.com/help-and-resources/get-help-with-hubspot
 
 **YUSUF:**
-> On Starter, you also get chat and email, and Professional and Enterprise add phone on top of that. But on newer accounts, only the people with a paid seat get those.
+> On Starter, you also get chat and email. Professional and Enterprise add phone on top of that. But on newer accounts, only the people with a paid seat get those.
 
 **ON SCREEN:** HubSpot's Product Specific Terms, tagged **legal.hubspot.com · checked Nov 2026**, passages boxed on his words: **"We attempt to respond… within one business day"** · **"We do not promise or guarantee any specific response time."** · §10.2. Then: **Phone: 8pm Sunday to 8pm Friday, US Eastern** · §10.1
 Link: https://legal.hubspot.com/product-specific-terms
 
 **YUSUF:**
-> So how fast do they actually answer? HubSpot's own terms say they attempt to reply within one business day. And the very next sentence says they do not promise or guarantee any specific response time. Phone support runs from Sunday evening to Friday evening, US Eastern time, so if your CRM breaks on a Saturday, there's literally no one to call.
+> So how fast do they actually answer? HubSpot's own terms say they attempt to reply within one business day. And the very next sentence says they do not promise or guarantee any specific response time. Phone support runs from Sunday evening to Friday evening, US Eastern time. So if your CRM breaks on a Saturday, there's literally no one to call.
 
 **ON SCREEN:** card, filled in line by line: **Our tier: ___ · Paid seats: ___ · Super Admins: ___ · Hub ID: ___**. Then: **DO THIS TODAY: write down tier, paid seats, Super Admins, Hub ID**
 
 **YUSUF:**
-> Here's a check you can do today. Write down your tier. Then write down who has a paid seat, who your Super Admins are, and then your Hub ID. That's your account number, and HubSpot says to have it ready. If you've only got one Super Admin, fix that today. You'll see why in a minute.
+> Here's a check you can do today. Write down your tier, and who has a paid seat. Then write down who your Super Admins are, and your Hub ID. That's your account number, and HubSpot says to have it ready. If you've only got one Super Admin, fix that today. You'll see why in a minute.
 
 ## 2:53 Step 2: Knock on the right door
 
@@ -118,13 +118,13 @@ Link: https://legal.hubspot.com/product-specific-terms
 Link: https://knowledge.hubspot.com/account-management/contact-hubspot-about-an-account
 
 **YUSUF:**
-> Step two. Knock on the right door. HubSpot's help page actually tells you who handles what. If something's broken, that goes to support. Invoices go to billing. Renewals go to the contract team. Account questions go to your success manager. And sales is just for buying. So that suspended account in the first story ended up at a door that said it couldn't help.
+> Step two, knock on the right door. HubSpot's help page actually tells you who handles what. So if something's broken, that goes to support. Invoices go to billing, and renewals go to the contract team. If it's a question about your account, that's your success manager. And sales is just for buying. So that company with the suspended account ended up at a door that said it couldn't help.
 
 **ON SCREEN:** quote card: *"We emailed HubSpot multiple times starting almost a month ago and received no meaningful response."* → *"Only after I called their sales line did someone finally start responding."* ("almost a month" and "called their sales line" highlighted) · tag **Trustpilot · May 2026**
 Link: https://www.trustpilot.com/reviews/6a0c9476f251d0ccb18d1bec
 
 **YUSUF:**
-> But sometimes the right door stays shut. Take this one, from May. One company says a small credit purchase put them on a bigger bill they never agreed to. They emailed HubSpot for almost a month and got no real answer. What finally worked was calling the sales line. So use the right door first, and do it in writing. If it stays shut, pick up the phone and try a second door. Then read them the line on screen.
+> But sometimes the right door just stays shut. Take this one, from May. One company says a small credit purchase put them on a bigger bill they never agreed to. So they emailed HubSpot for almost a month, and they got no real answer. And then they called the sales line, and that's what finally worked. So use the right door first, and do it in writing. And if it stays shut, pick up the phone and try a second door. Then read them the line on screen.
 
 **ON SCREEN:** a card: **SAY THIS on the second door: "Ticket [number], opened [date], still no answer. Who at HubSpot owns it, and when will I hear back?"**
 
@@ -132,12 +132,12 @@ Link: https://www.trustpilot.com/reviews/6a0c9476f251d0ccb18d1bec
 Link: https://community.hubspot.com/t/cancel-service-and-review-bill-accuracy/142515
 
 **YUSUF:**
-> This is why you fix your Super Admins. Here's one from the HubSpot Community. One company's paying two hundred and seventy dollars a month, and the person who set up HubSpot left. So now the person trying to sort it out isn't an admin. They can't cancel, they can't update the card, and sales just told them to send emails.
+> And this is why you fix your Super Admins. Here's one from the HubSpot Community. One company's paying two hundred and seventy dollars a month, and the person who set up HubSpot has left. So now the person trying to sort it out isn't an admin. They can't cancel, and they can't update the card. And sales just told them to send emails.
 
 **ON SCREEN:** a typed sheet beside the door map: **Open tickets: ___ · Billing: billing@hubspot.com · Contract manager: ___ · CSM: ___ · Sales rep: ___**. Then: **DO THIS THIS WEEK: one name or address per door**
 
 **YUSUF:**
-> So make yourself a one-page door sheet. One name or address for every door. It's on screen, so just copy it.
+> So make yourself a one-page door sheet, with one name or address for every door. It's on screen, so just copy it.
 
 **ON SCREEN:** the typed list, steps 1 and 2 ticked.
 
@@ -154,19 +154,19 @@ Link: https://community.hubspot.com/t/cancel-service-and-review-bill-accuracy/14
 Link: https://www.linkedin.com/posts/yjzar_how-on-earth-is-this-possible-i-dont-like-activity-7479923698007846912-XrPd
 
 **YUSUF:**
-> Step three. Put everything in writing, because when support's slow, your renewal date just keeps coming. There's a good example on LinkedIn, from July. One software CEO spent more than two weeks trying to stop his HubSpot plan from renewing. The form in the app gave him an error. His account manager told him to use the app, and then she said she couldn't do it either. So in the end he posted it in public, as his notice that they're not renewing.
+> Step three, put everything in writing. Because when support's slow, your renewal date just keeps coming. There's a good example on LinkedIn, from July. One software CEO spent more than two weeks trying to stop his HubSpot plan from renewing. The form in the app just gave him an error. His account manager told him to use the app, and then she said she couldn't do it either. So in the end he posted it in public, as his notice that they're not renewing.
 
 **ON SCREEN:** card titled **HubSpot's own terms**: **Renews automatically, up to 1 year** · §4.1 · **To stop it: auto-renew off in Account & Billing** · §4.2. Then the help-center screenshot of Subscriptions → **Auto-Renewal Terms** → red box on **Cancel auto-renewal**, tag **Super Admin or billing admin** · source tag **HubSpot help center**
 Links: https://legal.hubspot.com/terms-of-service · https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account
 
 **YUSUF:**
-> HubSpot's terms say your plan renews by itself, for up to a year. To stop it, there's an auto-renew setting. So don't wait for a reply. If you're a Super Admin or a billing admin, just switch it off yourself. You keep your access until the term ends. Put that date in your calendar.
+> HubSpot's terms say your plan renews by itself, for up to a year, unless you switch off the auto-renew setting. So don't wait for a reply. If you're a Super Admin or a billing admin, just switch it off yourself. You keep your access until the term ends, so put that date in your calendar.
 
 **ON SCREEN:** help-center screenshot, red box on **"If a chat closes due to inactivity, the conversation is converted to a closed ticket."** Arrow tag: **Reply to the ticket email** · source tag **HubSpot help center**
 Link: https://knowledge.hubspot.com/help-and-resources/get-help-with-hubspot
 
 **YUSUF:**
-> And watch out for chat, because HubSpot's help page says if a chat goes quiet, it gets turned into a closed ticket. So if it's not solved, reply to the ticket email, and keep everything under one number.
+> And watch out for chat. HubSpot's help page says if a chat goes quiet, it gets turned into a closed ticket. So if it's not solved, reply to the ticket email, and keep everything under one number.
 
 **ON SCREEN:** a **SAY THIS** card, the short email typed out as he says it:
 > **Subject:** Open issues before our renewal · Hub ID [number]
@@ -177,7 +177,7 @@ Link: https://knowledge.hubspot.com/help-and-resources/get-help-with-hubspot
 Then a log table fills one row (tag: **Example**): **Date · Door · Ticket # · Answer**. Then: **DO THIS THIS WEEK: auto-renew off, send the email, start the log**
 
 **YUSUF:**
-> So this week, switch auto-renew off. Then send one email to support and your contract team. Put every open ticket number in it, and ask who owns each one, and by when. Then start a log of every answer you get. If something only gets said on a call, ask for it by email.
+> So this week, switch auto-renew off. Then send one email to support and your contract team. Put every open ticket number in it, and ask who owns each one, and by when. Then start a log of every answer you get. And if something only gets said on a call, ask for it by email.
 
 ## 6:10 Step 4: Get your data out now
 
@@ -185,10 +185,10 @@ Then a log table fills one row (tag: **Example**): **Date · Door · Ticket # ·
 Link: https://legal.hubspot.com/terms-of-service
 
 **YUSUF:**
-> Step four. Get your data out now, while your account still works. HubSpot's terms say that if a bill isn't paid, they can suspend your access ten days after they tell you. And a billing problem can sit there unanswered for a lot longer than that.
+> Step four, get your data out now, while your account still works. HubSpot's terms say that if a bill isn't paid, they can suspend your access ten days after they tell you. And a billing problem can sit there unanswered for a lot longer than that.
 
 **YUSUF:**
-> It's the same with a login problem or a locked account. That can keep you out just as long.
+> And it's the same with a login problem or a locked account. That can keep you out just as long.
 
 **ON SCREEN:** HubSpot's Product Specific Terms, tagged **legal.hubspot.com · checked Nov 2026**, passage boxed: **"We strongly recommend retrieving your Customer Data prior to the end of your Subscription Term"** · §5.1.1
 Link: https://legal.hubspot.com/product-specific-terms
@@ -200,7 +200,7 @@ Link: https://legal.hubspot.com/product-specific-terms
 Link: https://knowledge.hubspot.com/import-and-export/export-records
 
 **YUSUF:**
-> The good news is every HubSpot plan can export, as long as you have the export permission. You get your records and the links between them, like which contact belongs to which company. Calls and notes need a separate export. So this week, export your contacts, companies and deals. Actually open the files. Then save them outside HubSpot, and set a monthly reminder.
+> The good news is every HubSpot plan can export, as long as you have the export permission. You get your records and the links between them, like which contact belongs to which company. But calls and notes need a separate export. So this week, export your contacts, companies and deals, and actually open the files. Then save them outside HubSpot, and set a monthly reminder.
 
 **ON SCREEN:** the typed list, steps 3 and 4 ticked.
 
@@ -210,12 +210,12 @@ Link: https://knowledge.hubspot.com/import-and-export/export-records
 Links: https://knowledge.hubspot.com/contact-hubspots-premium-support · https://legal.hubspot.com/premium-support
 
 **YUSUF:**
-> Step five. Ask who picks up when something goes wrong at the worst moment. HubSpot does sell a faster answer, and it's called Premium Support. It's Enterprise only, and you buy it separately. It promises your Super Admins a first reply within an hour, if they use the in-app form. But the same terms say resolution times are not guaranteed. So you pay extra for a quick reply, and you still get no date for the fix.
+> Step five, ask who picks up when something goes wrong at the worst moment. HubSpot does sell a faster answer, and it's called Premium Support. It's Enterprise only, and you buy it separately. It promises your Super Admins a first reply within an hour, if they use the in-app form. But the same terms say resolution times are not guaranteed. So you pay extra for a quick reply, and you still get no date for the fix.
 
 **ON SCREEN:** whiteboard, three rows: **What broke? · How long to a real answer? · What did it cost us?** Then: **DO THIS BEFORE YOUR RENEWAL: list the last 3 times you needed a person**
 
 **YUSUF:**
-> So write down the last three times you needed a real person from your CRM company. For each one, what broke? How long did it take to get a real answer? And what did the wait cost you? If the answer's minutes, great. If it's days or weeks, take that list into your renewal.
+> So write down the last three times you needed a real person from your CRM company. For each one, what broke? How long did it take to get a real answer? And what did the wait cost you? If the answer's minutes, great. But if it's days or weeks, take that list into your renewal.
 
 **ON SCREEN:** lower-third tag: **Comment: your longest wait + your tier**
 
@@ -231,14 +231,14 @@ Links: https://knowledge.hubspot.com/contact-hubspots-premium-support · https:/
 **ON SCREEN:** the door map, with a queue of identical tickets behind the Support door: **Your next ticket**
 
 **YUSUF:**
-> Steps one to four will get you through this ticket. But the next one goes into the same queue, right? It's the same doors and the same one business day that nobody promises, and the person on the other end has never seen how your company works. And if step five gave you a long list, no ticket is going to fix that.
+> Steps one to four will get you through this ticket. But the next one goes into the same queue, right? It's the same doors, and the same one business day that nobody promises. The person on the other end has never seen how your company works. And if your list from step five shows days or weeks every time, no ticket is going to fix that.
 
 ## 9:15 What we do
 
 **ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You own the code** · **You talk to who built it** · then, smaller: **For 10–50 people · standard setup fits? Keep it**
 
 **YUSUF:**
-> That's why I started CRM From Within. So the answer to "who picks up?" is the people who wrote your system. We build a CRM around how your team sells and delivers. We move your HubSpot data over, and we maintain it. You own the code, there's no multi-year contract, and if you leave, you take everything with you.
+> That's why I started CRM From Within, so the answer to "who picks up?" is the people who wrote your system. We build a CRM around how your team sells and delivers. We move your HubSpot data over, and we maintain it. You own the code, there's no multi-year contract, and if you leave, you take everything with you.
 >
 > It's for companies of ten to fifty people that a standard CRM can't fit. If HubSpot fits you, keep it, and keep that door sheet handy.
 
@@ -247,7 +247,7 @@ Links: https://knowledge.hubspot.com/contact-hubspots-premium-support · https:/
 **ON SCREEN:** checklist building line by line: **☐ Tier, seats, Super Admins, Hub ID ☐ One name per door ☐ Auto-renew off, email, log ☐ Export and save it outside ☐ The last 3 times you needed a person**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So before your next ticket goes quiet, write down your tier, your paid seats, your Super Admins and your Hub ID. Put a name on every door. Switch off auto-renew, send the email and start your log. Export your data and save it outside HubSpot. And list the last three times you needed a person. That's it.
+> So before your next ticket goes quiet, here's what you do. Number one, write down your tier, your paid seats, your Super Admins and your Hub ID. Secondly, put a name on every door. Number three, switch off auto-renew, send the email and start your log. Number four, export your data and save it outside HubSpot. And number five, list the last three times you needed a person. That's it.
 >
 > If that list is days and weeks, bring it to a free twenty-minute CRM fit check. The link's in the description.
 >

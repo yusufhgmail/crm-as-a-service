@@ -60,16 +60,16 @@ Pair title 1 with thumbnail 3 first; test 2 with 2, and 4 with 1.
 **ON SCREEN:** one tag: **Every change = a ticket, a consultant, or a wait**
 
 **YUSUF:**
-> This is for you if every small change means a ticket, a consultant, or a wait for the vendor's roadmap. And every renewal feels like you have no choice.
+> This is for you if every small change means a ticket, a consultant, or a wait for the vendor's roadmap. And at every renewal, you feel like you've got no choice.
 
 ## 0:30 Promise
 
 **ON SCREEN:** four tags, one per phrase: ✓ **When renting is fine** · ✓ **When it costs you** · ✓ **What owning must mean** · ✓ **One check per moment**
 
 **YUSUF:**
-> And I'll admit one more thing. A friend of mine runs sales at a software company. On a call, he told me he doesn't care about owning the code at all. He just wants the features he needs, at a better price. And I think he has a point.
+> And I'll admit one more thing. A friend of mine runs sales at a software company, and on a call he told me he doesn't care about owning the code at all. He just wants the features he needs, at a better price. And I think he has a point.
 >
-> So for each moment, I'll give you one check you can run on your own system. And at the very end, I'll tell you what he really wanted, because it wasn't the price. That gives you one question that tells you if owning matters for you at all. For plenty of companies, it doesn't.
+> So for each moment, I'll give you one check you can run on your own system. And at the very end, I'll tell you what he really wanted, because it wasn't the price. That leaves you with one question that tells you if owning matters for you at all. For plenty of companies, it doesn't.
 
 ## 1:20 Plan
 
@@ -80,7 +80,7 @@ Pair title 1 with thumbnail 3 first; test 2 with 2, and 4 with 1.
 4. When you want to leave
 
 **YUSUF:**
-> So there are four moments. The first is when you want to change it. The second is when you want your data. The third is when someone else holds the switch. And the fourth is when you want to leave. Most companies only meet that last one once. And by then, it's too late to fix the other three.
+> There are four moments. Number one is when you want to change it. Secondly, when you want your data. Number three, when someone else holds the switch. And number four is when you want to leave. Most companies only hit that last one once, and by then it's too late to fix the other three.
 
 ---
 
@@ -89,24 +89,24 @@ Pair title 1 with thumbnail 3 first; test 2 with 2, and 4 with 1.
 **ON SCREEN:** moment tracker: **Moment 1 of 4: Change it**. Tag: **Rented = one product for thousands of customers**
 
 **YUSUF:**
-> Moment one. You want your CRM to work a little differently. Maybe it's a new field, or a different quote, or a step your team actually does.
+> Moment one, you want your CRM to work a little differently. Maybe it's a new field, or a different quote, or a step your team actually does.
 >
-> When I ran my SaaS company, I learned why the answer is so often no. A rented CRM is one product shared by thousands of customers. So a change that helps you might break it for everyone else, right? So it waits on a roadmap you don't control.
+> When I ran my SaaS company, I learned why the answer is so often no. A rented CRM is one product shared by thousands of customers. So a change that helps you might break it for everyone else, right? That's why it ends up waiting on a roadmap you don't control.
 
 **ON SCREEN:** tag: **My old company rented its platform too** · then: **Our notes: "the no. 1 cause of client churn"**
 
 **YUSUF:**
-> And I know this from the inside. My old company rented the platform under our own product. It could follow single contacts, but not whole accounts. And we couldn't change that. In our own notes, that was the number one reason customers left us. So renting cost us customers.
+> And I know this from the inside. My old company actually rented the platform under our own product. It could follow single contacts, but not whole accounts, and we couldn't change that. In our own notes, that was the number one reason customers left us. So renting cost us customers.
 
 **ON SCREEN:** rent vs own board, row **Change it**: Rented **Ask, wait, or work around it** · Owned **Change it when you need it**
 
 **YUSUF:**
-> So basically, the workarounds pile up. You get a spreadsheet next to the CRM, a field called "other", and that one consultant who knows why it's set up that way. And the real price of renting isn't actually the bill. It's all that bending.
+> So basically, the workarounds pile up. You end up with a spreadsheet next to the CRM and a field called "other". And there's that one consultant who knows why it's set up that way. So the real price of renting isn't actually the bill. It's all that bending.
 
-**ON SCREEN:** tag: **"You own the code" = 3 things in writing**: **Contract: code + rights are yours** · **Repo in your own account** · **Docs another developer can follow**
+**ON SCREEN:** tag: **"You own the code" = 3 things**: **Contract: code + rights are yours** · **Repo in your own account** · **Docs another developer can follow**
 
 **YUSUF:**
-> If it's your own CRM, a change is just work. You don't need anyone's permission. But "you own the code" only counts if three things are written down. First, the contract gives your company the code and the rights to it. Second, the code sits in your company's own account, on GitHub for example. And third, there are docs, so another developer could take over tomorrow.
+> If it's your own CRM, a change is just work. You don't need anyone's permission. But "you own the code" only counts if three things are true. Number one, the contract gives your company the code and the rights to it. Secondly, the code sits in your company's own account, on GitHub for example. And number three, there are docs, so another developer could take over tomorrow.
 
 **ON SCREEN:** GitHub help-center screenshot, red box on *"When you transfer a repository, its issues, pull requests, wiki, stars, and watchers are also transferred."* · arrow tag on **Settings → Danger Zone → Transfer** · source tag **GitHub help center · checked Oct 2026**
 Link: https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository
@@ -129,9 +129,9 @@ Link: https://docs.github.com/en/repositories/creating-and-managing-repositories
 **ON SCREEN:** moment tracker: **Moment 2 of 4: Your data**
 
 **YUSUF:**
-> Moment two. Every vendor says your data is yours. But can you actually get all of it, any time, without asking anyone?
+> Moment two is your data. Every vendor says it's yours. But can you actually get all of it, any time, without asking anyone?
 >
-> I see this again and again. A contacts export feels like everything, until you need the rest. The notes, the emails, the files. And which deal belongs to which customer. That's what keeps companies stuck on CRMs they'd leave if they could.
+> I see this again and again. A contacts export feels like everything, until you need the rest. I mean the notes, the emails and the files, and which deal belongs to which customer. That's what keeps companies stuck on CRMs they'd leave if they could.
 
 **ON SCREEN:** screen recording (upbridge portal): Contacts → arrow tag on **Export**. Tag: **One export ≠ all your data**
 
@@ -143,12 +143,12 @@ Link: https://docs.github.com/en/repositories/creating-and-managing-repositories
 **ON SCREEN:** **DO THIS: ask for a full copy of everything · time how long it takes**
 
 **YUSUF:**
-> Ask for a full copy of everything, and time how long it takes. An hour is a good answer. But if it's a ticket, a fee or a week, that tells you who really owns it.
+> So ask for a full copy of everything, and time how long it takes. An hour is a good answer. But if it's a ticket, a fee or a week, that tells you who really owns it.
 
 **ON SCREEN:** card: **SAY THIS (email to your CRM vendor):** "Please send us a full copy of our CRM data: contacts, companies, deals, notes, emails and files, with their history. How long will that take?"
 
 **YUSUF:**
-> And do it by email, so you have the date. The email is on screen. Ask for a full copy of everything, with the history, and ask how long it will take.
+> And do it by email, so you have the date. The email's on screen. You ask for a full copy of everything, with the history, and you ask how long it'll take.
 
 ## 4:35 Free CRM fit check
 
@@ -162,30 +162,30 @@ Link: https://docs.github.com/en/repositories/creating-and-managing-repositories
 **ON SCREEN:** moment tracker: **Moment 3 of 4: The switch**. Tag: **Hosting = whose computers it runs on**
 
 **YUSUF:**
-> Moment three. Your CRM runs on somebody's computers, and whoever controls those computers decides if you can log in on Monday morning.
+> Moment three, your CRM runs on somebody's computers. And whoever controls those computers decides if you can log in on Monday morning.
 
 **ON SCREEN:** terms card: *"Close may limit your use of the Service for any reason at all, in Close's sole discretion."* → *"…any termination or limitation of your access to the Service may be without prior notice"* ("for any reason at all" and "without prior notice" highlighted) · tag **Close terms §3.N · checked Oct 2026**
 Link: https://www.close.com/terms
 
 **YUSUF:**
-> Here's one vendor's terms, as an example. Close says it can limit your use for any reason at all, and without notice. That's normal in rented software. So look for it in your own contract, under suspension or termination.
+> Here's an example from one vendor's terms. Close says it can limit your use for any reason at all, and without notice. That's normal in rented software. So look for it in your own contract, under suspension or termination.
 
 **ON SCREEN:** rent vs own board, row **The switch**: Rented **Their cloud, their switch** · Owned **Your cloud account, your card, your admin**
 
 **YUSUF:**
-> When you own it, the CRM runs in your company's cloud account, on your card. Someone on your team holds the top admin login. And whoever works on it gets their own login, which you can switch off without asking anyone.
+> When you own it, the CRM runs in your company's cloud account, on your card. Someone on your team holds the top admin login. And whoever works on it gets their own login, and you can switch that off without asking anyone.
 
 **ON SCREEN:** screen recording (upbridge portal): Settings → Users & Teams → red box on the **Super Admin** label. Then: **DO THIS: list every account your CRM uses (CRM, domain, email sending, cloud) · who is the owner?**
 
 **YUSUF:**
-> List every account your CRM depends on. The full list is on screen. Next to each one, write who the owner is. If it's a vendor, an agency, or someone who left, start there.
+> So list every account your CRM depends on, and the full list is on screen. Next to each one, write who the owner is. And if it's a vendor, an agency, or someone who left, start there.
 
 ## 6:10 Moment 4: When you want to leave
 
 **ON SCREEN:** moment tracker: **Moment 4 of 4: Leaving**
 
 **YUSUF:**
-> Moment four. The day you leave is when you find out the real terms of renting.
+> Moment four, the day you leave is when you find out the real terms of renting.
 
 **ON SCREEN:** terms card: *"We strongly recommend retrieving your Customer Data prior to the end of your Subscription Term"* → *"…we will not provide you with any access to Customer Data after termination or expiration of your Subscription Term."* ("prior to the end" and "will not provide you with any access" highlighted) · tag **HubSpot Product Specific Terms §1.3 (Smart CRM) · checked Oct 2026**
 Link: https://legal.hubspot.com/product-specific-terms
@@ -197,14 +197,14 @@ Link: https://legal.hubspot.com/product-specific-terms
 Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com/terms
 
 **YUSUF:**
-> So let's put them side by side. HubSpot's Smart CRM gives you zero days. Marketing Hub Professional and Enterprise give you thirty days, if you ask in writing. Close also gives you thirty days. And a CRM in your own account has no deadline, because nothing gets turned off. You just stop paying someone to look after it.
+> So let's put them side by side. HubSpot's Smart CRM gives you zero days. Marketing Hub Professional and Enterprise give you thirty days, but only if you ask in writing. Close gives you thirty days too. But a CRM in your own account has no deadline, because nothing gets turned off. You just stop paying someone to look after it.
 
 **ON SCREEN:** rent vs own board, row **Leaving**: Rented **Their terms, their deadline** · Owned **Short notice · you keep code, data, docs, keys**
 
 **ON SCREEN:** **DO THIS: write a one-page exit plan · days' notice, what you keep, what stays on**
 
 **YUSUF:**
-> Write a one-page exit plan, before you need it. How many days' notice do you get? What do you keep? And what stays switched on while you move? If a vendor won't sign it, that tells you how leaving would go.
+> So write a one-page exit plan, before you need it. How many days' notice do you get? What do you keep? And what stays switched on while you move? If a vendor won't sign it, that tells you how leaving would go.
 
 **ON SCREEN:** card: **SAY THIS (to your account manager, before renewal):** "Before we renew, please confirm in writing how many days we'll have to get all our data out after the term ends."
 
@@ -228,7 +228,7 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **ON SCREEN:** tag: **"Hard-coded everything"** · then: **Your way of selling sets you apart? Own it. If not, rent.**
 
 **YUSUF:**
-> So back to my friend. I asked him why our idea appealed to him, and it was never about the code. His Salesforce consultant had hard-coded everything. So every change had to be done by hand, and the data was wrong. What he wanted was a CRM made for his company. One that fits them, so they don't have to fit the CRM.
+> So back to my friend. I asked him why our idea appealed to him, and it was never about the code. His Salesforce consultant had hard-coded everything, so every change had to be done by hand, and the data was wrong. What he wanted was a CRM made for his company, one that fits them, so they don't have to fit the CRM.
 >
 > And he's right that owning code isn't the point. Nobody should pay for ownership as a trophy. If your rented CRM does what your team needs, and the price is fair, then just keep renting.
 >
@@ -240,14 +240,14 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **ON SCREEN:** tags, one per phrase: **Built around how you sell and deliver** · **Your data, moved for you** · **You own the code** · **Leave any time, take it all**
 
 **YUSUF:**
-> And that's why CRM From Within exists. We build a CRM around how you sell and deliver, in your own accounts. So a change is just a conversation, not a place in a queue. We move your data, and we keep it running. The code is yours, and there's no long contract to sit out. If you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
+> And that's why I started my new company, CRM From Within. We build a CRM around how you sell and deliver, in your own accounts. So a change is just a conversation, not a place in a queue. We move your data, and we keep it running. You own the code, and there's no long contract to sit out. And if you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
 
 ## 9:30 Close
 
 **ON SCREEN:** checklist building line by line: **☐ Last 3 changes: done? ☐ Full copy, timed ☐ Every account + owner ☐ One-page exit plan**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So you've got four things to check. They're on screen. If they show you're renting the way your business runs, the fit check link is below.
+> So you've got four things to check, and they're on screen. If they show you're renting the way your business runs, the fit check link is below.
 >
 > In the next video, I'll talk about why people are calling CRM software dead, and what that means for yours.
 
@@ -278,7 +278,7 @@ Each short opens on its own first line (a claim, a count or something you can se
 | 1 | 0:00–0:20 | 20s | "For years, I sold rented software." | "I sold rented software for years" |
 | 2 | 1:35–2:20 | 45s | "A rented CRM is one product shared by thousands of customers." | "Why your CRM vendor keeps saying no" |
 | 3 | 2:40–3:10 | 30s | the workarounds: **spreadsheet · field called "other" · one consultant** | "The real price of renting is the bending" |
-| 4 | 3:10–3:40 | 30s | **3 things in writing** ("'You own the code' only counts if three things are written down.") | "Owning the code = 3 things in writing" |
+| 4 | 3:10–3:40 | 30s | **3 things that must be true** ("'You own the code' only counts if three things are true.") | "Owning the code = 3 things" |
 | 5 | 3:40–4:35 | 55s | the Export button, tag **One export ≠ all your data** | "A contacts export is not all your data" |
 | 6 | 4:50–5:35 | 45s | the Close terms card, **"for any reason at all"** highlighted | "Their cloud, their switch" |
 | 7 | 5:35–6:10 | 35s | the **Super Admin** label in a red box ("List every account your CRM depends on.") | "Who owns every account your CRM uses?" |

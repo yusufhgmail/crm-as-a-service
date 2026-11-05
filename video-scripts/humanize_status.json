@@ -47,6 +47,131 @@
         8.0
       ],
       "date": "2026-11-05"
+    },
+    "10_ten_sales_tools_one_bill": {
+      "sha": "f22c7fcbbb8cb8c0",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "11_build_buy_or_own_crm": {
+      "sha": "5f4c0aaf9d39faa0",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "12_salesforce_admin_left": {
+      "sha": "2c0b9b8dcc0268df",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "13_crm_planning_prompt": {
+      "sha": "f68f225599391f35",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "14_your_crm_is_your_business": {
+      "sha": "47f620faae81017c",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "15_team_doesnt_use_crm": {
+      "sha": "c91cc9dffdeaf212",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "16_keep_hubspot_replace_one_thing": {
+      "sha": "746af93b152e0b87",
+      "scores": [
+        5.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "17_crm_integrations_service_company": {
+      "sha": "1ae513e9cf6b5814",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "18_keep_your_own_crm_running": {
+      "sha": "107a4448221345fa",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "19_leave_hubspot_without_losing_data": {
+      "sha": "6ed7a19c7c42a659",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "20_before_salesforce_renewal": {
+      "sha": "2ff59df2d6c164c6",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "21_hubspot_support_stops_answering": {
+      "sha": "8a32d7f116ed3b3a",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "22_switched_crm_and_regret": {
+      "sha": "bb890ca39320bb9f",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
     }
   }
 }

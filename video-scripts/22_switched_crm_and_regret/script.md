@@ -51,14 +51,14 @@ Link: https://www.capterra.com/p/214215/HubSpot-SalesHub/reviews/#7195637 Then t
 **YUSUF** (straight to camera):
 > I'll admit something awkward for a guy who builds CRMs. A new CRM very often doesn't fix the thing you switched to get away from. Here's a public example. One CEO left a CRM one month after signing, and they still have to pay for the other eleven.
 >
-> Over the last ten years, I built a CRM company, mostly for B2B, and I sold it a few years ago. Now I've started a new company, CRM From Within. So in this video I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
+> Over the last ten years, I built a CRM company, mostly for B2B, and I sold it a few years ago. And now I've started a new company, CRM From Within. So in this video, I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
 
 ## 0:38 Who it's for
 
 **ON SCREEN:** one tag: **Switched CRMs? Thinking of switching again?**
 
 **YUSUF:**
-> Maybe you moved to get away from a price, a missing feature or a support queue. And now the new CRM just has its own version of the same thing. Or maybe you're about to move. I've watched the same problem follow teams onto a new CRM again and again, so this is how you stop it.
+> Maybe you moved to get away from a price, or a missing feature, or a support queue. And now the new CRM just has its own version of the same thing. Or maybe you're about to move. I've watched the same problem follow teams onto a new CRM again and again. So this is how you stop it.
 
 ## 0:47 Promise
 
@@ -66,7 +66,7 @@ Link: https://www.capterra.com/p/214215/HubSpot-SalesHub/reviews/#7195637 Then t
 Link: https://community.hubspot.com/t/sequences-causing-microsoft-to-block-inbox-enterprise-plan/145844
 
 **YUSUF:**
-> Here's an example from February. One company left Zoho for HubSpot Enterprise in January. A few weeks in, after about a hundred sequence emails, Microsoft would block their whole email account. This was the same domain they'd used for years through Zoho with no problems. So they got HubSpot support and Microsoft support on the phone together, and nobody could figure it out. And now they say they feel forced to go back to Zoho.
+> Here's an example from February. One company left Zoho for HubSpot Enterprise in January. A few weeks in, after about a hundred sequence emails, Microsoft would block their whole email account. And this was the same domain they'd used for years through Zoho, with no problems. So they got HubSpot support and Microsoft support on the phone together, and nobody could figure it out. And now they say they feel forced to go back to Zoho.
 >
 > That post is linked in the description, and so is every other source.
 
@@ -87,7 +87,7 @@ Link: https://community.hubspot.com/t/sequences-causing-microsoft-to-block-inbox
 Tag on item 5 when he says "eleven months": **You find out after signing**
 
 **YUSUF:**
-> And hold on for number five. That's how the CEO from the start got stuck with eleven months.
+> And hold on for number five, because that's how the CEO from the start got stuck with eleven months.
 
 ---
 
@@ -96,27 +96,27 @@ Tag on item 5 when he says "eleven months": **You find out after signing**
 **ON SCREEN:** lesson tracker: **Lesson 1 of 5: The staircase**. Tag: **Tier = plan level. More features, more money.**
 
 **YUSUF:**
-> Lesson one. A cheaper CRM can have the same staircase. Plenty of people switch for the price. But the price you're comparing is the entry plan, and the price you actually pay is the plan that does what you need.
+> Lesson one, a cheaper CRM can have the same staircase. Plenty of people switch for the price. But the price you're comparing is the entry plan. What you actually pay for is the plan that does what you need.
 
 **ON SCREEN:** quote card: *"I joined Jobber from Workiz primarily for better pricing"* → *"Every time I encounter a technical issue or a missing feature, the only solution offered is to upgrade."* ("for better pricing" and "the only solution offered is to upgrade" highlighted) · tag **Trustpilot · US Jobber customer · Jun 2026**
 Link: https://www.trustpilot.com/reviews/6a1ef647d2088df4e9b5ce64
 
 **YUSUF:**
-> Take this one from June. One business moved from Workiz to Jobber, mainly for better pricing. They were on Core, which was supposed to show item costs on quotes, and it didn't. So they upgraded to Connect, because they wanted DocuSign, and only names and emails came over. So they upgraded again, to Grow, for a quoting feature from Jobber's own video. And then they were told it isn't available anymore.
+> Take this one, from June. One business moved from Workiz to Jobber, mainly for better pricing. They were on Core, which was supposed to show item costs on quotes, and it didn't. So they upgraded to Connect, because they wanted DocuSign, and only names and emails came over. So they upgraded again, to Grow, for a quoting feature from Jobber's own video. And then they were told it isn't available anymore.
 
 **ON SCREEN:** screen recording of getjobber.com/pricing, 1 user, Billed annually: red boxes on **Core $29/mo** · **Connect $99/mo** · **Grow $149/mo**. Yusuf draws three steps under them; tag on the top step: **About 5× the first step** · source tag **getjobber.com** · small tag: **Prices as of Nov 2026**
 Link: https://www.getjobber.com/pricing/
 
 **YUSUF:**
-> Here's Jobber's pricing page when I recorded this. For one user, the first step, Core, is twenty-nine dollars a month. The top step, Grow, is a hundred and forty-nine. Those numbers will move, so take them as an example. But that's about five times the first step, and they still didn't get the feature they upgraded for.
+> Here's Jobber's pricing page when I recorded this. Prices move, so take these as an example. For one user, the first step, Core, is twenty-nine dollars a month. And the top step, Grow, is a hundred and forty-nine. That's about five times the first step, and they still didn't get the feature they upgraded for.
 
 **YUSUF:**
-> Now, price alone won't tell you who regrets a switch, because everyone complains about price. What tells you is the staircase. HubSpot works like that, and so does Jobber. You basically get a cheap entry plan, and then you pay for tiers, and then you pay for seats.
+> Now, price alone won't tell you who regrets a switch, because everyone complains about price. It's the staircase that tells you. HubSpot works like that, and so does Jobber. You basically get a cheap entry plan, and then you pay for tiers, and then you pay for seats.
 
 **ON SCREEN:** **DO THIS BEFORE YOU SWITCH: price year two: the plan with the 5 things you can't work without × seats in 2 years + add-ons**
 
 **YUSUF:**
-> So write down the five things your team can't work without. Find the cheapest plan that does all five. Multiply that by the people you'll have in two years, and add the add-ons. Then ask the sales rep, in writing, what fixing it costs if a feature doesn't work on that plan.
+> So write down the five things your team can't work without. Then find the cheapest plan that does all five. Multiply that by the people you'll have in two years, and add the add-ons. And then ask the sales rep, in writing, what fixing it costs if a feature doesn't work on that plan.
 
 **ON SCREEN:** card: **SAY THIS (email to the sales rep):** "If one of these five features doesn't work on this plan, what will fixing it cost us, and on which plan?"
 
@@ -132,13 +132,13 @@ Link: https://www.getjobber.com/pricing/
 **ON SCREEN:** lesson tracker: **Lesson 2 of 5: Fit**. Tag: **Fit = works the way your team works**
 
 **YUSUF:**
-> Lesson two. The new one doesn't fit either. And this one's sneaky, because the demo always looks great.
+> Lesson two, the new one doesn't fit either. And this one's sneaky, because the demo always looks great.
 
 **ON SCREEN:** quote card: *"The only upside is that it is cheaper than HubSpot."* → *"Our team actually does not use this anymore, although we have paid for a year. Excel is much better for us."* ("cheaper than HubSpot", "does not use this anymore" and "paid for a year" highlighted) · tag **G2 · invited review · mid-size company · May 2026**
 Link: https://www.g2.com/products/freshsales/reviews/freshsales-review-12742447
 
 **YUSUF:**
-> Here's another example. One team at a mid-size company picked Freshsales, and they say the only upside is that it's cheaper than HubSpot. The team stopped using it after paying for a full year, and now they're back on Excel.
+> Here's another example. One team at a mid-size company picked Freshsales, and they say the only upside is that it's cheaper than HubSpot. They stopped using it after paying for a full year, and now they're back on Excel.
 
 **ON SCREEN:** tag: **The demo = their way of selling**
 
@@ -148,7 +148,7 @@ Link: https://www.g2.com/products/freshsales/reviews/freshsales-review-12742447
 **ON SCREEN:** whiteboard: **Map how you work** → **Pick your 3 most common jobs** → **Run them in the trial, with your team**. Tag: **Map How Your Team Works Before You Buy a CRM**. Then: **DO THIS BEFORE YOU SIGN: run your 3 most common jobs in the trial, with your team**
 
 **YUSUF:**
-> So map how your team works, from the first call to the invoice. I showed you how in the video Map How Your Team Works Before You Buy a CRM. Then run your three most common jobs in the trial, start to finish, with the people who'll use it. If they can't do their real week in the trial, they won't be able to after you've paid.
+> So map how your team works, from the first call to the invoice. I showed you how in the video Map How Your Team Works Before You Buy a CRM. Then run your three most common jobs in the trial, start to finish, with the people who'll use it. And if they can't do their real week in the trial, they won't be able to after you've paid.
 
 **ON SCREEN:** the typed list, lessons 1 and 2 ticked.
 
@@ -157,17 +157,17 @@ Link: https://www.g2.com/products/freshsales/reviews/freshsales-review-12742447
 **ON SCREEN:** lesson tracker: **Lesson 3 of 5: Support**. Tag: **Help before signing vs after**
 
 **YUSUF:**
-> Lesson three. Nobody helps after you sign. Before the contract, a sales rep answers you in minutes, and after it, you're in a queue.
+> Lesson three, nobody helps after you sign. Before the contract, a sales rep answers you in minutes. And then once it's signed, you're in a queue.
 
 **ON SCREEN:** tag: **Old system: you knew who to call**
 
 **YUSUF:**
-> On the old system, your team knew who to call. On the new one, they don't, and that's right when they need help the most.
+> On the old system, your team knew who to call. But on the new one they don't, and that's right when they need help the most.
 
 **ON SCREEN:** **DO THIS DURING THE TRIAL: open 2 real support tickets + time the answers. Ask who makes changes after go-live, how fast, at what rate.**
 
 **YUSUF:**
-> So during the trial, open two real support tickets about your own setup, and time the answers. Then ask this in writing. After we go live, who makes changes for us, how fast, and what does it cost per hour? If nobody can answer that before you sign, nobody will answer it after.
+> So during the trial, open two real support tickets about your own setup, and time the answers. Then ask this in writing. After we go live, who makes changes for us, how fast, and what does it cost per hour? And if nobody can answer that before you sign, nobody will answer it after.
 
 **ON SCREEN:** card: **SAY THIS (email to the sales rep, during the trial):** "After we go live, who makes changes for us, how fast, and what does it cost per hour?"
 
@@ -176,15 +176,15 @@ Link: https://www.g2.com/products/freshsales/reviews/freshsales-review-12742447
 **ON SCREEN:** lesson tracker: **Lesson 4 of 5: The move**. Two columns on the whiteboard: **Came over: names, emails** · **Broke: history, fields, email sending, connected tools**
 
 **YUSUF:**
-> Lesson four. The move breaks what worked. Names and emails usually come over fine. What broke for people was everything around them. The history broke. Custom fields broke. Email sending and connected tools broke.
+> Lesson four, the move breaks what worked. Names and emails usually come over fine. What broke for people was everything around them. The history broke, and so did custom fields. And then email sending and connected tools broke too.
 
 **YUSUF:**
-> Remember the HubSpot Enterprise customer from the start? The records came over, but their email sending broke, and nobody could say why. So test the move before you cancel anything.
+> Take that HubSpot Enterprise customer from the start. The records came over, but their email sending broke, and nobody could say why. So test the move before you cancel anything.
 
 **ON SCREEN:** checklist on the whiteboard: **☐ 100 real records, full history** · **☐ Real emails from your domain** · **☐ Your accounting tool connected** · **☐ Old system kept until all 3 work**. Then: **DO THIS BEFORE YOU CANCEL: test the move with 100 real records**
 
 **YUSUF:**
-> Here's a check you can do in the trial. First, move a hundred real records with their full history. Check them field by field. Then send real emails from your real domain. Then connect your accounting tool. And keep the old system until all three work. Yes, that means paying for both for a month or so. Do it anyway.
+> Here's a check you can do in the trial. Number one, move a hundred real records with their full history, and check them field by field. Secondly, send real emails from your real domain. Number three, connect your accounting tool. And keep the old system until all three work. Yes, that means paying for both for a month or so. Just do it anyway.
 
 **ON SCREEN:** the typed list, lessons 1 to 4 ticked.
 
@@ -193,13 +193,13 @@ Link: https://www.g2.com/products/freshsales/reviews/freshsales-review-12742447
 **ON SCREEN:** lesson tracker: **Lesson 5 of 5: Contracts**. Yusuf draws an arrow up with a line across it: **Down: at renewal**
 
 **YUSUF:**
-> Lesson five. Upgrades only go one way. Once you've gone up a plan, going back down might have to wait until your renewal.
+> Lesson five, upgrades only go one way. Once you've gone up a plan, going back down might have to wait until your renewal.
 
 **ON SCREEN:** quote card: *"We started on an entry-level plan, but as we grew, we upgraded to a higher tier."* → *"We still have to pay out the remaining 11 months"* ("upgraded to a higher tier" and "pay out the remaining 11 months" highlighted) · tag **Capterra · CEO, 11–50 person financial firm · Aug 2026**
 Link: https://www.capterra.com/p/214215/HubSpot-SalesHub/reviews/#7195637
 
 **YUSUF:**
-> Remember the CEO from the start? They run a financial services company with eleven to fifty people. They started on HubSpot's entry plan and upgraded as they grew. Then the costs and the limits hit them, and they left one month after signing. And they still have to pay out the other eleven months.
+> Remember the CEO from the start? They run a financial services company with eleven to fifty people. They started on HubSpot's entry plan, and they upgraded as they grew. Then the costs and the limits hit them, and they left one month after signing. And they still have to pay out the other eleven months.
 
 **ON SCREEN:** card titled **HubSpot's own terms**, three lines appearing one at a time, each with a section tag:
 - **No downgrade during your current term** · §2.5
@@ -209,19 +209,19 @@ Link: https://www.capterra.com/p/214215/HubSpot-SalesHub/reviews/#7195637
 Link: https://legal.hubspot.com/terms-of-service
 
 **YUSUF:**
-> HubSpot's own terms actually put this in writing. You can't downgrade during your current term. It renews automatically, for up to a year. And at renewal, the price can go up to full list price, with thirty days' notice.
+> HubSpot's own terms actually put this in writing. You can't downgrade during your current term. Your plan renews automatically, for up to a year. And at renewal, the price can go up to full list price, with thirty days' notice.
 
 **ON SCREEN:** **DO THIS BEFORE YOU SIGN OR UPGRADE: get the downgrade rule + last cancel date in writing. Shortest first term.**
 
 **YUSUF:**
-> So before you sign, and before every upgrade, get two answers in writing. If this doesn't work, when can we go back down? And what's the last day we can cancel? Then ask for the shortest first term they'll give you, and put the cancel date in your calendar the day you sign.
+> So before you sign, and before every upgrade, get two answers in writing. If this doesn't work, when can we go back down? And what's the last day we can cancel? Then ask for the shortest first term they'll give you. And put the cancel date in your calendar the day you sign.
 
 **ON SCREEN:** card: **SAY THIS (email, before you sign or upgrade):** "If this plan doesn't work for us, when can we move back down? And what's the last day we can cancel?"
 
 **ON SCREEN:** lower-third tag: **Comment: team size + which CRM you moved from and to**
 
 **YUSUF:**
-> Which CRM did you move from, and to, and would you do it again? Tell me in the comments.
+> What CRM did you leave, what did you move to, and would you do it again? Tell me in the comments.
 
 ## 10:00 Is switching again enough?
 
@@ -233,21 +233,21 @@ Link: https://legal.hubspot.com/terms-of-service
 **ON SCREEN:** whiteboard: **Start from the map** → **then pick the CRM**. Tag: **Map How Your Team Works Before You Buy a CRM**
 
 **YUSUF:**
-> The switch that works starts from how your team works, and that's the map from lesson two. So pick the CRM that does the work on your map, and run these five checks on it. If no CRM on the market does it, that's when owning one makes sense.
+> A switch that works starts from how your team works, so that's your map from lesson two. Pick the CRM that does the work on your map, and run these five checks on it. And if no CRM on the market does it, that's when owning one makes sense.
 
 ## 10:53 What we do
 
 **ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You own the code** · **No long contract** · then, smaller: **For 10–50 people · a standard CRM fits? Keep it**
 
 **YUSUF:**
-> That's where CRM From Within comes in, and we're new at this. Instead of one more switch, we build a CRM from your map, around how you sell and deliver. We handle the move, which is the part that broke at the start, and we maintain it after. You own the code, and nobody locks you into a long contract. It's for companies of ten to fifty people. If a standard CRM fits, just pick it, and run the five checks first.
+> That's where CRM From Within comes in, and we're new at this. So instead of one more switch, we build a CRM from your map, around how you sell and deliver. We handle the move, which is the part that broke at the start, and we maintain it after that. You own the code, and nobody locks you into a long contract. It's for companies of ten to fifty people. And if a standard CRM fits, just pick it, and run the five checks first.
 
 ## 11:09 Close
 
 **ON SCREEN:** checklist building line by line: **Before your next switch: ☐ Price year two ☐ Run your 3 most common jobs with your team ☐ Open 2 real support tickets ☐ Test the move with 100 real records ☐ Get the downgrade rule + cancel date in writing**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So before your next switch, price year two. Run your three most common jobs with your team. Open two real support tickets. Test the move with a hundred real records. And get the downgrade rule and the cancel date in writing. That's it.
+> So before your next switch, price year two. Then run your three most common jobs with your team. Open two real support tickets, and test the move with a hundred real records. And get the downgrade rule and the cancel date in writing. That's it.
 >
 > If your map shows work that no standard CRM does, bring it to the fit check below.
 >
@@ -272,7 +272,7 @@ Link: https://legal.hubspot.com/terms-of-service
 > - Left one month after signing, paying out 11 months · https://www.capterra.com/p/214215/HubSpot-SalesHub/reviews/#7195637
 > - HubSpot's terms (§2.5, §3.2, §4.1) · https://legal.hubspot.com/terms-of-service
 >
-> 0:00 Paying for a CRM nobody uses · 2:26 The 5 lessons · 2:41 The staircase · 4:45 Fit · 6:08 Support · 7:20 The move · 8:31 Contracts · 10:00 Is switching again enough? · 10:53 What we do · 11:09 Before your next switch
+> 0:00 A CEO still paying for a CRM they left · 2:26 The 5 lessons · 2:41 The staircase · 4:45 Fit · 6:08 Support · 7:20 The move · 8:31 Contracts · 10:00 Is switching again enough? · 10:53 What we do · 11:09 Before your next switch
 
 ---
 

@@ -48,9 +48,9 @@ Pair title 1 with thumbnail 1 first; test 2 with 4, and 3 with 3.
 **ON SCREEN:** Yusuf on camera, tag: **Example from Yusuf's old company** (no name, no logo). Then, after the story, one tag: **Hundreds of CRM setups**. On the promise line: **Admin left? 5 steps, in order**
 
 **YUSUF** (straight to camera):
-> Here's an example from my old company. One customer went through a merger, and the person who built their whole CRM setup left. Two new people took it over. Two days later, one of them couldn't even find his login.
+> Here's an example from my old company. One customer went through a merger, and the person who built their whole CRM setup left. So two new people took it over. And two days later, one of them couldn't even find his login.
 >
-> And the thing they used the CRM for most was webinars. After that, they couldn't run a single one without our help.
+> And the thing they used that CRM for most was webinars. After that, they couldn't run a single one without our help.
 >
 > Over the years, I built a CRM SaaS company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies. And about one in ten customers who left us did it right after a key person left.
 >
@@ -61,14 +61,14 @@ Pair title 1 with thumbnail 1 first; test 2 with 4, and 3 with 3.
 **ON SCREEN:** one tag: **One person knew it. Now they're gone.**
 
 **YUSUF:**
-> If your Salesforce lived in one person's head, and that person is leaving or they've already gone, this video is for you. It gets you the keys back, and it stops you paying for every small change.
+> If your Salesforce lived in one person's head, and that person's leaving or they've already gone, this video is for you. You'll get the keys back, and you'll stop paying for every small change.
 
 ## 0:50 Promise
 
 **ON SCREEN:** four tags appear beside Yusuf, one per phrase: ✓ **You hold the keys** · ✓ **Nothing breaks quietly** · ✓ **You know what you have** · ✓ **You stop paying per change**
 
 **YUSUF:**
-> By the end you'll have admin access back. You'll have moved what matters before the old login goes. You'll have your Salesforce on one page. And you'll know how to brief a consultant, so you're never stuck like this again. You don't need to be technical for any of this.
+> By the end you'll have admin access back, and you'll have moved what matters before the old login goes. Your whole Salesforce will be on one page. And you'll know how to brief a consultant, so you're never stuck like this again. You don't need to be technical for any of this.
 
 ## 1:05 Plan
 
@@ -82,7 +82,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 4, and 3 with 3.
 Tag on item 5 when he says "isn't a setting": **Not a setting**
 
 **YUSUF:**
-> So those are the five steps. And step five isn't a setting. It's a question about how your company works. It tells you if a new admin really solves this, or just resets the clock until the next one leaves.
+> So those are the five steps. And step five isn't a setting. It's a question about how your company works, and it tells you if a new admin really solves this, or just resets the clock until the next one leaves.
 
 ---
 
@@ -91,7 +91,7 @@ Tag on item 5 when he says "isn't a setting": **Not a setting**
 **ON SCREEN:** step tracker: **Step 1 of 5: Take back the keys**. Tag when he says it: **System Administrator = can change everything**
 
 **YUSUF:**
-> Step one. Take back the keys. In Salesforce, anyone with the System Administrator profile can change everything. That's users, fields, automations, and who sees what. So first, find out who has that profile right now.
+> Step one, take back the keys. In Salesforce, anyone with the System Administrator profile can change everything. That's your users, your fields, your automations, and who sees what. So first, find out who has that profile right now.
 
 **ON SCREEN:** text card of the help article with the step **Setup → Users → Users**, the **Profile** field and **System Administrator** highlighted · source tag **Salesforce help**. Then a card titled **Salesforce's own advice**, two lines appearing one at a time:
 - **Keep more than one System Administrator**
@@ -100,9 +100,9 @@ Tag on item 5 when he says "isn't a setting": **Not a setting**
 Link: https://help.salesforce.com/s/articleView?id=000385477&language=en_US&type=1
 
 **YUSUF:**
-> So go to your users page. The path is on screen. Look at who's an admin.
+> Just go to your users page, the path's on screen, and look at who's an admin.
 >
-> Salesforce's own help says to keep more than one admin. And when an admin leaves, you set up the new one first, and you log in as them. Only then do you switch off the old account.
+> Salesforce's own help actually says to keep more than one admin. And when an admin leaves, you set up the new one first, and you log in as them. You don't switch off the old account until that's done.
 
 **ON SCREEN:** card titled **No admin left? (Salesforce help)**, lines appearing one at a time:
 - **Another admin changes the old admin's email** ✓
@@ -112,14 +112,14 @@ Link: https://help.salesforce.com/s/articleView?id=000385477&language=en_US&type
 Link: https://help.salesforce.com/s/articleView?id=000385418&language=en_US&type=1
 
 **YUSUF:**
-> But what if there's no admin left? If you still control the old admin's work email, you can reset the password through it. If not, Salesforce Support can do it, but they want a letter signed in ink by your CEO, CFO or owner.
+> But what if there's no admin left? If you still control the old admin's work email, you can just reset the password through it. If you don't, Salesforce Support can do it. But they want a letter signed in ink by your CEO, CFO or owner.
 >
-> So start here. Get two admin logins that the company controls, not one person.
+> So start here. Get two admin logins, and make sure the company controls them, not one person.
 
 **ON SCREEN:** card titled **SAY THIS** (to the admin who's leaving, or whoever still has admin access): **"Before you go, please create a System Administrator login for me, and stay logged in while I test it."**
 
 **YUSUF:**
-> If the admin's still around, say this. "Before you go, please create a System Administrator login for me, and stay logged in while I test it."
+> If the admin's still around, just say this. "Before you go, please create a System Administrator login for me, and stay logged in while I test it."
 
 **ON SCREEN:** the map fills its first box: **Who has access: 2 admins**. Then: **DO THIS FIRST: two admins you control**
 
@@ -128,7 +128,7 @@ Link: https://help.salesforce.com/s/articleView?id=000385418&language=en_US&type
 **ON SCREEN:** step tracker: **Step 2 of 5: Before you deactivate**. Tag: **Things run as a person**
 
 **YUSUF:**
-> Step two. Before you switch off the old login, check what runs under it. A lot of things in Salesforce run as a specific user, and when that user goes, some of them just quietly stop.
+> Step two, before you switch off the old login, check what runs under it. A lot of things in Salesforce run as a specific user. And when that user goes, some of them just quietly stop.
 
 **ON SCREEN:** card titled **Salesforce help: a scheduled export run by a deactivated user**:
 - **The Data Export will fail** ✗
@@ -137,7 +137,7 @@ Link: https://help.salesforce.com/s/articleView?id=000385418&language=en_US&type
 Link: https://help.salesforce.com/HTViewSolution?id=000004347
 
 **YUSUF:**
-> Here's a simple example. Say the admin who left set up your weekly data export. You deactivate them, and that export fails. Salesforce's fix is to delete the job and set it up again as someone who's staying.
+> Here's a simple example. Say the admin who left set up your weekly data export. You deactivate them, and that export fails. And Salesforce's fix is to delete the job and set it up again as someone who's staying.
 
 **ON SCREEN:** card titled **Salesforce help: settings that can block deactivation**, lines appearing one at a time:
 - **Web-to-Lead default creator** (your website form)
@@ -149,13 +149,13 @@ Link: https://help.salesforce.com/HTViewSolution?id=000004347
 Link: https://help.salesforce.com/s/articleView?id=000384761&language=en_US&type=1
 
 **YUSUF:**
-> Some settings even have the person's name written into them. Take your website form. Every lead from it gets created in someone's name. Your rules and your approvals can work the same way. The full list is on screen. Move each one to someone who's staying.
+> Some settings even have the person's name written into them. Take your website form. Every lead that comes in from it gets created in someone's name. And your rules and approvals can work the same way. The full list is on screen, so just move each one to someone who's staying.
 
 **ON SCREEN:** text card from the help article, **Click Scheduled Jobs** highlighted, tag **Setup > Quick Find > Scheduled Jobs** · source tag **Salesforce help**. Then the map fills its box: **Scheduled jobs: who they run as**. Then: **DO THIS THIS WEEK: move every job and setting to someone who's staying**
 Link: https://help.salesforce.com/HTViewSolution?id=000004347
 
 **YUSUF:**
-> Then open your scheduled jobs page. The path is on screen. If a job has the old admin's name on it, move it.
+> Then open your scheduled jobs page, the path's on screen. And if a job has the old admin's name on it, move it.
 
 **ON SCREEN:** card titled **SAY THIS** (to the admin, before their last day): **"Can you list every job, rule and integration that runs under your login? We'll move each one before we switch it off."**
 
@@ -176,13 +176,13 @@ Link: https://help.salesforce.com/HTViewSolution?id=000004347
 **ON SCREEN:** step tracker: **Step 3 of 5: Write down what you have**. The map, three boxes still empty: **Objects & fields** · **Automations** · **Integrations**
 
 **YUSUF:**
-> Step three. Write down what you have. Whatever your admin knew usually wasn't written anywhere, and every consultant you bring in will bill you to rediscover it.
+> Step three, write down what you have. Whatever your admin knew usually wasn't written down anywhere. So every consultant you bring in is going to bill you to rediscover it.
 
 **ON SCREEN:** Trailhead screenshot "The standard view of Setup's homepage", arrow tags on the **Object Manager** tab and the Setup Menu · source tag **Salesforce Trailhead**
 Link: https://trailhead.salesforce.com/content/learn/modules/starting_force_com/starting_tour
 
 **YUSUF:**
-> Start in Object Manager. An object is just a kind of record, like Accounts, or something custom like "Site Inspections". So write down every custom one and what it's for. Then note which fields people really fill in.
+> So start in Object Manager. An object is just a kind of record, like Accounts, or something custom like "Site Inspections". Write down every custom one and what it's for. Then note which fields people actually fill in.
 
 **ON SCREEN:** the map fills its box: **Objects & fields: Accounts, Opportunities, Site Inspections, Projects…** (tag **example**). Then a card titled **Automations: where to look** (type each in Quick Find):
 - **Flows**
@@ -192,40 +192,40 @@ Link: https://trailhead.salesforce.com/content/learn/modules/starting_force_com/
 Link: https://help.salesforce.com/s/articleView?id=001096524&language=en_US&type=1
 
 **YUSUF:**
-> Next, your automations. Those are the things that happen on their own. A deal is won, so a project gets created, and the site team gets an email. The three places to look are on screen. Salesforce stopped supporting two of them at the end of 2025. When we checked, they still ran. But Salesforce wants them moved.
+> Next, look at your automations. Those are the things that happen on their own. Say a deal is won. A project gets created, and the site team gets an email. There are three places to look, and they're on screen. Salesforce stopped supporting two of them. That was at the end of 2025. Yours may still run, but Salesforce wants them moved.
 
 **ON SCREEN:** text card from the same Trailhead page, **View Setup Audit Trail** highlighted: **Setup Audit Trail: 6 months of changes** · tag **Salesforce Trailhead**. Then the map fills: **Automations: 14 flows, 6 workflow rules** (tag **example**)
 Link: https://trailhead.salesforce.com/content/learn/modules/starting_force_com/starting_tour
 
 **YUSUF:**
-> There's also a page that shows the last six months of changes. So you can see who did what, and when.
+> There's also a page that shows the last six months of changes, so you can see who did what, and when.
 >
-> Then write down your integrations. That's everything that talks to Salesforce, like your email or your accounting. For each one, write what it sends. And write whose login it runs on.
+> Then write down your integrations. That's everything that talks to Salesforce, like your email or your accounting. For each one, write down what it sends and whose login it runs on.
 
 **ON SCREEN:** tag: **Manual jobs count too**
 
 **YUSUF:**
 > And don't forget the jobs someone does by hand every week, like copying records between two systems. Nobody remembers those until they stop, so write them down too.
 >
-> One lesson I learned with that customer after the merger. When you sit down with the people who are left, ask what they need to get done. Don't get stuck in how the last admin used to do it.
+> And here's one thing I learned with that customer after the merger. When you sit down with the people who are left, ask what they need to get done. Don't get stuck in how the last admin used to do it.
 
 **ON SCREEN:** the map, five boxes filled. Then: **DO THIS NEXT: one page, five boxes**
 
 **YUSUF:**
-> So that's one page with five boxes, and from now on, anyone who touches your Salesforce gets this page first.
+> So that's your map, one page with five boxes. And from now on, anyone who touches your Salesforce gets this page first.
 
 **ON SCREEN:** Trailhead screenshot of a user record with the **Freeze** button, red box on it · source tag **Salesforce Trailhead**. Tag: **New admin logged in ✓ · jobs moved ✓ · map done ✓**
 Link: https://trailhead.salesforce.com/content/learn/modules/lex_implementation_user_setup_mgmt/lex_implementation_user_setup_mgmt_adding_users-hoc
 
 **YUSUF:**
-> And it's only now, with the new admin working, the jobs moved and the map written, that you freeze the old login. That stops anyone using it. Give it a week, and if nothing breaks, deactivate it. Salesforce won't let you delete a user, so their records stay put.
+> Now your new admin's working, the jobs are moved and the map's written. That's when you freeze the old login, and not before. Freezing just stops anyone using it. Give it a week, and if nothing breaks, deactivate it. Salesforce won't let you delete a user, so their records stay put.
 
 ## 6:20 Step 4: Split the changes
 
 **ON SCREEN:** step tracker: **Step 4 of 5: Split the changes**
 
 **YUSUF:**
-> Step four. Split every change into two piles. One pile is what your team can safely do, and the other is what needs an expert.
+> Step four, split every change into two piles. One pile is what your team can safely do, and the other is what needs an expert.
 
 **ON SCREEN:** two columns on the whiteboard, filled in as he says each one:
 **Your team (safe)** · adding and removing users · resetting passwords · assigning permission sets from an approved list
@@ -240,7 +240,7 @@ Link: https://trailhead.salesforce.com/content/learn/modules/lex_implementation_
 Link: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type=1
 
 **YUSUF:**
-> Salesforce actually has a built-in role for the safe pile. It's called delegated administrator. One person you trust can create and edit users in their group, and reset most passwords. They can also hand out permission sets from a list you've approved. But they can't touch the role hierarchy or the relationships between objects.
+> Salesforce actually has a built-in role for the safe pile, and it's called delegated administrator. One person you trust can create and edit users in their group, and reset most passwords. They can also hand out permission sets from a list you've approved. But they can't touch the role hierarchy or the relationships between objects.
 
 **ON SCREEN:** card titled **Test first: sandboxes (Salesforce pricing page)**, small tag **Prices as of Nov 2026**:
 - **Add-on: Developer Pro sandbox, 5% of net spend** · Professional, Enterprise
@@ -249,13 +249,13 @@ Link: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type
 Link: https://www.salesforce.com/platform/pricing-add-ons/
 
 **YUSUF:**
-> The other pile has one rule. Nothing gets built in your live system. It goes into a sandbox first, and a sandbox is just a safe copy of your Salesforce. When I recorded this, in November 2026, a Developer Pro sandbox was an add-on at five percent of net spend. Prices change, so take that as an example, and check which sandboxes you're already paying for.
+> The other pile has one rule. Nothing gets built in your live system. It goes into a sandbox first, and a sandbox is just a safe copy of your Salesforce. When I recorded this, in November 2026, a Developer Pro sandbox was an add-on. It cost five percent of net spend. Prices change, so take that as an example, and check which sandboxes you're already paying for.
 
 **ON SCREEN:** text card of the help article, **They cannot modify the role hierarchy** highlighted, tag **Setup > Delegated Administration** · source tag **Salesforce help**. Then: **DO THIS THIS WEEK: pick one delegated admin, write your two piles**
 Link: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type=1
 
 **YUSUF:**
-> So choose your delegated admin. Then take your last six months of consultant invoices. Put each line in one of the two piles.
+> So pick your delegated admin. Then take your last six months of consultant invoices, and put each line in one of the two piles.
 
 **ON SCREEN:** card titled **SAY THIS** (to your new delegated admin): **"You own users, passwords and permission sets. Anything that changes objects, automations or integrations comes to me first, and goes to a sandbox."**
 
@@ -269,7 +269,7 @@ Link: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type
 **ON SCREEN:** step tracker: **Step 5 of 5: Scope it, and the fit question**. Tag: **Not a setting**
 
 **YUSUF:**
-> Step five. When you need outside help, scope it so you don't end up dependent all over again. You don't want to pay by the hour for someone to learn your system.
+> Step five, when you need outside help, scope it so you don't end up dependent all over again. You don't want to pay someone by the hour to learn your system.
 
 **ON SCREEN:** whiteboard: **The consultant brief**, written line by line:
 1. **The outcome, in one sentence**
@@ -280,7 +280,7 @@ Link: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type
 6. **One hour showing our person how**
 
 **YUSUF:**
-> So send a short brief before any work starts. It's six lines, and they're on screen. The big one is a fixed price, not an hourly meter. And admin access stays with you, every time.
+> So send a short brief before any work starts. It's six lines, and they're on screen. The big one is a fixed price, so there's no hourly meter running. And admin access stays with you, every time.
 
 **ON SCREEN:** card titled **SAY THIS** (email to the consultant, before any work): **"Here's the outcome we want and our one-page map. Please quote a fixed price for this list, and test it in our sandbox. Send written notes on what changed, and spend one hour showing our delegated admin. Admin access stays with us."**
 
@@ -306,32 +306,32 @@ Link: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type
 **ON SCREEN:** the typed list, all five ticked.
 
 **YUSUF:**
-> So that's the five steps. Take back the keys. Check what runs in their name. Write down what you have. Split the changes. And scope the consultant.
+> OK, that's the five steps. You take back the keys, and you check what runs in their name. Then you write down what you have. You split the changes. And you scope the consultant.
 
 ## 9:00 Is a new admin enough?
 
 **ON SCREEN:** a chain of three boxes: **Admin who left** → **New admin** → **The next one who leaves**. Then three tags, one per point: **Two people who know it** · **Audit = expensive** · **Know your own process first**
 
 **YUSUF:**
-> So let's go back to that customer after the merger. Sure, a new admin fixes this week. But they're just the next person who understands it, until they move on too.
+> Now let's go back to that customer after the merger. Sure, a new admin fixes this week's problem. But they're just the next person who understands it, until they move on too.
 >
-> So what should you do before anyone leaves? There has to be redundancy. More than one person on your team must know how your CRM works. And keep a good relationship with whoever set it up. If you lose both, a good consultant can audit your setup, but that can get very expensive.
+> So what should you do before anyone leaves? There has to be redundancy. That means more than one person on your team knows how your CRM works. And keep a good relationship with whoever set it up. If you lose both, a good consultant can audit your setup, but that can get very expensive.
 >
-> And honestly, the system is secondary. The number one thing is this. Do you know your own sales process, your marketing, and how you onboard a new customer? If you do, the system can always be adapted around it. Moving to another rented CRM doesn't fix that, if it gets customised the same way.
+> And honestly, the system is secondary. The number one thing is, do you know your own sales process, your marketing, and how you onboard a new customer? If you do, the system can always be adapted around it. And moving to another rented CRM doesn't fix that, if it just gets customised the same way.
 
 ## 9:55 What we do
 
 **ON SCREEN:** tags, one per phrase: **Built around your process** · **We move your data** · **You own the code** · **We maintain it**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
-> That's why I started CRM From Within. We give you a CRM that doesn't belong to whoever set it up. We build it around how you sell and deliver, we bring your Salesforce data across, and we keep it running. You own every line of the code, and you're not tied to a long contract. It's for teams of ten to fifty that a standard CRM keeps bending out of shape.
+> That's why I started CRM From Within. We give you a CRM that doesn't belong to whoever set it up. We build it around how you sell and deliver. We bring your Salesforce data across, and we keep it running. You own every line of the code, and you're not tied to a long contract. It's for teams of ten to fifty people that a standard CRM keeps bending out of shape.
 
 ## 10:20 Close
 
 **ON SCREEN:** checklist building line by line: **☐ First: two admins ☐ This week: move jobs and settings ☐ Next: the one-page map, then freeze and deactivate ☐ This week: one delegated admin, two piles ☐ Before the next invoice: the brief + your workarounds**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So here's your list. Get your two admins first. Then move the jobs and settings. Write the one-page map. Only then switch off the old login. Pick a delegated admin and split the piles. And send the brief before the next invoice lands.
+> So here's your list. Get your two admins first. Then move the jobs and settings, and write the one-page map. Only after that, switch off the old login. Pick a delegated admin and split the piles. And send the brief before the next invoice lands.
 >
 > In the next video, I'll show you how to leave HubSpot without losing your data.
 
