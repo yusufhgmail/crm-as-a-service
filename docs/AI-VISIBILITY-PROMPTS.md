@@ -1,4 +1,6 @@
-# AI search visibility: the prompts to track (draft, 4 Nov 2026)
+# AI search visibility: the prompts to track
+
+**Set up 5 Nov 2026** in Ubersuggest (project crmfromwithin.com, brand "CRM From Within"): the 15 prompts below in five topics, US English, competitors HubSpot, Salesforce, Method CRM, Zoho CRM and Pipedrive. Updates every two weeks across ChatGPT and Google AI Overviews (Gemini tracking is off by default on the plan). Changing the list resends all 15 and spends another credit, so edit this file first and change the brand once.
 
 Ubersuggest's AI Search Visibility tracks up to 15 prompts for one brand and reports whether ChatGPT, Perplexity and Gemini name the brand and which page they cite. Saving the brand spends one of the account's monthly brand credits, and the prompt list can only be changed by resending all of it, so the list is approved here first.
 
