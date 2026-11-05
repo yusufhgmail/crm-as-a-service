@@ -92,4 +92,4 @@ So before your next ticket goes quiet, here's what you do. Number one, write dow
 
 If that list is days and weeks, bring it to a free twenty-minute CRM fit check. The link's in the description.
 
-In the next video, I'll show you the five integrations a service company actually needs, starting with QuickBooks.
+In the next video, I'll show you the five integrations a service company actually needs.
