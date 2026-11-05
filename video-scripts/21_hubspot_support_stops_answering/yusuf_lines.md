@@ -74,7 +74,7 @@ Step five, ask who picks up when something goes wrong at the worst moment. HubSp
 
 So write down the last three times you needed a real person from your CRM company. For each one, what broke? How long did it take to get a real answer? And what did the wait cost you? If the answer's minutes, great. But if it's days or weeks, take that list into your renewal.
 
-What's the longest you've waited for a real answer from HubSpot? Put it in the comments, and tell me your tier.
+What's the longest you've waited for a real answer from HubSpot? Put it in the comments, and tell me your tier. I read every comment.
 
 ## Is fixing it enough?
 
@@ -82,9 +82,9 @@ Steps one to four will get you through this ticket. But the next one goes into t
 
 ## What we do
 
-That's why I started CRM From Within, so the answer to "who picks up?" is the people who wrote your system. We build a CRM around how your team sells and delivers. We move your HubSpot data over, and we maintain it. You own the code, there's no multi-year contract, and if you leave, you take everything with you.
+That's why I started CRM From Within, so the answer to "who picks up?" is the people who wrote your system. We build a CRM from scratch around how your team sells and delivers, and AI has made that possible at your size. We move your HubSpot data over, and we maintain it. You own the code, there's no multi-year contract, and if you leave, you take everything with you.
 
-It's for companies of ten to fifty people that a standard CRM can't fit. If HubSpot fits you, keep it, and keep that door sheet handy.
+It's for companies of ten to fifty people where a standard CRM just doesn't fit. If HubSpot fits you, keep it, and keep that door sheet handy.
 
 ## Close
 
@@ -92,4 +92,4 @@ So before your next ticket goes quiet, here's what you do. Number one, write dow
 
 If that list is days and weeks, bring it to a free twenty-minute CRM fit check. The link's in the description.
 
-In the next video, I'll show you the five integrations a service company actually needs.
+In the next video, I'll show you the five integrations a service company actually needs. So subscribe so you don't miss that.

@@ -116,7 +116,7 @@ And do one full practice run first, into a test copy of the new system. That fir
 
 So write the six tests down, and put a name on each one. When they've all passed, that's when you switch HubSpot off, and not before.
 
-What in your HubSpot are you most afraid to lose? Let me know in the comments.
+What in your HubSpot are you most afraid to lose? Let me know in the comments. I read every comment.
 
 ## Recap
 
@@ -128,10 +128,10 @@ Now, those five steps get your data out safely. But if you move safely into the 
 
 ## What we do
 
-At my new company, CRM From Within, we build a CRM around how your team sells and delivers, right next to HubSpot. And nothing gets switched off until it passes those six tests. We move every note, call and file over, and we look after it. You own the code, there's no long contract, and if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
+At my new company, CRM From Within, we build a CRM from scratch around how your team sells and delivers, right next to HubSpot. AI has made that far cheaper than it used to be. And nothing gets switched off until it passes those six tests. We move every note, call and file over, and we look after it. You own the code, there's no long contract, and if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
 
 ## Close
 
 So here's what you do. This week, write your data map, and export your biggest customer, every piece of it. Then plan backwards from your renewal. Pick the first team and the freeze date. And write down your six tests. If you skip this, you stay scared, and you'll just renew again.
 
-Next up, I'll show you how to choose between building, buying or owning your CRM, for a thirty-person company.
+Next up, I'll show you how to choose between building, buying or owning your CRM, for a thirty-person company. So subscribe so you don't miss that.

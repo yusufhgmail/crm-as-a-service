@@ -200,7 +200,7 @@ Links: https://www.sybill.ai/blogs/gong-pricing · https://marketbetter.ai/blog/
 **ON SCREEN:** lower-third tag: **Comment: how many sales tools does your team pay for?**
 
 **YUSUF:**
-> How many sales tools is your team paying for? Put the number in the comments.
+> How many sales tools is your team paying for? Put the number in the comments. I read every comment.
 
 ## 7:55 Recap
 
@@ -214,12 +214,12 @@ Links: https://www.sybill.ai/blogs/gong-pricing · https://marketbetter.ai/blog/
 **ON SCREEN:** three tags: **One system, one bill** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> That's what we build at my new company, CRM From Within. It's one CRM, shaped around how you sell and deliver, with the pieces you actually use built in. We move your data over and we look after it. The code is yours, and you're not locked into a long contract. And if you ever leave, everything goes with you.
+> That's what we build at my new company, CRM From Within. It's one CRM, built from scratch around how you sell and deliver, with only the pieces you actually use. That's possible now, because AI has made building software so much cheaper. We move your data over and we look after it. The code is yours, and you're not locked into a long contract. And if you ever leave, everything goes with you.
 
 **ON SCREEN:** tags: **For: 10–50 people** · **A standard CRM doesn't fit** · smaller: **Happy with your stack? Keep it**
 
 **YUSUF:**
-> We do this for teams of ten to fifty people that a standard CRM no longer fits.
+> We do this for teams of ten to fifty people where a standard CRM just doesn't fit.
 
 ## 8:45 Close
 
@@ -230,7 +230,7 @@ Links: https://www.sybill.ai/blogs/gong-pricing · https://marketbetter.ai/blog/
 >
 > If you want a second pair of eyes on that list, the free twenty-minute CRM fit check is below.
 >
-> In the next video, I'll show you how to start without ripping anything out. You keep HubSpot, and you replace one thing first.
+> In the next video, I'll show you how to start without ripping anything out. You keep HubSpot, and you replace one thing first. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video (video 16: "Keep HubSpot, Replace One Thing First") + video 8 ("How Gong Works, and Why Sales Teams Love It") + "Free CRM fit check" button.
 

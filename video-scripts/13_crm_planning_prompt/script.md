@@ -229,7 +229,7 @@ BEFORE WE BUILD OR BUY
 **ON SCREEN:** three tags, one per phrase: **Built from your plan** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> A plan like this often shows that a standard CRM covers half of it, and the other half is where your business actually happens. That's the half we build at my new company, CRM From Within. We move your data in and we keep it running. You own the code, and there's no long contract holding you if you want to leave.
+> A plan like this often shows that a standard CRM covers half of it, and the other half is where your business actually happens. That's the half we build at my new company, CRM From Within. And with AI, that costs a lot less than it used to. We move your data in and we keep it running. You own the code, and there's no long contract holding you if you want to leave.
 
 **ON SCREEN:** tags: **For: 10–50 people** · **A standard CRM doesn't fit** · smaller: **If it fits, use it**
 
@@ -243,7 +243,7 @@ BEFORE WE BUILD OR BUY
 **YUSUF:**
 > So copy the prompt from the description and run it this week. That's it.
 >
-> And tell me in the comments, what did the AI ask you first?
+> And tell me in the comments, what did the AI ask you first? I read every comment. And subscribe, so you don't miss the next one.
 
 **ON SCREEN:** end screen: next video + "Free CRM fit check" button.
 

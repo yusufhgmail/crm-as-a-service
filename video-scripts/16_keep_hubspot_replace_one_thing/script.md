@@ -50,7 +50,7 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF:**
-> Over the last ten years, I built a CRM company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies, and the smoothest projects almost always started small.
+> Over the last ten years, I built a CRM SaaS company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies, and the smoothest projects almost always started small.
 
 ## 0:12 Promise
 
@@ -193,7 +193,7 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** lower-third tag: **Comment: which part of HubSpot would you replace first?**
 
 **YUSUF:**
-> So which piece would you pull out of HubSpot tomorrow? Tell me below.
+> So which piece would you pull out of HubSpot tomorrow? Tell me below. I read every comment.
 
 ## 8:10 Recap
 
@@ -207,7 +207,7 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** tags: **Start with one piece** · **You own the code** · **No long contract** · **For: 10–50 people** · smaller: **No pain? Change nothing**
 
 **YUSUF:**
-> That's how we work at my new company, CRM From Within. We can start with the one piece that hurts. We connect it to your HubSpot and look after it. The code is yours, and there's no long contract. It's for teams of ten to fifty people. And if nothing in HubSpot hurts, change nothing.
+> That's how we work at my new company, CRM From Within. We can start with the one piece that hurts. We build it from scratch, which AI has made a lot cheaper, and then we connect it to your HubSpot and look after it. The code is yours, and there's no long contract. It's for teams of ten to fifty people. And if nothing in HubSpot hurts, change nothing.
 
 ## 8:55 Close
 
@@ -216,7 +216,7 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **YUSUF:**
 > So ask your team, write the one page, and then check after sixty days. That's it.
 >
-> If you'd rather have someone check your one page, book the free twenty-minute CRM fit check. The link's below.
+> If you'd rather have someone check your one page, book the free twenty-minute CRM fit check. The link's below. And subscribe, so you don't miss the next one.
 
 **ON SCREEN:** end screen: video 10 ("Ten Sales Tools, One Bill") + video 8 ("How Gong Works, and Why Sales Teams Love It") + "Free CRM fit check" button.
 

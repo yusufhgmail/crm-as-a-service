@@ -220,7 +220,7 @@ Links: https://knowledge.hubspot.com/contact-hubspots-premium-support · https:/
 **ON SCREEN:** lower-third tag: **Comment: your longest wait + your tier**
 
 **YUSUF:**
-> What's the longest you've waited for a real answer from HubSpot? Put it in the comments, and tell me your tier.
+> What's the longest you've waited for a real answer from HubSpot? Put it in the comments, and tell me your tier. I read every comment.
 
 ## 8:24 Recap
 
@@ -238,9 +238,9 @@ Links: https://knowledge.hubspot.com/contact-hubspots-premium-support · https:/
 **ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You own the code** · **You talk to who built it** · then, smaller: **For 10–50 people · standard setup fits? Keep it**
 
 **YUSUF:**
-> That's why I started CRM From Within, so the answer to "who picks up?" is the people who wrote your system. We build a CRM around how your team sells and delivers. We move your HubSpot data over, and we maintain it. You own the code, there's no multi-year contract, and if you leave, you take everything with you.
+> That's why I started CRM From Within, so the answer to "who picks up?" is the people who wrote your system. We build a CRM from scratch around how your team sells and delivers, and AI has made that possible at your size. We move your HubSpot data over, and we maintain it. You own the code, there's no multi-year contract, and if you leave, you take everything with you.
 >
-> It's for companies of ten to fifty people that a standard CRM can't fit. If HubSpot fits you, keep it, and keep that door sheet handy.
+> It's for companies of ten to fifty people where a standard CRM just doesn't fit. If HubSpot fits you, keep it, and keep that door sheet handy.
 
 ## 9:38 Close
 
@@ -251,7 +251,7 @@ Links: https://knowledge.hubspot.com/contact-hubspots-premium-support · https:/
 >
 > If that list is days and weeks, bring it to a free twenty-minute CRM fit check. The link's in the description.
 >
-> In the next video, I'll show you the five integrations a service company actually needs.
+> In the next video, I'll show you the five integrations a service company actually needs. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video (video 17: "5 CRM Integrations a Service Company Needs") + video 2 ("What to Do Before Your HubSpot Renewal") + "Free CRM fit check" button.
 

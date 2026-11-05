@@ -98,7 +98,7 @@ Now here's the bigger question. Was the problem really that the admin left? Or d
 
 Here's a check you can do this week. Draw your process, from first contact to final invoice. Then circle every step where the team works around Salesforce.
 
-So tell me in the comments who built your Salesforce, and which change you've been waiting longest for.
+So tell me in the comments who built your Salesforce, and which change you've been waiting longest for. I read every comment.
 
 ## Recap
 
@@ -114,10 +114,10 @@ And honestly, the system is secondary. The number one thing is, do you know your
 
 ## What we do
 
-That's why I started CRM From Within. We give you a CRM that doesn't belong to whoever set it up. We build it around how you sell and deliver. We bring your Salesforce data across, and we keep it running. You own every line of the code, and you're not tied to a long contract. It's for teams of ten to fifty people where a standard CRM just doesn't fit.
+That's why I started CRM From Within. We give you a CRM that doesn't belong to whoever set it up. We build it from scratch around how you sell and deliver, and AI is what makes that affordable now. We bring your Salesforce data across, and we keep it running. You own every line of the code, and you're not tied to a long contract. It's for teams of ten to fifty people where a standard CRM just doesn't fit.
 
 ## Close
 
 So here's your list. Get your two admins first. Then move the jobs and settings, and write the one-page map. Only after that, switch off the old login. Pick a delegated admin and split the piles. And send the brief before the next invoice lands.
 
-In the next video, I'll show you how to leave HubSpot without losing your data.
+In the next video, I'll show you how to leave HubSpot without losing your data. So subscribe so you don't miss that.

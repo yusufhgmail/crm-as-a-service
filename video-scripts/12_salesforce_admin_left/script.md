@@ -299,7 +299,7 @@ Link: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type
 **ON SCREEN:** lower-third tag: **Comment: who built your Salesforce + 1 change you're waiting on**
 
 **YUSUF:**
-> So tell me in the comments who built your Salesforce, and which change you've been waiting longest for.
+> So tell me in the comments who built your Salesforce, and which change you've been waiting longest for. I read every comment.
 
 ## 8:45 Recap
 
@@ -324,7 +324,7 @@ Link: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type
 **ON SCREEN:** tags, one per phrase: **Built around your process** · **We move your data** · **You own the code** · **We maintain it**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
-> That's why I started CRM From Within. We give you a CRM that doesn't belong to whoever set it up. We build it around how you sell and deliver. We bring your Salesforce data across, and we keep it running. You own every line of the code, and you're not tied to a long contract. It's for teams of ten to fifty people where a standard CRM just doesn't fit.
+> That's why I started CRM From Within. We give you a CRM that doesn't belong to whoever set it up. We build it from scratch around how you sell and deliver, and AI is what makes that affordable now. We bring your Salesforce data across, and we keep it running. You own every line of the code, and you're not tied to a long contract. It's for teams of ten to fifty people where a standard CRM just doesn't fit.
 
 ## 10:20 Close
 
@@ -333,7 +333,7 @@ Link: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type
 **YUSUF:**
 > So here's your list. Get your two admins first. Then move the jobs and settings, and write the one-page map. Only after that, switch off the old login. Pick a delegated admin and split the piles. And send the brief before the next invoice lands.
 >
-> In the next video, I'll show you how to leave HubSpot without losing your data.
+> In the next video, I'll show you how to leave HubSpot without losing your data. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video (video 19, "How to Leave HubSpot Without Losing Your Data: 5 Steps") + video 7 + "Free CRM fit check" button.
 

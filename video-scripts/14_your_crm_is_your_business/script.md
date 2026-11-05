@@ -214,7 +214,7 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **ON SCREEN:** lower-third tag: **Comment: your CRM + the change you never got**
 
 **YUSUF:**
-> What's one change your CRM vendor never made? Put it in the comments.
+> What's one change your CRM vendor never made? Put it in the comments. I read every comment.
 
 ## 7:35 Recap
 
@@ -240,7 +240,7 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **ON SCREEN:** tags, one per phrase: **Built around how you sell and deliver** · **Your data, moved for you** · **You own the code** · **Leave any time, take it all**
 
 **YUSUF:**
-> And that's why I started my new company, CRM From Within. We build a CRM around how you sell and deliver, in your own accounts. So when you want a change, you just talk to us, and you don't wait in a queue. We move your data, and we keep it running. You own the code, and there's no long contract to sit out. And if you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
+> And that's why I started my new company, CRM From Within. We build a CRM from scratch around how you sell and deliver, in your own accounts. A few years ago that would've cost a fortune. AI changed that. So when you want a change, you just talk to us, and you don't wait in a queue. We move your data, and we keep it running. You own the code, and there's no long contract to sit out. And if you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
 
 ## 9:30 Close
 
@@ -249,7 +249,7 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **YUSUF:**
 > So you've got four things to check, and they're on screen. If they show you don't really control how your business runs, the fit check link is below.
 >
-> In the next video, I'll talk about why people are calling CRM software dead, and what that means for yours.
+> In the next video, I'll talk about why people are calling CRM software dead, and what that means for yours. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video (video 9: "CRM Software Is Dead: What the SaaSpocalypse Means for Your CRM") + video 11 + "Free CRM fit check" button.
 

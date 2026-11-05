@@ -248,7 +248,7 @@ Tag on item 6 when he says "one number": **The real number**
 **ON SCREEN:** lower-third tag: **Comment: how your CRM was built + who maintains it**
 
 **YUSUF:**
-> So how was your CRM built, and who looks after it now? Tell me below.
+> So how was your CRM built, and who looks after it now? Tell me below. I read every comment.
 
 ## 9:30 Recap
 
@@ -269,7 +269,7 @@ Tag on item 6 when he says "one number": **The real number**
 **ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You own the code** · **We do the upkeep** · **No long contract**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
-> And when nobody can, that's what we do at my new company, CRM From Within. We build a CRM around how you sell and deliver, and we move your data in. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+> And when nobody can, that's what we do at my new company, CRM From Within. We build a CRM from scratch around how you sell and deliver, and we move your data in. That's possible now, with the new age of AI. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
 
 ## 10:35 Close
 
@@ -278,7 +278,7 @@ Tag on item 6 when he says "one number": **The real number**
 **YUSUF:**
 > So start with the two names, and hand someone the page. Restore a backup, and time it. List your connections, and run the access tests. Then write down the yearly number. If you skip this, you'll find out the day something breaks.
 >
-> In the next video, I'll give you one prompt to plan the CRM you actually need.
+> In the next video, I'll give you one prompt to plan the CRM you actually need. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video (video 13) + video 11 ("Build, Rent or Own Your CRM: How to Choose") + "Free CRM fit check" button.
 

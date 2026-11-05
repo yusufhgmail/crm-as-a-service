@@ -100,7 +100,7 @@ And number three, if nobody inside can maintain it, that's when owning makes sen
 
 Every route has lock-in somewhere. But it's the maintenance row that decides it. So choose the route where you can name the person keeping it alive three years from now. That's it.
 
-Which route are you leaning toward? Write it in the comments, with your team size.
+Which route are you leaning toward? Write it in the comments, with your team size. I read every comment.
 
 ## Recap
 
@@ -112,10 +112,10 @@ Choosing feels like the big decision, but it actually isn't. The big one shows u
 
 ## What we do
 
-My new company, CRM From Within, is route four. It's our answer to that year-three question. We design a CRM around how you sell and deliver, and we move your data over. Then we keep it running as you grow. You own the code, and you're not stuck in a long contract. It's for companies of ten to fifty people whose work just won't fit in a standard CRM.
+My new company, CRM From Within, is route four. It's our answer to that year-three question. We build a CRM from scratch around how you sell and deliver, which AI has finally made affordable at your size. We move your data over, and then we keep it running as you grow. You own the code, and you're not stuck in a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
 
 ## Close
 
 So this week, find your renewal date, and try a full export. Write down who fixes it at two a.m. Get years two and three priced in writing. Put anyone you talk to through the exit test, and that means us too. Then answer the three questions with your team, before the renewal date answers them for you.
 
-In the next video, I'll give you six checks that keep your own CRM running.
+In the next video, I'll give you six checks that keep your own CRM running. So subscribe so you don't miss that.

@@ -82,7 +82,7 @@ So list every automation between your tools, and every copy-paste job. And next 
 
 You won't see most of this copying yourself, so you have to ask. "Tell me anything you copy from one screen to another every week. I'm putting a name next to every connection we have."
 
-Which two of your tools still refuse to talk to each other? Comment below.
+Which two of your tools still refuse to talk to each other? Comment below. I read every comment.
 
 ## Recap
 
@@ -94,7 +94,7 @@ Some of this you can fix this week. But with a standard connector, someone else 
 
 ## What we do
 
-That's what my new company, CRM From Within, is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. We move your data and we maintain it. The code is yours, and there's no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
+That's what my new company, CRM From Within, is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. AI is what makes that affordable now. We move your data and we maintain it. The code is yours, and there's no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
 
 ## Close
 
@@ -102,4 +102,4 @@ So back to that phone call. Run the five checks and draw your own map in green, 
 
 If it's mostly red, bring the map to the fit check below.
 
-In the next video, I'll show you what people learned after switching CRMs and regretting it.
+In the next video, I'll show you what people learned after switching CRMs and regretting it. So subscribe so you don't miss that.

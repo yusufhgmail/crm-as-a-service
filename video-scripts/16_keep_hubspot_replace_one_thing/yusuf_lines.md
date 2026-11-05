@@ -8,7 +8,7 @@ What if you didn't have to leave HubSpot to stop fighting it? Because most compa
 
 ## Proof
 
-Over the last ten years, I built a CRM company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies, and the smoothest projects almost always started small.
+Over the last ten years, I built a CRM SaaS company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies, and the smoothest projects almost always started small.
 
 ## Promise
 
@@ -74,7 +74,7 @@ So give the first piece sixty days. Then ask yourself three things. Has the team
 
 If all three are good, take the next piece. If not, fix that first. And at some point, most of the work may happen outside HubSpot, and what's left is just a contact list. That's the moment to decide if you still need it, and not before.
 
-So which piece would you pull out of HubSpot tomorrow? Tell me below.
+So which piece would you pull out of HubSpot tomorrow? Tell me below. I read every comment.
 
 ## Recap
 
@@ -82,10 +82,10 @@ So basically, don't bet everything on one big switch. Pick the piece that hurts 
 
 ## What we do
 
-That's how we work at my new company, CRM From Within. We can start with the one piece that hurts. We connect it to your HubSpot and look after it. The code is yours, and there's no long contract. It's for teams of ten to fifty people. And if nothing in HubSpot hurts, change nothing.
+That's how we work at my new company, CRM From Within. We can start with the one piece that hurts. We build it from scratch, which AI has made a lot cheaper, and then we connect it to your HubSpot and look after it. The code is yours, and there's no long contract. It's for teams of ten to fifty people. And if nothing in HubSpot hurts, change nothing.
 
 ## Close
 
 So ask your team, write the one page, and then check after sixty days. That's it.
 
-If you'd rather have someone check your one page, book the free twenty-minute CRM fit check. The link's below.
+If you'd rather have someone check your one page, book the free twenty-minute CRM fit check. The link's below. And subscribe, so you don't miss the next one.

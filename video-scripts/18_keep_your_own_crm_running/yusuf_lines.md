@@ -90,7 +90,7 @@ The server's usually cheap, but the person isn't. At my old company, the typical
 
 So write it out, using the sum on screen. First add up a year of hosting and tools. Then add a year of upkeep hours from check one. And then add the changes your team's going to want next year, because a CRM that doesn't change with your business stops fitting.
 
-So how was your CRM built, and who looks after it now? Tell me below.
+So how was your CRM built, and who looks after it now? Tell me below. I read every comment.
 
 ## Recap
 
@@ -102,10 +102,10 @@ Now, passing these once is only a start. What I learned the hard way is that the
 
 ## What we do
 
-And when nobody can, that's what we do at my new company, CRM From Within. We build a CRM around how you sell and deliver, and we move your data in. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+And when nobody can, that's what we do at my new company, CRM From Within. We build a CRM from scratch around how you sell and deliver, and we move your data in. That's possible now, with the new age of AI. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
 
 ## Close
 
 So start with the two names, and hand someone the page. Restore a backup, and time it. List your connections, and run the access tests. Then write down the yearly number. If you skip this, you'll find out the day something breaks.
 
-In the next video, I'll give you one prompt to plan the CRM you actually need.
+In the next video, I'll give you one prompt to plan the CRM you actually need. So subscribe so you don't miss that.

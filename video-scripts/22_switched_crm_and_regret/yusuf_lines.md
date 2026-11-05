@@ -6,7 +6,7 @@
 
 I'll admit something awkward for a guy who builds CRMs. A new CRM very often doesn't fix the thing you switched to get away from. Here's a public example. One CEO left a CRM one month after signing, and they still have to pay for the other eleven.
 
-Over the last ten years, I built a CRM company, mostly for B2B, and I sold it a few years ago. And now I've started a new company, CRM From Within. So in this video, I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
+Over the last ten years, I built a CRM SaaS company, mostly for B2B, and I sold it a few years ago. And now I've started a new company, CRM From Within. So in this video, I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
 
 ## Who it's for
 
@@ -76,7 +76,7 @@ HubSpot's own terms actually put this in writing. You can't downgrade during you
 
 So before you sign, and before every upgrade, get two answers in writing. If this doesn't work, when can we go back down? And what's the last day we can cancel? Then ask for the shortest first term they'll give you. And put the cancel date in your calendar the day you sign.
 
-What CRM did you leave, what did you move to, and would you do it again? Tell me in the comments.
+What CRM did you leave, what did you move to, and would you do it again? Tell me in the comments. I read every comment.
 
 ## Is switching again enough?
 
@@ -86,7 +86,7 @@ A switch that works starts from how your team works, so that's your map from les
 
 ## What we do
 
-That's where CRM From Within comes in, and we're new at this. So instead of one more switch, we build a CRM from your map, around how you sell and deliver. We handle the move, which is the part that broke at the start, and we maintain it after that. You own the code, and nobody locks you into a long contract. It's for companies of ten to fifty people. And if a standard CRM fits, just pick it, and run the five checks first.
+That's where CRM From Within comes in, and we're new at this. So instead of one more switch, we build a CRM from scratch using your map, around how you sell and deliver. AI has made that affordable at your size. We handle the move, which is the part that broke at the start, and we maintain it after that. You own the code, and nobody locks you into a long contract. It's for companies of ten to fifty people. And if a standard CRM fits, just pick it, and run the five checks first.
 
 ## Close
 
@@ -94,4 +94,4 @@ So before your next switch, price year two. Then run your three most common jobs
 
 If your map shows work that no standard CRM does, bring it to the fit check below.
 
-In the next video, I'll go through build, rent or own your CRM, and what each route really costs over three years.
+In the next video, I'll go through build, rent or own your CRM, and what each route really costs over three years. So subscribe so you don't miss that.

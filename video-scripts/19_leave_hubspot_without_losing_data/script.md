@@ -319,7 +319,7 @@ Link: https://news.ycombinator.com/item?id=46619640
 **ON SCREEN:** lower-third tag: **Comment: team size + years on HubSpot + what you're most afraid to lose**
 
 **YUSUF:**
-> What in your HubSpot are you most afraid to lose? Let me know in the comments.
+> What in your HubSpot are you most afraid to lose? Let me know in the comments. I read every comment.
 
 ## 9:51 Recap
 
@@ -340,7 +340,7 @@ Link: https://news.ycombinator.com/item?id=46619640
 **ON SCREEN:** tags, one per phrase: **Built next to HubSpot** · **We move your data** · **You own the code** · **No long contract** · **Leave with everything**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
-> At my new company, CRM From Within, we build a CRM around how your team sells and delivers, right next to HubSpot. And nothing gets switched off until it passes those six tests. We move every note, call and file over, and we look after it. You own the code, there's no long contract, and if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
+> At my new company, CRM From Within, we build a CRM from scratch around how your team sells and delivers, right next to HubSpot. AI has made that far cheaper than it used to be. And nothing gets switched off until it passes those six tests. We move every note, call and file over, and we look after it. You own the code, there's no long contract, and if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
 
 ## 11:06 Close
 
@@ -349,7 +349,7 @@ Link: https://news.ycombinator.com/item?id=46619640
 **YUSUF:**
 > So here's what you do. This week, write your data map, and export your biggest customer, every piece of it. Then plan backwards from your renewal. Pick the first team and the freeze date. And write down your six tests. If you skip this, you stay scared, and you'll just renew again.
 >
-> Next up, I'll show you how to choose between building, buying or owning your CRM, for a thirty-person company.
+> Next up, I'll show you how to choose between building, buying or owning your CRM, for a thirty-person company. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video **Build, Rent or Own Your CRM: How to Choose** (video 11) + video 2 ("What to Do Before Your HubSpot Renewal") + "Free CRM fit check" button.
 

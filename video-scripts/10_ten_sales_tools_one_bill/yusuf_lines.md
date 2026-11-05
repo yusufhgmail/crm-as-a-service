@@ -70,7 +70,7 @@ So that's what one bill looks like. There's one line for the system, with no pri
 
 So mark every row on your list keep or fold in. Start with whatever renews first, and email that vendor now. Ask for your renewal price and your notice date, in writing. The email's on screen.
 
-How many sales tools is your team paying for? Put the number in the comments.
+How many sales tools is your team paying for? Put the number in the comments. I read every comment.
 
 ## Recap
 
@@ -78,9 +78,9 @@ So basically, for ten reps, the big four alone come to around sixty-six to eight
 
 ## What we do
 
-That's what we build at my new company, CRM From Within. It's one CRM, shaped around how you sell and deliver, with the pieces you actually use built in. We move your data over and we look after it. The code is yours, and you're not locked into a long contract. And if you ever leave, everything goes with you.
+That's what we build at my new company, CRM From Within. It's one CRM, built from scratch around how you sell and deliver, with only the pieces you actually use. That's possible now, because AI has made building software so much cheaper. We move your data over and we look after it. The code is yours, and you're not locked into a long contract. And if you ever leave, everything goes with you.
 
-We do this for teams of ten to fifty people that a standard CRM no longer fits.
+We do this for teams of ten to fifty people where a standard CRM just doesn't fit.
 
 ## Close
 
@@ -88,4 +88,4 @@ So make the list. Get the total. And mark every tool keep or fold in before your
 
 If you want a second pair of eyes on that list, the free twenty-minute CRM fit check is below.
 
-In the next video, I'll show you how to start without ripping anything out. You keep HubSpot, and you replace one thing first.
+In the next video, I'll show you how to start without ripping anything out. You keep HubSpot, and you replace one thing first. So subscribe so you don't miss that.

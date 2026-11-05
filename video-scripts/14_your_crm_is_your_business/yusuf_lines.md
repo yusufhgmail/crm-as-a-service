@@ -78,7 +78,7 @@ So write a one-page exit plan, before you need it. How many days' notice do you 
 
 Start with your account manager, and send this. "Before we renew, please confirm in writing how many days we'll have to get all our data out after the term ends."
 
-What's one change your CRM vendor never made? Put it in the comments.
+What's one change your CRM vendor never made? Put it in the comments. I read every comment.
 
 ## Recap
 
@@ -94,10 +94,10 @@ So here's the question. Is the way you sell and market what sets you apart from 
 
 ## What we do
 
-And that's why I started my new company, CRM From Within. We build a CRM around how you sell and deliver, in your own accounts. So when you want a change, you just talk to us, and you don't wait in a queue. We move your data, and we keep it running. You own the code, and there's no long contract to sit out. And if you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
+And that's why I started my new company, CRM From Within. We build a CRM from scratch around how you sell and deliver, in your own accounts. A few years ago that would've cost a fortune. AI changed that. So when you want a change, you just talk to us, and you don't wait in a queue. We move your data, and we keep it running. You own the code, and there's no long contract to sit out. And if you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
 
 ## Close
 
 So you've got four things to check, and they're on screen. If they show you don't really control how your business runs, the fit check link is below.
 
-In the next video, I'll talk about why people are calling CRM software dead, and what that means for yours.
+In the next video, I'll talk about why people are calling CRM software dead, and what that means for yours. So subscribe so you don't miss that.

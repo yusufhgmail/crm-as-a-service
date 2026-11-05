@@ -82,7 +82,7 @@ Some companies use the renewal to move. And here's the one I promised you. They 
 
 So thirty days out, you decide. If you're staying, you sign the new quote. And if you're leaving, your replacement has to be ready.
 
-What month does your Salesforce renew? Put it in the comments.
+What month does your Salesforce renew? Put it in the comments. I read every comment.
 
 ## Recap
 
@@ -94,7 +94,7 @@ Now, the first four steps get you a better renewal. But next year the window ope
 
 ## What we do
 
-So you can use that ninety-day window to get out, and not just to negotiate. At my new company, CRM From Within, we build a CRM around how your company sells and delivers. That includes the parts Salesforce never did. We bring your data across, and we keep it running. The code belongs to you, and there's no multi-year contract. And if you walk away, everything goes with you.
+So you can use that ninety-day window to get out, and not just to negotiate. At my new company, CRM From Within, we build a CRM from scratch around how your company sells and delivers. AI is what makes that affordable now. That includes the parts Salesforce never did. We bring your data across, and we keep it running. The code belongs to you, and there's no multi-year contract. And if you walk away, everything goes with you.
 
 If you've got ten to fifty people and Salesforce keeps forcing workarounds, that's who we build for. And if Salesforce fits you fine, renew it, on better terms.
 
@@ -104,4 +104,4 @@ So start now. Find your dates and your billing contact. This week, read your ord
 
 If your map is mostly things Salesforce can't do, there's a free twenty-minute CRM fit check in the description.
 
-In the next video, I'll show you what to do when HubSpot support stops answering.
+In the next video, I'll show you what to do when HubSpot support stops answering. So subscribe so you don't miss that.

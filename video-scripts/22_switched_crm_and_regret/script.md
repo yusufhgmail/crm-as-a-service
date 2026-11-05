@@ -51,7 +51,7 @@ Link: https://www.capterra.com/p/214215/HubSpot-SalesHub/reviews/#7195637 Then t
 **YUSUF** (straight to camera):
 > I'll admit something awkward for a guy who builds CRMs. A new CRM very often doesn't fix the thing you switched to get away from. Here's a public example. One CEO left a CRM one month after signing, and they still have to pay for the other eleven.
 >
-> Over the last ten years, I built a CRM company, mostly for B2B, and I sold it a few years ago. And now I've started a new company, CRM From Within. So in this video, I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
+> Over the last ten years, I built a CRM SaaS company, mostly for B2B, and I sold it a few years ago. And now I've started a new company, CRM From Within. So in this video, I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
 
 ## 0:38 Who it's for
 
@@ -221,7 +221,7 @@ Link: https://legal.hubspot.com/terms-of-service
 **ON SCREEN:** lower-third tag: **Comment: team size + which CRM you moved from and to**
 
 **YUSUF:**
-> What CRM did you leave, what did you move to, and would you do it again? Tell me in the comments.
+> What CRM did you leave, what did you move to, and would you do it again? Tell me in the comments. I read every comment.
 
 ## 10:00 Is switching again enough?
 
@@ -240,7 +240,7 @@ Link: https://legal.hubspot.com/terms-of-service
 **ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You own the code** · **No long contract** · then, smaller: **For 10–50 people · a standard CRM fits? Keep it**
 
 **YUSUF:**
-> That's where CRM From Within comes in, and we're new at this. So instead of one more switch, we build a CRM from your map, around how you sell and deliver. We handle the move, which is the part that broke at the start, and we maintain it after that. You own the code, and nobody locks you into a long contract. It's for companies of ten to fifty people. And if a standard CRM fits, just pick it, and run the five checks first.
+> That's where CRM From Within comes in, and we're new at this. So instead of one more switch, we build a CRM from scratch using your map, around how you sell and deliver. AI has made that affordable at your size. We handle the move, which is the part that broke at the start, and we maintain it after that. You own the code, and nobody locks you into a long contract. It's for companies of ten to fifty people. And if a standard CRM fits, just pick it, and run the five checks first.
 
 ## 11:09 Close
 
@@ -251,7 +251,7 @@ Link: https://legal.hubspot.com/terms-of-service
 >
 > If your map shows work that no standard CRM does, bring it to the fit check below.
 >
-> In the next video, I'll go through build, rent or own your CRM, and what each route really costs over three years.
+> In the next video, I'll go through build, rent or own your CRM, and what each route really costs over three years. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video **Build, Rent or Own Your CRM: How to Choose** (video 11) + video 9 (**Pipedrive, Zoho, Attio or Your Own CRM? How to Pick**) + "Free CRM fit check" button.
 

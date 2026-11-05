@@ -177,7 +177,7 @@ Links: https://knowledge.hubspot.com/connected-email/connect-your-inbox-to-hubsp
 **ON SCREEN:** lower-third tag: **Comment: where your team keeps its deals instead**
 
 **YUSUF:**
-> Where does your team really keep its deals? Let me know in the comments.
+> Where does your team really keep its deals? Let me know in the comments. I read every comment.
 
 ## 9:50 Recap
 
@@ -214,9 +214,9 @@ Links: https://knowledge.hubspot.com/connected-email/connect-your-inbox-to-hubsp
 **ON SCREEN:** tags, one per phrase: **Built around how your team works** · **We move your data** · **You own the code** · **No long contract** · **10–50 people**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> If most of those answers are things your CRM can't do, that's what my new company, CRM From Within, is for. We build the CRM around the job your team already does. We move your data across and we keep it running. The code is yours, and you're not tied in. It's for teams of ten to fifty people. So just bring that list to the fit check below. But if new stage names fixed it, you don't need us.
+> If most of those answers are things your CRM can't do, that's what my new company, CRM From Within, is for. We build the CRM from scratch around the job your team already does, and AI has made that a lot cheaper than it used to be. We move your data across and we keep it running. The code is yours, and you're not tied in. It's for teams of ten to fifty people. So just bring that list to the fit check below. But if new stage names fixed it, you don't need us.
 >
-> In the next video, I'll show you what owning your CRM really means.
+> In the next video, I'll show you what owning your CRM really means. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video (video 14) + video 6 + "Free CRM fit check" button.
 

@@ -231,7 +231,7 @@ Link: https://help.zapier.com/hc/en-us/articles/8496037690637-How-to-troubleshoo
 **ON SCREEN:** lower-third tag: **Comment: team size + which 2 tools don't talk**
 
 **YUSUF:**
-> Which two of your tools still refuse to talk to each other? Comment below.
+> Which two of your tools still refuse to talk to each other? Comment below. I read every comment.
 
 ## 9:05 Recap
 
@@ -252,7 +252,7 @@ Link: https://help.zapier.com/hc/en-us/articles/8496037690637-How-to-troubleshoo
 **ON SCREEN:** the integration map redrawn, every arrow green, the QuickBooks arrows included, tag **Built around your map**. Then tags: **We move your data** · **You own the code** · **No long contract** · smaller: **For 10–50 people · connectors fine? Keep them**
 
 **YUSUF:**
-> That's what my new company, CRM From Within, is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. We move your data and we maintain it. The code is yours, and there's no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
+> That's what my new company, CRM From Within, is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. AI is what makes that affordable now. We move your data and we maintain it. The code is yours, and there's no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
 
 ## 10:25 Close
 
@@ -263,7 +263,7 @@ Link: https://help.zapier.com/hc/en-us/articles/8496037690637-How-to-troubleshoo
 >
 > If it's mostly red, bring the map to the fit check below.
 >
-> In the next video, I'll show you what people learned after switching CRMs and regretting it.
+> In the next video, I'll show you what people learned after switching CRMs and regretting it. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video (video 22) + video 6 ("Map How Your Team Works Before You Buy a CRM (30 Minutes)") + "Free CRM fit check" button.
 
