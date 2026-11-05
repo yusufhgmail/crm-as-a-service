@@ -11,6 +11,7 @@ export default function HubspotAlternativePage() {
       <section>
         <h2>First: when to stay on HubSpot</h2>
         <p>HubSpot Free is a good CRM, and for a lot of small businesses it is the right one. Stay if all of these are true: your sales process is a plain pipeline, the free tier’s limits do not bite, and someone on the team is willing to keep the account tidy. Most “HubSpot alternative” searches come from companies where one of those has stopped being true, and it is worth knowing which.</p>
+        <p>An example from Yusuf’s old CRM company, confirmed from his records: a CEO tried the CRM and then went with three simple rented tools instead, because together they covered what he needed. That was the right call for him, and we would say the same today. When someone already sells what you need, rent it.</p>
       </section>
 
       <section>

@@ -32,6 +32,7 @@ export default function WhyCrmProjectsFailPage() {
 
       <section>
         <h2>The spreadsheet is the diagnosis</h2>
+        <p>An example from Yusuf’s old company, with the customer unnamed and the details checked against the records: a handover note from 2022 said the customer’s sales team used the CRM. Two years later, when they cancelled, the company’s own note said they weren’t using it at all; one pipeline had ended up in Excel. Nobody refused to use the CRM. They slowly stopped, and the vendor caught it too late. That is what failure looks like from the outside: nothing happens, for two years.</p>
         <p>When a CRM project is failing, there is almost always a spreadsheet, and the spreadsheet is more accurate than the CRM. Do not treat it as a discipline problem. Treat it as the requirements document you did not have: it shows exactly which objects, columns and views the work needs, because someone built it under pressure with nothing to spare. The fix for the CRM is to make it do what the spreadsheet does, and then to stop asking for anything else.</p>
       </section>
 

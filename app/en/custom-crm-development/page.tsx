@@ -39,6 +39,7 @@ export default function CustomCrmDevelopmentPage() {
 
       <section>
         <h2>Who it is for, and who should use HubSpot Free</h2>
+        <p>From the years selling a rented CRM, Yusuf’s count: out of every hundred customers, maybe three were happy with the standard setup. Everyone else wanted it changed, and the changing was the job nobody on their side had time for.</p>
         <p>The fit is a company of roughly 10 to 50 people whose customer work does not match a generic sales pipeline, and where nobody wants to own a CRM project. Typical signs: the real process lives in a spreadsheet someone guards, the CRM that was bought is half-filled, or the team has outgrown HubSpot Free but dreads the setup that Professional needs.</p>
         <p>It is not for everyone. If a generic pipeline is enough and someone on the team is happy to configure it, <a href="https://www.hubspot.com/pricing/sales" rel="noopener">HubSpot Free</a> is the better choice, and we say so in the first conversation. The <a href="/en/hubspot-alternative">HubSpot alternative guide</a> covers where that line sits.</p>
       </section>

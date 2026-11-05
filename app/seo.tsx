@@ -131,6 +131,8 @@ export function jsonLd(locale: SiteLocale, page: string, copy: PageCopy, faq: Fa
         name: 'Yusuf Young',
         jobTitle: 'Founder',
         image: `${SITE}/yusuf-young.jpg`,
+        url: 'https://yusufyoung.com',
+        sameAs: ['https://yusufyoung.com'],
         worksFor: { '@id': `${SITE}/#org` },
       },
       {

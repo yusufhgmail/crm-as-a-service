@@ -37,6 +37,7 @@ export default function CustomCrmVsHubspotPage() {
         <h2>Ownership: what you are holding in year four</h2>
         <p>With HubSpot, year four looks like year three: the same licence, plus the seats added since. If you leave, you take an export and leave the configuration, the automations, the reports and three years of muscle memory behind. That is not a complaint about HubSpot; it is what renting is.</p>
         <p>With a custom CRM you own, year four costs hosting plus whatever you pay to keep it adapting. If you stop paying the service, the system keeps running as it is. You could hand the code to a developer, or to another service. The money you spent produced an asset rather than a subscription.</p>
+        <p>There is a second kind of ownership that matters more than the code. On a rented CRM you run your company on the process the vendor decided on, the same as everyone else who rents it. In a CRM built for you, your way of doing business goes into the system: how you sell, how you treat customers, which deals you say no to. A competitor can rent the same HubSpot tomorrow. They cannot rent that.</p>
       </section>
 
       <section>

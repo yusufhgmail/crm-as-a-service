@@ -49,6 +49,7 @@ export default function AiNativeCrmPage() {
           <li>It stays true, because the records update themselves; adoption stops depending on discipline.</li>
           <li>It can be owned rather than rented, because the thing you were paying the vendor for (keeping it working) is now done by the system and the people who run it.</li>
         </ul>
+        <p>Yusuf Young wrote about where this was heading in <a href="https://yusufyoung.com/how-the-software-industry-will-change-when-development-cost-nears-zero-who-will-still-make-money/" rel="noopener">June 2023</a>, before the 2026 software sell-off: when building software gets close to free, the costs do not disappear, they move. Finding customers and running at scale stay expensive, so the big vendors keep setting the price. His example in that post was a CRM, and the two costs he said would remain were understanding the business and supporting the system. Those two are what an AI-native CRM service is paid for.</p>
         <p>This is the model CRM From Within is built on: an AI-native CRM the client owns, built and kept by the service. How that works in a build is on the <a href="/en/custom-crm-development">service page</a>; the <a href="/en/build-your-own-crm">build-your-own guide</a> is for companies that want to try the idea themselves first.</p>
       </section>
 

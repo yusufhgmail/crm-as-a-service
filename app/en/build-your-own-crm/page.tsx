@@ -49,6 +49,7 @@ export default function BuildYourOwnCrmPage() {
             ['6', 'A customer asks for their data to be deleted. A laptop with the only backup dies.', 'A real backup, an export, access control, and a written answer to “where is our data”.'],
           ]}
         />
+        <p>How much work is that, in hours? At Yusuf’s old CRM company, checked against its records, the typical customer took about three hours of setup and support a month. A few took twenty-six to forty. Three hours a month is a bargain if someone has them; the problem is that at a company of 10 to 50 people those three hours belong to someone with another job, and the month they are skipped is the month the spreadsheet comes back.</p>
         <p>None of these is hard for a developer. All of them are a job, and the job is the reason companies pay for CRM software in the first place. A self-built CRM moves that job from the vendor to whoever on your team built it.</p>
       </section>
 
