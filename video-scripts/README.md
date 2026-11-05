@@ -22,6 +22,7 @@ Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folder
 | 14 | [Your CRM Is Your Business: Don't Rent It](14_your_crm_is_your_business/script.md) | [Yusuf's lines](14_your_crm_is_your_business/yusuf_lines.md) |
 | 15 | [3 Reasons Your Team Doesn't Use the CRM, and the Fix](15_team_doesnt_use_crm/script.md) | [Yusuf's lines](15_team_doesnt_use_crm/yusuf_lines.md) |
 | 16 | [Keep HubSpot, Replace One Thing First](16_keep_hubspot_replace_one_thing/script.md) | [Yusuf's lines](16_keep_hubspot_replace_one_thing/yusuf_lines.md) |
+| 17 | [5 CRM Integrations a Service Company Needs](17_crm_integrations_service_company/script.md) | [Yusuf's lines](17_crm_integrations_service_company/yusuf_lines.md) |
 
 [Content plan](../docs/plans/2026-10-25-crm-agency-plan.md#content-plan) · [Project overview](../README.md)
 
