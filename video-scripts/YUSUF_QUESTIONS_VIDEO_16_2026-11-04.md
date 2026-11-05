@@ -1,3 +1,5 @@
+> **Videonumren ändrades 4 nov** (gammalt→nytt): 21→8, 15→9, 22→10, 10→11, 8→12, 12→13, 14→14, 13→15, 23→16, 19→17, 11→18, 9→19, 17→20, 18→21, 20→22, 16→23; 24–27 oförändrade. Frågorna nedan använder de gamla numren: "video 16" här är nya video 23, "video 14" är 14, "video 11" är 18, "video 8" är 12, "video 10" är 11, "video 13" är 15.
+
 # Frågor till Yusuf: video 16 (nygjord)
 
 Video 16 handlar nu om att **byta CRM-system** (flytta till ett annat CRM), inte om att lämna en byrå: *"Leaving Your CRM? Don't Move the Mess"*. Den går igenom fyra beslut innan flytten: skriv ner er process först, behåll/stryk/ändra varje fält, steg och automation, städa datan innan flytten, och gör anledningen till att ni lämnade till det första testet av det nya CRM:et.
