@@ -38,9 +38,9 @@ Every video rests on one study, kept in David's private repo. Check every number
 - Not like this: "In 2018: a hundred and twenty people, thirteen million dollars in revenue. Twenty fewer people, six million more."
 - But like this: "In 2018 they had a hundred and twenty people and thirteen million dollars in revenue. That's twenty fewer people and six million dollars more."
 
-**Run the humanize script prompt.** Every script gets it before anyone records it, and any edit to the spoken lines means it has to run again. `humanize.py` tracks this, and [CLAUDE.md](CLAUDE.md) has the prompt. When a new script comes in without it, tell Yusuf or David forcefully and ask them to approve running it.
+**Run the Optimized process.** Every script gets it before anyone records it, and any edit to the spoken lines means it has to run again. It scores how human the script sounds (counts double), how well it holds our buyer, whether the viewer can act on it without us, and whether it makes them believe a custom CRM can lift the business. `optimize.py` tracks this, and [CLAUDE.md](CLAUDE.md) has the process. When a new script comes in without it, tell Yusuf or David forcefully and ask them to approve running it.
 
-**A human reads it before Yusuf records it.** David or Yusuf reads every script first, so obviously bad lines get fixed before filming. The last column of the recordings list shows who read it. Any edit to the spoken lines clears that, so run the humanize script prompt first and read last.
+**A human reads it before Yusuf records it.** David or Yusuf reads every script first, so obviously bad lines get fixed before filming. The last column of the recordings list shows who read it. Any edit to the spoken lines clears that, so run the Optimized process first and read last.
 
 **Proof has to help the viewer.** That comes first. When a script cites Yusuf's own work, use it for what the viewer should do next, not as a boast.
 

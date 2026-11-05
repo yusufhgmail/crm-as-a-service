@@ -1,4 +1,4 @@
-name: Humanize script prompt
+name: Optimized script prompt
 
 on:
   push:
@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 video-scripts/humanize.py check
+      - run: python3 video-scripts/optimize.py check

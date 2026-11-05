@@ -10,22 +10,27 @@ Yusuf's own words are saved in the private repo at `~/code/crm-from-within/origi
 
 David: before writing or changing a script, pull the private repo `crm-from-within` and read its `CLAUDE.md`. Yusuf left notes for you there.
 
-# Humanize script prompt
+# Optimized process
 
-Every script must have had this prompt before it's recorded. [humanize.py](humanize.py) tracks it in `humanize_status.json` and in the last column of [README.md](README.md). A tick holds a fingerprint of `yusuf_lines.md`, so any edit to the spoken lines unticks the script.
+Every script must go through this before it's recorded. [optimize.py](optimize.py) tracks it in `optimize_status.json` and in the Optimized column of [README.md](README.md). A mark holds a fingerprint of `yusuf_lines.md`, so any edit to the spoken lines clears it. Scripts that only had the older human check say "old check" there, until Yusuf decides to run this on them too.
 
-When a video arrives unticked, or anyone adds one, tell Yusuf or David forcefully that the prompt hasn't been run and those scripts aren't ready to record, and ask them to approve running it. Hooks in `.claude/settings.json` remind you on every message, and a GitHub check fails on any push with an unticked script.
+When a video arrives without it, or anyone adds one, tell Yusuf or David forcefully that it hasn't been run and those scripts aren't ready to record, and ask them to approve running it. Hooks in `.claude/settings.json` remind you on every message, and a GitHub check fails on any push with a script that has had neither.
 
-After a run, record it with its scores: `python3 video-scripts/humanize.py tick 08 6,7,8,8`.
+The process, in Yusuf's words:
 
-The prompt, in Yusuf's words:
+1. Score the script 1-10 on all four criteria:
+   - **Human, counts double:** how a real human actually speaks. Note the specific places where it sounds contrived, scripted, or like AI wrote it.
+   - **Interest:** captures and holds our buyer's interest: a sales manager or a CEO of a 10-50 person company paying real money for its CRM.
+   - **Usable value:** can the viewer act on it today without us? Entertainment viewers don't turn into education viewers, so go all in on teaching.
+   - **Belief:** makes that CEO or sales manager believe that a custom-built CRM can lift their business to new heights. Not just saving some money, but actually making their business able to solve some bottleneck or do something valuable that has material impact.
+2. Add it up: 2 x Human + Interest + Usable value + Belief, out of 50. If this is round 2 or later and the total didn't go up, stop.
+3. Rewrite it to raise the total, without losing any informational value or making it less exciting to listen to.
+4. Repeat from step 1. When it stops, use the highest-scoring version as the main script.
 
-1. Score it based on how a real human actually speaks, 1-10. Note the specific places where it sounds contrived, scripted, or like AI wrote it. If this is pass 2 or more, if the score didn't change from the previous time you scored it, stop. Otherwise continue to step 2.
-2. Rewrite it accordingly, trying to maximize that score, but without losing any informational value or making it less exciting / dopamine-inducing to listen to.
-3. Repeat from step 1 until you reach the stop condition.
+Have a fresh agent score each round, one that hasn't seen the earlier scores, so nobody grades their own rewrite. Save every round in the private repo at `videos/optimized/`, then record it: `python3 video-scripts/optimize.py tick 10 "7,6,7,5 8,7,8,7 8,7,8,6"`, with one human,interest,value,belief group per round.
 
 # Read and approved by a human
 
-A human reads every script before Yusuf records it. It's the last column of [README.md](README.md). When David or Yusuf says they've read and approved a script, mark it: `python3 video-scripts/humanize.py read 09 David`. Then commit and push.
+A human reads every script before Yusuf records it. It's the last column of [README.md](README.md). When David or Yusuf says they've read and approved a script, mark it: `python3 video-scripts/optimize.py read 09 David`. Then commit and push.
 
 Mark a script only when that person says so. Never mark one yourself. Any edit to the spoken lines clears the mark, so tell them it needs reading again.
