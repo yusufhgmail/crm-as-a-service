@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved by David, 3 Nov 2026 (facts rechecked live 3 Nov)
+**Status:** recorded by Yusuf, footage not on Drive yet
 
 - [Script on Drive](https://docs.google.com/document/d/1OSBvzP3HrM009XDhstRjRjGvwH8gcwlaBTvuuK62K8c/edit) (1 Nov version; the 3 Nov fact fixes are in script.md here)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1N_mnbGJZKFlYdqQ8O729Gxy_zvloS7uaIUVEHZBhBdg/edit)

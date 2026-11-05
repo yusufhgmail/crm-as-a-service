@@ -48,28 +48,28 @@ Pair title 1 with thumbnail 1 first; test 2 with 4, and 4 with 3.
 **ON SCREEN:** Yusuf on camera. Four tags appear beside him one by one: ✓ **A prompt you can copy** · ✓ **Your stages and fields** · ✓ **What to automate first** · ✓ **What to check before you build**
 
 **YUSUF** (straight to camera):
-> I'm going to give you one prompt that plans the CRM you need. You paste it into Claude or ChatGPT, and twenty minutes later you've got a written plan. It tells you what you track and what your stages are. It shows what runs on its own and which tools it talks to. And it lists what to settle before anyone builds or buys.
+> I'm going to give you one prompt that plans the CRM you need. You just paste it into Claude or ChatGPT, and twenty minutes later you've got a written plan. It tells you what you track and what your stages are. Then it shows you what runs on its own and which tools it talks to. And before anyone builds or buys, you'll know what to settle.
 
 ## 0:20 Proof
 
 **ON SCREEN:** tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF:**
-> At my old company, the CRM SaaS company I sold, we planned CRMs for hundreds of companies. And the plan is the part people skip. Then they find out what doesn't fit after they've already paid.
+> At my old company, the CRM SaaS company I sold, we planned CRMs for hundreds of companies. And the plan is the part people skip. So they only find out what doesn't fit after they've already paid.
 
 ## 0:27 Who it's for
 
 **ON SCREEN:** one tag: **About to buy, switch or build a CRM?**
 
 **YUSUF:**
-> Most teams pick a CRM from a demo, and then they find out their process doesn't fit. So if you're about to buy, switch or build one, plan first. That way you're comparing every option against how you really work, and not against a sales pitch.
+> Most teams pick a CRM from a demo, and then they find out their process doesn't fit. So if you're about to buy, switch or build one, plan first. Then you're comparing every option against how you really work, not against a sales pitch.
 
 ## 0:50 Plan
 
-**ON SCREEN:** whiteboard, six lines written as he says them: **1 Who you are · 2 How you sell · 3 How you deliver · 4 The rules · 5 What you want back · 6 The checklist**
+**ON SCREEN:** whiteboard, all six lines appear when he says "six parts": **1 Who you are · 2 How you sell · 3 How you deliver · 4 The rules · 5 What you want back · 6 The checklist**
 
 **YUSUF:**
-> The prompt has six parts. I'll show you each one, and then we'll run it on an example company. It's in the description, word for word.
+> The prompt has six parts. I'll show you each one, and then we'll run it on an example company. And it's in the description, word for word.
 
 **ON SCREEN:** the full prompt, scrolling slowly, readable:
 
@@ -108,7 +108,7 @@ BEFORE WE BUILD OR BUY
 **ON SCREEN:** part tracker **Part 1 of 6: Who you are**. The ABOUT US block highlighted.
 
 **YUSUF:**
-> Part one is who you are. So that's what you sell, and who buys it. Then your deal size, your people and your tools. And the first line of the prompt says don't recommend a product. Why? Because you want a plan, not an ad.
+> Part one is who you are. So you write what you sell and who buys it. Then you add your deal size, your people and your tools. And the first line of the prompt actually says don't recommend a product. Why? Because you want a plan, not an ad.
 
 **ON SCREEN:** **DO THIS THIS WEEK: write the ABOUT US block in 10 minutes**
 
@@ -117,21 +117,21 @@ BEFORE WE BUILD OR BUY
 **ON SCREEN:** part tracker **Part 2 of 6: How you sell**. The HOW WE SELL block highlighted.
 
 **YUSUF:**
-> Part two is your sales process. Where do leads come from? Who calls them? And where do deals die? Because where deals get stuck is where a CRM earns its money.
+> Part two is your sales process. So where do your leads come from, and who calls them? And where do deals die? Because where deals get stuck is where a CRM earns its money.
 >
-> And don't write how it should work. Write how it actually works on a normal Tuesday, spreadsheets and sticky notes included.
+> And don't write how it should work. Write how it actually works on a normal Tuesday, with the spreadsheets and the sticky notes.
 
 ## 2:45 Part 3: How you deliver
 
 **ON SCREEN:** part tracker **Part 3 of 6: How you deliver**. The HOW WE DELIVER block highlighted. Tag: **Most CRMs stop at "won"**
 
 **YUSUF:**
-> Part three is what almost everybody leaves out, which is what happens after the deal is signed. That's the scheduling, the ordering and the invoicing. And the service visit a year later. Most CRMs stop at "won". But for a lot of companies of ten to fifty people, that's where the mess starts.
+> Part three is the one almost everybody leaves out, and that's what happens after the deal is signed. So that's the scheduling, the ordering and the invoicing, and then the service visit a year later. Most CRMs stop at "won". But for a lot of companies of ten to fifty people, that's where the mess starts.
 
 **ON SCREEN:** **DO THIS THIS WEEK: ask the person who invoices to write part 3**
 
 **YUSUF:**
-> And don't write this part yourself, because whoever does the delivery and the invoicing knows steps you've never seen.
+> And don't write this part yourself. Whoever does the delivery and the invoicing knows steps you've never seen.
 
 **ON SCREEN:** card titled **SAY THIS** (to whoever does delivery and invoicing): **"Can you write down every step from a signed deal until we're paid? I mean the way it really happens, with the spreadsheets and the things you chase by hand."**
 
@@ -143,21 +143,21 @@ BEFORE WE BUILD OR BUY
 **ON SCREEN:** part tracker **Part 4 of 6: The rules**. RULES block highlighted; the line "ask me instead of guessing" in yellow.
 
 **YUSUF:**
-> Part four keeps the AI honest. If you don't give it rules, it fills every gap with a confident guess. And you end up planning a CRM for a company that isn't yours. So the rules say it has to ask you up to ten questions first. It waits for your answers. And it keeps it simple enough for a real team.
+> Part four keeps the AI honest. If you don't give it rules, it just fills every gap with a confident guess. And then you end up planning a CRM for a company that isn't yours. So the rules say it has to ask you up to ten questions first, and wait for your answers. And it has to keep it simple enough for a real team.
 
 ## 3:55 Part 5: What you want back
 
 **ON SCREEN:** part tracker **Part 5 of 6: What you want back**. The five numbered items highlighted one by one: **Objects · Stages · Automations · Integrations · Reports**
 
 **YUSUF:**
-> Part five says what you want back. First, objects. That just means the records you keep, like companies, deals and jobs. Then stages, with a clear rule for when something moves. Then five automations, written as "when this happens, do that". Then which tools have to share data. And last, three numbers the owner looks at every Monday.
+> Part five says what you want back. First, the objects, and that just means the records you keep, like companies, deals and jobs. Then your stages, with a clear rule for when something moves. Then you want five automations, written as "when this happens, do that". You want to know which tools have to share data. And last, you want three numbers the owner looks at every Monday.
 
 ## 4:30 Part 6: The checklist
 
 **ON SCREEN:** part tracker **Part 6 of 6: The checklist**. BEFORE WE BUILD OR BUY block highlighted.
 
 **YUSUF:**
-> Part six saves you money. Before you pay anyone, the plan has to answer five questions. Who owns the data? How would you get it out? Who changes the setup when your business changes? What does it cost at twice your size? And which part won't a standard CRM cover?
+> Part six is the one that saves you money. Before you pay anyone, the plan has to answer five questions. Who owns the data? How would you get it out? Who changes the setup when your business changes? What does it cost at twice your size? And which part won't a standard CRM cover?
 
 ## 5:00 Free CRM fit check
 
@@ -172,17 +172,17 @@ BEFORE WE BUILD OR BUY
 *"25 people. We sell and install heat pumps for homes. Leads come from our website and from a comparison site. A salesperson calls, books a home visit, sends a quote from a spreadsheet. About half the quotes need a second visit. After signing, the office orders the unit, books two installers, and invoices 30% up front and 70% after install in our accounting tool. Every unit needs a service visit after 12 months, which we often forget."*
 
 **YUSUF:**
-> So here's a made-up example. It's a heat pump installer with twenty-five people. I paste the prompt, and then I describe the company the way an owner would.
+> So here's a made-up example, a heat pump installer with twenty-five people. I paste in the prompt, and then I describe the company the way an owner would.
 
 **ON SCREEN:** the AI's questions, zoomed. Tags on two of them: **"Who approves a discount?"** · **"Do installers need the CRM on their phones?"**
 
 **YUSUF:**
-> Now, it doesn't write a plan straight away. First it asks questions. Who approves a discount? Do the installers need this on their phones? Those are the things a consultant would ask in the first meeting.
+> Now, it doesn't write a plan straight away. First it asks me questions. Who approves a discount? Do the installers need this on their phones? Those are exactly the things a consultant would ask in the first meeting.
 
 **ON SCREEN:** the answer, section by section, as he names each: **Objects:** Customer · Property · Quote · Job · Unit · Service visit → **Stages:** sales pipeline and install pipeline → **Automation #1:** "When a job is marked installed, create a service visit due in 12 months"
 
 **YUSUF:**
-> Then you get the plan. It splits the customer from the property, because the heat pump belongs to the house. It gives you two pipelines, one for selling and one for installing. And the top automation is the thing they keep forgetting. When a job is installed, book the service visit twelve months out.
+> Then you get the plan. It splits the customer from the property, because the heat pump actually belongs to the house. You get two pipelines, one for selling and one for installing. And the top automation is the thing they keep forgetting. So when a job is installed, book the service visit twelve months out.
 
 **ON SCREEN:** **Integrations:** CRM → accounting: invoice 30% at signing, 70% at install · tag **If this breaks: no one invoices the 70%**
 
@@ -197,7 +197,7 @@ BEFORE WE BUILD OR BUY
 **ON SCREEN:** card titled **SAY THIS** (email to every CRM vendor, before the demo): **"Here's our one-page plan. In the demo, please show us the part marked 'a standard CRM won't cover'. And tell us in writing what it costs at twice our size."**
 
 **YUSUF:**
-> Send them this ahead of every demo. "Here's our one-page plan. In the demo, please show us the part marked 'a standard CRM won't cover'. And tell us in writing what it costs at twice our size."
+> Just send them this before every demo. "Here's our one-page plan. In the demo, please show us the part marked 'a standard CRM won't cover'. And tell us in writing what it costs at twice our size."
 
 ## 7:20 Three mistakes when you run it
 
@@ -206,7 +206,7 @@ BEFORE WE BUILD OR BUY
 **YUSUF:**
 > There are three things that go wrong when you run this. Number one, you write three lines about the business, so the plan comes out generic. Write at least a page.
 >
-> Number two, you describe the process you wish you had. You need to describe the real one.
+> Secondly, you describe the process you wish you had. You need to describe the real one.
 >
 > And number three, you treat the answer as finished. It's a first draft. So show it to your team and ask, "what's missing?"
 
@@ -222,14 +222,14 @@ BEFORE WE BUILD OR BUY
 **ON SCREEN:** the whiteboard, all six parts ticked.
 
 **YUSUF:**
-> So those are the six parts. Who you are, how you sell and how you deliver. Then the rules, and what you want back. And the checklist, before you spend a single dollar.
+> So those are the six parts. You write who you are, how you sell and how you deliver. Then you set the rules, and you say what you want back. And you get the checklist before you spend a single dollar.
 
 ## 8:10 What we do
 
 **ON SCREEN:** three tags, one per phrase: **Built from your plan** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> A plan like this often shows that a standard CRM covers half of it, and the other half is where your business actually happens. That's the half we build at CRM From Within. We move your data in and we keep it running. The code belongs to you, and you can leave without a long contract holding you.
+> A plan like this often shows that a standard CRM covers half of it, and the other half is where your business actually happens. That's the half we build at my new company, CRM From Within. We move your data in and we keep it running. You own the code, and there's no long contract holding you if you want to leave.
 
 **ON SCREEN:** tags: **For: 10–50 people** · **A standard CRM doesn't fit** · smaller: **If it fits, use it**
 

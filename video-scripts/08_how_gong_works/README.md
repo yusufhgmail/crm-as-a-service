@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved by David, 4 Nov 2026
+**Status:** recorded by Yusuf, footage not on Drive yet
 
 ## Files
 

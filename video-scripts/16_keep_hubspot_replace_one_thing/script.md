@@ -43,28 +43,28 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** Yusuf on camera. Tag: **Leave HubSpot? Or fix one thing?**
 
 **YUSUF** (straight to camera):
-> What if you didn't have to leave HubSpot to stop fighting it? Because most companies think the choice is stay and suffer, or rip it all out.
+> What if you didn't have to leave HubSpot to stop fighting it? Because most companies think you either stay and suffer, or you rip it all out.
 
 ## 0:08 Proof
 
 **ON SCREEN:** tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF:**
-> Over the last ten years, I built a CRM company and set up CRMs for hundreds of companies. The smoothest projects almost always started small.
+> Over the last ten years, I built a CRM company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies, and the smoothest projects almost always started small.
 
 ## 0:12 Promise
 
 **ON SCREEN:** title card: **Keep HubSpot, Replace One Thing First**, then four tags: ✓ **Why start small** · ✓ **Pick the one thing** · ✓ **Three warnings** · ✓ **When to take the next step**
 
 **YUSUF:**
-> So keep HubSpot, and replace one thing first. I'll show you why that works. Then how to pick it. Then three warnings. And then when to take the next piece.
+> So keep HubSpot, and replace one thing first. I'll show you why that works and how to pick it. Then I'll give you three warnings, and show you when to take the next piece.
 
 ## 0:26 Who it's for
 
 **ON SCREEN:** one tag: **One part of HubSpot drives you mad**
 
 **YUSUF:**
-> Maybe most of HubSpot is fine, but one part is holding your business back. And a full switch feels too risky. Then this video is for you.
+> Maybe most of HubSpot is fine, but one part is holding your business back, and a full switch feels too risky. Then this video is for you.
 
 ## 0:48 Plan
 
@@ -75,7 +75,7 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 4. The next piece
 
 **YUSUF:**
-> It's four steps. Wait for the third warning, because that's the one that quietly kills most of these projects, and it has nothing to do with code.
+> It's four steps. And wait for the third warning, because that's the one that quietly kills most of these projects, and it's got nothing to do with code.
 
 ---
 
@@ -84,17 +84,17 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** step tracker: **Step 1 of 4: Why start small**. The HubSpot box, whole. Then a big arrow from it to an empty box: **Big switch** with tags **All data at once** · **Everyone retrained** · **One go-live day**
 
 **YUSUF:**
-> So why start small? With a big switch, you move all your data at once. You retrain everyone. And you bet the whole sales team on one go-live day. Sometimes that's right. But it's the riskiest way to do it.
+> So why start small? With a big switch, you move all your data at once, and you retrain everyone. And then you bet the whole sales team on one go-live day. Sometimes that's right, but it's the riskiest way to do it.
 
 **ON SCREEN:** tag: **Told to me by a sales leader at a large software company**
 
 **YUSUF:**
-> I spoke to a sales leader at a large software company. They'd moved between two CRM setups, and he called it very painful. His advice was to start low risk. Keep HubSpot, replace one function, then the next.
+> I spoke to a sales leader at a large software company. They'd moved between two CRM setups, and he called it very painful. So his advice was to start low risk. Keep HubSpot, replace one function, then the next.
 
 **ON SCREEN:** the HubSpot box, one piece pulled out into a small box beside it, a line between them: **Still connected**
 
 **YUSUF:**
-> So HubSpot stays. Your contacts and deals stay too. You take out the one piece that hurts. You build it around how you work, and you connect it back. If it fails, you've lost very little.
+> So HubSpot stays, and your contacts and deals stay too. You just take out the one piece that hurts. You build it around how you work, and you connect it back. And if it fails, you've lost very little.
 
 ## 2:20 Step 2: Pick the one thing
 
@@ -108,26 +108,26 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 > I think there are four good first pieces.
 
 **YUSUF:**
-> Number one is your calls. Every call gets recorded and summarised onto the deal. So your reps stop typing notes. That's where the sales leader said he'd start.
+> Number one is your calls. Every call gets recorded and summarised onto the deal, so your reps stop typing notes. That's actually where the sales leader said he'd start.
 
 **YUSUF:**
-> Number two is quotes. If your pricing has rules HubSpot can't follow, you get a quote builder that knows them.
+> Secondly, there's quotes. If your pricing has rules HubSpot can't follow, you get a quote builder that knows them.
 
 **YUSUF:**
-> Number three is changes. You ask for a new field, and an assistant adds it. No ticket to a consultant, no week of waiting.
+> Number three is changes. You ask for a new field, and an assistant just adds it. So there's no ticket to a consultant, and no week of waiting.
 
 **YUSUF:**
-> And number four is reporting. One report that finally adds up, built on your own definitions.
+> And number four is reporting. You get one report that finally adds up, built on your own definitions.
 
 **ON SCREEN:** tag: **Told to me by a web agency owner**. Two tags: **Own recruiting system: 6 days** · **Replaced Pipedrive: about a day**
 
 **YUSUF:**
-> And it doesn't have to take months. A web agency owner told me his team built their own recruiting system in six days. And they replaced their Pipedrive in about a day. They made a prototype first. Then developers built it properly and checked the code. His advice was to ask customers about their problems, not your ideas. I'd say the same goes for your team.
+> And it doesn't have to take months. A web agency owner told me his team built their own recruiting system in six days. And they replaced their Pipedrive in about a day. They made a prototype first, and then developers built it properly and checked the code. His advice was to ask customers about their problems, not your ideas. I'd say the same goes for your team.
 
 **ON SCREEN:** a three-column card: **Where work piles up · Lost deals · Who feels it**. Then: **DO THIS TODAY: ask your team which step everything else waits on**
 
 **YUSUF:**
-> So ask your team one question this week, in these words.
+> So ask your team one question this week, and use these exact words.
 
 **ON SCREEN:** **SAY THIS** card: *"Which step does everything else wait on, and what does that cost us in lost deals?"*
 
@@ -161,17 +161,17 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** tag: **Who fixes it at 4pm on a Friday?**
 
 **YUSUF:**
-> Number two is maintenance. HubSpot changes. Your process changes. So someone has to keep the piece working next year, not just on launch day. If that's a developer who built it and moved on, you've just traded one problem for another.
+> Secondly, there's maintenance. HubSpot changes, and your process changes too. So someone has to keep the piece working next year, not just on launch day. And if that's a developer who built it and moved on, you've just traded one problem for another.
 
 **ON SCREEN:** an approval stamp: **IT · Security · Procurement**. Tag: **Simple gets approved**
 
 **YUSUF:**
-> And number three is the one that quietly kills projects. IT approval. In a bigger company, any new system needs a security review. Someone has to sign the contract. He told me it has to be simple, or it never gets through. So keep the first piece small enough to explain on one page.
+> And number three is the one that quietly kills projects. It's IT approval. In a bigger company, any new system needs a security review, and someone has to sign the contract. He told me it has to be simple, or it never gets through. So keep the first piece small enough to explain on one page.
 
 **ON SCREEN:** one-page card: **What it does · What data it touches · Where data lives · Who maintains it · How to switch it off**. Then: **DO THIS BEFORE YOU BUILD: write the one-page brief**
 
 **YUSUF:**
-> I mean actually write that page, before you build. Five short answers, they're on screen. If you can't fill them in, you're not ready.
+> And I mean actually write that page, before you build. It's five short answers, and they're on screen. If you can't fill them in, you're not ready.
 
 **ON SCREEN:** **SAY THIS** card (email to IT): *"We want to replace one part of HubSpot with a small tool connected to it. The attached page says what it does, what data it touches, where that data lives, who maintains it and how we'd switch it off. What would you need to approve it?"*
 
@@ -183,12 +183,12 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** step tracker: **Step 4 of 4: The next piece**. The HubSpot box with one piece out, ticked. A second piece starts to glow.
 
 **YUSUF:**
-> Give the first piece sixty days. Then ask yourself three things. Has the team stopped complaining? Do the numbers match on both sides? And did anyone have to fix the sync by hand?
+> So give the first piece sixty days. Then ask yourself three things. Has the team stopped complaining? Do the numbers match on both sides? And did anyone have to fix the sync by hand?
 
 **ON SCREEN:** three ticks: **Team uses it** · **Numbers match** · **No manual fixes**. Then: **DO THIS AFTER 60 DAYS: check all three before the next piece**
 
 **YUSUF:**
-> If all three are good, take the next piece. If not, fix that first. At some point, most of the work may happen outside HubSpot. What's left is just a contact list. That's the moment to decide if you still need it. Not before.
+> If all three are good, take the next piece. If not, fix that first. And at some point, most of the work may happen outside HubSpot, and what's left is just a contact list. That's the moment to decide if you still need it, and not before.
 
 **ON SCREEN:** lower-third tag: **Comment: which part of HubSpot would you replace first?**
 
@@ -200,21 +200,23 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** the four steps, ticked.
 
 **YUSUF:**
-> So don't bet everything on one big switch. Pick the piece that hurts the most. Sort out the three warnings before you build. And only take the next piece when the first one runs on its own.
+> So basically, don't bet everything on one big switch. Pick the piece that hurts the most, and sort out the three warnings before you build. And only take the next piece when the first one runs on its own.
 
 ## 8:30 What we do
 
 **ON SCREEN:** tags: **Start with one piece** · **You own the code** · **No long contract** · **For: 10–50 people** · smaller: **No pain? Change nothing**
 
 **YUSUF:**
-> That's how we work at CRM From Within. We can start with the one piece that hurts. We connect it to your HubSpot and look after it. The code is yours. No long contract. It's for teams of ten to fifty. And if nothing in HubSpot hurts, change nothing.
+> That's how we work at my new company, CRM From Within. We can start with the one piece that hurts. We connect it to your HubSpot and look after it. The code is yours, and there's no long contract. It's for teams of ten to fifty people. And if nothing in HubSpot hurts, change nothing.
 
 ## 8:55 Close
 
 **ON SCREEN:** checklist: **☐ Ask your team what hurts ☐ Write the one-page brief ☐ 60-day check**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So ask your team, write the one page, and check after sixty days. That's it.
+> So ask your team, write the one page, and then check after sixty days. That's it.
+>
+> If you'd rather have someone check your one page, book the free twenty-minute CRM fit check. The link's below.
 
 **ON SCREEN:** end screen: video 10 ("Ten Sales Tools, One Bill") + video 8 ("How Gong Works, and Why Sales Teams Love It") + "Free CRM fit check" button.
 

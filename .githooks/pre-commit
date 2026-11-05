@@ -1,0 +1,5 @@
+#!/bin/sh
+# When a script's spoken lines change, untick it and update the README column.
+if git diff --cached --name-only | grep -q '^video-scripts/.*/yusuf_lines\.md$'; then
+  python3 video-scripts/humanize.py sync && git add video-scripts/README.md video-scripts/humanize_status.json
+fi

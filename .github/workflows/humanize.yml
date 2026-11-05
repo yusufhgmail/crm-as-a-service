@@ -1,0 +1,13 @@
+name: Humanize script prompt
+
+on:
+  push:
+    branches: [main]
+    paths: ["video-scripts/**"]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 video-scripts/humanize.py check

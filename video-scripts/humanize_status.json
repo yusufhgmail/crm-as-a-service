@@ -1,0 +1,227 @@
+{
+  "exempt": {
+    "01_overpay_hubspot": "Recorded before this rule",
+    "02_before_hubspot_renewal": "Recorded before this rule",
+    "03_real_cost_hubspot_20_person_team": "Recorded before this rule",
+    "04_hubspot_tier_jump": "Discarded",
+    "05_10_reasons_crm_buyers": "Recorded before this rule"
+  },
+  "ticked": {
+    "06_map_your_real_process": {
+      "sha": "d55a1cbb3f86ab88",
+      "scores": [
+        4.0,
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "07_salesforce_15_person_company": {
+      "sha": "fb94038e79649096",
+      "scores": [
+        5.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "08_how_gong_works": {
+      "sha": "0659440600210437",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "09_crm_software_is_dead": {
+      "sha": "60c6a6c02860c87a",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "10_ten_sales_tools_one_bill": {
+      "sha": "f22c7fcbbb8cb8c0",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "11_build_buy_or_own_crm": {
+      "sha": "43ad56faed7d44ad",
+      "scores": [
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "13_crm_planning_prompt": {
+      "sha": "f68f225599391f35",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "15_team_doesnt_use_crm": {
+      "sha": "d403cee55987a1cc",
+      "scores": [
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "16_keep_hubspot_replace_one_thing": {
+      "sha": "746af93b152e0b87",
+      "scores": [
+        5.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "17_crm_integrations_service_company": {
+      "sha": "1ae513e9cf6b5814",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "19_leave_hubspot_without_losing_data": {
+      "sha": "6ed7a19c7c42a659",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "20_before_salesforce_renewal": {
+      "sha": "2ff59df2d6c164c6",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "22_switched_crm_and_regret": {
+      "sha": "bb890ca39320bb9f",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "23_leaving_your_crm_dont_move_the_mess": {
+      "sha": "3793c432bcee3c31",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "24_crm_rescue_roofer_hubspot": {
+      "sha": "ac794995bdb8fd65",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "25_replaced_hubspot_build_story": {
+      "sha": "3f85f3d946edf91b",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "26_installer_quote_to_invoice_build": {
+      "sha": "c3ba8840789a4897",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "27_crm_bill_teardown_1": {
+      "sha": "19b9716fc3d2925f",
+      "scores": [
+        6.0,
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "18_keep_your_own_crm_running": {
+      "sha": "12c77d39094ddd3c",
+      "scores": [
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "12_salesforce_admin_left": {
+      "sha": "a1ee8e1ff11cc519",
+      "scores": [
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "14_your_crm_is_your_business": {
+      "sha": "0faeecfb736b01d7",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "21_hubspot_support_stops_answering": {
+      "sha": "2be0aa8e98d683b3",
+      "scores": [
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    }
+  },
+  "read_exempt": {
+    "01_overpay_hubspot": "Recorded before this rule",
+    "02_before_hubspot_renewal": "Recorded before this rule",
+    "03_real_cost_hubspot_20_person_team": "Recorded before this rule",
+    "04_hubspot_tier_jump": "Discarded",
+    "05_10_reasons_crm_buyers": "Recorded before this rule",
+    "06_map_your_real_process": "Recorded before this rule",
+    "07_salesforce_15_person_company": "Recorded before this rule",
+    "08_how_gong_works": "Recorded before this rule"
+  },
+  "read_by_human": {}
+}
