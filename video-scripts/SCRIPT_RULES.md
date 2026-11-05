@@ -42,6 +42,16 @@ Every video rests on one study, kept in David's private repo. Check every number
 
 **A human reads it before Yusuf records it.** David or Yusuf reads every script first, so obviously bad lines get fixed before filming. The last column of the recordings list shows who read it. Any edit to the spoken lines clears that, so run the humanize script prompt first and read last.
 
+**Proof has to help the viewer.** That comes first. When a script cites Yusuf's own work, use it for what the viewer should do next, not as a boast.
+
+- Not like this: "I predicted all of this back in June 2023."
+- But like this: "I wrote about this in June 2023. My point was that the costs don't disappear, they just move. So the big vendors keep setting the price. That means you shouldn't wait for your CRM bill to come down on its own."
+
+**Check old-company claims against the record.** Yusuf can't remember every detail, so read the original note or sheet and say only what it shows. A few extreme customers are not the typical one.
+
+- Not like this: "I've seen a CRM need twenty-six to forty hours of support a month."
+- But like this: "At my old company, the typical customer took about three hours of setup and support a month. But a few took twenty-six to forty."
+
 **Show the bottleneck, not the admin.** Pick examples where the problem blocks growth: lost deals, lost revenue, work the company can't take on. An annoying extra step isn't worth a viewer's time. Say what fixing it unlocked, with the real numbers if the source has them.
 
 - Not like this: "A customer upgrading happens six to eight hundred times a year. And they work that out in Excel."
