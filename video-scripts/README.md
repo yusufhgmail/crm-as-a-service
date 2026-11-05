@@ -18,6 +18,7 @@ Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folder
 | 10 | [Ten Sales Tools, One Bill: What 10 Reps Really Pay a Year](10_ten_sales_tools_one_bill/script.md) | [Yusuf's lines](10_ten_sales_tools_one_bill/yusuf_lines.md) |
 | 11 | [Build, Rent or Own Your CRM: How to Choose](11_build_buy_or_own_crm/script.md) | [Yusuf's lines](11_build_buy_or_own_crm/yusuf_lines.md) |
 | 12 | [What to Do When Your Salesforce Admin Leaves (MAYBE: Yusuf, keep or drop?)](12_salesforce_admin_left/script.md) | [Yusuf's lines](12_salesforce_admin_left/yusuf_lines.md) |
+| 13 | [Use This Prompt to Plan the CRM You Need](13_crm_planning_prompt/script.md) | [Yusuf's lines](13_crm_planning_prompt/yusuf_lines.md) |
 | 14 | [Your CRM Is Your Business: Don't Rent It](14_your_crm_is_your_business/script.md) | [Yusuf's lines](14_your_crm_is_your_business/yusuf_lines.md) |
 | 15 | [3 Reasons Your Team Doesn't Use the CRM, and the Fix](15_team_doesnt_use_crm/script.md) | [Yusuf's lines](15_team_doesnt_use_crm/yusuf_lines.md) |
 
