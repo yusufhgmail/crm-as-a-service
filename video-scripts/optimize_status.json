@@ -108,7 +108,7 @@
       "date": "2026-11-05"
     },
     "12_salesforce_admin_left": {
-      "sha": "b01109e3e4d6c708",
+      "sha": "aefc51e37e61663f",
       "scores": [
         8.0,
         8.0
@@ -140,7 +140,7 @@
       "date": "2026-11-05"
     },
     "16_keep_hubspot_replace_one_thing": {
-      "sha": "396bcdb7f75efed5",
+      "sha": "4be154eb816f7282",
       "scores": [
         8.0,
         8.0
@@ -180,7 +180,7 @@
       "date": "2026-11-05"
     },
     "21_hubspot_support_stops_answering": {
-      "sha": "1d655ce1febc5910",
+      "sha": "d94ef4a1989df02a",
       "scores": [
         8.0,
         8.0
@@ -188,7 +188,7 @@
       "date": "2026-11-05"
     },
     "22_switched_crm_and_regret": {
-      "sha": "aaa56264243099ed",
+      "sha": "d526da7782686e83",
       "scores": [
         8.0,
         8.0
@@ -198,7 +198,7 @@
   },
   "optimized": {
     "10_ten_sales_tools_one_bill": {
-      "sha": "69823dc62bb69ca6",
+      "sha": "82661ce97aae6791",
       "rounds": [
         [
           6.0,

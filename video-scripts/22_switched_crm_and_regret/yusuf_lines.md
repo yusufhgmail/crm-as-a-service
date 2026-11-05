@@ -6,7 +6,7 @@
 
 I'll admit something awkward for a guy who builds CRMs. A new CRM very often doesn't fix the thing you switched to get away from. Here's a public example. One CEO left a CRM one month after signing, and they still have to pay for the other eleven.
 
-Over the last ten years, I built a CRM SaaS company, mostly for B2B, and I sold it a few years ago. And now I've started a new company, CRM From Within. So in this video, I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
+Over the last ten years, I built a CRM SaaS company, mostly for B2B, and I sold it in 2025. And now I've started a new company, CRM From Within. So in this video, I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
 
 ## Who it's for
 

@@ -8,7 +8,7 @@ Here's an example from my old company. One customer went through a merger, and t
 
 And the thing they used that CRM for most was webinars. After that, they couldn't run a single one without our help.
 
-Over the years, I built a CRM SaaS company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies. And about one in ten of our cancellations came down to a key person changing.
+Over the years, I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. And about one in ten of our cancellations came down to a key person changing.
 
 So in this video I'll show you what to do when your Salesforce admin leaves. It's five steps, and you do them in order.
 

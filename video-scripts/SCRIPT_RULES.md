@@ -89,7 +89,7 @@ The point after a story has to be what happened in that story.
 
 # Facts about Yusuf
 
-**Never name FunnelBud.** Call it his old CRM SaaS company that he sold, in spoken lines, on-screen tags, descriptions and social posts. It was a SaaS company, not an agency. He says: "I built a CRM SaaS company, and I sold it." Titles say "Ex-SaaS Founder", never "Ex-CRM Agency Owner". Videos already recorded stay as they are.
+**Never name FunnelBud.** Call it his old CRM SaaS company that he sold, in spoken lines, on-screen tags, descriptions and social posts. It was a SaaS company, not an agency. He says: "I built a CRM SaaS company, and I sold it." He sold it in July 2025, so say "in 2025", never "a few years ago". Titles say "Ex-SaaS Founder", never "Ex-CRM Agency Owner". Videos already recorded stay as they are.
 
 **Keep his old company and the new work apart.** His old company is his credibility. The study, the videos and what we sell are his new company, CRM From Within. When the two come close together, say which is which.
 

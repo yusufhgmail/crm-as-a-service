@@ -50,7 +50,7 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF:**
-> Over the last ten years, I built a CRM SaaS company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies, and the smoothest projects almost always started small.
+> Over the last ten years, I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and the smoothest projects almost always started small.
 
 ## 0:12 Promise
 

@@ -63,7 +63,7 @@ Pair title 1 with thumbnail 1 first; test 3 with 2, 4 with 5, and 5 with 6.
 **ON SCREEN:** tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF:**
-> I know that promise from the inside, because I used to make it. I built a CRM SaaS company, and we called it all-in-one too. I sold it a few years ago. And me and my team have untangled a lot of these setups.
+> I know that promise from the inside, because I used to make it. I built a CRM SaaS company, and we called it all-in-one too. I sold it in 2025. And me and my team have untangled a lot of these setups.
 
 ## 1:05 Who it's for
 

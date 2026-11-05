@@ -12,7 +12,7 @@ So let's add up what ten tools cost ten reps a year, and then I'll show you what
 
 ## Proof
 
-I know that promise from the inside, because I used to make it. I built a CRM SaaS company, and we called it all-in-one too. I sold it a few years ago. And me and my team have untangled a lot of these setups.
+I know that promise from the inside, because I used to make it. I built a CRM SaaS company, and we called it all-in-one too. I sold it in 2025. And me and my team have untangled a lot of these setups.
 
 ## Who it's for
 

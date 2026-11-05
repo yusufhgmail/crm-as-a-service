@@ -8,7 +8,7 @@ What if you didn't have to leave HubSpot to stop fighting it? Because most compa
 
 ## Proof
 
-Over the last ten years, I built a CRM SaaS company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies, and the smoothest projects almost always started small.
+Over the last ten years, I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and the smoothest projects almost always started small.
 
 ## Promise
 
