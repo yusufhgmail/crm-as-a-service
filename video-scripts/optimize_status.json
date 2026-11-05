@@ -18,7 +18,8 @@
     "08_how_gong_works": "Recorded before this rule",
     "09_crm_software_is_dead": "Recorded",
     "12_salesforce_admin_left": "Discarded",
-    "10_ten_sales_tools_one_bill": "Recorded"
+    "10_ten_sales_tools_one_bill": "Recorded",
+    "11_build_buy_or_own_crm": "Recorded"
   },
   "read_by_human": {},
   "humanized": {
@@ -176,47 +177,6 @@
         43.0
       ],
       "best": 43.0,
-      "date": "2026-11-05"
-    },
-    "13_crm_planning_prompt": {
-      "sha": "8c9b2d80fb6f1045",
-      "rounds": [
-        [
-          5.0,
-          7.0,
-          9.0,
-          5.0,
-          7.0
-        ],
-        [
-          6.0,
-          7.0,
-          9.0,
-          7.0,
-          8.0
-        ],
-        [
-          7.0,
-          7.0,
-          9.0,
-          7.0,
-          8.0
-        ],
-        [
-          7.0,
-          7.0,
-          9.0,
-          7.0,
-          8.0
-        ]
-      ],
-      "totals": [
-        38.0,
-        43.0,
-        45.0,
-        45.0
-      ],
-      "best": 45.0,
       "date": "2026-11-05"
     },
     "14_your_crm_is_your_business": {
