@@ -4,7 +4,7 @@
 
 ## Proof
 
-When did HubSpot support last get back to you the same day? I know that queue from the other side. Over the last ten years, I built a CRM company that set up CRMs for hundreds of customers. And I sold it a few years ago.
+When did HubSpot support last get back to you the same day? I know that queue from the other side. Over the years, I built a CRM SaaS company that set up CRMs for hundreds of customers. And I sold it a few years ago.
 
 So in this video, I'll show you what to do when HubSpot support stops answering. It's five steps, and you can do all of them this week.
 

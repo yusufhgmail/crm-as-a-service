@@ -60,7 +60,7 @@ Step three, write down what you have. Whatever your admin knew usually wasn't wr
 
 So start in Object Manager. An object is just a kind of record, like Accounts, or something custom like "Site Inspections". Write down every custom one and what it's for. Then note which fields people actually fill in.
 
-Next, look at your automations. Those are the things that happen on their own. Say a deal is won. A project gets created, and the site team gets an email. There are three places to look, and they're on screen. Salesforce stopped supporting two of them. That was at the end of 2025. Yours may still run, but Salesforce wants them moved.
+Next, look at your automations. Those are the things that happen on their own. Say a deal is won. A project gets created, and the site team gets an email. There are three places to look, and they're on screen. Salesforce stopped supporting two of them at the end of 2025. Yours may still run, but Salesforce wants them moved.
 
 There's also a page that shows the last six months of changes, so you can see who did what, and when.
 
@@ -114,7 +114,7 @@ And honestly, the system is secondary. The number one thing is, do you know your
 
 ## What we do
 
-That's why I started CRM From Within. We give you a CRM that doesn't belong to whoever set it up. We build it around how you sell and deliver. We bring your Salesforce data across, and we keep it running. You own every line of the code, and you're not tied to a long contract. It's for teams of ten to fifty people that a standard CRM keeps bending out of shape.
+That's why I started CRM From Within. We give you a CRM that doesn't belong to whoever set it up. We build it around how you sell and deliver. We bring your Salesforce data across, and we keep it running. You own every line of the code, and you're not tied to a long contract. It's for teams of ten to fifty people where a standard CRM just doesn't fit.
 
 ## Close
 

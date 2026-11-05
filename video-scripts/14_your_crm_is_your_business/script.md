@@ -96,12 +96,12 @@ Pair title 1 with thumbnail 3 first; test 2 with 2, and 4 with 1.
 **ON SCREEN:** tag: **My old company rented its platform too** · then: **Our notes: "the no. 1 cause of client churn"**
 
 **YUSUF:**
-> And I know this from the inside. My old company actually rented the platform under our own product. It could follow single contacts, but not whole accounts, and we couldn't change that. In our own notes, that was the number one reason customers left us. So renting cost us customers.
+> And I know this from the inside. My old company actually rented the platform under our own product. It could track single contacts, but not whole accounts, and we couldn't change that. In our own notes, that was the number one reason customers left us. So renting cost us customers.
 
 **ON SCREEN:** rent vs own board, row **Change it**: Rented **Ask, wait, or work around it** · Owned **Change it when you need it**
 
 **YUSUF:**
-> So basically, the workarounds pile up. You end up with a spreadsheet next to the CRM and a field called "other". And there's that one consultant who knows why it's set up that way. So the real price of renting isn't actually the bill. It's all that bending.
+> So basically, the workarounds pile up. You end up with a spreadsheet next to the CRM and a field called "other". And there's that one consultant who knows why it's set up that way. So the real price of renting isn't actually the bill. It's everything you end up doing to work around it.
 
 **ON SCREEN:** tag: **"You own the code" = 3 things**: **Contract: code + rights are yours** · **Repo in your own account** · **Docs another developer can follow**
 
@@ -230,9 +230,9 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **YUSUF:**
 > So back to my friend. I asked him why our idea appealed to him, and it was never about the code. His Salesforce consultant had hard-coded everything, so every change had to be done by hand, and the data was wrong. What he wanted was a CRM made for his company, one that fits them, so they don't have to fit the CRM.
 >
-> And he's right that owning code isn't the point. Nobody should pay for ownership as a trophy. If your rented CRM does what your team needs, and the price is fair, then just keep renting.
+> And he's right that owning code isn't the point. Don't pay for ownership just to say you own it. If your rented CRM does what your team needs, and the price is fair, then just keep renting.
 >
-> So here's the question. Is the way you sell and market what sets you apart from your competitors? If it is, that's when you want your own CRM. On a rented one, you run on the process the vendor decided on, the same as everyone else who uses it. In your own, your style goes in, and your process, and which deals you take and which you turn down. That becomes your company's personality, and a competitor can't just rent it. But if it won't change your business, it doesn't really matter.
+> So here's the question. Is the way you sell and market what sets you apart from your competitors? If it is, that's when you want your own CRM. On a rented one, you run on the process the vendor decided on, the same as everyone else who uses it. In your own, your style goes in, your process, which deals you take and which you turn down. That becomes your company's personality, and a competitor can't just rent it. But if owning wouldn't change how your business runs, it doesn't really matter.
 
 
 ## 9:00 What we do
@@ -240,14 +240,14 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **ON SCREEN:** tags, one per phrase: **Built around how you sell and deliver** · **Your data, moved for you** · **You own the code** · **Leave any time, take it all**
 
 **YUSUF:**
-> And that's why I started my new company, CRM From Within. We build a CRM around how you sell and deliver, in your own accounts. So a change is just a conversation, not a place in a queue. We move your data, and we keep it running. You own the code, and there's no long contract to sit out. And if you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
+> And that's why I started my new company, CRM From Within. We build a CRM around how you sell and deliver, in your own accounts. So when you want a change, you just talk to us, and you don't wait in a queue. We move your data, and we keep it running. You own the code, and there's no long contract to sit out. And if you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
 
 ## 9:30 Close
 
 **ON SCREEN:** checklist building line by line: **☐ Last 3 changes: done? ☐ Full copy, timed ☐ Every account + owner ☐ One-page exit plan**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So you've got four things to check, and they're on screen. If they show you're renting the way your business runs, the fit check link is below.
+> So you've got four things to check, and they're on screen. If they show you don't really control how your business runs, the fit check link is below.
 >
 > In the next video, I'll talk about why people are calling CRM software dead, and what that means for yours.
 

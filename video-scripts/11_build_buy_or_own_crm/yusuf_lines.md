@@ -36,7 +36,7 @@ So you pay rent on the software, and then you pay again every time you want to c
 
 The other lock-in is your history. Contacts are easy to move. But years of notes, files, activities and custom records, that's where companies get stuck. And they only find out when they try to leave.
 
-And here's when renting stops being enough. At my old company, one customer needed its billing system connected, and product data on every customer. Our CRM couldn't hold that, so they left for another rented CRM. If your work doesn't fit the screens, you can switch to a new logo and just hit the same wall.
+And here's where renting runs out. At my old company, one customer needed its billing system connected, and product data on every customer. Our CRM couldn't hold that, so they moved to another rented CRM that could. And that's fine, when someone already sells what you need. But if your work doesn't fit anybody's screens, you can switch to a new logo and just hit the same wall.
 
 Find your renewal date, and run a full export this week. If your history doesn't come out, you don't really have a choice yet.
 

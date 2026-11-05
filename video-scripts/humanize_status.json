@@ -58,16 +58,7 @@
       "date": "2026-11-05"
     },
     "11_build_buy_or_own_crm": {
-      "sha": "5f4c0aaf9d39faa0",
-      "scores": [
-        7.0,
-        8.0,
-        8.0
-      ],
-      "date": "2026-11-05"
-    },
-    "12_salesforce_admin_left": {
-      "sha": "fb7c7c2081ee3c1d",
+      "sha": "43ad56faed7d44ad",
       "scores": [
         8.0,
         8.0
@@ -126,14 +117,6 @@
       "scores": [
         6.0,
         7.0,
-        8.0,
-        8.0
-      ],
-      "date": "2026-11-05"
-    },
-    "21_hubspot_support_stops_answering": {
-      "sha": "c01c2626f185327b",
-      "scores": [
         8.0,
         8.0
       ],
@@ -204,8 +187,25 @@
       ],
       "date": "2026-11-05"
     },
+    "12_salesforce_admin_left": {
+      "sha": "a1ee8e1ff11cc519",
+      "scores": [
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
     "14_your_crm_is_your_business": {
-      "sha": "90b9bbcbb439e4a0",
+      "sha": "0faeecfb736b01d7",
+      "scores": [
+        7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "21_hubspot_support_stops_answering": {
+      "sha": "2be0aa8e98d683b3",
       "scores": [
         8.0,
         8.0

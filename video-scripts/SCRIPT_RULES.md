@@ -52,6 +52,11 @@ Every video rests on one study, kept in David's private repo. Check every number
 - Not like this: "I've seen a CRM need twenty-six to forty hours of support a month."
 - But like this: "At my old company, the typical customer took about three hours of setup and support a month. But a few took twenty-six to forty."
 
+The point after a story has to be what happened in that story.
+
+- Not like this: "They left for another rented CRM. You can switch to a new logo and just hit the same wall." (The new CRM worked for them.)
+- But like this: "They moved to another rented CRM that could. And that's fine, when someone already sells what you need. But if your work doesn't fit anybody's screens, you can switch to a new logo and just hit the same wall."
+
 **Show the bottleneck, not the admin.** Pick examples where the problem blocks growth: lost deals, lost revenue, work the company can't take on. An annoying extra step isn't worth a viewer's time. Say what fixing it unlocked, with the real numbers if the source has them.
 
 - Not like this: "A customer upgrading happens six to eight hundred times a year. And they work that out in Excel."
