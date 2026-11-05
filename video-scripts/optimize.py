@@ -98,7 +98,7 @@ def sync():
                 continue
             cells = line.strip().strip("|").split(" | ")
             current = state(db, name)
-            mark = {"optimized": f"✅ {db['optimized'].get(name, {}).get('best')}/50", "old check": "old check", "exempt": "n/a", "not run": "❌"}[current]
+            mark = {"optimized": f"✅ {db['optimized'].get(name, {}).get('best', 0):g}/50", "old check": "old check", "exempt": "n/a", "not run": "❌"}[current]
             reader = {"read": db["read_by_human"].get(name, {}).get("by"), "exempt": "n/a", "not read": "❌"}[read_state(db, name)]
             lines[i] = "| " + " | ".join([c.strip() for c in cells[:3]] + [mark, reader]) + " |"
     README.write_text("\n".join(lines))
