@@ -21,6 +21,7 @@ Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folder
 | 13 | [Use This Prompt to Plan the CRM You Need](13_crm_planning_prompt/script.md) | [Yusuf's lines](13_crm_planning_prompt/yusuf_lines.md) |
 | 14 | [Your CRM Is Your Business: Don't Rent It](14_your_crm_is_your_business/script.md) | [Yusuf's lines](14_your_crm_is_your_business/yusuf_lines.md) |
 | 15 | [3 Reasons Your Team Doesn't Use the CRM, and the Fix](15_team_doesnt_use_crm/script.md) | [Yusuf's lines](15_team_doesnt_use_crm/yusuf_lines.md) |
+| 16 | [Keep HubSpot, Replace One Thing First](16_keep_hubspot_replace_one_thing/script.md) | [Yusuf's lines](16_keep_hubspot_replace_one_thing/yusuf_lines.md) |
 
 [Content plan](../docs/plans/2026-10-25-crm-agency-plan.md#content-plan) · [Project overview](../README.md)
 
