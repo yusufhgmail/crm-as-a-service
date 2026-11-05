@@ -58,7 +58,7 @@ export default function CustomCrmCostPage() {
 
       <section>
         <h2>The cost that is not on any invoice</h2>
-        <p>Whichever route you take, the expensive failure is the same: the team stops using the system. A CRM that does not match the work gets a parallel spreadsheet within months, and then the licence or the build was wasted. In Yusuf Young’s years running FunnelBud, with more than 450 businesses, that was the way CRM projects failed, far more often than on price or features. So the honest cost question is not “what does it cost to build” but “what does it cost to keep it fitting”, and that is the part the monthly service pays for.</p>
+        <p>Whichever route you take, the expensive failure is the same: the team stops using the system. A CRM that does not match the work gets a parallel spreadsheet within months, and then the licence or the build was wasted. In Yusuf Young’s years running a CRM company that served more than 450 businesses, that was the way CRM projects failed, far more often than on price or features. So the honest cost question is not “what does it cost to build” but “what does it cost to keep it fitting”, and that is the part the monthly service pays for.</p>
       </section>
 
       <section>

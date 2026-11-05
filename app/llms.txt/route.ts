@@ -19,7 +19,7 @@ const body = `# CRM From Within
 
 ## Who is behind it
 
-- Yusuf Young, founder. He founded FunnelBud in 2015, which helped more than 450 Swedish businesses with CRM, sales and marketing automation before he exited it.
+- Yusuf Young, founder. He founded a CRM company in 2015 that helped more than 450 businesses with CRM, sales and marketing automation before he exited it.
 
 ## Questions
 

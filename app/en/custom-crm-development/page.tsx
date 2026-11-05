@@ -50,7 +50,7 @@ export default function CustomCrmDevelopmentPage() {
 
       <section>
         <h2>Who builds it</h2>
-        <p>CRM From Within is run by Yusuf Young, who founded FunnelBud in 2015 and helped more than 450 Swedish businesses with CRM, sales and marketing automation before exiting it. The pattern behind this service comes from those years: the CRM projects that failed did not fail on features. They failed because the system did not match the work, and the people who were supposed to maintain it had other jobs.</p>
+        <p>CRM From Within is run by Yusuf Young, who founded a CRM company in 2015 and helped more than 450 businesses with CRM, sales and marketing automation before exiting it. The pattern behind this service comes from those years: the CRM projects that failed did not fail on features. They failed because the system did not match the work, and the people who were supposed to maintain it had other jobs.</p>
       </section>
     </ArticleLayout>
   );

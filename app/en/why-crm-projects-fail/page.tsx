@@ -10,7 +10,7 @@ export default function WhyCrmProjectsFailPage() {
     <ArticleLayout article={article}>
       <section>
         <h2>Where this comes from</h2>
-        <p>Yusuf Young founded FunnelBud in 2015 and, before exiting it, helped more than 450 Swedish businesses with CRM, sales and marketing automation. That is a lot of CRM launches, most of them at companies with 10 to 50 people, and enough failures to see the pattern. This guide is that pattern. It is not a survey; it is what we saw, written down so you can check your own project against it.</p>
+        <p>Yusuf Young founded a CRM company in 2015 and, before exiting it, helped more than 450 businesses with CRM, sales and marketing automation. That is a lot of CRM launches, most of them at companies with 10 to 50 people, and enough failures to see the pattern. This guide is that pattern. It is not a survey; it is what we saw, written down so you can check your own project against it.</p>
       </section>
 
       <section>
