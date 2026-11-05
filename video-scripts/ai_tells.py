@@ -23,7 +23,7 @@ TELLS = {
     "fake analogy": r"\bthink of it\b|\bit's like (a|an)\b",
 }
 TRIAD = r"\b[\w'-]+(?: [\w'-]+){0,3}, [\w'-]+(?: [\w'-]+){0,3},? (?:and|or) [\w'-]+"
-OPENERS = ("So", "And", "But", "Now", "Here's", "That's")
+OPENERS = ("Now", "Here's", "That's")  # "So", "And" and "But" carry the reasoning, so they don't count
 
 
 def spoken(path):

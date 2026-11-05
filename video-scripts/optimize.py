@@ -3,14 +3,14 @@
 
 Run from anywhere:
   python3 video-scripts/optimize.py status          show every script
-  python3 video-scripts/optimize.py tick NAME "7,6,7,5,6 8,7,8,7,7 8,7,8,6,7" [FILE]
-                                                    record the finished rounds: one human,interest,value,belief,perword group per round (FILE: a draft's yusuf_lines.md)
+  python3 video-scripts/optimize.py tick NAME "7,6,6,7,5,6 8,8,7,8,7,7 8,8,7,8,6,7" [FILE]
+                                                    record the finished rounds: one human,easy,interest,value,belief,perword group per round (FILE: a draft's yusuf_lines.md)
   python3 video-scripts/optimize.py read NAME PERSON    record that PERSON read and approved the script (only when they say so)
   python3 video-scripts/optimize.py sync            clear marks on edited scripts and update the README columns
   python3 video-scripts/optimize.py check           fail if any script has had neither the Optimized process nor the old human check
   python3 video-scripts/optimize.py nag [--hook]    print the loud warning, if there is anything to warn about
 
-The total is 2 x human + interest + value + belief + value per word, out of 60. Every mark holds a fingerprint of yusuf_lines.md, so any edit to the spoken lines clears it.
+The total is 2 x human + 2 x easy to understand + interest + value + belief + value per word, out of 80. Marks from before 5 Nov 2026 used five scores, out of 60, and show as "old score" until the script is rescored. Every mark holds a fingerprint of yusuf_lines.md, so any edit to the spoken lines clears it.
 """
 import datetime
 import hashlib
@@ -57,8 +57,17 @@ def state(db, name):
 
 
 def total(scores):
-    human, interest, value, belief, per_word = scores
-    return 2 * human + interest + value + belief + per_word
+    if len(scores) == 5:  # before the easy-to-understand score
+        human, interest, value, belief, per_word = scores
+        return 2 * human + interest + value + belief + per_word
+    human, easy, interest, value, belief, per_word = scores
+    return 2 * human + 2 * easy + interest + value + belief + per_word
+
+
+def optimized_mark(entry):
+    if len(entry["rounds"][0]) == 5:
+        return f"old score {entry['best']:g}/60"
+    return f"✅ {entry['best']:g}/80"
 
 
 def read_state(db, name):
@@ -98,7 +107,7 @@ def sync():
                 continue
             cells = line.strip().strip("|").split(" | ")
             current = state(db, name)
-            mark = {"optimized": f"✅ {db['optimized'].get(name, {}).get('best', 0):g}/60", "old check": "old check", "exempt": "n/a", "not run": "❌"}[current]
+            mark = {"optimized": optimized_mark(db["optimized"].get(name, {"rounds": [[0] * 6], "best": 0})), "old check": "old check", "exempt": "n/a", "not run": "❌"}[current]
             reader = {"read": db["read_by_human"].get(name, {}).get("by"), "exempt": "n/a", "not read": "❌"}[read_state(db, name)]
             lines[i] = "| " + " | ".join([c.strip() for c in cells[:3]] + [mark, reader]) + " |"
     README.write_text("\n".join(lines))

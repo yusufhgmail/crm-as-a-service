@@ -38,7 +38,33 @@ Every video rests on one study, kept in David's private repo. Check every number
 - Not like this: "In 2018: a hundred and twenty people, thirteen million dollars in revenue. Twenty fewer people, six million more."
 - But like this: "In 2018 they had a hundred and twenty people and thirteen million dollars in revenue. That's twenty fewer people and six million dollars more."
 
-**Run the Optimized process.** Every script gets it before anyone records it, and any edit to the spoken lines means it has to run again. It scores how human the script sounds (counts double), how well it holds our buyer, whether the viewer can act on it without us, whether it makes them believe a custom CRM can lift the business, and how much value it gives per word. `optimize.py` tracks this, and [CLAUDE.md](CLAUDE.md) has the process. When a new script comes in without it, tell Yusuf or David forcefully and ask them to approve running it.
+**Every sentence needs a point, and it has to follow from the one before.** Yusuf, recording video 11: "every single thing that we say has a point and is coherent and fits with everything else". Keep the joining words, say each step of the reasoning, and state the conclusion. Cut any story, line or section you can't give a reason for.
+
+- Not like this: "Contacts move easily when you leave. Years of notes, files, activities and custom records don't. And if your work doesn't fit anybody's screens, you can switch to a new logo and just hit the same wall."
+- But like this: "You can move your contacts, but that doesn't mean you can move everything that's important. There may be years of notes and files you can't move as easily. So it's very important to pick the right CRM before you commit all of that to it."
+
+**Never undercut your own proof.** If a source is too weak to stand behind, cut it. If it's strong enough, say who said it and move on. "He says" is all the honesty a claim needs, and a limit stays in only when it changes what the viewer should do.
+
+- Not like this: "That's one comment, and I can't check it." or "We never got to test that."
+- But like this: "He says they're staying on top of three to four times more deals."
+
+**Use recent examples.** A date from 2016 or 2017 makes the point sound old. Use a recent case, or cut it.
+
+**No clever phrasing.** Say it the way you'd say it to a friend.
+
+- Not like this: "Year two is nobody's job."
+- But like this: "Year two can be a disaster."
+
+**Stop when you're done.** No recap of homework after the pitch, and no closing line that says nothing new.
+
+- Not like this: "And this week, just start with your renewal date and that export."
+
+**Say it so nobody has to think twice.** Use simple, direct sentences, and never point at something the viewer hasn't heard yet. If they'd have to stop and work out what you mean, rewrite it.
+
+- Not like this: "So if you walk in without your own list, you end up using the seller's."
+- But like this: "So before you talk to a seller, write down what matters most to your company. If you don't, you'll end up judging the CRM by what the seller wants to show you."
+
+**Run the Optimized process.** Every script gets it before anyone records it, and any edit to the spoken lines means it has to run again. It scores how human the script sounds and how easy it is to understand (both count double), how well it holds our buyer, whether the viewer can act on it without us, whether it makes them believe a custom CRM can lift the business, and how much value it gives per word. `optimize.py` tracks this, and [CLAUDE.md](CLAUDE.md) has the process. When a new script comes in without it, tell Yusuf or David forcefully and ask them to approve running it.
 
 **A human reads it before Yusuf records it.** David or Yusuf reads every script first, so obviously bad lines get fixed before filming. The last column of the recordings list shows who read it. Any edit to the spoken lines clears that, so run the Optimized process first and read last.
 

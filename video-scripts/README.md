@@ -15,19 +15,19 @@ Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folder
 | 7 | [Salesforce for a 15-Person Company: the Real Cost](07_salesforce_15_person_company/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1yhnbQkejuqDCH1q6WotXCMvq7gLEOrqR), cut from 17:54 to the end because it points to video 12, and show video 20 on the end screen** | [Yusuf's lines](07_salesforce_15_person_company/yusuf_lines.md) | old check | n/a |
 | 8 | [How Gong Works, and Why Sales Teams Love It](08_how_gong_works/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1KukOlyMvvwjVH0Tz9sw9JAa8czKewYgS)** | [Yusuf's lines](08_how_gong_works/yusuf_lines.md) | old check | n/a |
 | 9 | [CRM Software Is Dead: What the SaaSpocalypse Means for Your CRM](09_crm_software_is_dead/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1ull5iXZCOTmRkvZFP5VOzJPoxxTVyEBk)** | [Yusuf's lines](09_crm_software_is_dead/yusuf_lines.md) | old check | n/a |
-| 10 | [Ten Sales Tools, One Bill: What 10 Reps Really Pay a Year](10_ten_sales_tools_one_bill/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1_B3YrZrjhT8d_EDFFE8xtDAMWc-p7-iH)** | [Yusuf's lines](10_ten_sales_tools_one_bill/yusuf_lines.md) | ✅ 45/60 | n/a |
-| 11 | [Build, Rent or Own Your CRM: How to Choose](11_build_buy_or_own_crm/script.md) | [Yusuf's lines](11_build_buy_or_own_crm/yusuf_lines.md) | ✅ 43/60 | ❌ |
+| 10 | [Ten Sales Tools, One Bill: What 10 Reps Really Pay a Year](10_ten_sales_tools_one_bill/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1_B3YrZrjhT8d_EDFFE8xtDAMWc-p7-iH)** | [Yusuf's lines](10_ten_sales_tools_one_bill/yusuf_lines.md) | old score 45/60 | n/a |
+| 11 | [Build, Rent or Own Your CRM: How to Choose](11_build_buy_or_own_crm/script.md) | [Yusuf's lines](11_build_buy_or_own_crm/yusuf_lines.md) | old score 43/60 | ❌ |
 | 12 | [What to Do When Your Salesforce Admin Leaves](12_salesforce_admin_left/script.md) · **Discarded: dropped to land on 20 videos** | [Yusuf's lines](12_salesforce_admin_left/yusuf_lines.md) | n/a | n/a |
-| 13 | [Use This Prompt to Plan the CRM You Need](13_crm_planning_prompt/script.md) | [Yusuf's lines](13_crm_planning_prompt/yusuf_lines.md) | ✅ 45/60 | ❌ |
-| 14 | [Your CRM Is Your Business: Don't Rent It](14_your_crm_is_your_business/script.md) | [Yusuf's lines](14_your_crm_is_your_business/yusuf_lines.md) | ✅ 44/60 | ❌ |
-| 15 | [3 Reasons Your Team Doesn't Use the CRM, and the Fix](15_team_doesnt_use_crm/script.md) | [Yusuf's lines](15_team_doesnt_use_crm/yusuf_lines.md) | ✅ 42/60 | ❌ |
-| 16 | [Keep HubSpot, Replace One Thing First](16_keep_hubspot_replace_one_thing/script.md) | [Yusuf's lines](16_keep_hubspot_replace_one_thing/yusuf_lines.md) | ✅ 42/60 | ❌ |
-| 17 | [5 CRM Integrations a Service Company Needs](17_crm_integrations_service_company/script.md) | [Yusuf's lines](17_crm_integrations_service_company/yusuf_lines.md) | ✅ 43/60 | ❌ |
-| 18 | [How to Keep Your Own CRM Running: 6 Checks](18_keep_your_own_crm_running/script.md) | [Yusuf's lines](18_keep_your_own_crm_running/yusuf_lines.md) | ✅ 42/60 | ❌ |
-| 19 | [How to Leave HubSpot Without Losing Your Data: 5 Steps](19_leave_hubspot_without_losing_data/script.md) | [Yusuf's lines](19_leave_hubspot_without_losing_data/yusuf_lines.md) | ✅ 41/60 | ❌ |
-| 20 | [What to Do Before Your Salesforce Renewal: 5 Steps](20_before_salesforce_renewal/script.md) | [Yusuf's lines](20_before_salesforce_renewal/yusuf_lines.md) | ✅ 46/60 | ❌ |
-| 21 | [What to Do When HubSpot Support Stops Answering: 5 Steps](21_hubspot_support_stops_answering/script.md) | [Yusuf's lines](21_hubspot_support_stops_answering/yusuf_lines.md) | ✅ 44/60 | ❌ |
-| 22 | [Switched CRMs and Regret It? 5 Checks Before Your Next Move](22_switched_crm_and_regret/script.md) | [Yusuf's lines](22_switched_crm_and_regret/yusuf_lines.md) | ✅ 45/60 | ❌ |
+| 13 | [Use This Prompt to Plan the CRM You Need](13_crm_planning_prompt/script.md) | [Yusuf's lines](13_crm_planning_prompt/yusuf_lines.md) | old score 45/60 | ❌ |
+| 14 | [Your CRM Is Your Business: Don't Rent It](14_your_crm_is_your_business/script.md) | [Yusuf's lines](14_your_crm_is_your_business/yusuf_lines.md) | old score 44/60 | ❌ |
+| 15 | [3 Reasons Your Team Doesn't Use the CRM, and the Fix](15_team_doesnt_use_crm/script.md) | [Yusuf's lines](15_team_doesnt_use_crm/yusuf_lines.md) | old score 42/60 | ❌ |
+| 16 | [Keep HubSpot, Replace One Thing First](16_keep_hubspot_replace_one_thing/script.md) | [Yusuf's lines](16_keep_hubspot_replace_one_thing/yusuf_lines.md) | old score 42/60 | ❌ |
+| 17 | [5 CRM Integrations a Service Company Needs](17_crm_integrations_service_company/script.md) | [Yusuf's lines](17_crm_integrations_service_company/yusuf_lines.md) | old score 43/60 | ❌ |
+| 18 | [How to Keep Your Own CRM Running: 6 Checks](18_keep_your_own_crm_running/script.md) | [Yusuf's lines](18_keep_your_own_crm_running/yusuf_lines.md) | old score 42/60 | ❌ |
+| 19 | [How to Leave HubSpot Without Losing Your Data: 5 Steps](19_leave_hubspot_without_losing_data/script.md) | [Yusuf's lines](19_leave_hubspot_without_losing_data/yusuf_lines.md) | old score 41/60 | ❌ |
+| 20 | [What to Do Before Your Salesforce Renewal: 5 Steps](20_before_salesforce_renewal/script.md) | [Yusuf's lines](20_before_salesforce_renewal/yusuf_lines.md) | old score 46/60 | ❌ |
+| 21 | [What to Do When HubSpot Support Stops Answering: 5 Steps](21_hubspot_support_stops_answering/script.md) | [Yusuf's lines](21_hubspot_support_stops_answering/yusuf_lines.md) | old score 44/60 | ❌ |
+| 22 | [Switched CRMs and Regret It? 5 Checks Before Your Next Move](22_switched_crm_and_regret/script.md) | [Yusuf's lines](22_switched_crm_and_regret/yusuf_lines.md) | old score 45/60 | ❌ |
 
 [Content plan](../docs/plans/2026-10-25-crm-agency-plan.md#content-plan) · [Project overview](../README.md)
 

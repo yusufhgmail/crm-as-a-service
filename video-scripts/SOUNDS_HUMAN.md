@@ -35,7 +35,7 @@ One of these proves nothing, and real people do most of them now and then. A pil
 
 **7. Even rhythm.** Sentences of the same length, paragraphs of the same shape. Let a long one run, and let a short one be short because the point is small.
 
-**8. The same opener.** "So", "And", "But", "Now" and "Here's" at the start of sentence after sentence.
+**8. The same opener.** "Now" and "Here's" at the start of sentence after sentence. "So", "And", "But" and "because" are different: they're how people reason aloud, so never remove them to lower a count.
 
 **9. Announcing instead of saying.** "There are four parts", "Let's break this down", "Here's what that looks like". Start with the thing itself.
 
@@ -53,9 +53,16 @@ One of these proves nothing, and real people do most of them now and then. A pil
 
 **16. Swapping words to avoid repeating one.** People say "the CRM" five times. AI says "the CRM", "the platform", "the system", "the tool".
 
+**17. Clever phrasing.** A neat turn of phrase nobody would say aloud. "Year two is nobody's job." Yusuf said "year two can be a disaster".
+
+**18. Undercutting the proof.** "That's one comment, and I can't check it." It sounds honest on paper and like AI out loud. Cut the source, or say who said it and move on.
+
+**19. Facts with no thread.** Sentences that are each fine but don't lead to each other. People explain: this, so that, because of this other thing.
+
 # What people do instead
 
-- They say what they think: "I think", "in my experience", "I'm not sure about this one". Studies of AI text keep finding fewer of these marks of opinion and doubt.
+- They say what they think: "I think", "in my experience". Studies of AI text keep finding fewer of these marks of opinion. Doubt only belongs where it's real and changes what the viewer should do.
+- They reason aloud, with each sentence leading to the next.
 - They give one odd, specific detail that couldn't appear in anyone else's video.
 - They're uneven. A long sentence, then a short one, and one line that isn't perfect.
 - They stop when the point is made.
