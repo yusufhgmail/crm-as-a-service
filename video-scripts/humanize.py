@@ -3,10 +3,10 @@
 
 Run from anywhere:
   python3 video-scripts/humanize.py status          show every script
-  python3 video-scripts/humanize.py tick NAME 6,7,8,8   record a finished loop and its scores
+  python3 video-scripts/humanize.py tick NAME 6,7,8,8 [FILE]   record a finished loop and its scores (FILE: a draft's yusuf_lines.md)
   python3 video-scripts/humanize.py sync            untick edited scripts and update the README column
   python3 video-scripts/humanize.py check           fail if any script is still unticked
-  python3 video-scripts/humanize.py nag             print the loud warning, if there is anything to warn about
+  python3 video-scripts/humanize.py nag [--hook]    print the loud warning, if there is anything to warn about
 
 A tick holds a fingerprint of yusuf_lines.md, so any edit to the spoken lines unticks it.
 """
@@ -36,8 +36,12 @@ def videos():
     return sorted(p.name for p in ROOT.iterdir() if p.is_dir() and re.match(r"\d\d_", p.name) and (p / "yusuf_lines.md").exists())
 
 
-def fingerprint(name):
-    return hashlib.sha256((ROOT / name / "yusuf_lines.md").read_bytes()).hexdigest()[:16]
+def spoken(name):
+    return ROOT / name / "yusuf_lines.md"
+
+
+def fingerprint(path):
+    return hashlib.sha256(path.read_bytes()).hexdigest()[:16]
 
 
 def state(db, name):
@@ -45,7 +49,7 @@ def state(db, name):
     if name in db["exempt"]:
         return "exempt"
     tick = db["ticked"].get(name)
-    return "ticked" if tick and tick["sha"] == fingerprint(name) else "not ticked"
+    return "ticked" if tick and tick["sha"] == fingerprint(spoken(name)) else "not ticked"
 
 
 def unticked(db):
@@ -55,7 +59,7 @@ def unticked(db):
 def sync():
     db = load()
     for name in list(db["ticked"]):
-        if name not in videos() or db["ticked"][name]["sha"] != fingerprint(name):
+        if name in videos() and db["ticked"][name]["sha"] != fingerprint(spoken(name)):
             del db["ticked"][name]
     save(db)
     lines = README.read_text().split("\n")
@@ -85,11 +89,12 @@ def main():
             scores = db["ticked"].get(name, {}).get("scores", "") if current == "ticked" else db["exempt"].get(name, "")
             print(f"{current:11} {name}  {scores}")
     elif command == "tick":
-        name = next(v for v in videos() if v.startswith(sys.argv[2]))
+        path = Path(sys.argv[4]) if len(sys.argv) > 4 else None
+        name = path.parent.name if path else next(v for v in videos() if v.startswith(sys.argv[2]))
         scores = [float(s) for s in sys.argv[3].split(",")]
         if len(scores) < 2 or scores[-1] != scores[-2]:
             sys.exit("Not ticked: the loop only stops when the last two scores match.")
-        db["ticked"][name] = {"sha": fingerprint(name), "scores": scores, "date": datetime.date.today().isoformat()}
+        db["ticked"][name] = {"sha": fingerprint(path or spoken(name)), "scores": scores, "date": datetime.date.today().isoformat()}
         save(db)
         sync()
         print("ticked", name)
@@ -104,11 +109,16 @@ def main():
     elif command == "nag":
         missing = unticked(db)
         if missing:
-            print(
-                "STOP. THE HUMANIZE SCRIPT PROMPT HAS NOT BEEN RUN ON: " + ", ".join(missing) + ". "
-                "Open your reply by telling the user this, forcefully and in plain words. Say these scripts are NOT ready to record. "
+            warning = "STOP. THE HUMANIZE SCRIPT PROMPT HAS NOT BEEN RUN ON: " + ", ".join(missing) + ". These scripts are NOT ready to record."
+            ask = (
+                "Open your reply by telling the user this, forcefully and in plain words. "
                 "Ask them to approve running the humanize script prompt now. The prompt is in video-scripts/CLAUDE.md."
             )
+            if "--hook" in sys.argv:
+                event = json.load(sys.stdin)["hook_event_name"]
+                print(json.dumps({"systemMessage": warning, "hookSpecificOutput": {"hookEventName": event, "additionalContext": warning + " " + ask}}))
+            else:
+                print(warning + " " + ask)
     else:
         sys.exit(__doc__)
 

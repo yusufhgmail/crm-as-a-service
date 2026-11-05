@@ -9,3 +9,17 @@ The teleprompter reads `yusuf_lines.md` from GitHub `main`, so edits reach it on
 Yusuf's own words are saved in the private repo at `~/code/crm-from-within/original_sources/`. Read them before writing a script, and save every new Q&A with him there word for word.
 
 David: before writing or changing a script, pull the private repo `crm-from-within` and read its `CLAUDE.md`. Yusuf left notes for you there.
+
+# Humanize script prompt
+
+Every script must have had this prompt before it's recorded. [humanize.py](humanize.py) tracks it in `humanize_status.json` and in the last column of [README.md](README.md). A tick holds a fingerprint of `yusuf_lines.md`, so any edit to the spoken lines unticks the script.
+
+When a video arrives unticked, or anyone adds one, tell Yusuf or David forcefully that the prompt hasn't been run and those scripts aren't ready to record, and ask them to approve running it. Hooks in `.claude/settings.json` remind you on every message, and a GitHub check fails on any push with an unticked script.
+
+After a run, record it with its scores: `python3 video-scripts/humanize.py tick 08 6,7,8,8`.
+
+The prompt, in Yusuf's words:
+
+1. Score it based on how a real human actually speaks, 1-10. Note the specific places where it sounds contrived, scripted, or like AI wrote it. If this is pass 2 or more, if the score didn't change from the previous time you scored it, stop. Otherwise continue to step 2.
+2. Rewrite it accordingly, trying to maximize that score, but without losing any informational value or making it less exciting / dopamine-inducing to listen to.
+3. Repeat from step 1 until you reach the stop condition.
