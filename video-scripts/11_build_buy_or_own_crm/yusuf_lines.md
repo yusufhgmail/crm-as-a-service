@@ -6,116 +6,92 @@
 
 I built a CRM SaaS company, and I sold it, so I've been the vendor you rent from. And out of every hundred customers we had, maybe three were happy with the standard setup. Everyone else wanted to change it.
 
-So if you're fed up with your CRM, answer this before you choose anything. Three years from now, who's keeping it running? In this video, I'll show you how to choose between build, rent or own, and what each one actually costs over three years.
-
-## Who it's for
-
-Most owners I talk to are stuck between three options. They can rent a different CRM, build their own, or have one built. So I'm going to put all three side by side.
-
-## Promise
-
-You'll see what each route really costs and who maintains it. You'll see where the lock-in sits. Then I'll give you three questions that tell you which route to pick. And to be upfront, my company sells one of these routes, so I'll tell you when it's the wrong one.
+So if you're fed up with your CRM, answer this before you choose anything. Three years from now, who's keeping it running?
 
 ## Plan
 
-So that's three routes, and building gets split in two, because doing it yourself and paying a developer go wrong in different ways. And at the very end, I'll show you the one row on this board that answers the question I opened with.
+You can rent another CRM, build it yourself, pay someone to build it, or have someone build one that you own and they run. My company sells that last one, so I'll tell you who shouldn't buy it.
+
+I'll also tell you what stopped a solar company from leaving HubSpot. They were paying about thirty thousand dollars a year and using one screen of it.
 
 ## Route 1: Rent another CRM
 
-Route one, you rent another CRM. That's your HubSpot, Salesforce, Pipedrive or Zoho. You pay per user, per month, and the vendor runs it all.
+Renting means HubSpot, Salesforce, Pipedrive or Zoho. You pay per user, per month, and the vendor runs it all.
 
-And for some companies, that's actually the right answer. If you sell, follow up and close in a standard way, a rented CRM that's set up well does the job. Me and my team have set up a lot of those. I remember one CEO who tried our CRM and then went with three simple rented tools instead, because together they covered what he needed.
+For some companies that's actually the right answer. In 2017 one CEO tested our CRM and wrote to me that he'd go with Pipedrive, Mailchimp and a tool called Weld instead. Together they covered what he needed. I lost that one.
 
-Say you're thirty people, and fifteen of them are on the CRM. Here's HubSpot's page when I recorded this, in November 2026. Sales Hub Professional cost about ninety to a hundred dollars per seat, per month. On top of that, there's a required onboarding fee, and it's on screen. Prices move, so that's just an example.
+Say you're thirty people, and fifteen of them are on the CRM. At HubSpot's prices when I recorded this, in November 2026, that's roughly fifty to fifty-five thousand dollars over three years, before add-ons. Prices change, so treat that as an example, and put your own seats into the sum on screen.
 
-So over three years, that's roughly fifty to fifty-five thousand dollars. And that's before any add-ons and before any price rise.
+Their terms say it renews on its own, for up to a year. And at renewal they can move you up to full list price, with thirty days' notice.
 
-Then there's the lock-in. Their terms say it renews on its own, for up to a year. And at renewal, they can move you up to full list price. They only have to tell you thirty days before.
+Contacts move easily when you leave. Years of notes, files, activities and custom records don't. And if your work doesn't fit anybody's screens, you can switch to a new logo and just hit the same wall.
 
-So you pay rent on the software, and then you pay again every time you want to change it.
-
-The other lock-in is your history. Contacts are easy to move. But years of notes, files, activities and custom records, that's where companies get stuck. And they only find out when they try to leave.
-
-And here's where renting runs out. At my old company, one customer needed its billing system connected, and product data on every customer. Our CRM couldn't hold that, so they moved to another rented CRM that could. And that's fine, when someone already sells what you need. But if your work doesn't fit anybody's screens, you can switch to a new logo and just hit the same wall.
-
-Find your renewal date, and run a full export this week. If your history doesn't come out, you don't really have a choice yet.
-
-And before you sign anything, send the rep two lines. "Before we sign, please confirm our price at the first renewal in writing. And tell us how we export every note, call and file if we leave."
-
-## Free CRM fit check
-
-If you're curious what a CRM shaped around your company looks like, we do a free twenty-minute fit check. The link's in the description.
+This week, find your renewal date and export your contacts. In HubSpot that's Contacts, then Export. Open the file, pick your biggest customer, and check if their notes, calls and files are in there. If they're not, send your rep two lines. "Please confirm our price at the next renewal in writing. And tell us how we export every note, call and file if we leave".
 
 ## Route 2: Build it yourself
 
-Route two, you build it yourself. That could be a spreadsheet, or a no-code tool like Airtable. It could be an AI coding tool, or a free CRM on your own server. And either way, there's no seat bill.
+Or you build it yourself, in a spreadsheet, a no-code tool like Airtable, an AI coding tool, or a free CRM on your own server. There's no seat bill.
 
-With AI tools, getting a first version has never been faster, and it often fits better than anything you could rent. But the build isn't where these go wrong. It's month three. An update breaks something, or a backup fails, or sales wants a new field. And all of that lands on whoever built it, and that's usually someone with a full-time job.
+And the simple version can work. A window and door installer near Chicago, with more than twenty crew, dropped its expensive CRM because reps weren't updating it. Now they use a shared spreadsheet, and a cell turns red when a follow-up is overdue. The CEO says their callback rate went from sixty percent to ninety-four.
 
-So the fit is great, but the lock-in doesn't go away. It just moves onto one person. Write down who fixes it when it breaks at two in the morning. If that's you, and you're also running the company, you've got your answer.
+At the other end, we found the owner of Elevation Flooring, a commercial flooring company, who built his entire CRM with AI. He spent sixty to eighty hours a week on it for three months. He says connecting more than ten systems took a ton of troubleshooting, and integrations were the most expensive part at my old company too. And after all that, he'd finished the estimating side, while project management was still on the old system.
 
-## Route 2b: Build it with hired help
+It does work, though. Six people use it every day. And he says he can think of something that would be a real game changer for the company, and just add it.
 
-Route three, you build it with hired help. Say you're not technical, so you pay someone. Maybe that's a developer on staff, a freelancer, or an offshore team.
+But that's about eight hundred hours, at the low end. I don't know what your hour's worth, so say a hundred dollars. That's eighty thousand dollars, more than three years of my HubSpot example.
 
-Most quotes cover the build. But for the next thirty-six months, somebody has to fix bugs and add whatever sales asks for next. If your one developer leaves, what they know goes with them. And if a freelancer only signed up for the build, year two is nobody's job.
+After that, an update breaks something, or sales wants a new field, and it all lands on whoever built it. Someone at a six-person company who hosted their own wrote, "I think we mostly saved money by giving me more work after hours".
 
-I've seen the bigger version of this countless times with Salesforce and Microsoft Dynamics. It even happened at a company I worked for, before I started my own. Out of the box they do very little, so you pay developers to build on top. And companies underestimate that cost by about five times. They often end up with a worse result, at a much higher price.
+Count the systems yours would have to connect to, because with one or two I'd expect a much smaller job. Then write down who fixes it when it breaks at two in the morning. If that's you, and you're also running the company, I'd stick to the spreadsheet.
 
-So before you hire, get three answers in writing. If you only get the build price, you're buying a project, and the CRM still has no owner.
+## Route 3: Pay someone to build it
 
-Say it word for word. "Please put three things in writing. The build. What fixes and changes cost each month after launch. And who does them if you're not available."
+The third route is to pay a developer, a freelancer or an offshore team. One company in our research spent thirty-six thousand Australian dollars and twelve weeks on offshore developers and AI tools. And the person running it wrote that this doesn't include "my salary or sleepless nights", because they did all the specs and testing themselves.
 
-## Route 3: Own it, built and run by someone else
+Most quotes stop at the build, but for the next thirty-six months somebody has to fix bugs and add whatever sales asks for next. If your developer leaves, or a freelancer only signed up for the build, year two is nobody's job.
 
-Route four, you own it. Someone builds a CRM around how you work, the code belongs to you, and they keep it running.
+I've seen a bigger version of this countless times with Salesforce and Microsoft Dynamics. Out of the box they do very little, so you pay developers to build on top. It happened at a company I worked for, before I started my own. We had to build a quoting system and connect a bunch of things. Companies underestimate that cost by something like five times, and they often end up with a worse result, at a much higher price.
 
-This route is newer, so be careful. The risk is that a builder comes in cheap, and then raises the price once you depend on them. So now they're your new vendor, and you've just traded one lock-in for another.
+I think the trouble is that you're always working inside their limits. In 2016, someone on a tech forum wrote that their Salesforce setup had become a huge liability. Two engineers took two months to write a CRM that matched their process, and sales production went up three to four times, basically right away. That's one comment, and I can't check it.
 
-The other risk is timing. Here's an example from 2026. One fast-growing solar startup in Sweden, with about fifteen sellers, was paying about thirty thousand dollars a year for HubSpot. And all they used was the pipeline view, the board where deals move from stage to stage. Leads came in, and the team reached them late or not at all. So they lost a lot of business, and management had no clue.
+Before you hire, just say this. "Please put in writing what fixes and changes cost each month after launch, and who does them if you're not available".
 
-They wanted their own system, and we could build it. But they had two months until their renewal, and their whole business ran through that CRM. So they couldn't even start. Pick your route long before the renewal, not two months before it.
+## Route 4: Own it, built and run by someone else
 
-But owning only counts if you really own it. So here's the exit test, and it's three questions.
+The fourth route is the one I sell, and it's actually why I sold my old company in 2025. A rented CRM has to fit almost any customer, so say you build a hundred features, and each customer uses three. I realized that with AI, it was going to be cheaper to build what really fits from scratch. So someone builds a CRM around how you work, the code belongs to you, and they keep it running.
 
-Number one, who owns the code and the data? It should be you, and it should be in the contract.
+A friend of mine works at that solar company. It's a fast-growing startup in Sweden with about fifteen sellers. All they used in HubSpot was the pipeline view, the board where deals move from stage to stage. A lead landed on that board and waited for a seller to pick it up and call. They reached people late or not at all, they lost a lot of business, and management had no clue.
 
-Secondly, what does it cost to leave? It should cost you nothing but notice.
+We asked them, why have a pipeline at all? They had tens of deals a day, I think, and every minute of waiting made each one less likely. So we planned this instead. A lead calls or fills in the form, and an AI voice picks up right away. It says it's an AI, and it asks a few questions while it finds the right salesperson. The moment a seller's free, it puts them through. The deal moves through the stages by itself, and management sees the real conversion rates. The customer doesn't wait, the sellers drop the admin, and my guess was about fifty percent more efficient.
 
-And number three, does the price go up every time you hire someone? If you get one of those wrong, you're still renting, just with more steps.
+We never got to test that. They had two months until their renewal, and their whole business ran through that CRM, so the risk was too big and they couldn't even start. So look at your renewal date again. If it's two months away, you're where they were.
 
-So whoever you talk to, and that includes us, get those three answers on paper before you sign.
+Be careful, though. This route is newer, and a builder can come in cheap, then raise the price once you depend on them. Whoever you talk to, and that includes us, ask them to put three lines in the contract. "We own the code and the data. Leaving costs us nothing but notice. And the price doesn't go up per seat." If they won't sign that, I'd walk away.
 
-You can just say this. "Please write three things into the contract. We own the code and the data. Leaving costs us nothing but notice. And the price doesn't go up per seat."
+## Free CRM fit check
+
+If you've got a bottleneck like that solar company's, we do a free twenty-minute fit check. The link's in the description.
 
 ## Part 5: Pick your route
 
-Part five, you pick your route. There are three questions, and you ask them in order.
+Here's how I'd pick. Number one, does a standard setup fit how you sell and deliver? I always ask that first, because when you rent a CRM, what you're actually buying is a standard process that you have to adapt to. To find out, list everything your team keeps outside the CRM, in spreadsheets and in people's heads. If that list is short, or fixing it wouldn't change your business, rent a good CRM, set it up properly, and you don't need us. Same if you're two people.
 
-Number one, does a standard setup fit how you sell and deliver? That's the question I always ask first. Because when you rent a CRM, what you're actually buying is a standard process that you have to adapt to. If that's fine for you, rent a good CRM and set it up properly. And it's the same if you're two people. Don't build what you can rent.
+But if the way you sell sets you apart, or it's where you lose deals, like those solar leads, that's when I'd want a custom one. One construction company in our research goes from a napkin drawing to a placed order in under fifteen minutes, with its own CRM, 3D designer and customer portal.
 
-Secondly, if it doesn't fit, is there someone whose actual job is keeping it running for three years? And I don't mean the owner on Sunday nights. If there is, then building it yourself can work.
+Secondly, is there someone whose actual job is keeping it running for three years? And I don't mean the owner on Sunday nights. If there is, build it yourself or pay someone to.
 
-And number three, if nobody inside can maintain it, that's when owning makes sense, as long as it passes the exit test.
+And number three, if nobody inside can do that, that's when owning makes sense, as long as they'll sign those three lines.
 
-Every route has lock-in somewhere. But it's the maintenance row that decides it. So choose the route where you can name the person keeping it alive three years from now. That's it.
+Pick the route where you can name the person keeping it alive three years from now. That's it.
 
 Which route are you leaning toward? Write it in the comments, with your team size. I read every comment.
 
-## Recap
-
-So basically, if you rent, they maintain it on their terms. If you build it yourself, it fits until the builder runs out of evenings. If you hire a builder, nobody owns year two. And if you own it, it fits and someone keeps it running, as long as the exit test holds. So the question that decides it is the one I started with. Who keeps it running?
-
-## Is picking a route enough?
-
-Choosing feels like the big decision, but it actually isn't. The big one shows up in year three. That's when the renewal comes in, or the builder gets tired, or the vendor raises the price. So plan for that year, not for launch.
-
 ## What we do
 
-My company, CRM From Within, is route four. It's our answer to that year-three question. We build a CRM from scratch around how you sell and deliver, which AI has finally made affordable at your size. We move your data over, and then we keep it running as you grow. You own the code, and you're not stuck in a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+My company, CRM From Within, is that fourth route. We build a CRM from scratch around how you sell and deliver, which AI has finally made affordable at your size. We move your data over, and then we keep it running as you grow. You own the code, and you're not stuck in a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit. If that's you, book the fit check.
 
 ## Close
 
-So this week, find your renewal date, and try a full export. Write down who fixes it at two a.m. Get years two and three priced in writing. Put anyone you talk to through the exit test, and that means us too. Then answer the three questions with your team, before the renewal date answers them for you.
+And this week, just start with your renewal date and that export.
 
 In the next video, I'll give you six checks that keep your own CRM running. So subscribe so you don't miss that.
