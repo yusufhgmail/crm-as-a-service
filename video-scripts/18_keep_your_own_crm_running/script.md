@@ -269,7 +269,7 @@ Tag on item 6 when he says "one number": **The real number**
 **ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You own the code** · **We do the upkeep** · **No long contract**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
-> And when nobody can, that's what we do at my new company, CRM From Within. We build a CRM from scratch around how you sell and deliver, and we move your data in. That's possible now, with the new age of AI. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+> And when nobody can, that's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver, and we move your data in. That's possible now, with the new age of AI. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
 
 ## 10:35 Close
 

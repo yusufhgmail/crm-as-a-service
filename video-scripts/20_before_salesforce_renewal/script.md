@@ -276,7 +276,7 @@ Link: https://www.reddit.com/r/CRMSoftware/comments/1vbs4ze/has_anyone_here_actu
 **ON SCREEN:** five tags, one per phrase: **Built for how you work** · **You own the code** · **We maintain it** · **No long contract** · **Leave with everything**
 
 **YUSUF:**
-> So you can use that ninety-day window to get out, and not just to negotiate. At my new company, CRM From Within, we build a CRM from scratch around how your company sells and delivers. AI is what makes that affordable now. That includes the parts Salesforce never did. We bring your data across, and we keep it running. The code belongs to you, and there's no multi-year contract. And if you walk away, everything goes with you.
+> So you can use that ninety-day window to get out, and not just to negotiate. At my company, CRM From Within, we build a CRM from scratch around how your company sells and delivers. AI is what makes that affordable now. That includes the parts Salesforce never did. We bring your data across, and we keep it running. The code belongs to you, and there's no multi-year contract. And if you walk away, everything goes with you.
 
 **ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: standard setups**
 

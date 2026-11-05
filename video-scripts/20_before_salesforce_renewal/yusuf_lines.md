@@ -94,7 +94,7 @@ Now, the first four steps get you a better renewal. But next year the window ope
 
 ## What we do
 
-So you can use that ninety-day window to get out, and not just to negotiate. At my new company, CRM From Within, we build a CRM from scratch around how your company sells and delivers. AI is what makes that affordable now. That includes the parts Salesforce never did. We bring your data across, and we keep it running. The code belongs to you, and there's no multi-year contract. And if you walk away, everything goes with you.
+So you can use that ninety-day window to get out, and not just to negotiate. At my company, CRM From Within, we build a CRM from scratch around how your company sells and delivers. AI is what makes that affordable now. That includes the parts Salesforce never did. We bring your data across, and we keep it running. The code belongs to you, and there's no multi-year contract. And if you walk away, everything goes with you.
 
 If you've got ten to fifty people and Salesforce keeps forcing workarounds, that's who we build for. And if Salesforce fits you fine, renew it, on better terms.
 

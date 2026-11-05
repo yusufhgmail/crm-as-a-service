@@ -67,7 +67,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 3, and 3 with 4.
 **ON SCREEN:** four tags appear beside Yusuf, one per phrase: ✓ **Know what each route really costs** · ✓ **Know who keeps it running** · ✓ **Spot the lock-in before you sign** · ✓ **Pick the right route for you**
 
 **YUSUF:**
-> You'll see what each route really costs and who maintains it. You'll see where the lock-in sits. Then I'll give you three questions that tell you which route to pick. And to be upfront, my new company sells one of these routes, so I'll tell you when it's the wrong one.
+> You'll see what each route really costs and who maintains it. You'll see where the lock-in sits. Then I'll give you three questions that tell you which route to pick. And to be upfront, my company sells one of these routes, so I'll tell you when it's the wrong one.
 
 ## 1:10 Plan
 
@@ -288,7 +288,7 @@ Link: https://legal.hubspot.com/terms-of-service
 **ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You own the code** · **No long contract** · **Leave with everything**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
-> My new company, CRM From Within, is route four. It's our answer to that year-three question. We build a CRM from scratch around how you sell and deliver, which AI has finally made affordable at your size. We move your data over, and then we keep it running as you grow. You own the code, and you're not stuck in a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+> My company, CRM From Within, is route four. It's our answer to that year-three question. We build a CRM from scratch around how you sell and deliver, which AI has finally made affordable at your size. We move your data over, and then we keep it running as you grow. You own the code, and you're not stuck in a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
 
 ## 11:55 Close
 

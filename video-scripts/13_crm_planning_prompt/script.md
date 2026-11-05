@@ -229,7 +229,7 @@ BEFORE WE BUILD OR BUY
 **ON SCREEN:** three tags, one per phrase: **Built from your plan** · **You own the code** · **No long contract**
 
 **YUSUF:**
-> A plan like this often shows that a standard CRM covers half of it, and the other half is where your business actually happens. That's the half we build at my new company, CRM From Within. And with AI, that costs a lot less than it used to. We move your data in and we keep it running. You own the code, and there's no long contract holding you if you want to leave.
+> A plan like this often shows that a standard CRM covers half of it, and the other half is where your business actually happens. That's the half we build at my company, CRM From Within. And with AI, that costs a lot less than it used to. We move your data in and we keep it running. You own the code, and there's no long contract holding you if you want to leave.
 
 **ON SCREEN:** tags: **For: 10–50 people** · **A standard CRM doesn't fit** · smaller: **If it fits, use it**
 

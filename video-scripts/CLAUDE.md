@@ -18,16 +18,17 @@ When a video arrives without it, or anyone adds one, tell Yusuf or David forcefu
 
 The process, in Yusuf's words:
 
-1. Score the script 1-10 on all four criteria:
-   - **Human, counts double:** how a real human actually speaks. Note the specific places where it sounds contrived, scripted, or like AI wrote it.
+1. Score the script 1-10 on all five criteria:
+   - **Human, counts double:** it sounds like a human talking from the heart, with no scripted teleprompter. Note every place where it sounds contrived, scripted, or like AI wrote it. [SOUNDS_HUMAN.md](SOUNDS_HUMAN.md) is the test for that, and `ai_tells.py` counts the patterns a tool can find.
    - **Interest:** captures and holds our buyer's interest: a sales manager or a CEO of a 10-50 person company paying real money for its CRM.
    - **Usable value:** can the viewer act on it today without us? Entertainment viewers don't turn into education viewers, so go all in on teaching.
    - **Belief:** makes that CEO or sales manager believe that a custom-built CRM can lift their business to new heights. Not just saving some money, but actually making their business able to solve some bottleneck or do something valuable that has material impact.
-2. Add it up: 2 x Human + Interest + Usable value + Belief, out of 50. If this is round 2 or later and the total didn't go up, stop.
+   - **Value per word:** maximize the value created, divided by the number of words used. For each line, ask if it can be said in fewer words, and what the viewer would lose if it went. Value is anything that teaches, proves a point or holds the viewer's attention, so a story or a hook can earn its words.
+2. Add it up: 2 x Human + Interest + Usable value + Belief + Value per word, out of 60. If this is round 2 or later and the total didn't go up, stop.
 3. Rewrite it to raise the total, without losing any informational value or making it less exciting to listen to.
 4. Repeat from step 1. When it stops, use the highest-scoring version as the main script.
 
-Have a fresh agent score each round, one that hasn't seen the earlier scores, so nobody grades their own rewrite. Save every round in the private repo at `videos/optimized/`, then record it: `python3 video-scripts/optimize.py tick 10 "7,6,7,5 8,7,8,7 8,7,8,6"`, with one human,interest,value,belief group per round.
+Have a fresh agent score each round, one that hasn't seen the earlier scores, so nobody grades their own rewrite. Save every round in the private repo at `videos/optimized/`, then record it: `python3 video-scripts/optimize.py tick 10 "7,6,7,5,6 8,7,8,7,7 8,7,8,6,7"`, with one human,interest,value,belief,value-per-word group per round.
 
 # Read and approved by a human
 

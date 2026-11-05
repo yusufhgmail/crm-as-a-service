@@ -340,7 +340,7 @@ Link: https://news.ycombinator.com/item?id=46619640
 **ON SCREEN:** tags, one per phrase: **Built next to HubSpot** · **We move your data** · **You own the code** · **No long contract** · **Leave with everything**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
-> At my new company, CRM From Within, we build a CRM from scratch around how your team sells and delivers, right next to HubSpot. AI has made that far cheaper than it used to be. And nothing gets switched off until it passes those six tests. We move every note, call and file over, and we look after it. You own the code, there's no long contract, and if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
+> At my company, CRM From Within, we build a CRM from scratch around how your team sells and delivers, right next to HubSpot. AI has made that far cheaper than it used to be. And nothing gets switched off until it passes those six tests. We move every note, call and file over, and we look after it. You own the code, there's no long contract, and if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
 
 ## 11:06 Close
 

@@ -100,7 +100,7 @@
       "date": "2026-11-05"
     },
     "11_build_buy_or_own_crm": {
-      "sha": "0605e9d37fe6da68",
+      "sha": "cbe7ec092ff27cf5",
       "scores": [
         8.0,
         8.0
@@ -116,7 +116,7 @@
       "date": "2026-11-05"
     },
     "13_crm_planning_prompt": {
-      "sha": "21cf62ce8b63a707",
+      "sha": "bf51854b1c8810e3",
       "scores": [
         8.0,
         8.0
@@ -124,7 +124,7 @@
       "date": "2026-11-05"
     },
     "14_your_crm_is_your_business": {
-      "sha": "efb36336284ff594",
+      "sha": "21c4db8784edfad6",
       "scores": [
         8.0,
         8.0
@@ -132,7 +132,7 @@
       "date": "2026-11-05"
     },
     "15_team_doesnt_use_crm": {
-      "sha": "15fbccd5ab561a83",
+      "sha": "d93d6a473277a490",
       "scores": [
         8.0,
         8.0
@@ -140,7 +140,7 @@
       "date": "2026-11-05"
     },
     "16_keep_hubspot_replace_one_thing": {
-      "sha": "4be154eb816f7282",
+      "sha": "cb107f7100226374",
       "scores": [
         8.0,
         8.0
@@ -148,7 +148,7 @@
       "date": "2026-11-05"
     },
     "17_crm_integrations_service_company": {
-      "sha": "2771ef7e337cf07b",
+      "sha": "337ca00039aa4313",
       "scores": [
         8.0,
         8.0
@@ -156,7 +156,7 @@
       "date": "2026-11-05"
     },
     "18_keep_your_own_crm_running": {
-      "sha": "4c4a042b433f7262",
+      "sha": "c5078b6d2adb8222",
       "scores": [
         8.0,
         8.0
@@ -164,7 +164,7 @@
       "date": "2026-11-05"
     },
     "19_leave_hubspot_without_losing_data": {
-      "sha": "9999a6dd6c19dc29",
+      "sha": "6e14b54509cdef7e",
       "scores": [
         8.0,
         8.0
@@ -172,7 +172,7 @@
       "date": "2026-11-05"
     },
     "20_before_salesforce_renewal": {
-      "sha": "c6c3abfe7b91a18b",
+      "sha": "d6e60fe0cad4ee54",
       "scores": [
         8.0,
         8.0
@@ -188,7 +188,7 @@
       "date": "2026-11-05"
     },
     "22_switched_crm_and_regret": {
-      "sha": "d526da7782686e83",
+      "sha": "5ee3e5d0383176ef",
       "scores": [
         8.0,
         8.0

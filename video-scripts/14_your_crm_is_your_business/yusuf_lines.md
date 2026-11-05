@@ -94,7 +94,7 @@ So here's the question. Is the way you sell and market what sets you apart from 
 
 ## What we do
 
-And that's why I started my new company, CRM From Within. We build a CRM from scratch around how you sell and deliver, in your own accounts. A few years ago that would've cost a fortune. AI changed that. So when you want a change, you just talk to us, and you don't wait in a queue. We move your data, and we keep it running. You own the code, and there's no long contract to sit out. And if you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
+And that's why I started CRM From Within. We build a CRM from scratch around how you sell and deliver, in your own accounts. A few years ago that would've cost a fortune. AI changed that. So when you want a change, you just talk to us, and you don't wait in a queue. We move your data, and we keep it running. You own the code, and there's no long contract to sit out. And if you ever leave, you take everything with you. It's for companies with ten to fifty people. And if your rented CRM already fits, don't change a thing.
 
 ## Close
 

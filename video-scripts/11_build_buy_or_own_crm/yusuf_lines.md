@@ -14,7 +14,7 @@ Most owners I talk to are stuck between three options. They can rent a different
 
 ## Promise
 
-You'll see what each route really costs and who maintains it. You'll see where the lock-in sits. Then I'll give you three questions that tell you which route to pick. And to be upfront, my new company sells one of these routes, so I'll tell you when it's the wrong one.
+You'll see what each route really costs and who maintains it. You'll see where the lock-in sits. Then I'll give you three questions that tell you which route to pick. And to be upfront, my company sells one of these routes, so I'll tell you when it's the wrong one.
 
 ## Plan
 
@@ -112,7 +112,7 @@ Choosing feels like the big decision, but it actually isn't. The big one shows u
 
 ## What we do
 
-My new company, CRM From Within, is route four. It's our answer to that year-three question. We build a CRM from scratch around how you sell and deliver, which AI has finally made affordable at your size. We move your data over, and then we keep it running as you grow. You own the code, and you're not stuck in a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+My company, CRM From Within, is route four. It's our answer to that year-three question. We build a CRM from scratch around how you sell and deliver, which AI has finally made affordable at your size. We move your data over, and then we keep it running as you grow. You own the code, and you're not stuck in a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
 
 ## Close
 

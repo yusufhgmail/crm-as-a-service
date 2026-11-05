@@ -252,7 +252,7 @@ Link: https://help.zapier.com/hc/en-us/articles/8496037690637-How-to-troubleshoo
 **ON SCREEN:** the integration map redrawn, every arrow green, the QuickBooks arrows included, tag **Built around your map**. Then tags: **We move your data** · **You own the code** · **No long contract** · smaller: **For 10–50 people · connectors fine? Keep them**
 
 **YUSUF:**
-> That's what my new company, CRM From Within, is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. AI is what makes that affordable now. We move your data and we maintain it. The code is yours, and there's no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
+> That's what my company, CRM From Within, is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. AI is what makes that affordable now. We move your data and we maintain it. The code is yours, and there's no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
 
 ## 10:25 Close
 

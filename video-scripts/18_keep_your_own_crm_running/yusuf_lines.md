@@ -102,7 +102,7 @@ Now, passing these once is only a start. What I learned the hard way is that the
 
 ## What we do
 
-And when nobody can, that's what we do at my new company, CRM From Within. We build a CRM from scratch around how you sell and deliver, and we move your data in. That's possible now, with the new age of AI. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+And when nobody can, that's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver, and we move your data in. That's possible now, with the new age of AI. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
 
 ## Close
 

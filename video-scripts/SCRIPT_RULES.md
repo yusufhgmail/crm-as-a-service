@@ -33,12 +33,12 @@ Every video rests on one study, kept in David's private repo. Check every number
 
 **Say something new.** Before filming, check that a video gives viewers something the earlier videos haven't. Video 4 was dropped because it mostly repeated videos 1 to 3.
 
-**Sound like a person talking.** Shorter never means telegram style. Use full spoken sentences joined with "so", "and" and "but". No colon reveals, no slogans, and no fragments standing in for sentences. Read every line aloud as Yusuf would say it to a friend, using the voice guide in David's repo.
+**Sound like a person talking, and not like AI.** [SOUNDS_HUMAN.md](SOUNDS_HUMAN.md) lists what gives AI away. Shorter never means telegram style. Use full spoken sentences joined with "so", "and" and "but". No colon reveals, no slogans, and no fragments standing in for sentences. Read every line aloud as Yusuf would say it to a friend, using the voice guide in David's repo.
 
 - Not like this: "In 2018: a hundred and twenty people, thirteen million dollars in revenue. Twenty fewer people, six million more."
 - But like this: "In 2018 they had a hundred and twenty people and thirteen million dollars in revenue. That's twenty fewer people and six million dollars more."
 
-**Run the Optimized process.** Every script gets it before anyone records it, and any edit to the spoken lines means it has to run again. It scores how human the script sounds (counts double), how well it holds our buyer, whether the viewer can act on it without us, and whether it makes them believe a custom CRM can lift the business. `optimize.py` tracks this, and [CLAUDE.md](CLAUDE.md) has the process. When a new script comes in without it, tell Yusuf or David forcefully and ask them to approve running it.
+**Run the Optimized process.** Every script gets it before anyone records it, and any edit to the spoken lines means it has to run again. It scores how human the script sounds (counts double), how well it holds our buyer, whether the viewer can act on it without us, whether it makes them believe a custom CRM can lift the business, and how much value it gives per word. `optimize.py` tracks this, and [CLAUDE.md](CLAUDE.md) has the process. When a new script comes in without it, tell Yusuf or David forcefully and ask them to approve running it.
 
 **A human reads it before Yusuf records it.** David or Yusuf reads every script first, so obviously bad lines get fixed before filming. The last column of the recordings list shows who read it. Any edit to the spoken lines clears that, so run the Optimized process first and read last.
 
@@ -91,10 +91,10 @@ The point after a story has to be what happened in that story.
 
 **Never name FunnelBud.** Call it his old CRM SaaS company that he sold, in spoken lines, on-screen tags, descriptions and social posts. It was a SaaS company, not an agency. He says: "I built a CRM SaaS company, and I sold it." He sold it in July 2025, so say "in 2025", never "a few years ago". Titles say "Ex-SaaS Founder", never "Ex-CRM Agency Owner". Videos already recorded stay as they are.
 
-**Keep his old company and the new work apart.** His old company is his credibility. The study, the videos and what we sell are his new company, CRM From Within. When the two come close together, say which is which.
+**Keep his old company and the new work apart.** His old company is his credibility. The study, the videos and what we sell are his company, CRM From Within. When the two come close together, say which is which. Never say "new company": it reduces credibility. Say "my company" or "CRM From Within".
 
 - Not like this: "I built a CRM SaaS company, and I sold it. And we studied what more than five thousand CRM buyers say."
-- But like this: "I built a CRM SaaS company, and I sold it. Now, at my new company, CRM From Within, we've studied what more than five thousand CRM buyers say."
+- But like this: "I built a CRM SaaS company, and I sold it. Now, at my company, CRM From Within, we've studied what more than five thousand CRM buyers say."
 **Never name FunnelBud customers.** Tell their stories without names. People in our public research can be named if they gave their own name.
 
 **An agency and CRM software are two different things.** Leaving an agency means keeping the CRM and changing who looks after it. Leaving CRM software means moving to a different CRM. Say which one you mean, and never call a software company an agency. We target people leaving their CRM system, not people leaving an agency.

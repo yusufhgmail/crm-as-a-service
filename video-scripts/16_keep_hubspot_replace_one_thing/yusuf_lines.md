@@ -82,7 +82,7 @@ So basically, don't bet everything on one big switch. Pick the piece that hurts 
 
 ## What we do
 
-That's how we work at my new company, CRM From Within. We can start with the one piece that hurts. We build it from scratch, which AI has made a lot cheaper, and then we connect it to your HubSpot and look after it. The code is yours, and there's no long contract. It's for teams of ten to fifty people. And if nothing in HubSpot hurts, change nothing.
+That's how we work at my company, CRM From Within. We can start with the one piece that hurts. We build it from scratch, which AI has made a lot cheaper, and then we connect it to your HubSpot and look after it. The code is yours, and there's no long contract. It's for teams of ten to fifty people. And if nothing in HubSpot hurts, change nothing.
 
 ## Close
 

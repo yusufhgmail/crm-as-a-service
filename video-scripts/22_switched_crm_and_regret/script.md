@@ -51,7 +51,7 @@ Link: https://www.capterra.com/p/214215/HubSpot-SalesHub/reviews/#7195637 Then t
 **YUSUF** (straight to camera):
 > I'll admit something awkward for a guy who builds CRMs. A new CRM very often doesn't fix the thing you switched to get away from. Here's a public example. One CEO left a CRM one month after signing, and they still have to pay for the other eleven.
 >
-> Over the last ten years, I built a CRM SaaS company, mostly for B2B, and I sold it in 2025. And now I've started a new company, CRM From Within. So in this video, I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
+> Over the last ten years, I built a CRM SaaS company, mostly for B2B, and I sold it in 2025. And now I run CRM From Within. So in this video, I'll give you five lessons from real buyers who switched CRMs and regretted it. And each one comes with one check for your next move.
 
 ## 0:38 Who it's for
 

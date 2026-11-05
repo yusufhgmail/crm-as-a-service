@@ -94,7 +94,7 @@ Some of this you can fix this week. But with a standard connector, someone else 
 
 ## What we do
 
-That's what my new company, CRM From Within, is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. AI is what makes that affordable now. We move your data and we maintain it. The code is yours, and there's no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
+That's what my company, CRM From Within, is for. We build a CRM from your map, so the arrows to QuickBooks and your job tools actually point the way your business works. AI is what makes that affordable now. We move your data and we maintain it. The code is yours, and there's no long contract. If you leave, it all comes with you. We do this for companies of ten to fifty people. And if your connectors already do the job, keep them.
 
 ## Close
 
