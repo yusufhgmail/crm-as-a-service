@@ -66,10 +66,8 @@
       "date": "2026-11-05"
     },
     "12_salesforce_admin_left": {
-      "sha": "2c0b9b8dcc0268df",
+      "sha": "fb7c7c2081ee3c1d",
       "scores": [
-        6.0,
-        7.0,
         8.0,
         8.0
       ],
@@ -97,8 +95,6 @@
     "15_team_doesnt_use_crm": {
       "sha": "c91cc9dffdeaf212",
       "scores": [
-        6.0,
-        7.0,
         8.0,
         8.0
       ],
@@ -126,8 +122,6 @@
     "18_keep_your_own_crm_running": {
       "sha": "107a4448221345fa",
       "scores": [
-        6.0,
-        7.0,
         8.0,
         8.0
       ],

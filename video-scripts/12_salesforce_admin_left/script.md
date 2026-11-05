@@ -4,7 +4,7 @@
 
 **Checked 27 Oct 2026:** Salesforce's help articles, Trailhead units and add-on pricing page, word for word. No study numbers and no Reddit or review quotes in this video: it is told from Yusuf's own experience.
 
-**Yusuf's answers used** (`videos/YUSUF_ANSWERS_2026-11-04.md`, video 12, no names): Q1 and Q2 (a customer of his old company after a merger: the login, the webinars; one in ten cancellations after a key person left) → 0:00 Proof, from his records, **Yusuf to confirm** · Q3 lesson ("don't get stuck in how they used to do it") → Step 3, records, **Yusuf to confirm** · Q4 (redundancy, the audit is expensive, know your own process) → 8:50, from his 4 Nov interview, confirmed. That customer's CRM was not Salesforce, so the script never says it was.
+**Yusuf's answers used** (`videos/YUSUF_ANSWERS_2026-11-04.md`, video 12, no names): Q1 and Q2 (a customer of his old company after a merger: the login, the webinars; one in ten cancellations came down to a key person changing) → 0:00 Proof, from his records, **Yusuf to confirm** · Q3 lesson ("don't get stuck in how they used to do it") → Step 3, records, **Yusuf to confirm** · Q4 (redundancy, the audit is expensive, know your own process) → 8:50, from his 4 Nov interview, confirmed. That customer's CRM was not Salesforce, so the script never says it was.
 
 **Screens to record** (no Salesforce account needed):
 - **Salesforce screens:** we have no Salesforce org, so every Salesforce screen is a screenshot from Salesforce's help pages or Trailhead, tagged **Salesforce help** or **Salesforce Trailhead**: a user record with **Freeze**; the Setup home page with Object Manager; text cards of the help articles for Users, Scheduled Jobs and delegated administration; the sandbox add-on table (public pricing page).
@@ -52,7 +52,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 4, and 3 with 3.
 >
 > And the thing they used that CRM for most was webinars. After that, they couldn't run a single one without our help.
 >
-> Over the years, I built a CRM SaaS company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies. And about one in ten customers who left us did it right after a key person left.
+> Over the years, I built a CRM SaaS company, and I sold it a few years ago. Me and my team set up CRMs for hundreds of companies. And about one in ten of our cancellations came down to a key person changing.
 >
 > So in this video I'll show you what to do when your Salesforce admin leaves. It's five steps, and you do them in order.
 
@@ -402,6 +402,6 @@ Each short opens on its own claim, count or screen (the first spoken line below)
 - Salesforce help: "Salesforce no longer supports Workflow Rules and Process Builder as of December 31, 2025"; recommends migrating to Flow Builder: https://help.salesforce.com/s/articleView?id=001096524&language=en_US&type=1 (checked 27 Oct 2026)
 - Salesforce help: delegated admins "can create, edit, and log in as Users" in their group; resets need "Reset User Passwords and Unlock Users"; "They cannot modify the role hierarchy"; no custom object relationships: https://help.salesforce.com/s/articleView?id=000385384&language=en_US&type=1 (checked 27 Oct 2026)
 - Salesforce pricing (add-ons): Developer Pro Sandbox "5% of net spend" (Pro Suite, Professional, Enterprise, Unlimited); Partial Copy "20% of net spend" and Full Copy "30% of net spend" (Enterprise, Unlimited): https://www.salesforce.com/platform/pricing-add-ons/ (checked 27 Oct 2026)
-- The merger story (0:00, 3:50, 8:50) and "about one in ten customers who left us" (9 of 94 cancellations followed a key person changing): a customer of Yusuf's old CRM SaaS company, from his records in `videos/YUSUF_ANSWERS_2026-11-04.md` (Q1, Q2, Q3), no name, CRM product or date said. Yusuf to confirm before filming.
+- The merger story (0:00, 3:50, 8:50) and "about one in ten of our cancellations" (checked against his records 5 Nov 2026: 9 of 94 cancellation notes name a key person changing, and the notes give no timing): a customer of Yusuf's old CRM SaaS company, from his records in `videos/YUSUF_ANSWERS_2026-11-04.md` (Q1, Q2, Q3), no name, CRM product or date said. Yusuf to confirm before filming.
 - 8:50 redundancy, the expensive audit, "the system and the process in the CRM are secondary": Yusuf's 4 Nov 2026 interview, `original_sources/2026-11-04_interview_experience_videos.md`.
 - Proof line: "me and my team, hundreds of companies" (Yusuf, 4 Nov 2026).
