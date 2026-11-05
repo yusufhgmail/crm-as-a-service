@@ -14,7 +14,7 @@ Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folder
 | 6 | [Map How Your Team Works Before You Buy a CRM (30 Minutes)](06_map_your_real_process/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1L6K5bRL4Aos57tuObOSIoO8H5fGRgF7v)** | [Yusuf's lines](06_map_your_real_process/yusuf_lines.md) | ✅ | n/a |
 | 7 | [Salesforce for a 15-Person Company: the Real Cost](07_salesforce_15_person_company/script.md) · **Recorded, footage not on Drive yet** | [Yusuf's lines](07_salesforce_15_person_company/yusuf_lines.md) | ✅ | n/a |
 | 8 | [How Gong Works, and Why Sales Teams Love It](08_how_gong_works/script.md) · **Recorded, footage not on Drive yet** | [Yusuf's lines](08_how_gong_works/yusuf_lines.md) | ✅ | n/a |
-| 9 | [CRM Software Is Dead: What the SaaSpocalypse Means for Your CRM](09_crm_software_is_dead/script.md) | [Yusuf's lines](09_crm_software_is_dead/yusuf_lines.md) | ✅ | ❌ |
+| 9 | [CRM Software Is Dead: What the SaaSpocalypse Means for Your CRM](09_crm_software_is_dead/script.md) · **Recorded, footage not on Drive yet** | [Yusuf's lines](09_crm_software_is_dead/yusuf_lines.md) | ✅ | n/a |
 | 10 | [Ten Sales Tools, One Bill: What 10 Reps Really Pay a Year](10_ten_sales_tools_one_bill/script.md) | [Yusuf's lines](10_ten_sales_tools_one_bill/yusuf_lines.md) | ✅ | ❌ |
 | 11 | [Build, Rent or Own Your CRM: How to Choose](11_build_buy_or_own_crm/script.md) | [Yusuf's lines](11_build_buy_or_own_crm/yusuf_lines.md) | ✅ | ❌ |
 | 12 | [What to Do When Your Salesforce Admin Leaves (MAYBE: Yusuf, keep or drop?)](12_salesforce_admin_left/script.md) | [Yusuf's lines](12_salesforce_admin_left/yusuf_lines.md) | ✅ | ❌ |
