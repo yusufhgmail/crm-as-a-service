@@ -1,0 +1,47 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit/X/G2 block automated live checks.",
+ "survey_record": {
+  "url": "https://www.g2.com/products/hubspot-sales-hub/reviews/hubspot-sales-hub-review-12755602",
+  "date": "2026-05-05",
+  "source": "g2",
+  "quote": "I can't really use the data for anything. Still need Spreadsheets for most of the important data. Mostly useless. Setup is nightmare."
+ },
+ "raw_hits": [
+  {
+   "file": "raw/apify/memo23~g2-scraper__tBvqz69XbakYVRyyZ.jsonl",
+   "record": {
+    "type": "review",
+    "review_id": 12755602,
+    "review_title": "Mixed feelings. Spreadsheets is better.",
+    "review_content": "I like the Email plugin in HubSpot Sales Hub because there's no need to log emails manually. I can't really use the data for anything. Still need Spreadsheets for most of the important data. Mostly useless. Setup is nightmare. HubSpot Sales Hub helps me manage customer data and understand their history. The Email plugin eliminates the need to log emails.",
+    "review_question_answers": {
+     "What do you like best about HubSpot Sales Hub?": "I like the Email plugin in HubSpot Sales Hub because there's no need to log emails manually.",
+     "What do you dislike about HubSpot Sales Hub?": "I can't really use the data for anything. Still need Spreadsheets for most of the important data. Mostly useless. Setup is nightmare.",
+     "What problems is HubSpot Sales Hub solving and how is that benefiting you?": "HubSpot Sales Hub helps me manage customer data and understand their history. The Email plugin eliminates the need to log emails."
+    },
+    "review_rating": 3,
+    "reviewer": {
+     "reviewer_id": 2259636,
+     "reviewer_name": "Verified User",
+     "reviewer_job_title": "",
+     "business_size": "Small-Business (50 or fewer emp.)"
+    },
+    "publish_date": "2026-05-05T11:46:34-05:00",
+    "modified_date": "2026-05-05T11:46:34-05:00",
+    "validated_reviewer": true,
+    "incentivized": false,
+    "ai_translated": false,
+    "review_source": "Organic",
+    "video_review": false,
+    "product_slug": "hubspot-sales-hub",
+    "product_name": "HubSpot Sales Hub",
+    "product_id": 6227,
+    "product_uuid": "9f217935-02fc-440a-86e1-17c669016c7b",
+    "vendor_id": 316,
+    "review_link": "https://www.g2.com/products/hubspot-sales-hub/reviews/hubspot-sales-hub-review-12755602",
+    "company_domain": "hubspot.com",
+    "company_website": "https://hubspot.com"
+   }
+  }
+ ]
+}

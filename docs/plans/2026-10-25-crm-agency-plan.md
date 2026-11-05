@@ -101,7 +101,7 @@ Decide at week 12 from what customers did, not from what they said.
 
 - **Continue:** 3 or more paying clients use it every week, and margin is rising toward 60%.
 - **Change:** content brings conversations, but nobody pays. Change the offer or the price before building more.
-- **Stop:** margin doesn't rise. Then it is an ordinary agency like FunnelBud; decide whether that is still worth your time.
+- **Stop:** margin doesn't rise. Then it is an ordinary agency; decide whether that is still worth your time.
 
 # Open questions
 

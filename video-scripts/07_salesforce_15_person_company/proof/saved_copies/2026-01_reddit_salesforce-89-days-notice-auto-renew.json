@@ -1,0 +1,65 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit blocks automated live checks.",
+ "used_in": "Video 7: point 4 (renewal)",
+ "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/",
+ "date": "2026-01-23",
+ "quotes": [
+  "Several emails over 90 days document the intent to cancel Auto Renewal, but I can see from \"Your Account\" that the contract is still set to Auto Renew.",
+  "my RM and AE told me it was too late because we were inside of the 30 days renewal deadline.",
+  "This got solved without a lawyer. As best I can tell, contacting Salesforce's legal and ethics team did the trick."
+ ],
+ "full_text": "In Nov '25 Salesforce sent an automated email about a renewal in mid Feb '26, so 90 days before. There was an option to Confirm Renewal or Request Changes. Salesforce sent a confirmation email of the request for changes on Nov 18 '25, 89 days before the February renewal date. Several emails over 90 days document the intent to cancel Auto Renewal, but I can see from \"Your Account\" that the contract is still set to Auto Renew.\n\n33 days before the renewal I asked to purchase a less expensive platform license to evaluate as an alternative to a full license. I sent 3 follow up emails over 7 days with no response, and then my RM and AE told me it was too late because we were inside of the 30 days renewal deadline.\n\nThey insist the MSA imposes a \"renewal deadline\" 30 days before the Feb '26 anniversary date and that I have 2 choices. 1) renew last year's contract, or 2) accept the most recent draft quote.\n\nSF MSA 11.2: \"Except as otherwise specified in an Order Form, subscriptions will automatically renew for additional one year terms, unless either party gives the other written notice (email acceptable) at least 30 days before the end of the relevant subscription term.\" That is common, but the MSA makes no mention of a renewal deadline.\n\nCurious if anyone has encountered this, has any advice, or whether I'm simply looking at this wrong.",
+ "survey_record": {
+  "rec_id": "reddit:t3_1ql248u",
+  "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/",
+  "date": "2026-01-23",
+  "author": "u/Ok-Dragonfly-8324",
+  "segment": "A",
+  "pain_tags": "[\"contract_renewal\", \"price\"]",
+  "team_size": null,
+  "money_quoted": "[]",
+  "quote": "Several emails over 90 days document the intent to cancel Auto Renewal, but I can see from \"Your Account\" that the contract is still set to Auto Renew.",
+  "summary_en": "Customer says Salesforce refuses to switch off auto-renewal despite 89 days notice and had asked for a cheaper platform license to evaluate alternatives.",
+  "speaker_role": "buyer"
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_external.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/",
+    "date": "2026-01-23T20:33:16+00:00",
+    "author": "Ok-Dragonfly-8324",
+    "title": "Despite 89 days notice, Salesforce is refusing to turn off auto-renewal for a contract",
+    "text": "In Nov '25 Salesforce sent an automated email about a renewal in mid Feb '26, so 90 days before. There was an option to Confirm Renewal or Request Changes. Salesforce sent a confirmation email of the request for changes on Nov 18 '25, 89 days before the February renewal date. Several emails over 90 days document the intent to cancel Auto Renewal, but I can see from \"Your Account\" that the contract is still set to Auto Renew.\n\n33 days before the renewal I asked to purchase a less expensive platform license to evaluate as an alternative to a full license. I sent 3 follow up emails over 7 days with no response, and then my RM and AE told me it was too late because we were inside of the 30 days renewal deadline.\n\nThey insist the MSA imposes a \"renewal deadline\" 30 days before the Feb '26 anniversary date and that I have 2 choices. 1) renew last year's contract, or 2) accept the most recent draft quote.\n\nSF MSA 11.2: \"Except as otherwise specified in an Order Form, subscriptions will automatically renew for additional one year terms, unless either party gives the other written notice (email acceptable) at least 30 days before the end of the relevant subscription term.\" That is common, but the MSA makes no mention of a renewal deadline.\n\nCurious if anyone has encountered this, has any advice, or whether I'm simply looking at this wrong."
+   }
+  },
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/",
+    "date": "2026-01-23",
+    "author": "/u/Ok-Dragonfly-8324",
+    "title": "Despite 89 days notice, Salesforce is refusing to turn off auto-renewal for a contract",
+    "text": "In Nov '25 Salesforce sent an automated email about a renewal in mid Feb '26, so 90 days before. There was an option to Confirm Renewal or Request Changes. Salesforce sent a confirmation email of the request for changes on Nov 18 '25, 89 days before the February renewal date. Several emails over 90 days document the intent to cancel Auto Renewal, but I can see from \"Your Account\" that the contract is still set to Auto Renew.\n 33 days before the renewal I asked to purchase a less expensive platform license to evaluate as an alternative to a full license. I sent 3 follow up emails over 7 days with no response, and then my RM and AE told me it was too late because we were inside of the 30 days renewal deadline. \n They insist the MSA imposes a \"renewal deadline\" 30 days before the Feb '26 anniversary date and that I have 2 choices. 1) renew last year's contract, or 2) accept the most recent draft quote. \n SF MSA 11.2: \"Except as otherwise specified in an Order Form, subscriptions will automatically renew for additional one year terms, unless either party gives the other written notice (email acceptable) at least 30 days before the end of the relevant subscription term.\" That is common, but the MSA makes no mention of a renewal deadline.\n Curious if anyone has encountered this, has any advice, or whether I'm simply looking at this wrong.\n        to    r/salesforce"
+   }
+  },
+  {
+   "file": "stage/p1/records.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/",
+    "date": "2026-01-23",
+    "author": "u/Ok-Dragonfly-8324",
+    "title": "Despite 89 days notice, Salesforce is refusing to turn off auto-renewal for a contract",
+    "text": "In Nov '25 Salesforce sent an automated email about a renewal in mid Feb '26, so 90 days before. There was an option to Confirm Renewal or Request Changes. Salesforce sent a confirmation email of the request for changes on Nov 18 '25, 89 days before the February renewal date. Several emails over 90 days document the intent to cancel Auto Renewal, but I can see from \"Your Account\" that the contract is still set to Auto Renew.\n33 days before the renewal I asked to purchase a less expensive platform license to evaluate as an alternative to a full license. I sent 3 follow up emails over 7 days with no response, and then my RM and AE told me it was too late because we were inside of the 30 days renewal deadline.\nThey insist the MSA imposes a \"renewal deadline\" 30 days before the Feb '26 anniversary date and that I have 2 choices. 1) renew last year's contract, or 2) accept the most recent draft quote.\nSF MSA 11.2: \"Except as otherwise specified in an Order Form, subscriptions will automatically renew for additional one year terms, unless either party gives the other written notice (email acceptable) at least 30 days before the end of the relevant subscription term.\" That is common, but the MSA makes no mention of a renewal deadline.\nCurious if anyone has encountered this, has any advice, or whether I'm simply looking at this wrong."
+   }
+  }
+ ],
+ "how_checked": "saved copy: quote matched word for word against the raw scrape text on 27 Oct 2026; speaker_role=buyer in survey.sqlite; post read in full for signs of selling services (none found)",
+ "follow_up_comment": {
+  "url": "https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o3wzatb/",
+  "date": "2026-02-06",
+  "author": "u/Ok-Dragonfly-8324 (same author as the post)",
+  "file": "raw/reddit_external.jsonl",
+  "text": "This got solved without a lawyer. As best I can tell, contacting Salesforce's legal and ethics team did the trick. https://secure.ethicspoint.com/domain/media/en/gui/7318/index.html"
+ }
+}

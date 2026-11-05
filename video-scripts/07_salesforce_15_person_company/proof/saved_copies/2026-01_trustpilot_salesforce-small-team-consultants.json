@@ -1,0 +1,26 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text (and plain downloads hit a bot check, which we did not try to get around), so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 7: point 3 (people)",
+ "url": "https://www.trustpilot.com/reviews/6979a529f75580561e7f3034",
+ "date": "2026-01-28",
+ "quotes_confirmed_live": [
+  "overly complex, expensive, and heavily reliant on ongoing customisation and third-party consultants",
+  "just to function at a basic level for our workflows for our small team",
+  "Salesforce is not a small business"
+ ],
+ "full_text": {
+  "survey_record_quote": "it has proved overly complex, expensive, and heavily reliant on ongoing customisation and third-party consultants just to function at a basic level for our workflows for our small team.",
+  "live_page_summary": "Title \"Salesforce is not a small business\". Cinty Buxton (AU), 1 star, 28 Jan 2026, 1 review. Small team; complex and expensive, needed customisation and consultants, weak onboarding and reporting; \"For large enterprises with in-house technical teams, Salesforce may be suitable.\" No sign of selling services."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6979a529f75580561e7f3034",
+  "url": "https://www.trustpilot.com/reviews/6979a529f75580561e7f3034",
+  "date": "2026-01-28",
+  "author": "Cinty Buxton",
+  "segment": "A",
+  "pain_tags": "[\"complexity\", \"consultant_dependency\", \"price\", \"rigidity_fit\"]",
+  "quote": "it has proved overly complex, expensive, and heavily reliant on ongoing customisation and third-party consultants just to function at a basic level for our workflows for our small team.",
+  "summary_en": "Small team found Salesforce overly complex and expensive, reliant on ongoing customisation and third-party consultants; reporting short of promises."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

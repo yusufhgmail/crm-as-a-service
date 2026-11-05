@@ -1,0 +1,56 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit blocks automated live checks.",
+ "used_in": "Video 7: point 4 (renewal)",
+ "url": "https://www.reddit.com/r/salesforce/comments/1vi4nl8/salesforce_rep_just_pitched_me_an_85_month/",
+ "date": "2026-08-07",
+ "quotes": [
+  "he threw out that they might be able to do better if I committed to an 85 month term. My guy, I don't even know if software will exist then."
+ ],
+ "full_text": "Was just on the phone with our rep. We're decreasing seats slightly. He was doing the usual song and dance of \"reducing your volume discount\" in a way that magically keeps the total contract the same price as last year.\n\nThen he threw out that they might be able to do better if I committed to an 85 month term. My guy, I don't even know if software will exist then.\n\nDoes this work for them? Anyone else out there got a 7 year Salesforce contract?",
+ "survey_record": {
+  "rec_id": "reddit:t3_1vi4nl8",
+  "url": "https://www.reddit.com/r/salesforce/comments/1vi4nl8/salesforce_rep_just_pitched_me_an_85_month/",
+  "date": "2026-08-07",
+  "author": "u/hayes-davis",
+  "segment": "B",
+  "pain_tags": "[\"contract_renewal\", \"price\", \"seat_growth\"]",
+  "team_size": null,
+  "money_quoted": "[\"85 month term\"]",
+  "quote": "Then he threw out that they might be able to do better if I committed to an 85 month term. My guy, I don't even know if software will exist then.",
+  "summary_en": "Salesforce customer cutting seats slightly says the rep reshuffled discounts to keep the contract price flat and floated an 85-month term for a better deal, which they find absurd.",
+  "speaker_role": "buyer"
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_external.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1vi4nl8/salesforce_rep_just_pitched_me_an_85_month/",
+    "date": "2026-08-07T16:01:46+00:00",
+    "author": "hayes-davis",
+    "title": "Salesforce rep just pitched me an 85 month renewal term",
+    "text": "Was just on the phone with our rep. We're decreasing seats slightly. He was doing the usual song and dance of \"reducing your volume discount\" in a way that magically keeps the total contract the same price as last year.\n\nThen he threw out that they might be able to do better if I committed to an 85 month term. My guy, I don't even know if software will exist then.\n\nDoes this work for them? Anyone else out there got a 7 year Salesforce contract?"
+   }
+  },
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1vi4nl8/salesforce_rep_just_pitched_me_an_85_month/",
+    "date": "2026-08-07",
+    "author": "/u/hayes-davis",
+    "title": "Salesforce rep just pitched me an 85 month renewal term",
+    "text": "Was just on the phone with our rep. We're decreasing seats slightly. He was doing the usual song and dance of \"reducing your volume discount\" in a way that magically keeps the total contract the same price as last year.\n Then he threw out that they might be able to do better if I committed to an 85 month term. My guy, I don't even know if software will exist then.\n Does this work for them? Anyone else out there got a 7 year Salesforce contract?\n        to    r/salesforce"
+   }
+  },
+  {
+   "file": "stage/p1/records.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1vi4nl8/salesforce_rep_just_pitched_me_an_85_month/",
+    "date": "2026-08-07",
+    "author": "u/hayes-davis",
+    "title": "Salesforce rep just pitched me an 85 month renewal term",
+    "text": "Was just on the phone with our rep. We're decreasing seats slightly. He was doing the usual song and dance of \"reducing your volume discount\" in a way that magically keeps the total contract the same price as last year.\nThen he threw out that they might be able to do better if I committed to an 85 month term. My guy, I don't even know if software will exist then.\nDoes this work for them? Anyone else out there got a 7 year Salesforce contract?"
+   }
+  }
+ ],
+ "how_checked": "saved copy: quote matched word for word against the raw scrape text on 27 Oct 2026; speaker_role=buyer in survey.sqlite; post read in full for signs of selling services (none found)"
+}

@@ -1,0 +1,46 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit blocks automated live checks.",
+ "used_in": "Video 7: point 2 (add-ons)",
+ "url": "https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternatives/ol052or/",
+ "date": "2026-05-10",
+ "quotes": [
+  "I shaved a solid $30,000 off our renewal by removing Premier Success from the contract, which our account rep kept including in the Docusign SIX TIMES before finally removing it."
+ ],
+ "full_text": "I shaved a solid $30,000 off our renewal by removing Premier Success from the contract, which our account rep kept including in the Docusign SIX TIMES before finally removing it. Something concerning is going on at Salesforce. Everything feels so desperate and cringy. Honestly I’m getting tired of it.",
+ "survey_record": {
+  "rec_id": "reddit:t1_ol052or",
+  "url": "https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternatives/ol052or/",
+  "date": "2026-05-10",
+  "author": "u/mj2323",
+  "segment": "G",
+  "pain_tags": "[\"price\", \"contract_renewal\"]",
+  "team_size": null,
+  "money_quoted": "[\"$30,000\"]",
+  "quote": "I shaved a solid $30,000 off our renewal by removing Premier Success from the contract, which our account rep kept including in the Docusign SIX TIMES before finally removing it.",
+  "summary_en": "Cut $30,000 from their Salesforce renewal by removing Premier Success, which the account rep re-added to the DocuSign six times, and says they are tired of Salesforce's desperate tactics.",
+  "speaker_role": "buyer"
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternatives/ol052or/",
+    "date": "2026-05-10",
+    "author": "/u/mj2323",
+    "title": "/u/mj2323 on Salesforce Alternatives?",
+    "text": "I shaved a solid $30,000 off our renewal by removing Premier Success from the contract, which our account rep kept including in the Docusign SIX TIMES before finally removing it. Something concerning is going on at Salesforce. Everything feels so desperate and cringy. Honestly I’m getting tired of it."
+   }
+  },
+  {
+   "file": "stage/p1/records.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternatives/ol052or/",
+    "date": "2026-05-10",
+    "author": "u/mj2323",
+    "title": null,
+    "text": "I shaved a solid $30,000 off our renewal by removing Premier Success from the contract, which our account rep kept including in the Docusign SIX TIMES before finally removing it. Something concerning is going on at Salesforce. Everything feels so desperate and cringy. Honestly I’m getting tired of it."
+   }
+  }
+ ],
+ "how_checked": "saved copy: quote matched word for word against the raw scrape text on 27 Oct 2026; speaker_role=buyer in survey.sqlite; post read in full for signs of selling services (none found)"
+}

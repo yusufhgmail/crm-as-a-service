@@ -1,0 +1,25 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Reason 10 (seats)",
+ "url": "https://www.trustpilot.com/reviews/6a6a070f8e25b90490a8b4c6",
+ "date": "2026-07-29",
+ "quotes_confirmed_live": [
+  "We have been using Salesforce for 20 years and now I have to start looking for a replacement"
+ ],
+ "full_text": {
+  "survey_record_quote": "We have been using Salesforce for 20 years and now I have to start looking for a replacement\nRating: 1",
+  "survey_summary": "After 20 years on Salesforce, passkey login change cost days and they were expected to buy an extra license; now looking for a replacement.",
+  "live_page_summary": "Reviewer clive churchward (GB), 1 star, Salesforce, 29 Jul 2026. Passkey login change cost ~3 days; Salesforce wants them to buy an additional licence so someone else can run the business while on holiday; after 20 years now looking for a replacement."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6a6a070f8e25b90490a8b4c6",
+  "url": "https://www.trustpilot.com/reviews/6a6a070f8e25b90490a8b4c6",
+  "date": "2026-07-29",
+  "author": "clive churchward",
+  "segment": "A",
+  "pain_tags": "[\"seat_growth\", \"support\"]",
+  "quote": "We have been using Salesforce for 20 years and now I have to start looking for a replacement\nRating: 1",
+  "summary_en": "After 20 years on Salesforce, passkey login change cost days and they were expected to buy an extra license; now looking for a replacement."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

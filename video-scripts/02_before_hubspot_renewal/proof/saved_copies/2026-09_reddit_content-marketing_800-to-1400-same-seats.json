@@ -1,0 +1,35 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit/X/G2 block automated live checks.",
+ "survey_record": {
+  "url": "https://www.reddit.com/r/content_marketing/comments/1w4ei3u/hubspot_alternative_pricing_has_gotten_completely/",
+  "date": "2026-09-01",
+  "source": "reddit",
+  "quote": "been with HubSpot for 3 years and just got our renewal quote. They want to bump us from like 800/mo to 1400/mo for teh same seats."
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "source": "reddit",
+    "platform_id": "t3_1w4ei3u",
+    "author": "/u/Maximum_Wrangler1552",
+    "author_url": "https://www.reddit.com/user/Maximum_Wrangler1552",
+    "date": "2026-09-01",
+    "url": "https://www.reddit.com/r/content_marketing/comments/1w4ei3u/hubspot_alternative_pricing_has_gotten_completely/",
+    "is_comment": false,
+    "parent_url": null,
+    "title": "HubSpot alternative? pricing has gotten completely ridiculous",
+    "text": "Alright so I've been with HubSpot for 3 years and just got our renewal quote. They want to bump us from like 800/mo to 1400/mo for teh same seats. No new features we'd use, just \"platform improvements\" they say. My boss is already asking why were paying so much for a CRM we barely use half of.\n Started shopping around and tested Pipedrive, monday crm, and close. Pipedrive feels the most similar to HubSpots workflow but without the bloat. Thier automation builder is pretty solid and the mobile app actually works. Close is good if your heavy on calling but felt too sales-focused for our mixed sales/CS team.\n Also grabbed a Prospeo account to compare data enrichment quality since we burn through a lot of enrichment credits on HubSpot. Been catching companies we totally missed before which is nice. Still evaluating everthing but leaning toward Pipedrive + keeping Prospeo for the data side.\n What's everyone else moving to? Trying to make a call before our HubSpot contract auto-renews in like 6 weeks.\n        to    r/content_marketing",
+    "language": "en",
+    "query": "hubspot renewal [sitewide]",
+    "kw_hits": [
+     "hubspot",
+     "pipedrive",
+     "crm",
+     "renewal",
+     "seats"
+    ]
+   }
+  }
+ ]
+}

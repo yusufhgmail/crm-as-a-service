@@ -1,0 +1,27 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Reason 4 (support)",
+ "url": "https://www.trustpilot.com/reviews/6a235a6c9807b36e21a4a010",
+ "date": "2026-06-06",
+ "quotes_confirmed_live": [
+  "We have been with Zoho for 7 years. The support has gone from bad to worse over the years.",
+  "We have had to shut down our business operations for three days",
+  "Our customers are not able to sign up for our services"
+ ],
+ "full_text": {
+  "survey_record_quote": "We have been with Zoho for 7 years. The support has gone from bad to worse over the years.",
+  "survey_summary": "Canadian 7-year customer had operations shut down for three days as paid apps were disabled.",
+  "live_page_summary": "Reviewer 'Zoho User', 1 star, Zoho, 6 Jun 2026 (updated 11 Jun). Paid apps disabled, 3-day shutdown, support could not re-enable, no weekend support. Zoho replied support runs business hours."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6a235a6c9807b36e21a4a010",
+  "url": "https://www.trustpilot.com/reviews/6a235a6c9807b36e21a4a010",
+  "date": "2026-06-06",
+  "author": "Zoho User",
+  "segment": "A",
+  "pain_tags": "[\"support\"]",
+  "quote": "We have been with Zoho for 7 years. The support has gone from bad to worse over the years.",
+  "summary_en": "Canadian 7-year customer had operations shut down for three days as paid apps were disabled."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

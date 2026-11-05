@@ -1,0 +1,25 @@
+{
+ "note": "Saved copy from our survey scrape (Oct 2026). Reddit blocks automated live checks; LinkedIn post body checked live, the author reply is from the saved comment scrape.",
+ "url": "https://www.reddit.com/r/hubspot/comments/1rrrdco/creating_deals_without_adding_them_to_a_pipeline/",
+ "date": "2026-03-12",
+ "quote": "since Hubspot won't let me buy a third Pipeline without having to pay for 15 with the next level of Sales Pro ... I truly don't want to pay $5000 extra a year for 14 extra Pipelines I won't be using.",
+ "raw_file": "raw/reddit_threads.jsonl",
+ "full_text_record": {
+  "source": "reddit",
+  "platform_id": "t3_1rrrdco",
+  "author": "/u/Minute-Somewhere-504",
+  "author_url": "https://www.reddit.com/user/Minute-Somewhere-504",
+  "date": "2026-03-12",
+  "url": "https://www.reddit.com/r/hubspot/comments/1rrrdco/creating_deals_without_adding_them_to_a_pipeline/",
+  "is_comment": false,
+  "parent_url": null,
+  "title": "Creating Deals without adding them to a Pipeline. Possible? (Can't buy just one more)",
+  "text": "One of my main grudges with Hubspot, is the new pricing model. Right now, I have two Deal Pipelines. I'm giving one of them to two different B2B branches within my company, but I algo have other branches that deal with B2C and just create \"Closed Won\" deals based on Ecommerce hits. Right now, one of the Pipelines is being used by all these B2C Deals, and I'd love to give them this Pipeline to my B2B branch.\n But, since Hubspot won't let me buy a third Pipeline without having to pay for 15 with the next level of Sales Pro, I'm thinking of leaving my B2C Deals without a Pipeline, just as objects. I don't know it can be done, since Pipelines are the basic view tables, but I'm hoping it's possible.\n I know I can create one Stage that's called like \"Closed Deals (All)\" in one of my Pipelines and just put them all in there, that is the current plan, but I'd love to not have to do that to keep them as clean as possible.\n Is there any chance of doing this? Any other option I'm not considering for people who has dealt with this? I truly don't want to pay $5000 extra a year for 14 extra Pipelines I won't be using.\n Thank you!\n        to    r/hubspot",
+  "language": "en",
+  "query": "leaving hubspot [relevance]",
+  "kw_hits": [
+   "hubspot"
+  ]
+ },
+ "checked": "saved copy, read in full 27 Oct 2026 by the video 6 worker; speaker is a buyer (first-person company owner/employee)"
+}

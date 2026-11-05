@@ -1,0 +1,27 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Hook",
+ "url": "https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f",
+ "date": "2026-07-01",
+ "quotes_confirmed_live": [
+  "After more than $10k of development, it became apparent that the portal would not meet our needs, and it was abandoned.",
+  "Then, Salesforce would not allow us to revert to a more affordable plan that would meet our needs.",
+  "Now I'm trying to migrate to Hubspot and just learned that Salesforce has deleted all of our data!"
+ ],
+ "full_text": {
+  "survey_record_quote": "After more than $10k of development, it became apparent that the portal would not meet our needs, and it was abandoned.",
+  "survey_summary": "Upgraded to Enterprise and spent over $10k on a custom portal that was abandoned; could not revert to cheaper plan; now migrating to HubSpot and data deleted.",
+  "live_page_summary": "Reviewer David Shelton (US), 1 star, Salesforce, posted 1 Jul 2026. Enterprise upgrade, $10k+ custom portal abandoned, not allowed to revert to a cheaper plan, data deleted while migrating to HubSpot. No sign of selling services."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6a444da03bbe8f2c5cc5eb7f",
+  "url": "https://www.trustpilot.com/reviews/6a444da03bbe8f2c5cc5eb7f",
+  "date": "2026-07-01",
+  "author": "David Shelton",
+  "segment": "D",
+  "pain_tags": "[\"price\", \"tier_jump\", \"consultant_dependency\", \"data_ownership\"]",
+  "quote": "After more than $10k of development, it became apparent that the portal would not meet our needs, and it was abandoned.",
+  "summary_en": "Upgraded to Enterprise and spent over $10k on a custom portal that was abandoned; could not revert to cheaper plan; now migrating to HubSpot and data deleted."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

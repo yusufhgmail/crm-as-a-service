@@ -1,0 +1,66 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit/X/G2 block automated live checks.",
+ "survey_record": {
+  "url": "https://www.reddit.com/r/hubspot/comments/1r7g40q/hubspot_contract_renewal_nightmare/o5xekyt/",
+  "date": "2026-02",
+  "source": "seed:crm_us_round2",
+  "quote": "I’m so on the fence about renewing for my business. I too used to be an evangelist. Experience has suffered of the years."
+ },
+ "raw_hits": [
+  {
+   "file": "raw/reddit_external.jsonl",
+   "record": {
+    "thread_id": "1r7g40q",
+    "subreddit": "hubspot",
+    "url": "https://www.reddit.com/r/hubspot/comments/1r7g40q/hubspot_contract_renewal_nightmare/",
+    "parent_id": null,
+    "is_comment": false,
+    "author": "cameo11",
+    "date": "2026-02-17T19:30:34+00:00",
+    "score": null,
+    "title": "HubSpot contract renewal nightmare",
+    "text": "I had an absolute horrendous experience with HubSpot about a week ago. To the point where I've gone from a HubSpot \"evangelist\" to a hater now. I was looking to downgrade from Pro to Starter for a subbrand of a client company that was not going to be a focus for the year.\n\nMy account manager transferred me to \"contracts\" to handle this. All of the sudden, my account manager can't deal with downgrades, only upgrades.\n\nDealing with contracts is essentially the renewal version of procurement. \"Camilo\" over there offered me discounts on Pro a few times, and I had to say no a few times. Then he gave me a Starter renewal but slipped in credits and seats we didn't need. I asked to remove those the day before the deadline. I then get an email bright and early the next day saying the contract has been renewed for a full year at full prices, and pointed me to the legalese in the terms.\n\nI can't believe it and I'm still fighting this. I thought HubSpot would be kind and honor the fact that I asked for a change before the deadline, and now they're throwing the rulebook at me.\n\nHere's what I recommend everyone do:\n\n1. Turn off auto-renew on the contract - they are pointing to that as the reason they can't help at this point\n\n2. Have a backup system in place somehow - I know this is double the work, but you need optionality. You don't want to be stuck in the Salesforce / HubSpot duality\n\n3. Keep an eye on upstart AI-native alternatives - like Day AI, Attio, Monaco. Also keep an eye on Apollo (great experience with support), Pipedrive, and honestly you can do a lot stitching together other stuff. I still look to my Gravity Forms notification in my inbox anytime I get a form fill, and I email them from Gmail. HubSpot is there on that flow for logging at this point. HubSpot has predatory pricing. Even on the Pro plan, if you use their CMS, they limit you to 30 website pages unless you fork over another few hundred $$ a month.\n\n4. For small businesses, you probably don't need a full CRM and marketing automation system until it's so painful that you must, and you know you need to. Across the HubSpot instances I've seen, many only need or use 20% of features.\n\n5. HubSpot has become very bloated and more enterprisey, which is where the big deals are.\n\nUpdate: Thanks to the help from this Reddit post and the HubSpot social team they were able to get the right person involved to solve this issue and honor the downgrade from Pro to Starter with the removed items. Still a frustrating experience, but glad that's over now. Thank you!",
+    "search_query": "hubspot renewal"
+   }
+  },
+  {
+   "file": "raw/reddit_threads.jsonl",
+   "record": {
+    "source": "reddit",
+    "platform_id": "t3_1r7g40q",
+    "author": "/u/cameo11",
+    "author_url": "https://www.reddit.com/user/cameo11",
+    "date": "2026-02-17",
+    "url": "https://www.reddit.com/r/hubspot/comments/1r7g40q/hubspot_contract_renewal_nightmare/",
+    "is_comment": false,
+    "parent_url": null,
+    "title": "HubSpot contract renewal nightmare",
+    "text": "I had an absolute horrendous experience with HubSpot about a week ago. To the point where I've gone from a HubSpot \"evangelist\" to a hater now. I was looking to downgrade from Pro to Starter for a subbrand of a client company that was not going to be a focus for the year.\n My account manager transferred me to \"contracts\" to handle this. All of the sudden, my account manager can't deal with downgrades, only upgrades.\n Dealing with contracts is essentially the renewal version of procurement. \"Camilo\" over there offered me discounts on Pro a few times, and I had to say no a few times. Then he gave me a Starter renewal but slipped in credits and seats we didn't need. I asked to remove those the day before the deadline. I then get an email bright and early the next day saying the contract has been renewed for a full year at full prices, and pointed me to the legalese in the terms.\n I can't believe it and I'm still fighting this. I thought HubSpot would be kind and honor the fact that I asked for a change before the deadline, and now they're throwing the rulebook at me.\n Here's what I recommend everyone do:\n  Turn off auto-renew on the contract - they are pointing to that as the reason they can't help at this point\n Have a backup system in place somehow - I know this is double the work, but you need optionality. You don't want to be stuck in the Salesforce / HubSpot duality\n Keep an eye on upstart AI-native alternatives - like Day AI, Attio, Monaco. Also keep an eye on Apollo (great experience with support), Pipedrive, and honestly you can do a lot stitching together other stuff. I still look to my Gravity Forms notification in my inbox anytime I get a form fill, and I email them from Gmail. HubSpot is there on that flow for logging at this point. HubSpot has predatory pricing. Even on the Pro plan, if you use their CMS, they limit you to 30 website pages unless you fork over another few hundred $$ a month.\n For small businesses, you probably don't need a full CRM and marketing automation system until it's so painful that you must, and you know you need to. Across the HubSpot instances I've seen, many only need or use 20% of features.\n HubSpot has become very bloated and more enterprisey, which is where the big deals are.\n  Update: Thanks to the help from this Reddit post and the HubSpot social team they were able to get the right person involved to solve this issue and honor the downgrade from Pro to Starter with the removed items. Still a frustrating experience, but glad that's over now. Thank you!\n        to    r/hubspot",
+    "language": "en",
+    "query": "hubspot renewal [relevance]",
+    "kw_hits": [
+     "hubspot",
+     "salesforce",
+     "pipedrive",
+     "crm",
+     "renewal",
+     "seats",
+     "attio"
+    ]
+   }
+  },
+  {
+   "file": "raw/reddit_search.jsonl",
+   "record": {
+    "id": "t3_1r7g40q",
+    "author": "/u/cameo11",
+    "title": "HubSpot contract renewal nightmare",
+    "updated": "2026-02-17T19:30:34+00:00",
+    "link": "https://www.reddit.com/r/hubspot/comments/1r7g40q/hubspot_contract_renewal_nightmare/",
+    "content_html": "<!-- SC_OFF --><div class=\"md\"><p>I had an absolute horrendous experience with HubSpot about a week ago. To the point where I&#39;ve gone from a HubSpot &quot;evangelist&quot; to a hater now. I was looking to downgrade from Pro to Starter for a subbrand of a client company that was not going to be a focus for the year.</p> <p>My account manager transferred me to &quot;contracts&quot; to handle this. All of the sudden, my account manager can&#39;t deal with downgrades, only upgrades.</p> <p>Dealing with contracts is essentially the renewal version of procurement. &quot;Camilo&quot; over there offered me discounts on Pro a few times, and I had to say no a few times. Then he gave me a Starter renewal but slipped in credits and seats we didn&#39;t need. I asked to remove those the day before the deadline. I then get an email bright and early the next day saying the contract has been renewed for a full year at full prices, and pointed me to the legalese in the terms.</p> <p>I can&#39;t believe it and I&#39;m still fighting this. I thought HubSpot would be kind and honor the fact that I asked for a change before the deadline, and now they&#39;re throwing the rulebook at me.</p> <p>Here&#39;s what I recommend everyone do:</p> <ol> <li>Turn off auto-renew on the contract - they are pointing to that as the reason they can&#39;t help at this point</li> <li>Have a backup system in place somehow - I know this is double the work, but you need optionality. You don&#39;t want to be stuck in the Salesforce / HubSpot duality</li> <li>Keep an eye on upstart AI-native alternatives - like Day AI, Attio, Monaco. Also keep an eye on Apollo (great experience with support), Pipedrive, and honestly you can do a lot stitching together other stuff. I still look to my Gravity Forms notification in my inbox anytime I get a form fill, and I email them from Gmail. HubSpot is there on that flow for logging at this point. HubSpot has predatory pricing. Even on the Pro plan, if you use their CMS, they limit you to 30 website pages unless you fork over another few hundred $$ a month.</li> <li>For small businesses, you probably don&#39;t need a full CRM and marketing automation system until it&#39;s so painful that you must, and you know you need to. Across the HubSpot instances I&#39;ve seen, many only need or use 20% of features.</li> <li>HubSpot has become very bloated and more enterprisey, which is where the big deals are.</li> </ol> <p><strong>Update:</strong> Thanks to the help from this Reddit post and the HubSpot social team they were able to get the right person involved to solve this issue and honor the downgrade from Pro to Starter with the removed items. Still a frustrating experience, but glad that&#39;s over now. Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cameo11\"> /u/cameo11 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/hubspot/\"> r/hubspot </a> <br/> <span><a href=\"https://www.reddit.com/r/hubspot/comments/1r7g40q/hubspot_contract_renewal_nightmare/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hubspot/comments/1r7g40q/hubspot_contract_renewal_nightmare/\">[comments]</a></span>",
+    "_sub": "salesforce+hubspot+CRM+CRMSoftware+revops+sales+smallbusiness+Entrepreneur+SaaS+startups+msp+realestate+Construction+sysadmin",
+    "_query": "hubspot seats"
+   }
+  }
+ ]
+}

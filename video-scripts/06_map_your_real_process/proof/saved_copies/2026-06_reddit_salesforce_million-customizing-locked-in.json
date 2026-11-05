@@ -1,0 +1,20 @@
+{
+ "note": "Saved copy from our survey scrape (Oct 2026). Reddit blocks automated live checks; LinkedIn post body checked live, the author reply is from the saved comment scrape.",
+ "url": "https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is_losing_their_customers_and/or8y0aq/",
+ "date": "2026-06-12",
+ "quote": "Even though it's supposed to be turn key we spent a million bucks customizing it to our business. So now we're locked in. ... He said they never totally replaced the old system as it could do things SalesForce could not.",
+ "raw_file": "raw/reddit_external_comments.jsonl",
+ "full_text_record": {
+  "thread_id": "1u26ioc",
+  "subreddit": "salesforce",
+  "url": "https://www.reddit.com/r/salesforce/comments/1u26ioc/i_think_salesforce_is_losing_their_customers_and/or8y0aq/",
+  "parent_id": null,
+  "is_comment": true,
+  "author": "BCReason",
+  "date": "2026-06-12T15:37:21+00:00",
+  "score": null,
+  "title": "I think Salesforce is losing their customers and consultants",
+  "text": "I was a database developer at a company that decided to switch to SalesForce. I fought hard against it. The entire concept of not being able to host it yourself if you wanted to was a bad idea.\n\nEven though it’s supposed to be turn key we spent a million bucks customizing it to our business. So now we’re locked in. If SalesForce decides to raise the price 10 times we’re stuck. We can’t just buy the software outright and run it ourselves. SalesForce can do anything they want and there’s not much we can do.\n\nI started learning to develop in it and was continuously frustrated by its limitations. It was very primitive compared to what we had been using. Of course they laid me off rather than send me on a course. Six years later I met up with one of the other developers. He said they never totally replaced the old system as it could do things SalesForce could not.\nThe users hated it as the interface was ugly, cumbersome and slow. To me SalesForce has very good marketing and very poor software."
+ },
+ "checked": "saved copy, read in full 27 Oct 2026 by the video 6 worker; speaker is a buyer (first-person company owner/employee)"
+}

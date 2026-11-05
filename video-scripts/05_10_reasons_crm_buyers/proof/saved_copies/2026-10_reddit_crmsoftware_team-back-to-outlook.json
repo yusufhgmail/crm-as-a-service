@@ -1,0 +1,26 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit blocks automated live checks.",
+ "used_in": "Video 5: Reason 8 (adoption)",
+ "url": "https://www.reddit.com/r/CRMSoftware/comments/1wz1yw8/our_biggest_sales_problem_is_followup_would_a_b2b/",
+ "date": "2026-10-06",
+ "quotes": [
+  "tried getting the team into CRMs before, but the enthusiasm dies when every phone call creates another list of fields to update and deals to drag across stages.",
+  "After a few weeks, people go back to Outlook reminders and their own notes.",
+  "You said you'd call this customer in 30 days. It's been 32."
+ ],
+ "full_text": "Our biggest sales problem is follow-up. Would a B2B sales CRM even fix it? One major problem we are facing now is not finding companies to sell to. It's remembering to call them again at the right time. I manage sales for an industrial safety equipment supplier in Pennsylvania. There are 6 of us on the sales team, and most of the companies we deal with can become repeat customers once we get our foot in the door. A normal prospect might take months to go anywhere. We'll identify a manufacturing plant we want to work with, spend a few calls finding the person responsible for safety or procurement, finally get through to them and then wait. Maybe they're interested but their current supplier contract doesn't end until February. Maybe they want us to check back after their next budget cycle. Maybe we send samples and need to call again in three weeks. Maybe we quote them and hear nothing for two months. That's where we keep losing opportunities. I've tried getting the team into CRMs before, but the enthusiasm dies when every phone call creates another list of fields to update and deals to drag across stages. After a few weeks, people go back to Outlook reminders and their own notes. Then I have zero visibility into what's being followed up and what's quietly dying. I'm willing to try a B2B sales CRM again, but this time I want something built around the way we work rather than forcing the team into some elaborate process. If calls and emails could log themselves, even better. What I really want is for the system to tell a rep, \"You said you'd call this customer in 30 days. It's been 32.\" We don't need inventory, manufacturing or a million marketing features. Quotes are handled elsewhere. Give me customer history, contact management, automatic call/email logging, reminders and a way to see whether my team is staying on top of their accounts. Is there a B2B sales CRM that does this well without becoming another admin job? Or am I expecting the CRM to solve a follow-up discipline problem that the team needs to fix first? submitted by /u/Tranon_KALA_1264 to r/CRMSoftware [link] [comments]",
+ "survey_record": {
+  "rec_id": "reddit:t3_1wz1yw8",
+  "url": "https://www.reddit.com/r/CRMSoftware/comments/1wz1yw8/our_biggest_sales_problem_is_followup_would_a_b2b/",
+  "date": "2026-10-06",
+  "author": "u/Tranon_KALA_1264",
+  "segment": "A",
+  "pain_tags": "[\"adoption\", \"complexity\", \"rigidity_fit\"]",
+  "team_size": "6-person sales team",
+  "industry": "industrial safety equipment",
+  "quote": "tried getting the team into CRMs before, but the enthusiasm dies when every phone call creates another list of fields to update and deals to drag across stages.",
+  "summary_en": "Sales manager of a six-person industrial safety supplier says past CRM attempts died because field updating was too heavy, and wants a CRM built around follow-up reminders and auto-logging.",
+  "speaker_evidence": "'I manage sales for an industrial safety equipment supplier in Pennsylvania. There are 6 of us on the sales team'"
+ },
+ "how_checked": "saved copy (raw/reddit_search.jsonl); post read in full; author speaks as sales manager of a 6-person team at an industrial safety supplier (buyer)"
+}

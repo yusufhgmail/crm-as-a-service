@@ -1,0 +1,25 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Regret insight",
+ "url": "https://www.trustpilot.com/reviews/6a286f4cb8d9494ce5c310aa",
+ "date": "2026-06-09",
+ "quotes_confirmed_live": [
+  "we made the worst decision ever years ago to switch to sf and it had put our company on a terrible path."
+ ],
+ "full_text": {
+  "survey_record_quote": "we made the worst decision ever years ago to switch to sf and it had put our company on a terrible path.",
+  "survey_summary": "Company switched to Salesforce years ago and calls it the worst decision, would be better off on paper.",
+  "live_page_summary": "Reviewer Marshall Morgan (US), 1 star, Salesforce, 9 Jun 2026. Short review; no detail; no sign of selling services."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6a286f4cb8d9494ce5c310aa",
+  "url": "https://www.trustpilot.com/reviews/6a286f4cb8d9494ce5c310aa",
+  "date": "2026-06-09",
+  "author": "Marshall Morgan",
+  "segment": "D",
+  "pain_tags": "[\"rigidity_fit\"]",
+  "quote": "we made the worst decision ever years ago to switch to sf and it had put our company on a terrible path.",
+  "summary_en": "Company switched to Salesforce years ago and calls it the worst decision, would be better off on paper."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

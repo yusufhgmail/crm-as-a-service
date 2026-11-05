@@ -1,0 +1,21 @@
+{
+ "note": "Saved copy from our survey scrape (Oct 2026). Reddit blocks automated live checks; LinkedIn post body checked live, the author reply is from the saved comment scrape.",
+ "url": "https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_or_move_to_salesforce_need/",
+ "date": "2026-03-04",
+ "quote": "With more than 2,000 active contracts, more than 10 million of ARR and an additional 600–800 upgrades or downgrades per year, managing everything is becoming increasingly complex and time-consuming. ... instead of manually calculating everything in Excel as we do today.",
+ "raw_file": "raw/reddit_external.jsonl",
+ "full_text_record": {
+  "thread_id": "1rkr6sr",
+  "subreddit": "hubspot",
+  "url": "https://www.reddit.com/r/hubspot/comments/1rkr6sr/cpq_billing_in_hubspot_or_move_to_salesforce_need/",
+  "parent_id": null,
+  "is_comment": false,
+  "author": "HS-TG",
+  "date": "2026-03-04T17:12:23+00:00",
+  "score": null,
+  "title": "CPQ & Billing in HubSpot or Move to Salesforce? Need Advice for Scaling SaaS",
+  "text": "Hi guys,\n\nI structured the text with ChatGPT:\n\nWe’re a SaaS company based in Germany with around 110 employees. We’re currently using HubSpot across Marketing, Sales and account management, and potentially also Service in the future. Overall, we’re quite satisfied with the HubSpot implementation so far.\n\nHowever, we’ve realized that we’re not well set up when it comes to contract management. HubSpot doesn’t seem to offer a suitable solution for our needs. With more than 2,000 active contracts, more than 10 million of ARR and an additional 600–800 upgrades or downgrades per year, managing everything is becoming increasingly complex and time-consuming. We are growing by 40% per year in ARR.\n\nLike many SaaS companies, we also operate with multiple pricing models in the market (at least three). We try to align them over time, but due to significant pricing changes, it’s not always possible to standardize everything from one date to another.\n\nOur Sales team consists of around 20 people, Account Management also has about 20 people, and Marketing has 15 team members. We’re currently looking for a solution that allows us to properly manage the entire subscription lifecycle — ideally including a CPQ process, subscription management, and billing. For example, when a customer upgrades, we’d like to pull data directly from the database and calculate the price adjustment automatically with the click of a button, instead of manually calculating everything in Excel as we do today.\n\nIf you have experience with tools that handle this well in a professional SaaS environment, we’d really appreciate your recommendations.\n\nWe’re also planning to take a closer look at chargebee and see whether we can use it to simplify and enhance our internal processes (e.g., around mapping or structuring our current setup). However, so far we haven’t found a tool in the market that we’re fully convinced is the right fit.\n\nIn the worst case, we might have to consider switching the CRM side (Sales and account management) to Salesforce and keep only Marketing in HubSpot, since we know that Salesforce can handle complex billing logic and subscription management. However, that would be our less preferred option, as we’d really like to stay within the HubSpot ecosystem if possible.\n\nTLDR: We’re looking for a solid CPQ + subscription management + billing solution (ideally as a native HubSpot app or strong integration) to properly manage 2,000+ SaaS contracts including frequent upgrades/downgrades — without switching our CRM to Salesforce if possible.\n\nLooking forward to your thoughts and recommendations!",
+  "search_query": "hubspot price increase"
+ },
+ "checked": "saved copy, read in full 27 Oct 2026 by the video 6 worker; speaker is a buyer (first-person company owner/employee)"
+}

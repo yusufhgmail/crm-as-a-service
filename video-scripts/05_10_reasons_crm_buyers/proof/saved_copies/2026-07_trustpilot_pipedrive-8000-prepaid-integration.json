@@ -1,0 +1,26 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Reason 5 (integration)",
+ "url": "https://www.trustpilot.com/reviews/6a54ca3777ef6cfb1a59ba27",
+ "date": "2026-07-13",
+ "quotes_confirmed_live": [
+  "prepaid nearly $8,000 for a full year of Pipedrive because their sales team assured me there was a smooth, working integration with QuoteWerks.",
+  "We spent three full months actively trying to make it work, but it never functioned properly."
+ ],
+ "full_text": {
+  "survey_record_quote": "prepaid nearly $8,000 for a full year of Pipedrive because their sales team assured me there was a smooth, working integration with QuoteWerks.",
+  "survey_summary": "Small Vermont business prepaid nearly $8,000 for a year of Pipedrive on promise of a QuoteWerks integration that was broken from day one.",
+  "live_page_summary": "Reviewer Rex Accavallo (US), 1 star, Pipedrive, 13 Jul 2026. Small Vermont business. Pipedrive's reply: it did not develop the QuoteWerks integration; no-refund policy."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6a54ca3777ef6cfb1a59ba27",
+  "url": "https://www.trustpilot.com/reviews/6a54ca3777ef6cfb1a59ba27",
+  "date": "2026-07-13",
+  "author": "Rex Accavallo",
+  "segment": "A",
+  "pain_tags": "[\"integration\", \"price\", \"contract_renewal\"]",
+  "quote": "prepaid nearly $8,000 for a full year of Pipedrive because their sales team assured me there was a smooth, working integration with QuoteWerks.",
+  "summary_en": "Small Vermont business prepaid nearly $8,000 for a year of Pipedrive on promise of a QuoteWerks integration that was broken from day one."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

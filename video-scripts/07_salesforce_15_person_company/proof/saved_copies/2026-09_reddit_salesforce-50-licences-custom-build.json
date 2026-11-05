@@ -1,0 +1,36 @@
+{
+ "note": "Saved copy collected by our survey scrape (Oct 2026). Reddit blocks automated live checks.",
+ "used_in": "Video 7: point 5 (own software)",
+ "url": "https://www.reddit.com/r/CRMSoftware/comments/1wkpmnz/anyone_here_successfully_move_off_salesforce/pasfa5b/",
+ "date": "2026-09-19",
+ "quotes": [
+  "We’re spending close to $100k per year on 50ish Salesforce licenses. It will cost me less than half that to finish the new system and handle ongoing hosting."
+ ],
+ "full_text": "Going through this right now with a custom solution. The economics of it are undeniable. We’re spending close to $100k per year on 50ish Salesforce licenses. It will cost me less than half that to finish the new system and handle ongoing hosting.",
+ "survey_record": {
+  "rec_id": "seed:companynative_all_leads_full_oct25:dafce1828f78",
+  "url": "https://www.reddit.com/r/CRMSoftware/comments/1wkpmnz/anyone_here_successfully_move_off_salesforce/pasfa5b/",
+  "date": "2026-09-19",
+  "author": "u/PablanoPato",
+  "segment": "A2",
+  "pain_tags": "[\"price\", \"seat_growth\"]",
+  "team_size": "50ish Salesforce licenses",
+  "money_quoted": "[\"close to $100k per year\"]",
+  "quote": "Going through this right now with a custom solution. The economics of it are undeniable. We’re spending close to $100k per year on 50ish Salesforce licenses. It will cost me less than half that to finish the new system and handle ongoing hosting.",
+  "summary_en": "A buyer paying close to $100k/yr for about 50 Salesforce licenses is mid-way through a custom replacement expected to cost under half that including hosting.",
+  "speaker_role": "buyer"
+ },
+ "raw_hits": [
+  {
+   "file": "stage/p1/records.jsonl",
+   "record": {
+    "url": "https://www.reddit.com/r/CRMSoftware/comments/1wkpmnz/anyone_here_successfully_move_off_salesforce/pasfa5b/",
+    "date": "2026-09-19",
+    "author": "u/PablanoPato",
+    "title": null,
+    "text": "Going through this right now with a custom solution. The economics of it are undeniable. We’re spending close to $100k per year on 50ish Salesforce licenses. It will cost me less than half that to finish the new system and handle ongoing hosting."
+   }
+  }
+ ],
+ "how_checked": "saved copy: quote matched word for word against the raw scrape text on 27 Oct 2026; speaker_role=buyer in survey.sqlite; post read in full for signs of selling services (none found)"
+}

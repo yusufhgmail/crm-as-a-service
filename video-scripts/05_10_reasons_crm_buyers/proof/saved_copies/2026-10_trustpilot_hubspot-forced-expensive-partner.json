@@ -1,0 +1,27 @@
+{
+ "note": "Trustpilot is checked live. WebFetch (27 Oct 2026) confirmed each quoted phrase is on the page; the tool does not return full verbatim text, so full_text holds the survey record plus the live-check summary.",
+ "used_in": "Video 5: Reason 9 (consultant dependency)",
+ "url": "https://www.trustpilot.com/reviews/6adf21103df1c059a67db03d",
+ "date": "2026-10-26",
+ "quotes_confirmed_live": [
+  "were forced to hire an expensive external partner just to handle the basic system setup.",
+  "These unforeseen contract increases severely crippled our cash flow.",
+  "they automatically charged us for hidden add-ons without our consent"
+ ],
+ "full_text": {
+  "survey_record_quote": "were forced to hire an expensive external partner just to handle the basic system setup.",
+  "survey_summary": "Faced vendor lock-in, had to hire an expensive external partner for basic setup, and was auto-charged for hidden add-ons.",
+  "live_page_summary": "Reviewer Rory Jackson (GB), 1 review, 1 star, HubSpot, 26 Oct 2026. Felt locked in, paid outside firm for basic setup, charged for add-ons without consent. No sign of selling services."
+ },
+ "survey_record": {
+  "rec_id": "trustpilot:6adf21103df1c059a67db03d",
+  "url": "https://www.trustpilot.com/reviews/6adf21103df1c059a67db03d",
+  "date": "2026-10-26",
+  "author": "Rory Jackson",
+  "segment": "D",
+  "pain_tags": "[\"consultant_dependency\", \"contract_renewal\", \"price\"]",
+  "quote": "were forced to hire an expensive external partner just to handle the basic system setup.",
+  "summary_en": "Faced vendor lock-in, had to hire an expensive external partner for basic setup, and was auto-charged for hidden add-ons."
+ },
+ "how_checked": "checked live 27 Oct 2026 with WebFetch on the review page; reviewer checked for signs of selling services (none found)"
+}

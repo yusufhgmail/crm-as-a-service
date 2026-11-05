@@ -1,0 +1,41 @@
+{
+ "url": "https://www.g2.com/products/hubspot-marketing-hub/reviews/hubspot-marketing-hub-review-13161673",
+ "date": "2026-07-24",
+ "source": "g2",
+ "quote": "We signed a 36-month Professional Customer Platform contract in October 2024 covering five Hubs at approximately $14,248/year. ... Marketing Hub, Content Hub, and Operations Hub were never activated. ... We use it for basic CRM and help desk ticketing — both of which are available on HubSpot's free tier.",
+ "speaker": "Brian S., Founder & CEO, Small-Business (50 or fewer emp.), validated reviewer (buyer)",
+ "how_checked": "saved copy: from our 2026 survey scrape; this site blocks automated reading, so not opened live",
+ "full_text": {
+  "type": "review",
+  "review_id": 13161673,
+  "review_title": "Required onboarding never delivered — then locked into a 3-year contract",
+  "review_content": "The CRM and help desk ticketing work well for basic contact management and support workflows. The interface is clean and the ticket pipeline is easy to use. HubSpot's own legal catalog and website state that onboarding is \"required\" for Professional-tier purchases. We signed a 36-month Professional Customer Platform contract in October 2024 covering five Hubs at approximately $14,248/year. Onboarding was never delivered, never charged, and never documented as waived. No implementation specialist was assigned. No customer success owner was transitioned to. In 18 months, proactive outreach to me as the account owner consisted of one mass webinar invite, one third-party audit upsell, and one automated drip sequence. Only 2.2% of our contacts ever received a marketing email. Marketing Hub, Content Hub, and Operations Hub were never activated. When I raised this, three HubSpot employees confirmed in writing that onboarding is \"described as a required service.\" HubSpot refused all contract modifications and offered to sell me discounted onboarding instead. We use it for basic CRM and help desk ticketing — both of which are available on HubSpot's free tier. We have not been able to realize value from Marketing Hub, Content Hub, or Operations Hub due to the lack of onboarding and customer success support.",
+  "review_question_answers": {
+   "What do you like best about HubSpot Marketing Hub?": "The CRM and help desk ticketing work well for basic contact management and support workflows. The interface is clean and the ticket pipeline is easy to use.",
+   "What do you dislike about HubSpot Marketing Hub?": "HubSpot's own legal catalog and website state that onboarding is \"required\" for Professional-tier purchases. We signed a 36-month Professional Customer Platform contract in October 2024 covering five Hubs at approximately $14,248/year. Onboarding was never delivered, never charged, and never documented as waived. No implementation specialist was assigned. No customer success owner was transitioned to. In 18 months, proactive outreach to me as the account owner consisted of one mass webinar invite, one third-party audit upsell, and one automated drip sequence. Only 2.2% of our contacts ever received a marketing email. Marketing Hub, Content Hub, and Operations Hub were never activated. When I raised this, three HubSpot employees confirmed in writing that onboarding is \"described as a required service.\" HubSpot refused all contract modifications and offered to sell me discounted onboarding instead.",
+   "What problems is HubSpot Marketing Hub solving and how is that benefiting you?": "We use it for basic CRM and help desk ticketing — both of which are available on HubSpot's free tier. We have not been able to realize value from Marketing Hub, Content Hub, or Operations Hub due to the lack of onboarding and customer success support."
+  },
+  "review_rating": 0,
+  "reviewer": {
+   "reviewer_id": 623711,
+   "reviewer_name": "Brian S.",
+   "reviewer_job_title": "Founder &amp; CEO",
+   "business_size": "Small-Business (50 or fewer emp.)"
+  },
+  "publish_date": "2026-07-24T11:45:05-05:00",
+  "modified_date": "2026-07-24T11:45:05-05:00",
+  "validated_reviewer": true,
+  "incentivized": false,
+  "ai_translated": false,
+  "review_source": "Organic",
+  "video_review": false,
+  "product_slug": "hubspot-marketing-hub",
+  "product_name": "HubSpot Marketing Hub",
+  "product_id": 364,
+  "product_uuid": "1a370c2e-6499-4095-952d-dbe542694fed",
+  "vendor_id": 316,
+  "review_link": "https://www.g2.com/products/hubspot-marketing-hub/reviews/hubspot-marketing-hub-review-13161673",
+  "company_domain": "hubspot.com",
+  "company_website": "https://hubspot.com"
+ }
+}
