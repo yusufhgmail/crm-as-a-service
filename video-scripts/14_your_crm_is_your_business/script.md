@@ -232,7 +232,7 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 >
 > And he's right that owning code isn't the point. Nobody should pay for ownership as a trophy. If your rented CRM does what your team needs, and the price is fair, then just keep renting.
 >
-> So here's the question. Is the way you sell and market what sets you apart from your competitors? If it is, that's when you want your own CRM, because that's what wins you deals. If it won't change your business, it doesn't really matter.
+> So here's the question. Is the way you sell and market what sets you apart from your competitors? If it is, that's when you want your own CRM. On a rented one, you run on the process the vendor decided on, the same as everyone else who uses it. In your own, your style goes in, and your process, and which deals you take and which you turn down. That becomes your company's personality, and a competitor can't just rent it. But if it won't change your business, it doesn't really matter.
 
 
 ## 9:00 What we do

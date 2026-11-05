@@ -39,7 +39,7 @@
       "date": "2026-11-05"
     },
     "09_crm_software_is_dead": {
-      "sha": "4799d0265e48eaf8",
+      "sha": "8dff01016027e9bc",
       "scores": [
         8.0,
         8.0
@@ -77,15 +77,6 @@
       "sha": "f68f225599391f35",
       "scores": [
         6.0,
-        7.0,
-        8.0,
-        8.0
-      ],
-      "date": "2026-11-05"
-    },
-    "14_your_crm_is_your_business": {
-      "sha": "47f620faae81017c",
-      "scores": [
         7.0,
         8.0,
         8.0
@@ -207,6 +198,14 @@
     },
     "18_keep_your_own_crm_running": {
       "sha": "12c77d39094ddd3c",
+      "scores": [
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "14_your_crm_is_your_business": {
+      "sha": "90b9bbcbb439e4a0",
       "scores": [
         8.0,
         8.0

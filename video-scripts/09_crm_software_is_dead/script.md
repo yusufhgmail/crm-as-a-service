@@ -139,6 +139,11 @@ Link: https://yusufyoung.com/how-the-software-industry-will-change-when-developm
 >
 > For years you had two choices. You could rent a standard CRM and bend to fit it, or you could pay a fortune for a custom build. But now there's actually a third option. You get a CRM built around how you sell and deliver, and a twenty-person company can afford it. And the code belongs to you.
 
+**ON SCREEN:** two tags, one per sentence: **Rented: their process** · **Built: your way of doing business**. Then one line, big: **Your competitor can rent the same CRM. They can't rent that.**
+
+**YUSUF:**
+> And here's the part that matters most. When you rent a CRM, you run your company on the process the vendor decided on, and changing that gets very expensive. But if your CRM is built from scratch, your way of doing business goes right into it. That's how you sell, how you treat customers, and which deals you say no to. Your competitor can rent the same CRM tomorrow. They can't rent that. It becomes your company's personality, and that's very hard to copy.
+
 **ON SCREEN:** the same post, zoomed on **when you need a "crm software", you may opt to hire an agency to just throw one up for you**. Then two tags: **Understanding your business** · **Supporting it**. Tag: **My post · June 2023**
 
 **YUSUF:**
@@ -178,7 +183,7 @@ Link: https://yusufyoung.com/how-the-software-industry-will-change-when-developm
 **ON SCREEN:** the board, both columns full; the whiteboard with five points ticked.
 
 **YUSUF:**
-> So basically, the market is betting against the seat, it's not betting against software. The hype is that vendors are giving up seats, and they're not. What's real is that building got cheaper, so owning is now possible at your size. And if you're small and simple, just keep renting.
+> So basically, the market is betting against the seat, it's not betting against software. The hype is that vendors are giving up seats, and they're not. What's real is that building got cheaper, so owning is now possible at your size, and your way of doing business can go right into it. And if you're small and simple, just keep renting.
 
 ## 7:35 What we do
 
