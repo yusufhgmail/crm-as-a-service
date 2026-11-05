@@ -314,7 +314,7 @@ Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/sales
 >
 > In the next video, I'll show you what to do when your Salesforce admin leaves.
 
-**ON SCREEN:** end screen: next video, title on screen **What to Do When Your Salesforce Admin Leaves** (video 8) + "Free CRM fit check" button.
+**ON SCREEN:** end screen: next video, title on screen **What to Do Before Your Salesforce Renewal: 5 Steps** (video 20) + "Free CRM fit check" button. Cut the spoken next-video line, because video 12 was dropped.
 
 **Description:**
 > Salesforce for a 15-person company: real costs, real alternatives. With prices from November 2026: the licence, the add-ons, the people, the renewal and the fit. Plus the three real ways out.

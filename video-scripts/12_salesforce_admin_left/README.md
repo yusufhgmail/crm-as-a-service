@@ -1,8 +1,8 @@
-# Video 12: What to Do When Your Salesforce Admin Leaves (MAYBE: Yusuf, keep or drop?)
+# Video 12: What to Do When Your Salesforce Admin Leaves
 
 [All video scripts](../README.md)
 
-**Status:** approved by David, 4 Nov 2026
+**Status:** Discarded: Yusuf dropped it to land on 20 videos, 5 Nov 2026
 
 - [Script on Drive](https://docs.google.com/document/d/1NIUwRQ0h0KWxCAXWzQek2QsP1myWpuMxfMe5fDiscqE/edit)
 

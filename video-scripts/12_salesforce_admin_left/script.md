@@ -1,4 +1,4 @@
-# Video 12: What to Do When Your Salesforce Admin Leaves (MAYBE: Yusuf, keep or drop?)
+# Video 12: What to Do When Your Salesforce Admin Leaves
 
 *Approved by David, 4 Nov 2026*
 

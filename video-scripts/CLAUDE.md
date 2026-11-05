@@ -30,6 +30,10 @@ The process, in Yusuf's words:
 
 Have a fresh agent score each round, one that hasn't seen the earlier scores, so nobody grades their own rewrite. Save every round in the private repo at `videos/optimized/`, then record it: `python3 video-scripts/optimize.py tick 10 "7,6,7,5,6 8,7,8,7,7 8,7,8,6,7"`, with one human,interest,value,belief,value-per-word group per round.
 
+# Notes Yusuf says on camera
+
+From video 11 on, Yusuf may say "For Claude: ..." in a recording and then carry on. When you process a recording, find those notes, save his words in `original_sources/`, apply them to every unrecorded script they fit and rerun the Optimized process on those scripts. Put each note on the editor's cut list. Recorded scripts stay as they are.
+
 # Read and approved by a human
 
 A human reads every script before Yusuf records it. It's the last column of [README.md](README.md). When David or Yusuf says they've read and approved a script, mark it: `python3 video-scripts/optimize.py read 09 David`. Then commit and push.

@@ -1,4 +1,4 @@
-# What to Do When Your Salesforce Admin Leaves (MAYBE: Yusuf, keep or drop?)
+# DROPPED: What to Do When Your Salesforce Admin Leaves
 
 *Video 12 · Yusuf's lines only*
 

@@ -4,7 +4,8 @@
     "02_before_hubspot_renewal": "Recorded before this rule",
     "03_real_cost_hubspot_20_person_team": "Recorded before this rule",
     "04_hubspot_tier_jump": "Discarded",
-    "05_10_reasons_crm_buyers": "Recorded before this rule"
+    "05_10_reasons_crm_buyers": "Recorded before this rule",
+    "12_salesforce_admin_left": "Discarded"
   },
   "read_exempt": {
     "01_overpay_hubspot": "Recorded before this rule",
@@ -15,7 +16,8 @@
     "06_map_your_real_process": "Recorded before this rule",
     "07_salesforce_15_person_company": "Recorded before this rule",
     "08_how_gong_works": "Recorded before this rule",
-    "09_crm_software_is_dead": "Recorded"
+    "09_crm_software_is_dead": "Recorded",
+    "12_salesforce_admin_left": "Discarded"
   },
   "read_by_human": {},
   "humanized": {
@@ -173,39 +175,6 @@
         43.0
       ],
       "best": 43.0,
-      "date": "2026-11-05"
-    },
-    "12_salesforce_admin_left": {
-      "sha": "6bedb822b5ab9fdd",
-      "rounds": [
-        [
-          6.0,
-          7.0,
-          8.0,
-          4.0,
-          7.0
-        ],
-        [
-          6.0,
-          7.0,
-          8.0,
-          6.0,
-          7.0
-        ],
-        [
-          6.0,
-          7.0,
-          8.0,
-          6.0,
-          7.0
-        ]
-      ],
-      "totals": [
-        38.0,
-        40.0,
-        40.0
-      ],
-      "best": 40.0,
       "date": "2026-11-05"
     },
     "13_crm_planning_prompt": {
