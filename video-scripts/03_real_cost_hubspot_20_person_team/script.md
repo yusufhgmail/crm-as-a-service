@@ -310,7 +310,6 @@ Link: https://x.com/mishavitels/status/2113226378623455456
 >
 > If your list is mostly no's, bring it to a free twenty-minute CRM fit check. The link's in the description.
 >
-> Next: how to get the HubSpot feature you need without upgrading.
 
 **EDIT:** cut that last line. Video 4 was discarded.
 
@@ -365,6 +364,7 @@ Bonus cuts if they test well: "Who we help, and who we don't" · "You own the co
 
 ## Sources
 
+- HubSpot's Flexible Seats & Credits pricing supplement (checked live 4 Nov 2026): https://www.hubspot.com/flexible-seats-and-credits-pricing-supplement
 - Hook and line 5 ($26K a year, no sales team, four uses, "enterprise-sales-team pricing for what amounts to an email marketing tool plus a glorified list of clients and event attendees", "No deal pipelines, no sales forecasting"): https://www.reddit.com/r/CRM/comments/1vy3y25/spending_26kyear_on_hubspot_with_no_sales_team/ (25 Aug 2026; saved copy)
 - "we already have to pay around €15,000 a year", "our annual costs are going up to €25,000", "you have to buy an extra seat just to be able to create quotes": https://www.trustpilot.com/reviews/6aba25a0b0c45dc9764c02e3 (28 Sep 2026; checked live 26 Oct 2026)
 - Five hubs, 36-month Professional Customer Platform contract, about $14,248/year, "Marketing Hub, Content Hub, and Operations Hub were never activated", "We use it for basic CRM and help desk ticketing", "HubSpot refused all contract modifications" (Founder & CEO, 50 or fewer employees, validated reviewer): https://www.g2.com/products/hubspot-marketing-hub/reviews/hubspot-marketing-hub-review-13161673 (24 Jul 2026; saved copy)

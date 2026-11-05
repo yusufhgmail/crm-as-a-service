@@ -116,4 +116,3 @@ So this week, write down your seat types and what each one costs. Write one job 
 
 If your list is mostly no's, bring it to a free twenty-minute CRM fit check. The link's in the description.
 
-Next: how to get the HubSpot feature you need without upgrading.
