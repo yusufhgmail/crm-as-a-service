@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved by David, 4 Nov 2026
+**Status:** [Camera footage on Drive](https://drive.google.com/drive/folders/1ull5iXZCOTmRkvZFP5VOzJPoxxTVyEBk)
 
 ## Files
 

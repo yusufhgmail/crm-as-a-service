@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** recorded by Yusuf, footage not on Drive yet
+**Status:** [Camera footage on Drive](https://drive.google.com/drive/folders/1KukOlyMvvwjVH0Tz9sw9JAa8czKewYgS)
 
 ## Files
 
