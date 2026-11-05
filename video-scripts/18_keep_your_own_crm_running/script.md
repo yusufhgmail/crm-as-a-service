@@ -236,10 +236,10 @@ Tag on item 6 when he says "one number": **The real number**
 **YUSUF:**
 > Check six, price the whole year, not just the build. People compare what it costs to build with one year of subscription. That's the wrong comparison, and I made it myself.
 
-**ON SCREEN:** **26–40 support hours a month** · **The hours are the cost**. Then whiteboard maths, written as he says it: **Hosting & tools: $___ /month × 12** · **+ Upkeep hours: ___ /month × $___ /hour × 12** · **+ Changes your team asks for: ___ /year** · **= Real cost per year**. Red box around the second and third lines. Tag: **The lines most builds forget**
+**ON SCREEN:** **Typical: about 3 hours a month · A few: 26–40** · **The hours are the cost**. Then whiteboard maths, written as he says it: **Hosting & tools: $___ /month × 12** · **+ Upkeep hours: ___ /month × $___ /hour × 12** · **+ Changes your team asks for: ___ /year** · **= Real cost per year**. Red box around the second and third lines. Tag: **The lines most builds forget**
 
 **YUSUF:**
-> The server's usually cheap, but the person isn't. I've seen a CRM need twenty-six to forty hours of support a month. Even at a modest hourly rate, that's real money, every month. The software can be totally fine. It's the hours that cost you.
+> The server's usually cheap, but the person isn't. At my old company, the typical customer took about three hours of setup and support a month. But a few took twenty-six to forty. Even at a modest hourly rate, that's real money, every month. The software can be totally fine. It's the hours that cost you.
 >
 > So write it out, using the sum on screen. First add up a year of hosting and tools. Then add a year of upkeep hours from check one. And then add the changes your team's going to want next year, because a CRM that doesn't change with your business stops fitting.
 
@@ -328,5 +328,5 @@ Each short opens on its own claim, count or screen (first line below). Proof onl
 ## Sources
 
 - Yusuf's 4 Nov 2026 interview, `original_sources/2026-11-04_interview_experience_videos.md` (confirmed, no client named): integrations "the major problem", found out from customers, systems with "completely different ways of seeing the world"; the company with its own quoting software ("they just couldn't send quotes", "super messy"; onboarded later, not a customer when it broke).
-- Support hours (Check 6): 26 to 40 support hours a month (the loss per customer is left out on purpose, David 5 Nov), from his old company's numbers sheet via `videos/YUSUF_ANSWERS_2026-11-04.md` video 18 Q2. **Yusuf to confirm.**
+- Support hours (Check 6): 26 to 40 support hours a month (the loss per customer is left out on purpose, David 5 Nov), from his old company's numbers sheet via `videos/YUSUF_ANSWERS_2026-11-04.md` video 18 Q2. Checked against the sheet 5 Nov 2026: three customers at 26.4, 32.9 and 40.0 hours of setups and support a month; the median across 68 active customers was 3. **Yusuf to confirm.**
 - Demo portal "upbridge" (made-up roofing company): Settings → Users & Teams and Settings → Integrations → Connected apps, recorded on the filming day.

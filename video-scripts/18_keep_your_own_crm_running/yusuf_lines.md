@@ -86,7 +86,7 @@ And number three, write down who holds the admin and server passwords. If that's
 
 Check six, price the whole year, not just the build. People compare what it costs to build with one year of subscription. That's the wrong comparison, and I made it myself.
 
-The server's usually cheap, but the person isn't. I've seen a CRM need twenty-six to forty hours of support a month. Even at a modest hourly rate, that's real money, every month. The software can be totally fine. It's the hours that cost you.
+The server's usually cheap, but the person isn't. At my old company, the typical customer took about three hours of setup and support a month. But a few took twenty-six to forty. Even at a modest hourly rate, that's real money, every month. The software can be totally fine. It's the hours that cost you.
 
 So write it out, using the sum on screen. First add up a year of hosting and tools. Then add a year of upkeep hours from check one. And then add the changes your team's going to want next year, because a CRM that doesn't change with your business stops fitting.
 

@@ -4,7 +4,7 @@
 
 ## Proof
 
-At my old company, one customer's handover note said their sales team used the CRM. But when they cancelled, we found out they weren't using it at all. Their real deals were in spreadsheets, in inboxes and in people's heads. And nobody actually refused to use the CRM. They just slowly stopped, and we missed it.
+At my old company, one customer's handover note said their sales team used the CRM. Two years later, when they cancelled, our own note said they weren't using it at all. One pipeline had ended up in Excel. And nobody actually refused to use the CRM. They just slowly stopped, and we caught it too late.
 
 So in this video, I'm going to show you the three reasons your team doesn't use the CRM. And for each one, you'll get a fix you can start this week.
 

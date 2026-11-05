@@ -93,7 +93,7 @@
       "date": "2026-11-05"
     },
     "15_team_doesnt_use_crm": {
-      "sha": "c91cc9dffdeaf212",
+      "sha": "d403cee55987a1cc",
       "scores": [
         8.0,
         8.0
@@ -114,14 +114,6 @@
       "sha": "1ae513e9cf6b5814",
       "scores": [
         7.0,
-        8.0,
-        8.0
-      ],
-      "date": "2026-11-05"
-    },
-    "18_keep_your_own_crm_running": {
-      "sha": "107a4448221345fa",
-      "scores": [
         8.0,
         8.0
       ],
@@ -208,6 +200,14 @@
       "scores": [
         6.0,
         7.0,
+        8.0,
+        8.0
+      ],
+      "date": "2026-11-05"
+    },
+    "18_keep_your_own_crm_running": {
+      "sha": "12c77d39094ddd3c",
+      "scores": [
         8.0,
         8.0
       ],
