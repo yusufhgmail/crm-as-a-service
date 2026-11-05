@@ -18,7 +18,7 @@ Maybe your sales lead wants Gong, or an investor asked why you don't have it. Bu
 
 ## Promise
 
-You'll see what Gong is now. You'll see how a call moves through it, and who gets what out of it. Then I'll give you the real price for ten reps. And the cheaper options.
+In this video, you'll see what Gong is now. You'll see how a call moves through it, and who gets what out of it. Then I'll give you the real price for ten reps. And the cheaper options.
 
 ## Plan
 

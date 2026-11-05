@@ -67,7 +67,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 3, and 3 with 4.
 **ON SCREEN:** four tags appear beside Yusuf, one per phrase: ✓ **Know what each route really costs** · ✓ **Know who keeps it running** · ✓ **Spot the lock-in before you sign** · ✓ **Pick the right route for you**
 
 **YUSUF:**
-> You'll see what each route really costs, who maintains it, and where the lock-in sits. And then I'll give you three questions that tell you which route to pick. To be upfront, my new company sells one of these routes, so I'll tell you when it's the wrong one.
+> In this video, you'll see what each route really costs, who maintains it, and where the lock-in sits. And then I'll give you three questions that tell you which route to pick. To be upfront, my new company sells one of these routes, so I'll tell you when it's the wrong one.
 
 ## 1:10 Plan
 

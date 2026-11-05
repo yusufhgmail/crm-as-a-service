@@ -74,7 +74,7 @@ Links: https://www.vendr.com/marketplace/gong · https://www.gong.io/pricing
 **ON SCREEN:** five tags beside Yusuf, one per phrase: ✓ **What Gong is now** · ✓ **How it works** · ✓ **What reps and managers do with it** · ✓ **The real price** · ✓ **Cheaper options**
 
 **YUSUF:**
-> You'll see what Gong is now. You'll see how a call moves through it, and who gets what out of it. Then I'll give you the real price for ten reps. And the cheaper options.
+> In this video, you'll see what Gong is now. You'll see how a call moves through it, and who gets what out of it. Then I'll give you the real price for ten reps. And the cheaper options.
 
 ## 0:58 Plan
 

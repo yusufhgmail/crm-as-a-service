@@ -14,7 +14,7 @@ Most owners I talk to are stuck between three options. They can rent a different
 
 ## Promise
 
-You'll see what each route really costs, who maintains it, and where the lock-in sits. And then I'll give you three questions that tell you which route to pick. To be upfront, my new company sells one of these routes, so I'll tell you when it's the wrong one.
+In this video, you'll see what each route really costs, who maintains it, and where the lock-in sits. And then I'll give you three questions that tell you which route to pick. To be upfront, my new company sells one of these routes, so I'll tell you when it's the wrong one.
 
 ## Plan
 
