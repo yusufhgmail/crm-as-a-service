@@ -30,6 +30,11 @@ export default function HubspotAlternativePage() {
       </section>
 
       <section>
+        <h2>What buyers who left say</h2>
+        <p>We analysed 7,165 public reviews and posts by CRM buyers in October 2026. The sample is people who bothered to write, which leans unhappy; read the counts as where the complaints cluster. HubSpot was the CRM most of them were leaving or had left: 1,571 posts. The complaints behind that were not mainly the headline price but the parts of it nobody controls: renewals (760 across all CRMs), tier jumps (683) and seat growth (420). And a warning from the same data: of the buyers who switched to another rented CRM, 572 regretted it. If the problem is fit, a new logo brings the same wall.</p>
+      </section>
+
+      <section>
         <h2>The usual alternatives, and what they change</h2>
         <ul>
           <li><strong>Another rented CRM</strong> (Pipedrive, Zoho, Freshsales, monday). Cheaper seats, same model: you rent, you configure, you administer. If the problem was price alone, this works. If the problem was that the CRM did not fit the work, it moves the problem.</li>

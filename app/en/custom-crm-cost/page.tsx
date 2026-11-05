@@ -17,7 +17,7 @@ export default function CustomCrmCostPage() {
         <ol>
           <li><strong>A development shop builds it.</strong> You write requirements, they build to them. Quotes we have seen for a CRM of any substance start in the tens of thousands of dollars and run for months, and the price of changes after handover is the part nobody puts in the quote. You own the code and you own the maintenance.</li>
           <li><strong>A partner configures HubSpot or Salesforce.</strong> HubSpot itself charges a one-time onboarding fee of $1,500 for Sales Hub Professional and $3,500 for Enterprise, and partner agencies charge their own fee on top, from a few thousand dollars to tens of thousands for a large setup. Then the licences run forever. You own nothing; you rent.</li>
-          <li><strong>A service builds and runs it.</strong> This is what CRM From Within does: a paid proof of about $3,000, then $1,000 to $2,000 a month that includes the hosting and every change. You own the code from day one.</li>
+          <li><strong>A service builds and runs it.</strong> This is what CRM From Within does: one monthly fee per company, quoted after a free fit check, that includes the hosting and every change, with no per-seat charge. You own the code from day one.</li>
         </ol>
       </section>
 
@@ -40,25 +40,27 @@ export default function CustomCrmCostPage() {
       </section>
 
       <section>
-        <h2>The same three years with an owned CRM</h2>
+        <h2>What the bill looks like with an owned CRM</h2>
         <DataTable
-          caption="CRM From Within, 20-person company, three years"
-          head={['', 'Low', 'High']}
+          caption="HubSpot Professional versus a CRM built and kept by CRM From Within, 20 people"
+          head={['', 'HubSpot Professional', 'Owned CRM as a service']}
           rows={[
-            ['Paid proof (one workflow, real data)', '$3,000', '$3,000'],
-            ['Monthly service, incl. hosting and all changes', '$1,000', '$2,000'],
-            ['Three years', '$39,000', '$75,000'],
-            ['Licence fees', '$0', '$0'],
-            ['Who owns the software at the end', 'You', 'You'],
+            ['Per seat', '$90 a month, every month, per person', 'Nothing; hiring does not change the bill'],
+            ['Setup', '$1,500 onboarding plus a partner’s fee', 'Quoted per company after the free fit check'],
+            ['Changes after launch', 'Your admin’s time, or a partner’s invoice', 'Included in the monthly fee'],
+            ['Hosting and upkeep', 'Included in the licence', 'Included in the monthly fee'],
+            ['Year four', 'The licence continues', 'Only hosting, if you stop the service'],
+            ['Who owns the software', 'HubSpot; you rent', 'You'],
           ]}
-          source="Prices quoted to the first prospects in 2026; adjusted as the first clients show what the work costs. Selected design partners start without the proof fee."
+          source="We quote one monthly fee per company rather than a list price, because the build depends on the process. Selected design partners start without a build fee."
         />
-        <p>Over three years the owned CRM lands below HubSpot Professional at the high end of our range and well below it at the low end, and the comparison does not include the partner’s setup fee or anyone’s time administering HubSpot. The gap widens with every seat added and every year after the third, because the licence stops and the ownership does not.</p>
+        <p>Line by line, the difference is not the size of the monthly number but what it does over time. The HubSpot bill grows with every hire and never ends; the owned CRM’s bill is flat and stops when you stop. Add the partner’s setup fee and the hours someone spends administering HubSpot, neither of which appears on the invoice, and the comparison tilts further. Ask us for the number for your company in the fit check; it is the same number we would put in the contract.</p>
+        <p>What buyers say about the bill: The numbers here come from 7,165 public reviews and posts by CRM buyers that we read and tagged in October 2026. People post when they are annoyed, so these are complaint counts, not a share of all companies. Price was the top complaint, from 3,202 of them, and most tied it to something they could not control: a renewal (760), a tier jump (683) or seat growth (420). That is the pattern the table above is built to avoid.</p>
       </section>
 
       <section>
         <h2>The cost that is not on any invoice</h2>
-        <p>Whichever route you take, the expensive failure is the same: the team stops using the system. A CRM that does not match the work gets a parallel spreadsheet within months, and then the licence or the build was wasted. In Yusuf Young’s years running a CRM company that served more than 450 businesses, that was the way CRM projects failed, far more often than on price or features. So the honest cost question is not “what does it cost to build” but “what does it cost to keep it fitting”, and that is the part the monthly service pays for.</p>
+        <p>Whichever route you take, the expensive failure is the same: the team stops using the system. A CRM that does not match the work gets a parallel spreadsheet within months, and then the licence or the build was wasted. At the CRM SaaS company Yusuf Young built and sold, where he and his team set up CRMs for hundreds of companies, that was the way CRM projects failed, far more often than on price or features. So the honest cost question is not “what does it cost to build” but “what does it cost to keep it fitting”, and that is the part the monthly service pays for.</p>
       </section>
 
       <section>

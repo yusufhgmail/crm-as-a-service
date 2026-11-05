@@ -43,9 +43,9 @@ export function ArticleLayout({ article, children }: { article: Article; childre
         )}
 
         <section className="guide-cta">
-          <h2>See whether a custom CRM fits your company</h2>
-          <p>Answer a few questions about how leads and customers are handled today. You get a short first-CRM plan, and we tell you honestly if HubSpot Free would do.</p>
-          <a className="button button-primary" href="/en#assessment-chat" data-funnel-location="guide_cta">Start the CRM plan <span aria-hidden="true">→</span></a>
+          <h2>Free 20-minute CRM fit check</h2>
+          <p>You show us how your team works, and we show you what a CRM built around it could look like. We build you a CRM around how your company sells and delivers, we move your data over and we maintain it. You own the code, there is no long contract, and if you leave, you take everything. It is for companies of ten to fifty people that a standard CRM doesn’t fit. If a standard setup works for you, we say so.</p>
+          <a className="button button-primary" href="/en#assessment-chat" data-funnel-location="guide_cta">Book the free fit check <span aria-hidden="true">→</span></a>
         </section>
 
         {related.length > 0 && (

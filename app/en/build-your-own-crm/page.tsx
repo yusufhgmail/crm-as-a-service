@@ -53,6 +53,11 @@ export default function BuildYourOwnCrmPage() {
       </section>
 
       <section>
+        <h2>What people who tried it say</h2>
+        <p>In October 2026 we tagged 7,165 public posts and reviews by people who pay for a CRM. The usual caveat applies: public posts lean negative, so the counts describe complaints, not the whole market. Among them, 631 said they built their own CRM and it worked, 40 said it failed, and 75 were building one as they wrote. That is a better record than most people expect, and it fits what we see: the build is not the hard part. Yusuf Young’s view of the rented alternative, from the years selling it: “What they’re actually buying is a standard process that they have to adapt to.”</p>
+      </section>
+
+      <section>
         <h2>Three honest paths</h2>
         <ol>
           <li><strong>Build it and own the job.</strong> Right if one person on the team wants it and will keep wanting it. Budget a few hours a month forever. Keep the prompt above; re-run it when the process changes.</li>

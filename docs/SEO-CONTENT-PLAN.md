@@ -55,6 +55,21 @@ Each matches a topic in the 25 Oct content plan, so the video and the page publi
 | 11 | `/custom-crm-vs-hubspot` | custom crm system (1,600, SD 46) | "Why HubSpot overcharges for CRM", "Your CRM is your business". The 3-year ownership comparison with the licence maths. |
 | 12 | `/salesforce-alternative` | salesforce alternative (140, SD 19) | Same shape as the HubSpot page; shorter. |
 
+### Guide ↔ video pairings (from the 5 Nov answers)
+
+Finished scripts are in `video-scripts/`. Add VideoObject markup and a link from the page only once the video has a public YouTube URL.
+
+| Guide | Video |
+|---|---|
+| /en/build-your-own-crm | 11 Build, rent or own; 13 CRM planning prompt |
+| /en/why-crm-projects-fail | 06 Map your real process; 15 Team doesn't use the CRM |
+| /en/custom-crm-vs-hubspot | 01 Overpay HubSpot; 03 Real cost for a 20-person team; 04 (discarded) |
+| /en/custom-crm-cost | 03; 10 Ten sales tools, one bill |
+| /en/ai-native-crm | 09 CRM software is dead; 14 Your CRM is your business |
+| /en/hubspot-alternative | 02 Before HubSpot renewal; 16 Keep HubSpot, replace one thing |
+| /en/salesforce-alternative | 07 Salesforce for a 15-person company; 12 (maybe) |
+| /en/crm-for-quickbooks, /en/crm-for-contractors | 17 CRM integrations for a service company |
+
 ### Later, if the pages above get traction
 
 - "A CRM prompt for [industry]" from the video list: one page per industry only where a real build exists, never generated per visit.

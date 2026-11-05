@@ -10,7 +10,8 @@ export default function WhyCrmProjectsFailPage() {
     <ArticleLayout article={article}>
       <section>
         <h2>Where this comes from</h2>
-        <p>Yusuf Young founded a CRM company in 2015 and, before exiting it, helped more than 450 businesses with CRM, sales and marketing automation. That is a lot of CRM launches, most of them at companies with 10 to 50 people, and enough failures to see the pattern. This guide is that pattern. It is not a survey; it is what we saw, written down so you can check your own project against it.</p>
+        <p>Yusuf Young built a CRM SaaS company and sold it. Over ten years he and his team set up CRMs for hundreds of companies, most of them with 10 to 50 people, and saw enough failures to see the pattern. This guide is that pattern, checked against what buyers say in public: in October 2026 we read and tagged 7,165 public reviews and posts by CRM buyers, knowing that the unhappy post more than the content.</p>
+        <p>Three of the complaints in that analysis are this guide’s subject: 426 buyers said their team did not use the CRM, 420 said they depended on a consultant for every change, and 415 said the maintenance burden fell on them. In Yusuf’s words: “SMBs simply don’t have time to administer and log data.”</p>
       </section>
 
       <section>
@@ -43,6 +44,7 @@ export default function WhyCrmProjectsFailPage() {
 
       <section>
         <h2>What to do differently</h2>
+        <p>Yusuf’s one rule, from the SaaS years: the question shouldn’t be “What can we add?” but “What can we cut in the CRM to support our process with as little admin as possible?” The five points below are that rule in order.</p>
         <ol>
           <li><strong>Build from the sources, not a workshop.</strong> The inbox, the spreadsheet and the invoicing system already describe the process. Start there.</li>
           <li><strong>Make the first version smaller than feels right.</strong> One pipeline, one dashboard, the records the team already has. Widen when use proves it.</li>

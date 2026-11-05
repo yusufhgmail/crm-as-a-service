@@ -15,11 +15,12 @@ const body = `# CRM From Within
 - Core features: managing incoming leads, opportunities that update themselves, dashboards built on the numbers the company uses, lead outreach, website lead capture, and logged calls and meetings.
 - Security, customer data and access are fixed, tested parts. The workflow is what gets adapted.
 - Best fit: a company that needs a CRM that fits but does not want a CRM project. If a generic pipeline is enough and the team is happy to configure it, a standard CRM such as HubSpot Free is the better choice.
-- Status: selected design partners can test the first useful version without a build fee.
+- Pricing: one monthly fee per company, quoted after a free 20-minute CRM fit check; no per-seat charge. Selected design partners can test the first useful version without a build fee.
+- Research: in October 2026 CRM From Within analysed 7,165 public reviews and posts by people who use or pay for a CRM. Price was the top complaint (3,202), then poor fit (2,024), complexity (1,305) and integrations (1,078). Public posts over-represent unhappy users; the numbers describe what buyers complain about, not a share of all companies.
 
 ## Who is behind it
 
-- Yusuf Young, founder. He founded a CRM company in 2015 that helped more than 450 businesses with CRM, sales and marketing automation before he exited it.
+- Yusuf Young, founder. He built a CRM SaaS company and sold it; over ten years he and his team set up CRMs for hundreds of companies. Before that: CRM sales at Oracle from 2008, then HubSpot and Salesforce at a software company.
 
 ## Questions
 

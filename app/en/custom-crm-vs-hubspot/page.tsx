@@ -27,7 +27,7 @@ export default function CustomCrmVsHubspotPage() {
             ['Cost if you stop', 'Cancel at renewal; keep an export', 'Keep the system; pay only hosting'],
             ['Integrations', 'Large marketplace', 'Built for what you use; fewer, deeper'],
             ['Risk', 'Lock-in and configuration debt', 'Dependence on the service to keep adapting; mitigated by owning the code'],
-            ['Three years, 20 people', '$66,300–111,500 incl. onboarding', '$39,000–75,000 incl. proof'],
+            ['Three years, 20 people', '$66,300–111,500 incl. onboarding', 'One monthly fee per company, quoted after a free fit check'],
           ]}
           source={<>HubSpot figures from <a href="https://www.hubspot.com/pricing/sales" rel="noopener">hubspot.com/pricing</a> (annual billing, sales seats, plus onboarding fees), checked 4 November 2026. The full working is in the <a href="/en/custom-crm-cost">cost guide</a>.</>}
         />
@@ -43,6 +43,11 @@ export default function CustomCrmVsHubspotPage() {
         <h2>Change: the real cost of configuration</h2>
         <p>HubSpot can be made to do most things. The question is who makes it do them. In a 20-person company that is a part-time admin, usually a salesperson or the office manager, or a partner agency on a retainer. Either way, a change takes a ticket, a wait, and a risk that the change breaks a report nobody remembered. Over three years the account accumulates configuration debt: fields nobody uses, workflows nobody dares to delete.</p>
         <p>A custom CRM as a service inverts this. The system notices the work has changed, proposes the change, an expert checks it, you approve it, and it is live within days and reversible. Nobody on your team touches configuration. The <a href="/en/ai-native-crm">AI-native CRM guide</a> explains how that works and where its limits are.</p>
+      </section>
+
+      <section>
+        <h2>What leavers say</h2>
+        <p>The figures below are from 7,165 public buyer reviews and posts we analysed in October 2026. Reviews skew unhappy, so treat them as a map of complaints rather than a census. HubSpot was the CRM most of them were leaving or had left (1,571 posts), ahead of Salesforce (969). And 59% of all the buyers were unhappy but had not left: switching felt like a project nobody had time for. Of those who did switch to another rented CRM, 572 regretted it against 1,244 who were happy. Another rented CRM carries the same seats, tiers and renewals; it fixes price, not fit.</p>
       </section>
 
       <section>

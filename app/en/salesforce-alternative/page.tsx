@@ -15,6 +15,11 @@ export default function SalesforceAlternativePage() {
       </section>
 
       <section>
+        <h2>What the leavers say</h2>
+        <p>From 7,165 public reviews and posts by CRM buyers, tagged in October 2026. Unhappy customers write more reviews than happy ones, so these are counts of complaints, not shares of customers. Salesforce was the second most-left CRM in that set, with 969 posts, behind HubSpot. Complexity (1,305 complaints across all CRMs) and consultant dependency (420) are the two that show up most around Salesforce, which matches Yusuf Young’s experience of companies customising Salesforce or Dynamics: they underestimate what the build-on-top will cost by a large multiple, and often end with a worse result at a higher price.</p>
+      </section>
+
+      <section>
         <h2>The alternatives, and what each one changes</h2>
         <DataTable
           caption="Leaving Salesforce: the options"

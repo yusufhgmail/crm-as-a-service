@@ -66,12 +66,12 @@ export default function MethodCrmAlternativePage() {
             ['QuickBooks', 'Two-way sync, included', 'Read directly; QuickBooks stays the record'],
             ['Who customises it', 'You, or Method’s services team', 'The service; you approve'],
             ['Data entry', 'Yours', 'From the sources; you confirm'],
-            ['Price', '$27–97 per user per month', '$1,000–2,000 a month, no per-user fee'],
+            ['Price', '$27–97 per user per month', 'One monthly fee per company, no per-user charge'],
             ['Ownership', 'Rented', 'You own the code and data'],
           ]}
         />
         <p>How a build runs is on the <a href="/en/custom-crm-development">service page</a>; the <a href="/en/crm-for-quickbooks">QuickBooks guide</a> compares all three options for a QuickBooks company, and the <a href="/en/crm-for-distributors">distributor guide</a> is the most common case where a pipeline template fails.</p>
-        <p className="guide-note">[Example to add: one company that moved from Method or chose against it, what did not fit, and what the first version replaced.]</p>
+        <p>An example from Yusuf Young’s years at the CRM SaaS company he sold, with the company unnamed: “One manufacturer I worked with built its own quoting software because its CRM couldn’t handle its pricing rules, then connected the two. When that link failed, they couldn’t send quotes, and they sent many every day. Even when it worked, it meant two applications and a pile of extra CRM fields.” That is the shape of the problem whenever the pricing rules live outside the CRM, and it is why the owned CRM reads the price list from the system that holds it rather than copying it.</p>
       </section>
 
       <section>

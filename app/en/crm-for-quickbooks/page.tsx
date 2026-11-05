@@ -23,7 +23,7 @@ export default function CrmForQuickbooksPage() {
             ['What it is', 'A CRM made for QuickBooks', 'HubSpot, Zoho, Pipedrive with a QuickBooks integration', 'A CRM built from your process that reads QuickBooks directly'],
             ['Sync', 'Two-way: customers, estimates, invoices, payments', 'Usually one-way or limited to a few objects; Desktop needs a third-party tool', 'Whatever the process needs, in the direction agreed'],
             ['Who configures it', 'Your team, with Method’s help', 'Your team or a partner agency', 'The service; you approve'],
-            ['Cost', 'About $27–35 per user per month, more for higher tiers', 'Licence per seat (HubSpot Professional $90), plus the connector', '$1,000–2,000 a month, no per-seat fee'],
+            ['Cost', 'About $27–35 per user per month, more for higher tiers', 'Licence per seat (HubSpot Professional $90), plus the connector', 'One monthly fee, quoted after a free fit check; no per-seat charge'],
             ['Best for', 'A plain pipeline where QuickBooks is already the centre', 'A team that wants a known brand and accepts the sync limits', 'A process that does not fit a standard pipeline, such as a distributor'],
           ]}
           source={<>Method pricing from <a href="https://www.method.me/pricing/" rel="noopener">method.me</a>, which lists monthly and annual rates; review sites quote both. HubSpot from <a href="https://www.hubspot.com/pricing/sales" rel="noopener">hubspot.com/pricing</a>. Checked 4 November 2026.</>}
@@ -46,11 +46,12 @@ export default function CrmForQuickbooksPage() {
         <h2>Option 3: a CRM built around the company that reads QuickBooks</h2>
         <p>This is what CRM From Within builds. QuickBooks stays the system of record for customers, estimates and invoices, because it already is. The CRM is built around the part of the work that QuickBooks does not see: where leads come from, who owns them, what was quoted and why, the reorder cycle, the rep’s route, the follow-up. It reads QuickBooks directly, so a customer exists once, an invoice shows up on the deal the day it is sent, and nobody types anything twice.</p>
         <p>The build starts from the approved sources, which for a QuickBooks company usually means QuickBooks itself, the shared inboxes and the spreadsheet that currently holds the pipeline. The first version is narrow and in use within weeks. The <a href="/en/custom-crm-development">service page</a> describes the process, and the <a href="/en/custom-crm-cost">cost guide</a> compares it with licences.</p>
-        <p className="guide-note">[Example to add: one QuickBooks-based client, what lived in the spreadsheet before, and what the first version replaced.]</p>
+        <p>Yusuf Young, on what the accounting link is for, from the years running a CRM SaaS company: “About 15% of the companies I worked with had the same problem: accounting saw revenue one way and the CRM another. You close the deal in the CRM, but accounting has invoice sent, paid, not paid in full.” And on why it matters: “The real value, in my opinion, comes from getting insights and taking actions that you wouldn’t be able to do without having the full view of the customer.” The time saved on typing is the small part; knowing which customers are late, shrinking or overdue, while the rep is still on the route, is the large part.</p>
       </section>
 
       <section>
         <h2>Where QuickBooks syncs break, whichever option you pick</h2>
+        <p>Integrations were the fourth-biggest complaint among the 7,165 CRM buyers whose public posts we analysed in October 2026 (1,078 of them), behind price, fit and complexity. Yusuf’s summary of why: the two systems “have completely different ways of seeing the world”, and “when things break, it’s a major headache.” The specific breaks:</p>
         <ul>
           <li><strong>Duplicates.</strong> The CRM creates “Acme Inc” and QuickBooks has “ACME Inc.”. Decide which system creates customers, and make the other one read-only for that object.</li>
           <li><strong>Price lists.</strong> QuickBooks holds customer-specific pricing; most CRMs do not. If reps quote from the CRM, the quote is wrong until someone checks QuickBooks.</li>

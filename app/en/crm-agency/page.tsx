@@ -34,12 +34,17 @@ export default function CrmAgencyPage() {
           rows={[
             ['What you get', 'A configured HubSpot or Salesforce account', 'A CRM built around your process'],
             ['Who owns it', 'The vendor; you rent', 'You own the code and the data'],
-            ['Setup cost', 'A few thousand dollars and up, plus the vendor onboarding fee', 'About $3,000 paid proof, or no build fee as a design partner'],
-            ['Ongoing cost', 'Licences per seat, plus any retainer', '$1,000 to $2,000 a month, changes included'],
+            ['Setup cost', 'A few thousand dollars and up, plus the vendor onboarding fee', 'Quoted per company after a free fit check; design partners start without a build fee'],
+            ['Ongoing cost', 'Licences per seat, plus any retainer', 'One monthly fee, changes included, no per-seat charge'],
             ['Who changes it later', 'Your admin, or the agency on request, billed', 'The service, approved by you, included'],
             ['Agency is paid for', 'The setup and the licence', 'The CRM staying useful'],
           ]}
         />
+      </section>
+
+      <section>
+        <h2>What buyers say about agencies and consultants</h2>
+        <p>Our October 2026 analysis covered 7,165 public reviews and posts by CRM buyers. It over-represents people with a grievance, which is the point: it shows where the grievances are. Two complaints point straight at the partner model: 420 buyers said they depend on a consultant for every change, and 415 said the maintenance burden landed on them. Only 48 of the 7,165 had an agency build them a CRM, which says how rare the owned route still is, and how new. Yusuf Young’s own rule from the SaaS years: a custom CRM is worth it “if the sales process and marketing process are something that can distinguish them in the market and give them huge leverage”. If they are not, rent a good one.</p>
       </section>
 
       <section>

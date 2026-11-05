@@ -45,12 +45,14 @@ export default function CustomCrmDevelopmentPage() {
 
       <section>
         <h2>What it costs to start</h2>
-        <p>Two ways in. Selected design partners get the first useful version without a build fee, in exchange for a real test and honest feedback. Everyone else starts with a paid proof of about $3,000 that rebuilds one painful workflow beside the current CRM or spreadsheet, with real data. After that, running and adapting the CRM is $1,000 to $2,000 a month, which includes the changes. The <a href="/en/custom-crm-cost">cost guide</a> puts that next to HubSpot, Salesforce and a conventional development quote.</p>
+        <p>It starts with a free 20-minute fit check: you show how your team works, we show what a CRM built around it could look like, and we say if a standard CRM would do. From there the price is one monthly fee for your company, covering hosting and every change, with no per-seat charge, so the bill does not grow when you hire. Selected design partners get the first useful version without a build fee, in exchange for a real test and honest feedback. The <a href="/en/custom-crm-cost">cost guide</a> puts that next to HubSpot, Salesforce and a conventional development quote.</p>
+        <p>Who this is for, in the buyers’ own words: We analysed 7,165 public posts and reviews by people who pay for a CRM, in October 2026, across Capterra, G2, Trustpilot and Reddit. Bear in mind that the unhappy write more than the happy; the counts say what goes wrong, not how often. Poor fit was the second-biggest complaint (2,024), after price, ahead of complexity (1,305) and integrations (1,078). Of the buyers who said how big their company was, 53% had 11 to 50 staff. That is the company we build for.</p>
       </section>
 
       <section>
         <h2>Who builds it</h2>
-        <p>CRM From Within is run by Yusuf Young, who founded a CRM company in 2015 and helped more than 450 businesses with CRM, sales and marketing automation before exiting it. The pattern behind this service comes from those years: the CRM projects that failed did not fail on features. They failed because the system did not match the work, and the people who were supposed to maintain it had other jobs.</p>
+        <p>CRM From Within is run by Yusuf Young. He built a CRM SaaS company and sold it; over ten years he and his team set up CRMs for hundreds of companies. Before that he sold CRM at Oracle and ran HubSpot and then Salesforce inside a software company. The pattern behind this service comes from those years: the CRM projects that failed did not fail on features. They failed because the system did not match the work, and the people who were supposed to maintain it had other jobs.</p>
+        <p>Why he sold a CRM company to start this one, in his words: software sold to everyone has to be generic. “You have to build 100 features, but every single customer only uses 3 features.” With AI, building the three that fit is now cheaper than renting the hundred.</p>
       </section>
     </ArticleLayout>
   );
