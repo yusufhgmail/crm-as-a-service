@@ -8,7 +8,7 @@ Did you ever dream of a CRM that really delivered on that promise, all in one? D
 
 For most people, it looks like this instead. A ten-person sales team doesn't need ten sales tools, but most teams end up with them anyway. And when you add up the bills, the software can actually cost more than one of the salespeople.
 
-So let's add up what ten tools cost ten reps a year, and then I'll show you what one bill looks like instead. In this video, you'll learn what those tools really cost, including the part that never shows up on an invoice. You'll see why all-in-one didn't fix it. And you'll know which ones to keep, and which to fold into one system.
+So let's add up what ten tools cost ten reps a year, and then I'll show you what one bill looks like instead. In this video, you'll learn what those tools really cost you, and the biggest cost isn't on any invoice. And you'll see what all-in-one should have been, and what it did for two real companies.
 
 ## Proof
 
@@ -17,10 +17,6 @@ I know that promise from the inside, because I used to make it. I built a CRM Sa
 ## Who it's for
 
 Maybe your reps are logging into five tools before lunch, and finance keeps asking what all these subscriptions are.
-
-## Plan
-
-It's four parts. The hidden cost in part three is actually bigger than the bill, and one sales leader told me exactly what it looks like. And in part four, I'll show you what all-in-one should have been.
 
 ## Part 1: The usual stack
 
@@ -32,19 +28,19 @@ And here's the part that stings. HubSpot's own site calls its platform all-in-on
 
 So why do teams still do it? At my old company, we used to explain it like this. Buying an all-in-one system is like buying a box of Lego. All the pieces are in there, but building the ship takes time. And every piece has to work for every company, so the first time your team needs more, someone buys another tool.
 
-Here's an example from our research. One small company said HubSpot was supposed to be an all-in-one tool. But even on the fully paid plan, they hit limits, and getting around them would've meant more monthly subscriptions.
+Sometimes that's the right call, and sometimes nobody checked. So pick one rep, and move them onto the built-in version for two weeks. Have them write down anything they couldn't do. If that list's empty, you can drop that tool at renewal.
 
-Here's a check you can do today. Just write down every sales tool you pay for, and next to each one, add the columns on screen. The last column's the one that saves you money. Does your CRM already do this job? Then ask finance for every software charge from the last year. Most teams find at least one tool nobody opens anymore.
+Here's a check you can do today. Write down every sales tool you pay for. Next to each one, write who uses it, what it costs a year, when it renews, and if your CRM already does that job. That last one's where the money is. Then check who actually logged in last month. Most of these tools show you that on an admin page. And ask finance for every software charge from the last year, because most teams find at least one tool nobody opens anymore.
 
 ## Part 2: Add up the bill
 
-OK, let's price the big four for ten reps. These are the prices from when I recorded this, and they'll change, so treat them as an example. HubSpot Sales Hub Professional was a hundred dollars a seat per month. So for ten reps, that's twelve thousand a year. Then there's fifteen hundred on top to get started.
+OK, let's price the big four for ten reps, with what I found when I recorded this. HubSpot Sales Hub Professional was a hundred dollars a seat per month. So that's twelve thousand a year, and fifteen hundred on top to get started.
 
-Now, Gong, Outreach and ZoomInfo don't show prices at all. You just fill in a form and someone calls you. So what I'm giving you next are public estimates, with a date on each one. Most of them come from competitors, so treat this as a ballpark, not a quote.
+Gong, Outreach and ZoomInfo don't show prices at all. You just fill in a form and someone calls you. So these are public estimates, and prices change, so treat them all as examples.
 
-Gong starts from about twenty thousand a year for ten reps. In year one, with setup, it's often thirty thousand or more. And Vendr, which actually sees real contracts, puts the median at about fifty-five thousand a year. Then there's Outreach, at a hundred to a hundred and sixty dollars per user, per month. So for ten reps, that's twelve to about nineteen thousand a year. And ZoomInfo's entry plan is about twenty-two and a half thousand for five users. That's from a quote someone shared in March.
+Per rep, per year, that's about two to three thousand for Gong, about fifteen hundred for Outreach, and about forty-five hundred for a ZoomInfo seat. So you can check those against your own bills. All three together come to about fifty-five to seventy-two thousand a year.
 
-So add those four up, with just five ZoomInfo seats, and you get around sixty-six to eighty-four thousand dollars a year. The top end is year one. And that's before the other six boxes. For a lot of companies, that's a full salary.
+Add HubSpot, and you're at around sixty-six to eighty-four thousand dollars a year. And that's before the other six boxes. If you've got five reps, it's still around fifty thousand. For a lot of companies, that's a full salary.
 
 Now go back to your own list, and write down one total for the year. Then circle the first renewal, because that's the one you can actually change.
 
@@ -56,25 +52,29 @@ If you want to know which of your tools could fold into one system, that's what 
 
 The bigger cost isn't on the invoices at all. It's the time. Somebody actually has to keep ten tools connected. So one of them changes a field, and a sync breaks. Then the dashboard doesn't match the CRM, and your meeting turns into an argument about whose number is right.
 
-Someone who runs sales at a large software company told me about his setup. A consultant had hard-coded his CRM. Every change had to be done by hand, and the data didn't add up. So his idea was one product, with the calls, the emails and the contact data inside the CRM. He didn't want ten subscriptions that each think they own the customer.
+And it's worse when a deal's on the line. Say a customer tells your rep on a call, yes, send me the contract. Gong records that. But Outreach doesn't know, so the next morning that customer gets a cold follow-up email. One sales leader told me he didn't want ten subscriptions that each think they own the customer. And that's it exactly. With ten tools, you've got ten copies of your customer, and none of them is the full picture.
 
-So that's the hidden cost. With ten tools, you've got ten copies of your customer, and none of them is the full picture.
+Here's how to find what that's costing you. Take the last deal you lost, sit down with the rep, and walk through it tool by tool. Where did it sit and wait? Where did one person not know what another person knew? Then do that for your last ten lost deals, and count how many got stuck between tools. Say it's two out of ten. If you lose fifty deals a year, at fifteen thousand dollars each, that's ten deals, or a hundred and fifty thousand dollars. That's about double the software bill.
 
 ## Part 4: One system
 
-So here's what all-in-one should have been. It's one system, but it's built around how your team actually sells, and not around every company at once. So your calls get recorded and summarised straight onto the deal, and your follow-up emails go out from the same place. New leads get checked and filled in as they come in. And you've got one dashboard, because there's only one set of numbers. So instead of a box of Lego, you get the ship.
+Here's what all-in-one should have been. It's one system, but it's built around how your team actually sells, and not around every company at once. Your calls get recorded and summarised straight onto the deal, and your follow-up emails go out from the same place. New leads get checked and filled in as they come in. And there's only one set of numbers. So instead of a box of Lego, you get the ship.
 
-Now, you won't fold everything in. If there's one tool your team really loves, just keep it and connect it properly. And if you buy a big contact list, with phone numbers and emails for new leads, that's data you can't build yourself. So you might keep buying that. But here's the rule. If a tool's main job is copying data into your CRM, it's a good candidate to fold in.
+And that can change the whole business, not just the bill. Here's an example from our research. There's a company in Texas that finds apartments for people. They were on Zoho, leads kept falling through the cracks, and their agents couldn't stay organized. So they built their own CRM. The next year they had twenty fewer people and six million dollars more in revenue. And the founder says that CRM raised revenue per agent by thirty-eight percent. It cost them one point two million dollars back then. With AI, a twenty-person company can afford it now. Here's another one. The founder of a garage door company says they built their own CRM at three million dollars in revenue, and it got them to five or six million.
 
-So that's what one bill looks like. There's one line for the system, with no price per seat, so hiring rep number eleven doesn't change it. If you keep your contact data, that's a second line. So put that next to your total from part two.
+Here's what that looks like on a normal day. Take that contract from earlier. In one system, the customer says yes on the call, and the summary lands on the deal. The follow-up emails stop by themselves. And the contract's ready to send before the call's even over. Now build that into every deal, and a new rep sells the way your best rep sells.
 
-So mark every row on your list keep or fold in. Start with whatever renews first, and email that vendor now. Ask for your renewal price and your notice date, in writing. The email's on screen.
+Now, you won't fold everything in. If there's one tool your team really loves, just keep it, and decide which system owns each field, so two tools never fight over the same number. And if you buy a big contact list, with phone numbers and emails for new leads, that's data you can't build yourself. So you might keep buying that. But here's the rule. If a tool's main job is copying data into your CRM, it's a good candidate to fold in.
+
+That's what one bill looks like. There's one line for the system, with no price per seat, so hiring rep number eleven doesn't change it. If you keep your contact data, that's a second line. And honestly, the bill's the small win. The big one is that the next deal doesn't get stuck where the last one did.
+
+Now mark every row on your list keep or fold in. Start with whatever renews first, and email that vendor now. Just say, "We're reviewing our tools before renewal. Please send our current price, the renewal price and the last date we can give notice, in writing."
 
 How many sales tools is your team paying for? Put the number in the comments. I read every comment.
 
 ## Recap
 
-So basically, for ten reps, the big four alone come to around sixty-six to eighty-four thousand a year. But the real cost is all the copying between them. All-in-one didn't fix that, because it's one product built for every company. One system built around how you sell can get rid of most of those arrows.
+So the bill's about sixty-six to eighty-four thousand a year, but the real cost is the deals stuck between the tools. All-in-one didn't fix that, because it's one product built for every company.
 
 ## What we do
 
@@ -84,7 +84,7 @@ We do this for teams of ten to fifty people where a standard CRM just doesn't fi
 
 ## Close
 
-So make the list. Get the total. And mark every tool keep or fold in before your next renewal lands. That's it.
+So make the list. Walk through your last ten lost deals. And mark every tool keep or fold in before your next renewal lands. That's it.
 
 If you want a second pair of eyes on that list, the free twenty-minute CRM fit check is below.
 
