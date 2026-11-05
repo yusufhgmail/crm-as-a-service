@@ -218,6 +218,22 @@ export const articles: Article[] = [
       { question: 'Is HubSpot a good Salesforce alternative?', answer: 'For many small companies, yes: HubSpot Free is simpler and Professional is competitive. It is still a rented, configured CRM. If the problem with Salesforce was cost alone, HubSpot helps. If it was fit and admin, the HubSpot guide explains where the same problem returns.' },
     ],
   },
+  {
+    slug: 'method-crm-alternative',
+    title: 'Method CRM review: pricing, limits and the alternative',
+    description: 'An honest review of Method CRM for QuickBooks by an agency that does not sell it: what it does well, what it costs, where it stops fitting, what to use instead.',
+    heading: 'Method CRM: an honest review, and the alternative when it stops fitting',
+    kicker: 'METHOD CRM',
+    answer: 'Method CRM is the best-known CRM built for QuickBooks: a two-way sync of customers, estimates, invoices and payments, with screens you can customise. It lists at $35 to $97 per user per month and fits a company whose sales process is a plain pipeline with QuickBooks at the centre. It stops fitting when the process is not a pipeline or when customising the screens becomes someone\'s job. The alternative is a CRM built around the company that reads QuickBooks directly and that the company owns.',
+    summary: 'an honest review of Method CRM for QuickBooks: strengths, per-user pricing, where it stops fitting, and what to move to.',
+    published: '2026-11-05',
+    modified: '2026-11-05',
+    faq: [
+      { question: 'How much does Method CRM cost?', answer: 'Method lists three plans at $35, $59 and $97 per user per month, discounted to $27, $45 and $73 when billed annually, per method.me on 5 November 2026. The QuickBooks sync is included. Ten users on the middle plan is $450 to $590 a month.' },
+      { question: 'Does Method CRM work without QuickBooks?', answer: 'It is built for QuickBooks and Xero. If the company moves off those, or runs a second system for part of the business, Method loses the thing it is best at. Check that before choosing it.' },
+      { question: 'What is the best alternative to Method CRM?', answer: 'For a plain pipeline on a budget, HubSpot Free with a QuickBooks connector. For a process that does not fit a pipeline, such as a distributor with reorder cycles and routes, a CRM built around the company that reads QuickBooks directly, which is what CRM From Within builds.' },
+    ],
+  },
 ];
 
 export const articleBySlug = (slug: string) => articles.find((article) => article.slug === slug);

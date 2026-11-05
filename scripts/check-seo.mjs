@@ -16,7 +16,7 @@ const PAGES = [
   { path: '/se/privacy', lang: 'sv', alternates: { en: '/en/privacy', sv: '/se/privacy', 'x-default': '/en/privacy' } },
   { path: '/en/guides', lang: 'en', alternates: {} },
   // Guides: English only, so no hreflang; each carries an Article with dates.
-  ...['custom-crm-development', 'custom-crm-cost', 'crm-agency', 'hubspot-alternative', 'crm-for-quickbooks', 'crm-for-distributors', 'crm-for-contractors', 'build-your-own-crm', 'ai-native-crm', 'why-crm-projects-fail', 'custom-crm-vs-hubspot', 'salesforce-alternative']
+  ...['custom-crm-development', 'custom-crm-cost', 'crm-agency', 'hubspot-alternative', 'crm-for-quickbooks', 'crm-for-distributors', 'crm-for-contractors', 'build-your-own-crm', 'ai-native-crm', 'why-crm-projects-fail', 'custom-crm-vs-hubspot', 'salesforce-alternative', 'method-crm-alternative']
     .map((slug) => ({ path: `/en/${slug}`, lang: 'en', alternates: {}, article: true })),
 ];
 
