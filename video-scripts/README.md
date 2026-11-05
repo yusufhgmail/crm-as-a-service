@@ -12,7 +12,7 @@ Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folder
 | 4 | [How to Get the HubSpot Feature You Need Without Upgrading](04_hubspot_tier_jump/script.md) · **Discarded: repeats videos 1 to 3** | [Yusuf's lines](04_hubspot_tier_jump/yusuf_lines.md) | n/a |
 | 5 | [Why 5,000+ CRM Buyers Want Out: 10 Reasons](05_10_reasons_crm_buyers/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/18bC7fGa7JoKuhrSj2jiadb4LVqu1G2AA)** | [Yusuf's lines](05_10_reasons_crm_buyers/yusuf_lines.md) | n/a |
 | 6 | [Map How Your Team Works Before You Buy a CRM (30 Minutes)](06_map_your_real_process/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1L6K5bRL4Aos57tuObOSIoO8H5fGRgF7v)** | [Yusuf's lines](06_map_your_real_process/yusuf_lines.md) | ✅ |
-| 7 | [Salesforce for a 15-Person Company: the Real Cost](07_salesforce_15_person_company/script.md) | [Yusuf's lines](07_salesforce_15_person_company/yusuf_lines.md) | ✅ |
+| 7 | [Salesforce for a 15-Person Company: the Real Cost](07_salesforce_15_person_company/script.md) · **Recorded, footage not on Drive yet** | [Yusuf's lines](07_salesforce_15_person_company/yusuf_lines.md) | ✅ |
 | 8 | [How Gong Works, and Why Sales Teams Love It](08_how_gong_works/script.md) | [Yusuf's lines](08_how_gong_works/yusuf_lines.md) | ✅ |
 | 9 | [CRM Software Is Dead: What the SaaSpocalypse Means for Your CRM](09_crm_software_is_dead/script.md) | [Yusuf's lines](09_crm_software_is_dead/yusuf_lines.md) | ❌ |
 | 10 | [Ten Sales Tools, One Bill: What 10 Reps Really Pay a Year](10_ten_sales_tools_one_bill/script.md) | [Yusuf's lines](10_ten_sales_tools_one_bill/yusuf_lines.md) | ❌ |
