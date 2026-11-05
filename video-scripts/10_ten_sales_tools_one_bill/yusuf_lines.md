@@ -4,33 +4,37 @@
 
 ## Hook
 
-A ten-person sales team doesn't need ten sales tools, but most teams end up with them anyway. And when you add up the bills, the software can actually cost more than one of the salespeople.
+Did you ever dream of a CRM that really delivered on that promise, all in one? Did it ever work for you?
 
-So let's add up what ten tools cost ten reps a year, and then I'll show you what one bill looks like instead.
+For most people, it looks like this instead. A ten-person sales team doesn't need ten sales tools, but most teams end up with them anyway. And when you add up the bills, the software can actually cost more than one of the salespeople.
+
+So let's add up what ten tools cost ten reps a year, and then I'll show you what one bill looks like instead. In this video, you'll learn what those tools really cost, including the part that never shows up on an invoice. You'll see why all-in-one didn't fix it. And you'll know which ones to keep, and which to fold into one system.
 
 ## Proof
 
-I built a CRM company, and I sold it a few years ago. And me and my team have untangled a lot of these setups.
+I know that promise from the inside, because I used to make it. I built a CRM SaaS company, and we called it all-in-one too. I sold it a few years ago. And me and my team have untangled a lot of these setups.
 
 ## Who it's for
 
 Maybe your reps are logging into five tools before lunch, and finance keeps asking what all these subscriptions are.
 
-## Promise
-
-So I'll show you the usual set of tools, and what they really cost in a year. Then we'll get to the cost that never shows up on an invoice, and what one system looks like.
-
 ## Plan
 
-It's four parts, and the hidden cost in part three is actually bigger than the bill. One sales leader told me exactly what it looks like.
+It's four parts. The hidden cost in part three is actually bigger than the bill, and one sales leader told me exactly what it looks like. And in part four, I'll show you what all-in-one should have been.
 
 ## Part 1: The usual stack
 
-So you start with a CRM. Then someone wants calls recorded, so you add Gong. Someone else wants automatic follow-up emails, so now you've got Outreach. Then you need phone numbers and emails for new leads, and that's ZoomInfo. And then you need a dialer, a booking link and e-signatures. Then someone buys a proposal tool and a forecasting tool. And finally you add a dashboard tool, because none of the others shows the whole picture.
+So you start with a CRM, and it tells you it's all in one. Then someone wants calls recorded, so you add Gong. Someone else wants automatic follow-up emails, so now you've got Outreach. Then you need phone numbers and emails for new leads, and that's ZoomInfo. And then you need a dialer, a booking link and e-signatures. Then someone buys a proposal tool and a forecasting tool. And finally you add a dashboard tool, because none of the others shows the whole picture.
 
 Each one was a good decision on the day you made it. The problem is the arrows between them. Every arrow is basically data getting copied between tools. And every copy is a place where things go wrong.
 
-Here's a check you can do today. Just write down every sales tool you pay for, and next to each one, add the columns on screen. Then ask finance for every software charge from the last year. Most teams find at least one tool nobody opens anymore.
+And here's the part that stings. HubSpot's own site calls its platform all-in-one. And its Professional plan already includes call recording and follow-up sequences. So if you've got Gong and Outreach on top of that, you're paying twice for those two jobs.
+
+So why do teams still do it? At my old company, we used to explain it like this. Buying an all-in-one system is like buying a box of Lego. All the pieces are in there, but building the ship takes time. And every piece has to work for every company, so the first time your team needs more, someone buys another tool.
+
+Here's an example from our research. One small company said HubSpot was supposed to be an all-in-one tool. But even on the fully paid plan, they hit limits, and getting around them would've meant more monthly subscriptions.
+
+Here's a check you can do today. Just write down every sales tool you pay for, and next to each one, add the columns on screen. The last column's the one that saves you money. Does your CRM already do this job? Then ask finance for every software charge from the last year. Most teams find at least one tool nobody opens anymore.
 
 ## Part 2: Add up the bill
 
@@ -58,9 +62,11 @@ So that's the hidden cost. With ten tools, you've got ten copies of your custome
 
 ## Part 4: One system
 
-The other way to do this is one system, built around how your team actually sells. So your calls get recorded and summarised straight onto the deal, and your follow-up emails go out from the same place. New leads get checked and filled in as they come in. And you've got one dashboard, because there's only one set of numbers.
+So here's what all-in-one should have been. It's one system, but it's built around how your team actually sells, and not around every company at once. So your calls get recorded and summarised straight onto the deal, and your follow-up emails go out from the same place. New leads get checked and filled in as they come in. And you've got one dashboard, because there's only one set of numbers. So instead of a box of Lego, you get the ship.
 
 Now, you won't fold everything in. If there's one tool your team really loves, just keep it and connect it properly. And if you buy a big contact list, with phone numbers and emails for new leads, that's data you can't build yourself. So you might keep buying that. But here's the rule. If a tool's main job is copying data into your CRM, it's a good candidate to fold in.
+
+So that's what one bill looks like. There's one line for the system, with no price per seat, so hiring rep number eleven doesn't change it. If you keep your contact data, that's a second line. So put that next to your total from part two.
 
 So mark every row on your list keep or fold in. Start with whatever renews first, and email that vendor now. Ask for your renewal price and your notice date, in writing. The email's on screen.
 
@@ -68,7 +74,7 @@ How many sales tools is your team paying for? Put the number in the comments.
 
 ## Recap
 
-So basically, for ten reps, the big four alone come to around sixty-six to eighty-four thousand a year. But the real cost is all the copying between them. And one system built around how you sell can get rid of most of those arrows.
+So basically, for ten reps, the big four alone come to around sixty-six to eighty-four thousand a year. But the real cost is all the copying between them. All-in-one didn't fix that, because it's one product built for every company. One system built around how you sell can get rid of most of those arrows.
 
 ## What we do
 
