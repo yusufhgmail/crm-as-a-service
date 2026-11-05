@@ -16,6 +16,7 @@ Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folder
 | 8 | [How Gong Works, and Why Sales Teams Love It](08_how_gong_works/script.md) | [Yusuf's lines](08_how_gong_works/yusuf_lines.md) |
 | 9 | [CRM Software Is Dead: What the SaaSpocalypse Means for Your CRM](09_crm_software_is_dead/script.md) | [Yusuf's lines](09_crm_software_is_dead/yusuf_lines.md) |
 | 10 | [Ten Sales Tools, One Bill: What 10 Reps Really Pay a Year](10_ten_sales_tools_one_bill/script.md) | [Yusuf's lines](10_ten_sales_tools_one_bill/yusuf_lines.md) |
+| 11 | [Build, Rent or Own Your CRM: How to Choose](11_build_buy_or_own_crm/script.md) | [Yusuf's lines](11_build_buy_or_own_crm/yusuf_lines.md) |
 
 [Content plan](../docs/plans/2026-10-25-crm-agency-plan.md#content-plan) · [Project overview](../README.md)
 
