@@ -10,7 +10,7 @@ So let's go through what the SaaSpocalypse means for your CRM. There are five po
 
 ## Proof
 
-I know this model from the inside, because I built a CRM SaaS company, and I sold it a few years ago. So I've been the one sending those seat bills.
+I know this model from the inside, because I built a CRM SaaS company, and I sold it a few years ago. So I've been the one sending those seat bills. And back in June 2023, I wrote down where this was heading, so I'll show you what I said and what it means for your bill.
 
 ## Who it's for
 
@@ -46,11 +46,15 @@ Number two, "AI builds your CRM in an afternoon." And sure, it can build a worki
 
 Number three is "the vendors are dropping seats." But just look at Salesforce's own AI pricing page. They charge two dollars per conversation, and there's still a price per user as well. HubSpot's plans now come with credits too. So the seat isn't gone, they're just stacking usage charges on top of it.
 
+And I actually wrote about this in June 2023, almost three years before that selloff. The post is linked below. My point was that when building software gets close to free, the costs don't disappear, they just move. Finding customers and running at scale stay expensive. So the big vendors keep setting the price. That means you shouldn't wait for your CRM bill to come down on its own.
+
 ## Point 4: What's real
 
 Now here's what's real. Building software got much cheaper and faster. What used to take a team a year, a small team can now build in weeks. AI writes a lot of the code, and people check it.
 
 For years you had two choices. You could rent a standard CRM and bend to fit it, or you could pay a fortune for a custom build. But now there's actually a third option. You get a CRM built around how you sell and deliver, and a twenty-person company can afford it. And the code belongs to you.
+
+In that same post, I even used a CRM as my example. I wrote that when you need a CRM, you might just have someone build one for you, instead of researching the market to find the best one. And I said two costs wouldn't go away. Someone has to understand how your business works, and someone has to support it. So that's what you're really paying for now, and that's what to check before you hire anyone.
 
 And that third option is exactly what we do at my new company, CRM From Within. We use AI to build each CRM, so it costs a lot less than a normal custom build. CRM is all we build, which means we've seen most of the problems before. There's no price per seat, so your bill doesn't go up every time you hire. And you don't have to build anything yourself. We build it, and we keep it running.
 

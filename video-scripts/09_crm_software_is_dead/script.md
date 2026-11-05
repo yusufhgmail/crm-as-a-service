@@ -7,6 +7,7 @@
 **Screens to record:**
 - **HubSpot Sales Hub pricing page**, zoomed on the Professional and Enterprise per-seat prices and the included HubSpot Credits line. Tag: **Prices as of Nov 2026**.
 - **Salesforce Agentforce pricing page**, zoomed on "$2 per conversation", "$500 per 100k Credits" and "$125 user/month". Tag: **Prices as of Nov 2026**.
+- **Yusuf's June 2023 blog post**, zoomed on the date, then "costs will not disappear", "The dominant players will still be price setters", and the CRM example under "Software Development Agencies". Stay zoomed on those lines. Tag: **My post · June 2023**.
 - **SaaStr article**, zoomed on the HubSpot "down 56%" line, the Salesforce line "about 11x forward non-GAAP earnings against a software industry near 27x", and the line that Agentforce is not priced per seat. Tag: **SaaStr · mid-2026**.
 
 ---
@@ -60,7 +61,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 4, and 3 with 3.
 **ON SCREEN:** tag beside Yusuf: **Built & sold a CRM SaaS · Hundreds of CRM setups**
 
 **YUSUF:**
-> I know this model from the inside, because I built a CRM SaaS company, and I sold it a few years ago. So I've been the one sending those seat bills.
+> I know this model from the inside, because I built a CRM SaaS company, and I sold it a few years ago. So I've been the one sending those seat bills. And back in June 2023, I wrote down where this was heading, so I'll show you what I said and what it means for your bill.
 
 ## 0:35 Who it's for
 
@@ -123,6 +124,12 @@ Link: https://www.salesforce.com/agentforce/pricing/
 **YUSUF:**
 > Number three is "the vendors are dropping seats." But just look at Salesforce's own AI pricing page. They charge two dollars per conversation, and there's still a price per user as well. HubSpot's plans now come with credits too. So the seat isn't gone, they're just stacking usage charges on top of it.
 
+**ON SCREEN:** Yusuf's blog post, zoomed on the date **June 2023**, then **"costs will not disappear"**, then **"The dominant players will still be price setters"**. Tag: **My post · June 2023**. Then: **DON'T WAIT for your bill to fall**
+Link: https://yusufyoung.com/how-the-software-industry-will-change-when-development-cost-nears-zero-who-will-still-make-money/
+
+**YUSUF:**
+> And I actually wrote about this in June 2023, almost three years before that selloff. The post is linked below. My point was that when building software gets close to free, the costs don't disappear, they just move. Finding customers and running at scale stay expensive. So the big vendors keep setting the price. That means you shouldn't wait for your CRM bill to come down on its own.
+
 ## 4:30 Point 4: What's real
 
 **ON SCREEN:** point tracker **Point 4 of 5: Real**. The board, right column, three lines appearing: **Building software got much cheaper** · **Your process can be the product** · **You can own it**
@@ -131,6 +138,11 @@ Link: https://www.salesforce.com/agentforce/pricing/
 > Now here's what's real. Building software got much cheaper and faster. What used to take a team a year, a small team can now build in weeks. AI writes a lot of the code, and people check it.
 >
 > For years you had two choices. You could rent a standard CRM and bend to fit it, or you could pay a fortune for a custom build. But now there's actually a third option. You get a CRM built around how you sell and deliver, and a twenty-person company can afford it. And the code belongs to you.
+
+**ON SCREEN:** the same post, zoomed on **when you need a "crm software", you may opt to hire an agency to just throw one up for you**. Then two tags: **Understanding your business** · **Supporting it**. Tag: **My post · June 2023**
+
+**YUSUF:**
+> In that same post, I even used a CRM as my example. I wrote that when you need a CRM, you might just have someone build one for you, instead of researching the market to find the best one. And I said two costs wouldn't go away. Someone has to understand how your business works, and someone has to support it. So that's what you're really paying for now, and that's what to check before you hire anyone.
 
 **ON SCREEN:** four tags, one per sentence: **Built with AI: far cheaper than a normal custom build** · **CRM is all we build** · **No price per seat** · **We build it and run it for you**
 
@@ -199,6 +211,7 @@ Link: https://www.salesforce.com/agentforce/pricing/
 > CRM From Within builds your own CRM around how you work, with the code in your name and no long contract.
 >
 > Sources
+> - My June 2023 post on what happens when building software gets close to free · https://yusufyoung.com/how-the-software-industry-will-change-when-development-cost-nears-zero-who-will-still-make-money/
 > - SaaStr on HubSpot down ~56% that year and Salesforce at ~11x earnings (mid-2026) · https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/
 > - HubSpot Sales Hub pricing (Professional $90, Enterprise $150 per seat per month, billed annually, Nov 2026) · https://www.hubspot.com/pricing/sales
 > - Salesforce Agentforce pricing ($2 per conversation, $500 per 100k Flex Credits, $125 per user per month add-on, Nov 2026) · https://www.salesforce.com/agentforce/pricing/
@@ -231,4 +244,5 @@ Each short opens on its own line and ends with "Full video: CRM Software Is Dead
 - Point 1, HubSpot stock down about 56% that year, Salesforce at about 11x forward earnings, Agentforce "not priced per seat": https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/ (page undated; refers to the February 2026 selloff as four months earlier, so about June 2026; checked live 4 Nov 2026)
 - Point 2, HubSpot Sales Hub Professional $90 and Enterprise $150 per seat per month billed annually, with HubSpot Credits included; 20 seats × $90 × 12 = $21,600 (said as "about twenty-two thousand"): https://www.hubspot.com/pricing/sales (US page; checked live 4 Nov 2026)
 - Point 3, Salesforce Agentforce $2 per conversation, Flex Credits $500 per 100k, Agentforce add-ons $125 per user per month: https://www.salesforce.com/agentforce/pricing/ (checked live 4 Nov 2026; page says prices are subject to change)
+- Point 3 and Point 4, Yusuf's post, dated 16 June 2023: "In other words, costs will not disappear!"; "The dominant players will still be price setters and the price of scaling will remain."; marketing and scalability stay the main costs for them; "when you need a “crm software”, you may opt to hire an agency to just throw one up for you, rather than researching the market and finding the best one."; the limiting costs are "the cost of supporting each customer" and "the cost of understanding the customer’s needs": https://yusufyoung.com/how-the-software-industry-will-change-when-development-cost-nears-zero-who-will-still-make-money/
 - Point 4, "same features or better at a better price": a sales leader at a large software company, call with David, autumn 2026 (Wispr notes; anonymous by agreement).
