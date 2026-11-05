@@ -3,7 +3,7 @@
 
 Run from anywhere:
   python3 video-scripts/optimize.py status          show every script
-  python3 video-scripts/optimize.py tick NAME "7,6,6,7,5,6 8,8,7,8,7,7 8,8,7,8,6,7" [FILE]
+  python3 video-scripts/optimize.py tick NAME "7,6,6,7,5,6 8,8,7,8,7,7 8,8,7,8,6,7" [FILE] [--approved]
                                                     record the finished rounds: one human,easy,interest,value,belief,perword group per round (FILE: a draft's yusuf_lines.md)
   python3 video-scripts/optimize.py read NAME PERSON    record that PERSON read and approved the script (only when they say so)
   python3 video-scripts/optimize.py sync            clear marks on edited scripts and update the README columns
@@ -122,12 +122,12 @@ def main():
             scores = db["optimized"][name]["best"] if current == "optimized" else db["exempt"].get(name, "")
             print(f"{current:10} {read_state(db, name):9} {name}  {scores}")
     elif command == "tick":
-        path = Path(sys.argv[4]) if len(sys.argv) > 4 else None
+        path = Path(sys.argv[4]) if len(sys.argv) > 4 and sys.argv[4] != "--approved" else None
         name = path.parent.name if path else next(v for v in videos() if v.startswith(sys.argv[2]))
         rounds = [[float(s) for s in group.split(",")] for group in sys.argv[3].split()]
         totals = [total(r) for r in rounds]
-        if len(totals) < 2 or totals[-1] > totals[-2]:
-            sys.exit("Not marked: the rounds only stop when the total doesn't go up.")
+        if len(totals) < 2 or (totals[-1] > totals[-2] and "--approved" not in sys.argv):
+            sys.exit("Not marked: the rounds only stop when the total doesn't go up, or when Yusuf approves the script (--approved).")
         db["optimized"][name] = {"sha": fingerprint(path or spoken(name)), "rounds": rounds, "totals": totals, "best": max(totals), "date": datetime.date.today().isoformat()}
         save(db)
         sync()
