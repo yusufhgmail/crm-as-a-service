@@ -38,21 +38,21 @@ Pair the title with thumbnail 1 first; test variation 1 with 5, and variation 3 
 - **Step tracker:** a small tag in the top-left corner from the Plan to the end of step 5 ("Step 2 of 5: The right team").
 - **The team map** (step 2): four labelled boxes in a row.
 - **Whiteboard:** Yusuf writes the five steps; typed tags sit on top.
-- **Owning tag:** a short tag starting "Or, in a CRM you own:" after steps 2, 4 and 5.
+- **Owning tag:** a short tag starting "Or, in a CRM you own:" after each step.
 
 ---
 
 ## 0:00 Promise
 
-**ON SCREEN:** Yusuf on camera. Tag as he says it: **HubSpot support stopped answering?** Then, as he says them: ✓ **One real person responsible** · ✓ **Your company protected meanwhile** · ✓ **No more waiting on someone else's support**
+**ON SCREEN:** Yusuf on camera. Tag as he says it: **HubSpot support stopped answering?** Then, as he says them: ✓ **One real person responsible** · ✓ **No more waiting on someone else's support**
 
 **YUSUF** (straight to camera):
-> If HubSpot support has stopped answering you, this video shows you how to get one real person to take responsibility this week. It also shows you how to protect your company in the meantime, and how to actually stop waiting on someone else's support for good.
+> If HubSpot support has stopped answering you, this video shows you how to get one real person to take responsibility this week, so your team can get back to work. You'll also see how to actually stop waiting on someone else's support for good.
 
-**ON SCREEN:** tag: **Your company runs on a system someone else controls**. Then: **The other option: a CRM you own**
+**ON SCREEN:** tag: **Your company runs on a system someone else controls**. Then: **The other option: one CRM you own**
 
 **YUSUF:**
-> Right now all you can do is wait, because your whole company runs on a system that someone else controls. For years you really had no choice, because building your own CRM cost way too much. But with AI, that's actually changed. So you could have a CRM that's built around your company, and that you own.
+> Right now you can only wait, because your whole company runs on a system someone else controls. For years you really had no choice, because building your own CRM cost way too much. But with AI, that's actually changed. So you could have one CRM that's built around your company, that you own, and that does the admin itself.
 
 ## 0:40 Example
 
@@ -60,21 +60,21 @@ Pair the title with thumbnail 1 first; test variation 1 with 5, and variation 3 
 Link: https://www.trustpilot.com/reviews/6ac4fdeacc1972832e179cae
 
 **YUSUF:**
-> Here's a real example from Trustpilot. In October, one company wrote that they'd paid HubSpot for the whole year up front, and their account still got suspended. They got passed from a chatbot to a sales rep, who said she couldn't escalate it. She basically told them to email the collections team themselves, and then the chat got closed.
+> Here's a real example from Trustpilot. In October, one company wrote that they'd paid HubSpot for the whole year up front, and their account still got suspended. They got passed from a chatbot to a sales rep, who said she couldn't escalate it, and then the chat got closed.
 
 **ON SCREEN:** quote card, same review: *"The most frustrating part was not even the billing issue itself. It was the complete lack of ownership."* ("complete lack of ownership" highlighted). Tag under it: **All sources in the description**
 
 **YUSUF:**
-> They wrote that the most frustrating part was that nobody took ownership of the problem.
+> They wrote that the most frustrating part was that nobody took ownership.
 
-## 1:08 Proof
+## 1:03 Proof
 
 **ON SCREEN:** Yusuf on camera. Then a small tag: **Built & sold a CRM SaaS · hundreds of CRM setups**
 
 **YUSUF:**
 > So who am I? I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
 
-## 1:23 Plan
+## 1:18 Plan
 
 **ON SCREEN:** Yusuf writes the list on the whiteboard; a typed version sits beside it:
 1. Know what your plan promises
@@ -88,45 +88,50 @@ Link: https://www.trustpilot.com/reviews/6ac4fdeacc1972832e179cae
 
 ---
 
-## 1:27 Step 1: Know what your plan promises
+## 1:22 Step 1: Know what your plan promises
 
 **ON SCREEN:** step tracker: **Step 1 of 5: What your plan promises**. Card titled **HubSpot's own help page**, rows appearing as he names each tier, source tag **HubSpot help center**: **Starter:** chat · email / **Professional & Enterprise:** + phone. Then a tag: **Account from March 2024 on: paid seat only**
 Link: https://knowledge.hubspot.com/help-and-resources/get-help-with-hubspot
 
 **YUSUF:**
-> Number one, find out what your HubSpot plan actually promises you, which is on screen here.
+> Number one, find out what your HubSpot plan actually promises you.
 
 **ON SCREEN:** HubSpot's Product Specific Terms, tagged **legal.hubspot.com · checked Nov 2026**, passages boxed on his words: **"We attempt to respond… within one business day"** · **"We do not promise or guarantee any specific response time."** · §10.2
 Link: https://legal.hubspot.com/product-specific-terms
 
 **YUSUF:**
-> You pay them good money, so you'd think they have to answer you. But actually, their terms say they try to reply within one business day, and they don't promise any specific response time. So when you rent your CRM, they decide when you get an answer, and that's why you have to push.
+> You pay them good money, so you'd think they have to answer you. But actually, their terms only say they'll try to reply within one business day, and that's not a promise. So instead of losing days waiting for a reply, you can start chasing them.
 
-## 1:53 Step 2: Go to the right team
+**ON SCREEN:** tag: **Or, in a CRM you own: you decide**
+
+**YUSUF:**
+> In a CRM you own, you decide how fast someone has to answer.
+
+## 1:48 Step 2: Go to the right team
 
 **ON SCREEN:** step tracker: **Step 2 of 5: The right team**. The team map, each box lighting up on his words: **Support:** broken things · **Billing:** billing@hubspot.com · **Contract manager:** renewals · **Sales:** buying · source tag **HubSpot help center**. Then a tag: **No contract manager? Support**
 Link: https://knowledge.hubspot.com/account-management/contact-hubspot-about-an-account
 
 **YUSUF:**
-> Number two, take your problem to the team that can actually fix it. If something's broken, that's support. If it's an invoice, that's billing. If it's a renewal, that's your contract manager.
+> Number two, take your problem to the team that can actually fix it, so it stops bouncing between people who can't help. Those teams are on screen.
 
 **ON SCREEN:** quote card: *"We emailed HubSpot multiple times starting almost a month ago and received no meaningful response."* → *"Only after I called their sales line did someone finally start responding."* ("almost a month" and "called their sales line" highlighted) · tag **Trustpilot · May 2026**
 Link: https://www.trustpilot.com/reviews/6a0c9476f251d0ccb18d1bec
 
 **YUSUF:**
-> But what if that team doesn't answer? In May, another company wrote on Trustpilot that they emailed HubSpot for almost a month and got nowhere, until they called the sales line.
+> But what if that team doesn't answer? On Trustpilot in May, another company wrote that they emailed HubSpot for almost a month and got nowhere, until they called the sales line.
 
 **ON SCREEN:** tags: **Quiet for a week? Call sales** · **Locked out? Call today**. Then a card: **SAY THIS when you call: "Ticket [number], opened [date], still no answer. Who at HubSpot is looking after this, and when will I hear back?"**
 
 **YUSUF:**
-> So if it's been quiet for a week, or you're locked out, I'd call sales. The company in October got a sales rep who couldn't help, so it doesn't always work. But sales will at least pick up the phone, because that's how they make money. So just ask them who at HubSpot is looking after your ticket.
+> So if it's been quiet for a week, or you're locked out, I'd call sales. Sales will at least pick up the phone, because that's how they make money. Just ask them who at HubSpot is looking after your ticket, so you have one person you can keep going back to.
 
-**ON SCREEN:** the team map fades to one box. Tag: **Or, in a CRM you own: one team**
+**ON SCREEN:** the team map fades to one box. Tag: **Or, in a CRM you own: one team, same-day changes**
 
 **YUSUF:**
-> I mean, you shouldn't have to call a sales line to get support. In a CRM you own, there's just one team to talk to.
+> In a CRM you own, there's just one team to talk to, and with AI, they can usually change the CRM the same day.
 
-## 2:50 Step 3: Put it in writing
+## 2:40 Step 3: Put it in writing
 
 **ON SCREEN:** step tracker: **Step 3 of 5: In writing**. Tag: **Reply to the ticket's email thread** · source tag **HubSpot help center**. Then a **SAY THIS** card, the short email typed out as he says it:
 > **Subject:** Ticket [#] still open · Hub ID [number]
@@ -138,87 +143,87 @@ Then a tag: **Disputing a bill? Say so** · §4.4.2
 Links: https://knowledge.hubspot.com/help-and-resources/get-help-with-hubspot · https://legal.hubspot.com/terms-of-service
 
 **YUSUF:**
-> Number three, put your problem in writing, because if you end up arguing about a bill, you'll need to show what you said. So just reply to your ticket's email thread. And if you're disputing a bill, say so, because HubSpot's terms say they won't suspend you while you dispute a charge in good faith.
+> Number three, put your problem in writing, because if you end up arguing about a bill, you'll need to show what you said. I'd just reply to your ticket's email thread. And if you're disputing a bill, say so, because HubSpot's terms say they won't suspend you while you're genuinely disputing a charge. So that one line can keep your team logged in and selling.
 
-## 3:11 Step 4: Stop the renewal
+**ON SCREEN:** tag: **Or, in a CRM you own: nobody can suspend you**
+
+**YUSUF:**
+> In a CRM you own, nobody can suspend you at all, because it's your system.
+
+## 3:10 Step 4: Stop the renewal
 
 **ON SCREEN:** step tracker: **Step 4 of 5: Stop the renewal**. Card titled **HubSpot's own terms**: **Renews automatically, up to 1 year** · §4.1 · **To stop it: auto-renew off in Account & Billing** · §4.2. Then a tag: **You can turn it back on before the date**
 Link: https://legal.hubspot.com/terms-of-service
 
 **YUSUF:**
-> Number four, stop your HubSpot plan from renewing while your problem's still open. Because it renews by itself, for up to a year, so if you do nothing, you could be paying for another year of this.
+> Number four, stop your HubSpot plan from renewing while your problem's still open. It renews by itself, so if you do nothing, you could pay for up to another year of this.
 >
-> Now, I understand if that feels like a big step. But it doesn't mean you're leaving. You keep your access until your plan ends, and you can turn it back on before then. And I think any software company pays more attention to a customer who might leave.
+> Now, I understand if that feels like a big step. But it doesn't mean you're leaving. You keep your access until your plan ends, and you can turn auto-renewal back on before then. And I think any software company pays more attention to a customer who might leave.
 
 **ON SCREEN:** the help-center screenshot of Subscriptions → **Auto-Renewal Terms** → red box on **Cancel auto-renewal**, tags **Super Admin or billing admin** · **Account name → Account & Billing → Subscriptions** · source tag **HubSpot help center**. Then the email card adds a line: **Please confirm in writing that auto-renewal is off.**
 Link: https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account
 
 **YUSUF:**
-> You turn off auto-renewal on this page, so I'd do it today.
+> You turn off auto-renewal on this page, and I'd do it today.
 
-**ON SCREEN:** tag: **Or, in a CRM you own: nothing renews without you**
+**ON SCREEN:** tag **Example**: **100 features · you use 3 · you pay for 97**. Then: **Or, in a CRM you own: only what you need**
 
 **YUSUF:**
-> And when you own your CRM, nobody can renew it for you, because it's already yours.
+> And think about what you'd be renewing. A CRM sold to everyone has features for every customer, so say it has a hundred features and you use three. You're paying for ninety-seven features that you're never going to use. When you own your CRM, you only build what you need, so you get a way better system at a way lower cost.
 
-## 3:54 Step 5: Get your data out now
+## 4:10 Step 5: Get your data out now
 
 **ON SCREEN:** step tracker: **Step 5 of 5: Your data out**. Tag: **Paid for the year. Still suspended.**
 
 **YUSUF:**
-> Number five, get your data out of HubSpot now, while your account still works. You might think, we pay our bills, so this won't happen to us. But that company in October had paid for the whole year, and they still got suspended.
+> Number five, get your data out of HubSpot now, while your account still works. That company in October had paid up front, and they still got suspended.
 
 **ON SCREEN:** card titled **HubSpot's export (help page)**: **Every plan can export** ✓ · **Needs the Export permission** ✓ · **Customize: all properties and associations** ✓ · **Calls and notes: not included** ✗. Then screen recording (upbridge portal), zoomed: CRM → Contacts → **All contacts** → arrow tag on **Export**, top right of the table → **Customize** → **All properties and associations on records**. Then a tag: **Calls and notes: help page in the description**
 Link: https://knowledge.hubspot.com/import-and-export/export-records
 
 **YUSUF:**
-> So keep your own copy. On your contacts page, click Export and choose the option on screen, because otherwise you only get the columns you can see. Do the same for companies and deals, and save the files outside HubSpot.
+> So keep your own copy, because then if you get locked out, your team still has your customers and deals, and they can keep selling. Click Export on your contacts page and choose the option on screen, then do the same for companies and deals.
 
-**ON SCREEN:** the typed list, all five ticked. Then a tag: **Or, in a CRM you own: the data's already yours**
-
-**YUSUF:**
-> If you owned your own CRM, you wouldn't need a copy, because your data would already be yours.
-
-## 4:33 Why the next ticket goes the same way
-
-**ON SCREEN:** the team map, with a queue of identical tickets behind the Support box: **Your next ticket**. Then a tag: **Keeps happening? Look at owning your own CRM**
+**ON SCREEN:** the typed list, all five ticked. Then tags: **Or, in a CRM you own: the data's already yours** · **A CRM that updates itself** · **Salespeople on customers, not admin**. Then lower-third: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> So those five steps can get you through this problem. But your next ticket goes into the same queue, because when you sell one CRM to everyone, you plan for the typical customer. And the person who picks up has never seen how your company works.
+> If you owned your own CRM, your data would already be yours. And AI can work with all of it. So you can literally have a system that updates itself, and your salespeople spend their time on customers, not on admin.
 >
-> You might think a slow reply is a small thing. But think about the last time your team sat waiting. Which quotes didn't go out? Which deals went quiet? So if this keeps happening, I'd look at owning your own CRM before your next renewal.
+> If you want to see what you could actually build today, we have a free CRM fit check.
 
-## 5:08 Why you can own your CRM now
+## 5:00 Why you can own your CRM now
 
-**ON SCREEN:** a simple build: HubSpot box on the left, a new box on the right filling up piece by piece as he says it, tags **Built step by step** · **Team stays in HubSpot** · **Data moves piece by piece** · then the HubSpot box switches off: **Basically zero risk**
+**ON SCREEN:** the team map, with a queue of identical tickets behind the Support box: **Your next ticket**. Then a simple build: HubSpot box on the left, a new box on the right filling up piece by piece as he says it, tags **Built step by step** · **Team stays in HubSpot** · **Data moves piece by piece** · then the HubSpot box switches off: **Basically zero risk**
 
 **YUSUF:**
-> I know that sounds like a lot for a support problem. And a few years ago, I'd have agreed, because you had to cancel the old CRM so it wouldn't renew. Then you had to move everything before that date, and I mean, it was a huge headache.
+> Those five steps get you through this problem. But your next ticket goes into the same queue, because when you sell one CRM to everyone, you plan for the typical customer. And the person who picks up has never seen how your company works.
 >
-> But today you're actually not stuck, because with AI, it's cheaper to build just what you need. So you build a new CRM step by step, while your team keeps working in HubSpot. And one day you simply notice that, wow, all our data is actually in this new system that we own. So shutting off HubSpot is basically zero risk.
+> So think about the last time your team sat waiting. Which quotes didn't go out? Which deals went quiet?
+>
+> A few years ago you were stuck with a rented CRM, because you had to cancel the old CRM so it wouldn't renew, and you had to move everything before that date. I mean, it was a huge headache. But today you can actually build a new CRM step by step, while your team keeps working in HubSpot. And one day you simply notice that, wow, all our data is actually in this new system that we own. So shutting off HubSpot is basically zero risk.
 
-## 5:50 Your next problem
-
-**ON SCREEN:** tag **Example**: **Tuesday morning · Your team can't send quotes**. Then tags, one per phrase: **You talk to who built it** · **They know how you work** · **Nobody can suspend you** · **First lead to last payment, one system**
+**ON SCREEN:** tag **Example**: **Tuesday morning · Your team can't send quotes**. Then tags, one per phrase: **You talk to who built it** · **They know how you work** · **AI drafts the quote** · **You edit and approve** · **First lead to last payment, one system**
 
 **YUSUF:**
-> You might wonder, if a company as big as HubSpot can't answer you, who'd answer you on your own CRM? So picture your next problem. Say your team can't send quotes on a Tuesday morning. You don't call a sales line. You just talk to the people who built your CRM, and they know how your company works. And nobody can suspend you after you've paid for the year, because it's your system. So one system runs your whole process, from the first lead to the last payment.
+> So who'd answer you on your own CRM? Say your team can't send quotes on a Tuesday morning. You just talk to the people who built your CRM, and they already know how your company works.
+>
+> On a normal day, a lead comes in, the AI makes a suggestion for the quote, and you just edit and approve. The customer signs it right there, and the deal turns into a job. So one system runs your whole process, from the first lead to the last payment.
 
-## 6:24 What we do
+## 6:30 What we do
 
 **ON SCREEN:** tags, one per phrase: **Do it yourself** · **We advise, with templates** · **We do it for you**. Then: **Built for how you work** · **We move your data** · **No second monthly bill** · **You own the code** · then, smaller: **For 10+ people**
 
 **YUSUF:**
-> By the way, I'm telling you this not to try to sell our services. You can do this on your own with AI, and if you want us as advisers, we'll give you templates. But if you want someone with experience to do it for you, that's what we do at my company, CRM From Within. We build you that CRM from scratch, around how your team sells and delivers, and we move your data over and maintain it. We charge for the project, not monthly, during the move, so you don't have two recurring bills. You own the code, with no long contract. It's for companies of at least ten people where a standard CRM just doesn't fit.
+> By the way, I'm telling you this not to try to sell our services. You can do this on your own with AI, and if you want us as advisers, we'll give you templates. But if you want someone with experience to do it for you, that's what we do at my company, CRM From Within. We build you that CRM from scratch, we move your data over and we maintain it. We charge for the project, not monthly, during the move, so you don't have two recurring bills. You own the code, with no long contract. It's for companies of at least ten people.
 
-## 7:10 Free CRM fit check
+## 7:11 Free CRM fit check
 
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
 > If you want to find out what owning your own CRM could mean for your company, we do a free twenty-minute CRM fit check. The link's in the description.
 
-## 7:21 Close
+## 7:22 Close
 
 **ON SCREEN:** lower-third tag: **Comment: your longest wait**
 
@@ -246,7 +251,7 @@ Link: https://knowledge.hubspot.com/import-and-export/export-records
 > - HubSpot's terms · https://legal.hubspot.com/product-specific-terms · https://legal.hubspot.com/terms-of-service
 > - Auto-renewal and export, including calls and notes (HubSpot help center) · https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account · https://knowledge.hubspot.com/import-and-export/export-records
 >
-> 0:00 What to do when support stops answering · 1:23 The 5 steps · 1:27 What your plan promises · 1:53 The right team · 2:50 In writing · 3:11 Stop the renewal · 3:54 Your data out · 4:33 Why the next ticket goes the same way · 5:08 Why you can own your CRM now · 5:50 Your next problem · 6:24 What we do
+> 0:00 What to do when support stops answering · 1:18 The 5 steps · 1:22 What your plan promises · 1:48 The right team · 2:40 In writing · 3:10 Stop the renewal · 4:10 Your data out · 5:00 Why you can own your CRM now · 6:30 What we do
 
 ---
 
@@ -256,14 +261,14 @@ Each short opens with the tag **Hundreds of CRM setups · Built & sold a CRM Saa
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|
-| 1 | 0:42–1:08 | 26s | "Paid HubSpot for the year. Suspended. Sent to sales." |
-| 2 | 1:33–1:53 | 21s | "HubSpot's own terms: no promised response time" |
-| 3 | 1:53–2:06 | 12s | "Which team at HubSpot to contact" |
-| 4 | 2:06–2:40 | 34s | "Emailed HubSpot for a month. This got a reply." |
-| 5 | 3:02–3:11 | 9s | "The line to put in a billing dispute" |
-| 6 | 3:25–3:43 | 18s | "Turning off auto-renewal doesn't mean leaving" |
-| 7 | 3:54–4:26 | 32s | "Paid for the year, still suspended. Export now." |
-| 8 | 4:33–5:08 | 35s | "Why your next HubSpot ticket goes the same way" |
+| 1 | 0:40–1:03 | 23s | "Paid HubSpot for the year. Suspended. Sent to sales." |
+| 2 | 1:26–1:48 | 22s | "HubSpot's own terms: no promised response time" |
+| 3 | 1:48–1:59 | 11s | "Which team at HubSpot to contact" |
+| 4 | 1:59–2:30 | 31s | "Emailed HubSpot for a month. This got a reply." |
+| 5 | 2:52–3:05 | 13s | "The line to put in a billing dispute" |
+| 6 | 3:23–3:41 | 18s | "Turning off auto-renewal doesn't mean leaving" |
+| 7 | 3:46–4:10 | 24s | "A hundred features. You use three." |
+| 8 | 4:10–4:37 | 27s | "Paid for the year, still suspended. Export now." |
 
 ---
 
@@ -271,7 +276,8 @@ Each short opens with the tag **Hundreds of CRM setups · Built & sold a CRM Saa
 
 - Example, "paid for the year in advance", Sales "could not escalate", "email Collections yourself", "the complete lack of ownership": https://www.trustpilot.com/reviews/6ac4fdeacc1972832e179cae (6 Oct 2026; checked live 1 Nov 2026)
 - Step 2, "no meaningful response" for almost a month, "Only after I called their sales line" (Head of B2B): https://www.trustpilot.com/reviews/6a0c9476f251d0ccb18d1bec (19 May 2026; checked live 1 Nov 2026)
-- Why you can own your CRM now: building step by step while the team keeps working in the old CRM, the data moving over piece by piece, a system the company owns and controls, and basically zero risk to shut off the old CRM (Yusuf, 6 Nov 2026); cancelling the old CRM so it won't renew and moving everything before that date (Yusuf, video 16 recording); with AI it's now cheaper to build just what you need (Yusuf, video 13). Your next problem is a made-up illustration, said with "Say" and tagged Example.
+- Why you can own your CRM now: building step by step while the team keeps working in the old CRM, the data moving over piece by piece, a system the company owns and controls, and basically zero risk to shut off the old CRM (Yusuf, 6 Nov 2026); cancelling the old CRM so it won't renew and moving everything before that date (Yusuf, video 16 recording); with AI it's now cheaper to build just what you need (Yusuf, video 13). The Tuesday morning problem is a made-up illustration, said with "Say" and tagged Example.
+- What owning adds: "a system that updates itself", salespeople spending their time on customers and not on admin, "the AI makes a suggestion and you just edit and approve", the customer signing in the same system, the deal turning into a job, and "you're paying for 97 features that you're never going to use", where a hundred features is a made-up illustration, said with "say" and tagged Example (Yusuf, video 17 recording). The owning lines that you decide how fast someone answers, that the team can usually change the CRM the same day and that nobody can suspend you are new, for Yusuf to confirm.
 - What we do: on your own, with us advising, or we do it for you, and we'll give you templates, and we charge for the project, not monthly, during the move, so no two recurring bills (Yusuf, video 16 recording; confirmed 6 Nov 2026).
 - Why the next ticket goes the same way: anyone selling one CRM to everyone plans for the typical customer, and whoever picks up has to know a CRM built for everyone: Yusuf's interview, 4 Nov 2026.
 - Support help page (updated 15 Sep 2026; checked live 1 Nov 2026, rechecked 5 Nov 2026): Starter "Knowledge Base, community, chat, and email"; Pro/Enterprise "call-back"; "in accounts created on or after March 5, 2024, users must have an assigned Core, Sales, or Service seat"; you can reply to the ticket's email thread; "Have your Hub ID ready when contacting HubSpot Support, especially by phone": https://knowledge.hubspot.com/help-and-resources/get-help-with-hubspot
