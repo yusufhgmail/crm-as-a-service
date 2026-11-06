@@ -73,6 +73,11 @@ Say what that gives their business, not what the video contains. A count of thin
 - Not like this: "If they don't use a field and nobody else does anything with it, make it optional."
 - But like this: "If these fields don't help them close deals, do you really need them? I understand, those fields can be very valuable for data. But forcing salespeople to fill them in is really not what they were hired for."
 
+**Sell what's possible, not what's broken.** Our viewer wants to lift their business, so each step says what it gets them, past the obvious. Then say what owning adds on top. Use a check only when the check is what the video promises, because Yusuf drops them on camera.
+
+- Not like this: "To check this one, compare your last signed quote with the deal in your CRM. If the total doesn't match, this connection isn't working."
+- But like this: "These tools often tell you when a lead opens the quote, so you know exactly when to follow up. So integrating a quoting tool is highly recommended. And some companies think it's even better if you don't have two separate tools."
+
 **Make every step something they can do.** A step should come out of what was just said, so the viewer knows why they're doing it. Give one action in one sentence, because Yusuf skips long checks when he reads from the prompter. Then say how to decide what the result means.
 
 - Not like this: "Count the systems yours would have to connect to."
@@ -142,7 +147,7 @@ Say what that gives their business, not what the video contains. A count of thin
 - Not like this: "We build you a CRM from scratch around how your company works, and if you keep QuickBooks, we connect it the way you need."
 - But like this: "We build you a CRM from scratch around how your company works, from the first lead to the last payment, so you don't need all those other tools."
 
-**Keep the fit check and the comment question short.** Give each one short sentence, and word them differently in each video.
+**Keep the fit check and the comment question short.** Give each one short sentence, and word them differently in each video. You can also mention the fit check once mid-video, right after the most exciting idea, tied to it: "if you want to see if any of this could be for you". Say what they get from it: "inspiration about what you could build today".
 
 **Stop when you're done.** No recap of homework after the pitch, and no closing line that says nothing new.
 

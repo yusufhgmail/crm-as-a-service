@@ -2,9 +2,10 @@
 
 [All video scripts](../README.md)
 
-**Status:** core point changed by Yusuf, 6 Nov 2026; the 47/60 score is from before this change, and it needs a human read
+**Status:** recorded 6 Nov 2026. He changed a lot on camera, so this script isn't what the video says; the cut list is in the private repo's `videos/RECORDING_REVIEW_2026-11-06_video_17.md`
 
 - [Script on Drive](https://docs.google.com/document/d/1JAcxJ8l-W_DrHdfmlhd8sWKPI5246HVNqFCfd666NEQ/edit)
+- [Camera footage on Drive](https://drive.google.com/drive/folders/1rNr3qpNMTL_hEy8WkVNzGhw4PpokruIp)
 
 ## Files
 
@@ -20,4 +21,3 @@
 - `social/facebook.md`: Facebook posts
 - `social/instagram.md`: Instagram carousel and Reels captions
 - `social/tiktok.md`: TikTok captions
-- `footage.md`: link to the raw recording on Drive (video files stay on Drive)
