@@ -1,5 +1,7 @@
 # CRM From Within website iterations
 
+Ideas not built yet are in [WEBSITE-IDEAS.md](WEBSITE-IDEAS.md).
+
 ## CRM agency rewrite: comparison page — 2026-11-05
 
 The [design review](design-reviews/2026-11-05-crm-agency-site/index.html) compares the live page with the 2026-10-25 CRM agency plan in seven decisions. Nothing is approved or built yet.
