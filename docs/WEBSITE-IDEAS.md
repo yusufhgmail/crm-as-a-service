@@ -68,3 +68,27 @@ Strong points he said on camera that the website could market.
 **Advice from people who've done it.** "At least get advice from someone who has done it many times before." This depends on the build-or-advise idea above.
 
 **Check before publishing:** "same day" needs to be something we really deliver.
+
+# Leave your CRM without a big migration (Yusuf, video 19, 6 Nov 2026)
+
+Strong points he said on camera that the website could market. They're the safest answer to the fear of moving.
+
+**No one-time migration.** "You no longer actually have to do this huge one-time migration." We build the new CRM beside the old one while the team keeps working.
+
+**One day you just notice it's done.** "Suddenly one day you'll notice that oh we have all our data already and all our entire process in the new one, so we can just shut off the old one."
+
+**Built step by step, so you never take the risk.** "We build it step by step so that you never risk this huge migration."
+
+**Your data comes over as you go.** Each tool you build picks up its information over time, so by shut-off the most important information is already there, and you don't need one perfect export.
+
+**A safety net.** Keep one license of the old system alive, so you don't risk losing the data.
+
+**Old notes start working for you.** AI reads them as one source among the others, and what it creates becomes the data in the new system.
+
+**You only find out after you've moved.** "You don't actually know until you start using it, regardless of what the salesperson says." That's the risk of any rented CRM, and it's why building step by step is safer.
+
+**Skip the automation audit.** Most old automations are background field updates you can ignore. The people who know what the customer really sees are all you need.
+
+**This is all we do.** "This is the only thing we do", and "we keep improving it for you."
+
+**Check before publishing:** "one license" depends on the old CRM's plan, and "basically zero risk" needs care on a website.

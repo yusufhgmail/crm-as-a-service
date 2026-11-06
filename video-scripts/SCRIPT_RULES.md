@@ -78,6 +78,16 @@ Say what that gives their business, not what the video contains. A count of thin
 - Not like this: "To check this one, compare your last signed quote with the deal in your CRM. If the total doesn't match, this connection isn't working."
 - But like this: "These tools often tell you when a lead opens the quote, so you know exactly when to follow up. So integrating a quoting tool is highly recommended. And some companies think it's even better if you don't have two separate tools."
 
+**Teach what someone who's done it knows.** A list of things to write down teaches nothing. Say which part matters, which part to ignore and why, the quick way, and who in the company has the answer. Most of a video's teaching belongs in the one or two steps where that know-how is, and the others stay a few lines.
+
+- Not like this: "Write down your files and your automations, and who actually uses each one."
+- But like this: "You may have hundreds of automations. But a lot of these are background ones that update fields. Those you can just ignore. Your salespeople and marketing people know what actually happens to the customer. So sit down with them in a room and map that, and that's really all you need."
+
+**Say what's changed as a new way of doing the job.** "You could have a CRM you own" is a product. Say what the viewer no longer has to do, how it works instead and where they end up. If the video covers two ways, say so before the first step. Then walk through how owning handles the main step, in order, with one example.
+
+- Not like this: "So you could have a CRM built around your company, that you own, built piece by piece."
+- But like this: "This allows us a completely new way to migrate, because you no longer have to do this huge one-time migration. Instead you can build things in parallel, and suddenly one day you'll notice that we have all our data in the new one, so we can just shut off the old one."
+
 **Make every step something they can do.** A step should come out of what was just said, so the viewer knows why they're doing it. Give one action in one sentence, because Yusuf skips long checks when he reads from the prompter. Then say how to decide what the result means.
 
 - Not like this: "Count the systems yours would have to connect to."
@@ -138,7 +148,7 @@ Say what that gives their business, not what the video contains. A count of thin
 - Not like this: "If nothing in your CRM is holding you back, just keep it."
 - But like this: "If you think this is interesting and you want to start by just researching what this could mean for you, we do a free twenty-minute CRM fit check."
 
-**Say they can do it without us.** Before the pitch, say they can do this on their own or with us advising, or have us do it. Yusuf, video 16: "you can do this on your own. You can use us as advisory if you want. But if you want someone to do it for you, someone with experience, at my company, CRM From Within, we do all of this for you."
+**Say they can do it without us.** Before the pitch, say they can do this on their own or with us advising, or have us do it. Yusuf, video 16: "you can do this on your own. You can use us as advisory if you want. But if you want someone to do it for you, someone with experience, at my company, CRM From Within, we do all of this for you." Where the video says doing it alone is risky, say "at least get advice from someone who has done it many times before" (video 18). He doesn't need to deny that he's selling.
 
 **Answer the money doubt with how we work.** Never leave "you'll pay for both" alone. We don't charge monthly during the move, we charge for the project, so there aren't two recurring bills. Give no price.
 
@@ -146,6 +156,11 @@ Say what that gives their business, not what the video contains. A count of thin
 
 - Not like this: "We build you a CRM from scratch around how your company works, and if you keep QuickBooks, we connect it the way you need."
 - But like this: "We build you a CRM from scratch around how your company works, from the first lead to the last payment, so you don't need all those other tools."
+
+**Make the pitch match the video.** The list above is a default, so reword any line that fights what the video just taught, and tie the pitch to the risk it took away.
+
+- Not like this, in a video that says you don't need one big migration: "we move your data over"
+- But like this: "we build it step by step so that you never risk this huge migration"
 
 **Keep the fit check and the comment question short.** Give each one short sentence, and word them differently in each video. You can also mention the fit check once mid-video, right after the most exciting idea, tied to it: "if you want to see if any of this could be for you". Say what they get from it: "inspiration about what you could build today".
 

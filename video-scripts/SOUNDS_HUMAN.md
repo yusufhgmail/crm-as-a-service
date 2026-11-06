@@ -70,6 +70,20 @@ Yusuf, 6 Nov 2026, after recording video 16: "notice how I speak, to make it sou
 
 - Like this: "so that you see not just the ones you did work on and lose, but the ones you didn't even pick up."
 
+**He finishes the thought with what happens otherwise.** He adds the reason in its own clause, even where it makes the line longer.
+
+- Not like this: "So start by switching off auto-renew."
+- But like this: "you had to move everything before that cancellation date because otherwise it would just renew for a whole new year." Also "because if those work then the rest will probably work too."
+
+**He gives the honest size.** Clever pictures of failure and sure predictions don't survive the camera. He says how much it matters, gives a range, or leaves it to the person who'd know.
+
+- Not like this: "A rep who can't see what was said to a customer walks into that call blind."
+- But like this: "it can be really important. So I would suggest talking to a salesperson who can determine what is actually needed."
+
+**He says what the job feels like.** Where a step sounds dull or hard, he says so first.
+
+- Like this: "this is kind of the boring part, I know, but it really helps", and "it's actually not as difficult as it might sound."
+
 ## Say one thing at a time
 
 **Use full spoken sentences.** Shorter never means telegram style. When a line is telegram style, he stops and says the full reasoning, and his version is longer and clearer. Join sentences with "so", "and", "but" and "because", since that's how people reason aloud, and never remove them to make a line shorter or lower a count. Use contractions like "it's", "don't" and "you'll". No colon reveals, no slogans, and no fragments standing in for sentences.
@@ -131,6 +145,11 @@ Yusuf, 6 Nov 2026, after recording video 16: "notice how I speak, to make it sou
 - But like this: "If your team is already using the CRM that you have today, then you don't need us."
 - Not like this: "If that's you, and you're also running the company, I'd stick to the spreadsheet."
 - But like this: "If you're the one who'd do that, and you're also running your company, it's probably not the best idea."
+
+**Say where a callback comes from.** A name from minutes earlier trips him, so point back first.
+
+- Not like this: "Remember, Paul's weekend took three weeks."
+- But like this: "Remember the example I gave. Paul's weekend that he planned for took actually three weeks."
 
 # What gives AI away
 
