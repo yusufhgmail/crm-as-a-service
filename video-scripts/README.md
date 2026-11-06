@@ -22,7 +22,7 @@ Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folder
 | 14 | [Your CRM Is Your Business: Don't Rent It](14_your_crm_is_your_business/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1nADcHg_YfNNPNw3cv1MPa4k7347JQMOT)** | [Yusuf's lines](14_your_crm_is_your_business/yusuf_lines.md) | ❌ | ❌ |
 | 15 | [3 Reasons Your Team Doesn't Use the CRM, and the Fix](15_team_doesnt_use_crm/script.md) | [Yusuf's lines](15_team_doesnt_use_crm/yusuf_lines.md) | ❌ | ❌ |
 | 16 | [Keep HubSpot, Replace One Thing First](16_keep_hubspot_replace_one_thing/script.md) | [Yusuf's lines](16_keep_hubspot_replace_one_thing/yusuf_lines.md) | ❌ | ❌ |
-| 17 | [5 CRM Integrations a Service Company Needs](17_crm_integrations_service_company/script.md) | [Yusuf's lines](17_crm_integrations_service_company/yusuf_lines.md) | ❌ | ❌ |
+| 17 | [5 CRM Integrations a Service Company Needs](17_crm_integrations_service_company/script.md) | [Yusuf's lines](17_crm_integrations_service_company/yusuf_lines.md) | ✅ 37/60 | ❌ |
 | 18 | [How to Keep Your Own CRM Running: 6 Checks](18_keep_your_own_crm_running/script.md) | [Yusuf's lines](18_keep_your_own_crm_running/yusuf_lines.md) | ❌ | ❌ |
 | 19 | [How to Leave HubSpot Without Losing Your Data: 5 Steps](19_leave_hubspot_without_losing_data/script.md) | [Yusuf's lines](19_leave_hubspot_without_losing_data/yusuf_lines.md) | ❌ | ❌ |
 | 20 | [What to Do Before Your Salesforce Renewal: 5 Steps](20_before_salesforce_renewal/script.md) | [Yusuf's lines](20_before_salesforce_renewal/yusuf_lines.md) | ❌ | ❌ |
