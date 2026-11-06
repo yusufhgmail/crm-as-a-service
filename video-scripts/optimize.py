@@ -10,7 +10,7 @@ Run from anywhere:
   python3 video-scripts/optimize.py check           fail if any script has had neither the Optimized process nor the old human check
   python3 video-scripts/optimize.py nag [--hook]    print the loud warning, if there is anything to warn about
 
-The total is 2 x human + 2 x easy to understand + interest + value + belief + shorten, out of 80. Marks from before 5 Nov 2026 used five scores, out of 60, and show as "old score" until the script is rescored. Marks from before the shorten score had value per word in its place. Every mark holds a fingerprint of yusuf_lines.md, so any edit to the spoken lines clears it.
+The total is human + easy to understand + interest + value + belief + shorten, out of 60. The round to keep has the highest human + easy to understand, then the highest total, then comes latest. Marks from before 5 Nov 2026 used five scores with human doubled and show as "old score" until the script is rescored. Marks from before the shorten score had value per word in its place. Every mark holds a fingerprint of yusuf_lines.md, so any edit to the spoken lines clears it.
 """
 import datetime
 import hashlib
@@ -57,17 +57,21 @@ def state(db, name):
 
 
 def total(scores):
-    if len(scores) == 5:  # before the easy-to-understand score
+    if len(scores) == 5:  # before the easy-to-understand score, when human counted double
         human, interest, value, belief, per_word = scores
         return 2 * human + interest + value + belief + per_word
-    human, easy, interest, value, belief, shorten = scores  # value per word sat in the last place before the shorten score
-    return 2 * human + 2 * easy + interest + value + belief + shorten
+    return sum(scores)  # value per word sat in the last place before the shorten score
+
+
+def kept(rounds):
+    """Return the round to keep: highest Human + Easy to understand, then highest total, then latest."""
+    return max(enumerate(rounds), key=lambda r: (r[1][0] + r[1][1], total(r[1]), r[0]))[1]
 
 
 def optimized_mark(entry):
     if len(entry["rounds"][0]) == 5:
         return f"old score {entry['best']:g}/60"
-    return f"✅ {entry['best']:g}/80"
+    return f"✅ {entry['best']:g}/60"
 
 
 def read_state(db, name):
@@ -132,7 +136,7 @@ def main():
         flat = len(focus) >= 3 and focus[-1] <= focus[-3] and focus[-2] <= focus[-3]
         if not flat and "--approved" not in sys.argv:
             sys.exit("Not marked: the rounds only stop after two rounds in a row where Human, Easy and Shorten don't go up, or when Yusuf approves the script (--approved).")
-        db["optimized"][name] = {"sha": fingerprint(path or spoken(name)), "rounds": rounds, "totals": totals, "best": max(totals), "date": datetime.date.today().isoformat()}
+        db["optimized"][name] = {"sha": fingerprint(path or spoken(name)), "rounds": rounds, "totals": totals, "best": total(kept(rounds)), "date": datetime.date.today().isoformat()}
         save(db)
         sync()
         print("optimized", name, totals)
