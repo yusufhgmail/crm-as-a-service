@@ -47,7 +47,7 @@ Pair title 1 with thumbnail 1; test 2 with 2, 4 with 5.
 **ON SCREEN:** Yusuf on camera. As he describes it: an empty deals board on one side, a full spreadsheet on the other. Tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF** (straight to camera):
-> A sales team can stop using a CRM, and nobody says anything. The bill still gets paid, but nobody's adding deals, and some of the deals are in Excel.
+> I've seen so many times how a sales team can stop using a CRM, but nobody says anything.
 >
 > I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, so I've seen this happen, and I've seen how to fix it.
 
@@ -258,7 +258,7 @@ Each short opens on its own first line (a claim, a count or something you can se
 
 | # | From | Length | Opens on | Caption on screen |
 |---|---|---|---|---|
-| 1 | 0:00–0:20 | 20s | the empty board ("A sales team can stop using a CRM, and nobody says anything.") | "The CRM is paid for. The board is empty." |
+| 1 | 0:00–0:20 | 20s | the empty board ("I've seen so many times how a sales team can stop using a CRM, but nobody says anything.") | "The CRM is paid for. The board is empty." |
 | 2 | 0:40–1:00 | 20s | the quote card ("One business owner on a German Reddit forum brought in HubSpot…") | "I've got it all in my head" |
 | 3 | 1:30–2:00 | 30s | **127 fields · top seller uses 3** ("The biggest reason is too many fields…") | "Who your CRM fields are really for" |
 | 4 | 2:00–2:25 | 20s | the scale: **30–40 minutes a day · nothing back** ("And all those fields take time.") | "125 hours a year, for one rep" |

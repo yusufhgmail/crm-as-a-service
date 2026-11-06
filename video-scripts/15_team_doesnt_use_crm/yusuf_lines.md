@@ -4,7 +4,7 @@
 
 ## Proof
 
-A sales team can stop using a CRM, and nobody says anything. The bill still gets paid, but nobody's adding deals, and some of the deals are in Excel.
+I've seen so many times how a sales team can stop using a CRM, but nobody says anything.
 
 I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, so I've seen this happen, and I've seen how to fix it.
 
