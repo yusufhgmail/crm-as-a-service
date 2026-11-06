@@ -88,6 +88,11 @@ Say what that gives their business, not what the video contains. A count of thin
 - Not like this: "Write down your files and your automations, and who actually uses each one."
 - But like this: "You may have hundreds of automations. But a lot of these are background ones that update fields. Those you can just ignore. Your salespeople and marketing people know what actually happens to the customer. So sit down with them in a room and map that, and that's really all you need."
 
+**Say whose CRM you mean.** "Your own CRM" or "our own CRM" means nothing until the viewer knows who owns it and who built it. Say it in full. Yusuf, video 22: "What do you mean in our own CRM?"
+
+- Not like this: "In our own CRM, we start with those awkward jobs."
+- But like this: "When we work with a customer who wants a CRM built for them, we start with those awkward jobs."
+
 **Bring owning in only where it's a real advantage.** The option of owning comes back at the steps where it changes something on that step's own topic, usually two or three. Stay on that one advantage and say what it unlocks. A one-line contrast, or a stock line about AI added after it, goes.
 
 - Not like this: "And in a CRM you own, there's no bill per person. With AI, it can update itself, so salespeople just talk to customers."

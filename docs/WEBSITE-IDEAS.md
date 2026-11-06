@@ -110,3 +110,21 @@ Strong points he said on camera that the website could market.
 **Why bought CRMs are bloated.** They have to build one system they can sell to all kinds of customers, so you pay for all the features "even though you may need only like a fraction of them".
 
 **Check before publishing:** "listens to your calls" needs the customer's consent rules thought through, and a full CRM within one year depends on the company.
+
+# Change your CRM without a big bet (Yusuf, video 22, 6 Nov 2026)
+
+Strong points he said on camera that the website could market.
+
+**You can't know until it's too late.** With a bought CRM, "you can't really know if the CRM you picked is the right one for you until it's too late", and going back is so costly that "you're kind of stuck".
+
+**No more big bet.** "A new way that removes this big bet type switching entirely." You "simply build what you need", and "there is actually no migration if you do this right".
+
+**It starts small and grows.** The first piece is "like an embryo, a starting point for the CRM that you're going to eventually have", living right next to the old one.
+
+**Best value first.** "You always start by building the pieces that will give you the most value for the least cost and least risk."
+
+**Built around you.** "A CRM that is built around you rather than you needing to adapt to it", and it's "continuously adaptable to what you actually discover that you need".
+
+**We keep improving it.** "We are responsible for keeping it running and for continuously adapting it to your needs with the latest AI features."
+
+**Check before publishing:** "basically zero risk" needs care on a website, and "latest AI features" has to match what we really deliver.

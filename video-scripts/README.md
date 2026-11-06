@@ -27,7 +27,7 @@ Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folder
 | 19 | [How to Leave HubSpot Without Losing Your Data: 5 Steps](19_leave_hubspot_without_losing_data/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1HAilpqcKEDeTBYykxjcFqtYkCb3M2HTx)** | [Yusuf's lines](19_leave_hubspot_without_losing_data/yusuf_lines.md) | ✅ 45/60 | n/a |
 | 20 | [What to Do Before Your Salesforce Renewal: 5 Steps](20_before_salesforce_renewal/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1b_V_RypWktyPWv6u6Thd-12Qehhu-ItA)** | [Yusuf's lines](20_before_salesforce_renewal/yusuf_lines.md) | ✅ 47/60 | n/a |
 | 21 | [What to Do When HubSpot Support Stops Answering: 5 Steps](21_hubspot_support_stops_answering/script.md) · **Discarded: too far from what we sell** | [Yusuf's lines](21_hubspot_support_stops_answering/yusuf_lines.md) | n/a | n/a |
-| 22 | [Switched CRMs and Regret It? 5 Checks Before Your Next Move](22_switched_crm_and_regret/script.md) | [Yusuf's lines](22_switched_crm_and_regret/yusuf_lines.md) | ✅ 45/60 | ❌ |
+| 22 | [Switched CRMs and Regret It? 5 Checks Before Your Next Move](22_switched_crm_and_regret/script.md) · **[Camera footage on Drive](https://drive.google.com/drive/folders/1MpXifE4UQ6CqxfXpQlMW2kFUU5HzOEYi)** | [Yusuf's lines](22_switched_crm_and_regret/yusuf_lines.md) | ✅ 45/60 | n/a |
 
 [Content plan](../docs/plans/2026-10-25-crm-agency-plan.md#content-plan) · [Project overview](../README.md)
 

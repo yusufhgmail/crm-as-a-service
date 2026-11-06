@@ -28,7 +28,8 @@
     "17_crm_integrations_service_company": "Recorded",
     "19_leave_hubspot_without_losing_data": "Recorded",
     "21_hubspot_support_stops_answering": "Discarded",
-    "20_before_salesforce_renewal": "Recorded"
+    "20_before_salesforce_renewal": "Recorded",
+    "22_switched_crm_and_regret": "Recorded"
   },
   "read_by_human": {
     "13_crm_planning_prompt": {

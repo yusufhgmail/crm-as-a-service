@@ -228,4 +228,9 @@ One of these proves nothing, and real people do most of them now and then. A pil
 
 **20. Two ideas in one breath.** AI joins two good points because both fit. If the second one is a new topic, it gets its own place or it goes. Yusuf: "those are two unrelated topics, you shouldn't mix them."
 
+**21. A verdict line after the advice.** AI ends a step by telling the viewer what the check just saved them. The advice already said it. Yusuf: "that's a ridiculous redundant sentence."
+
+- Not like this: "If it isn't clearly cheaper than your CRM now, you've saved yourself the whole move."
+- But like this: "make sure that whatever you pay for will be able to accommodate every step that you actually did in that trial."
+
 The research behind this file, with its sources and how strong each one is, is in David's repo at `research_notes/2026-11-06_spoken_script_rules.md`. Where research and Yusuf's corrections disagree, his corrections win.
