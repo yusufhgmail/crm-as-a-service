@@ -64,6 +64,11 @@ Every video rests on one study, kept in David's private repo. Check every number
 - Not like this: "So if you walk in without your own list, you end up using the seller's."
 - But like this: "So before you talk to a seller, write down what matters most to your company. If you don't, you'll end up judging the CRM by what the seller wants to show you."
 
+**Don't lean on labels.** Never assume the viewer remembers a word you set up earlier, like "moment", "route" or "part". Each new section starts by saying what it's about in full, as if someone had just started listening.
+
+- Not like this: "The first moment is when you want your CRM to work a little differently."
+- But like this: "Renting a CRM starts to hurt when you want it to work a little differently."
+
 **Run the Optimized process.** Every script gets it before anyone records it, and any edit to the spoken lines means it has to run again. It scores how human the script sounds and how easy it is to understand (both count double), how well it holds our buyer, whether the viewer can act on it without us, whether it makes them believe a custom CRM can lift the business, and how much value it gives per word. `optimize.py` tracks this, and [CLAUDE.md](CLAUDE.md) has the process. When a new script comes in without it, tell Yusuf or David forcefully and ask them to approve running it.
 
 **A human reads it before Yusuf records it.** David or Yusuf reads every script first, so obviously bad lines get fixed before filming. The last column of the recordings list shows who read it. Any edit to the spoken lines clears that, so run the Optimized process first and read last.

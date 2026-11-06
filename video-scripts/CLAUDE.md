@@ -27,6 +27,7 @@ The process, in Yusuf's words:
    - **Easy to understand, counts double:** how easy, simple and straightforward is the script to understand? Do people need to focus, concentrate or think twice, or does it flow so they just immediately understand, in simple, direct language, what we're talking about? This is a separate score from Human: a line can sound natural and still lose people.
      - Could someone half listening get every sentence the first time? If they'd have to stop and work it out, it fails.
      - Does the viewer already know what each word points at? "If you walk in without your own list, you end up using the seller's." fails, because nobody has mentioned a list: "What list are you talking about?"
+     - Would someone who started listening at this sentence know what it's about? Don't count on a label set up minutes earlier. "The first moment is when you want your CRM to work a little differently." fails: "The first moment of what?" Say the real thing: "Renting a CRM starts to hurt when you want it to work a little differently."
      - Is every step between two ideas said out loud? Leaving a step for the viewer to work out fails.
      - Is the conclusion said in plain words? Name the thing instead of "that" or "yours".
        - Not like this: "If that's you, and you're also running the company, I'd stick to the spreadsheet."
