@@ -4,61 +4,69 @@
 
 ## Hook
 
-A lot of companies switch CRMs to fix one problem, and the new CRM just gives them a different one. I'll give you five checks, so your next CRM gets you the lower bill or the better fit you're switching for. And I'll show you why you may never have to switch again.
-
-Here's a real example from HubSpot's own forum. One company left Zoho for HubSpot in January 2026. And after about a hundred automated sales emails from HubSpot, Microsoft thought their email account had been hacked, and blocked it. And within weeks, they're saying it feels like they'll be forced back to Zoho.
+If you've switched CRMs and you regret it, or you're about to switch, this video shows you what to do before your next move. I'll give you five checks, so your next CRM actually gets you what you're switching for. And I'll show you another way, where you may never have to switch again.
 
 ## Proof
 
-I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
+Who am I? I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
 
-## Why switching doesn't fix it
+## Why switching goes wrong
 
-So why does this keep happening? I think it's because every standard CRM is rented, so you still get somebody else's process and somebody else's contract.
+Here's a real example from HubSpot's own forum. One company left Zoho for HubSpot in January 2026. After about a hundred automated sales emails, Microsoft thought their email account had been hacked, and blocked it. And within weeks, they felt they'd be forced back to Zoho.
 
-In the past you could stay or you could switch, and that was it. But that's actually not the case any more, because with AI, it's now cheaper to build just what you need. So you could have a CRM you own, built around how your company works.
+When this happens, you think, okay, we just picked the wrong CRM. But I actually don't think that's it, because you don't actually know if any standard CRM works for you until your team's working in it, whatever the seller told you. And by then you've moved everything and signed for a year. So the whole switch is one big bet.
 
-## Check 1: The real price
+## Another way to change your CRM
 
-So the first check is the real price. What happens is you compare the cheapest plans, and then you find out that what you actually need is on a more expensive plan.
+In the past, you could stay or you could switch, and that was it. But with AI, it's now actually cheaper to build just what you need. So you could have a CRM you own, built around how your company works.
 
-So have the sales rep show you the cheapest plan that does everything you need. If it isn't clearly cheaper than your CRM now, you've saved yourself the whole move.
+And that changes how you do this, because you no longer have to pick a winner and move your whole company in one go. You build the one thing you wanted from the switch, right next to the CRM you have today, while your team keeps working in it. And you can start from a CRM you already regret.
 
-Now, a CRM you own can actually be cheaper, because a rented CRM has to have features for every customer. So let's say it has a hundred features and you use three. You're paying for ninety-seven that you're never going to use. In your own CRM, you get exactly what you need and nothing else.
+So I'll cover both ways here. If a standard CRM does what you need, these five checks get you there safely. And at each one, I'll say what you could do in your own CRM.
 
-## Check 2: Your real work
+## Check 1: Your real work
 
-The second check is if the new CRM fits how your company works, because a CRM that fits is one your team actually uses.
+The first check is the most important one. Can the new CRM actually do your real work? Because that's what decides if your team uses it.
 
-And I understand why you'd think, okay, we just picked the wrong CRM. But I actually don't think that's usually true. What you're buying is someone else's way of working, and nobody's really happy with someone else's process.
+Most people go by the feature list, and I'd ignore that, because every CRM says yes to almost everything.
 
-And a demo won't show you this, because I've sold CRMs myself, and the seller decides what you see. So get a trial, and have your team run your three most common jobs in it. If they can't, don't sign. And if they can't in any CRM you try, another switch won't fix it.
+The real test is your awkward jobs, the ones that don't go the normal way, because any CRM can do a simple deal. Your salespeople and whoever does your invoicing know which jobs those are.
 
-So if you built your own CRM, you'd actually start with those three jobs. And with AI, you can go much further. You can literally have a CRM that updates itself. I mean, your salespeople just talk to customers, and the admin gets done.
+So get a trial, and have a salesperson run one of those jobs with a real customer. If they need a spreadsheet to finish it, that CRM doesn't do that job. And if no CRM you try can do it, another switch won't fix it.
 
-If you want to see if this could be for you, we have a free CRM fit check. It gives you some inspiration about what you could actually build today.
+In your own CRM, you start with those awkward jobs, because they're usually what makes your company different. And with AI you can literally have a CRM that updates itself. I mean, your salespeople just talk to customers, and the CRM does the admin.
+
+## Check 2: The real price
+
+Number two is the real price, because what you need is usually on a more expensive plan than the one you compared. So get that price in writing from the sales rep. If it isn't clearly cheaper than your CRM now, you've saved yourself the whole move.
+
+Your own CRM can actually be cheaper, because a rented CRM has features for every customer. Let's say it has a hundred and you use three. You're paying for ninety-seven features you're never going to use.
 
 ## Check 3: Help after you sign
 
-Number three is help after you sign. Your company keeps changing, so you want a CRM that can keep up with it. So during the trial, send support two real questions. They still want your business, so this is the best their support will ever be. If an answer takes more than a day, I wouldn't sign.
+Number three is help after you sign, because your company keeps changing. So during the trial, send support two real questions, because they still want your business, so this is the best it'll ever be. If an answer takes more than a day, I wouldn't sign.
 
-If it's your own CRM, you don't depend on their support, because nobody else has to agree to a change. So if you want AI to write the first quote from what your salesperson and the customer said, you just build it.
+In your own CRM, you don't wait for another company. You just add what you need.
 
-## Check 4: A safe move
+## Check 4: A way back down
 
-Number four is the move itself. You have to cancel the old CRM so it won't renew, and you have to get everything over before that date. I mean, it's a huge headache.
+Number four is the contract, because you want to be able to move to a cheaper plan if your company changes. One CEO wrote on Capterra that they left HubSpot a month after signing, and they still have to pay the other eleven months.
 
-So what I'd do is test the move before you cancel your old CRM, so you can keep selling if it goes wrong. Put a hundred real customers into the new CRM. Then send a hundred emails from a spare address, in case they get blocked. And keep your old CRM until that works. The company that left Zoho still had Zoho, so when Microsoft blocked their email, they sent those emails again from Zoho, and most got through.
+So before you sign or upgrade, ask in writing when you can move to a cheaper plan, and the last day you can cancel. When you own your CRM, there's no renewal date.
 
-Now, you might think, wait, building my own CRM would be the biggest move of all. But you actually don't have to move everything at once. You build it step by step, while your team keeps working in the old CRM. And one day you simply notice that, wow, all of our data is actually already in the CRM we own. So there's basically no risk in shutting off the old one.
+## Check 5: A safe move
 
-## Check 5: A way back down
+The last check is the move itself, and this is the hard one, because you have to get everything over before your old CRM renews. I mean, it's a huge headache.
 
-The last check is the contract, because if your company changes, you want to be able to spend less. One CEO wrote on Capterra that they upgraded their HubSpot plan, their costs shot up, and they left one month after signing. They still have to pay the other eleven months.
+Most people worry about the contacts and deals, but in my experience those are the easy part. What catches you out is what goes out to your customers, like your emails, and you only find that out when it's live. That's what happened to the company that left Zoho.
 
-So before you sign or upgrade, ask in writing when you can move back down, and the last day you can cancel.
+So before you cancel your old CRM, have a salesperson or two work real deals in the new one, with real emails, for a few days or maybe a few weeks. And keep your old CRM until that works, because otherwise if something breaks, your sales stop.
 
-You can't get stuck like that when you own your CRM, because there's no renewal date.
+Now, you might think building your own CRM would be the biggest move of all. But there's actually no move. Say you're in Zoho, like that company was, and what you really want is better sales emails. Instead of leaving, you build just that, in a CRM you own, right next to Zoho. AI writes each email and a salesperson approves it. And every lead and every reply now lands in your CRM.
+
+If it doesn't work, your sales don't stop, because you never left Zoho. If it works, you build the next piece, and that brings its data over too. And at some point nobody's opening Zoho any more, so you cancel it on a day you choose.
+
+If you want to see what your first piece could be, we have a free CRM fit check, with some inspiration about what you could actually build today.
 
 ## The next time your company changes
 
@@ -66,7 +74,7 @@ So picture your company with a CRM you own. One system runs your work from the f
 
 ## What we do
 
-By the way, I'm telling you this not to try to sell our services, because you can do this on your own. We'll give you templates, and you can use us as advisers if you want. But if you want someone with experience to do it for you, that's what we do at my company, CRM From Within. We build your CRM, we move your data over and we keep it running. You own the code, so you stop depending on another company's features, and there's no long contract. And we charge for the project, not monthly, during the move, so you won't have two recurring bills. We do this for companies of at least ten people.
+You can do this on your own, but I'd at least get advice from someone who's done it many times before, and we'll give you templates. Or we can do it for you, at my company, CRM From Within. We build you a CRM from scratch, step by step, so you never have to bet your sales on one big switch. We keep it running, you own the code, and there's no long contract. And we charge for the project, not monthly, during the move, so you won't have two recurring bills. We do this for companies of at least ten people.
 
 ## Free CRM fit check
 
