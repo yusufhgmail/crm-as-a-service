@@ -1,6 +1,6 @@
 # Video 20: What to Do Before Your Salesforce Renewal: 5 Steps
 
-*Approved by David, 5 Nov 2026. Rewritten around owning your CRM in the Optimized process, 6 Nov 2026, so it needs reading again.*
+*Approved by David, 5 Nov 2026. Rewritten around what Yusuf did on camera in video 19 in the Optimized process, 6 Nov 2026, so it needs reading again.*
 
 **Checked 1 Nov 2026:** see Sources; saved copies in `survey/evidence/saved_copies/`.
 
@@ -23,7 +23,7 @@
 
 **Thumbnail variations** (a calendar or a contract; Yusuf pointing at it; 2–4 words):
 1. **90 DAYS, NOT 30** over a calendar, two dates circled
-2. **"TOO LATE"** over an email
+2. **YOUR LAST RENEWAL** over a calendar, the end date crossed out
 3. **READ THE ORDER FORM** over a contract page, one line highlighted
 4. **NO CUTS MID-TERM** with §5.1 highlighted behind Yusuf
 
@@ -45,37 +45,28 @@ Pair the title with thumbnail 1 first; test variation 2 with thumbnail 2, and 3 
 
 ## 0:00 Promise
 
-**ON SCREEN:** Yusuf on camera. Tags: **A better price** · **Not locked in** · then **Your last renewal**
+**ON SCREEN:** Yusuf on camera. Tags: **A better price** · then **Your last renewal**
 
 **YUSUF** (straight to camera):
-> If your Salesforce renewal is coming up, this video gives you five steps that actually get you a better price. They also stop you getting locked in for another year. And I'll show you how this can be your last renewal.
+> If your Salesforce renewal is coming up, this video gives you five steps that actually get you a better price. That's real money back in your business. And I'll show you how this can be your last renewal, without one big, risky move.
 
-**ON SCREEN:** quote card: *"Despite 89 days notice"* · tag **r/salesforce · Jan 2026**
-Link: https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/
-
-**YUSUF:**
-> But you can't leave this late. In January, one customer on Reddit gave eighty-nine days' notice, and they were still told it was too late.
-
-**ON SCREEN:** tags, one at a time: **Your price** · **Your deadline**, then **Someone else decides: that's renting**
-
-**YUSUF:**
-> And you go through this every single year, because someone else decides your price and your deadline. That's what renting a CRM actually means.
-
-## 0:34 Proof
+## 0:16 Proof
 
 **ON SCREEN:** tag beside Yusuf: **Built & sold a CRM SaaS · Hundreds of CRM setups**
 
 **YUSUF:**
 > So who am I? I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
 
-## 0:48 What's changed
+## 0:31 What's changed
 
-**ON SCREEN:** the renewal timeline, tags one at a time: **Cancel so it won't renew** · **Move everything before that date**. Then **With AI: cheaper to build just what you need**. Then two tags side by side: **Rent: a better price** · **Own: no renewal**
+**ON SCREEN:** the renewal timeline, tags one at a time: **Cancel so it won't renew** · **Move everything before that date**. Then **With AI: cheaper to build just what you need**. Then the timeline again: **Renew** · **Build beside Salesforce, one piece at a time** · **Don't renew**. Then two tags side by side: **Best deal from Salesforce** · **Build your own**
 
 **YUSUF:**
-> For years, you just had to live with that, because to leave Salesforce, you had to cancel it so that it wouldn't renew, and you had to move everything before that date. I mean, it's a huge headache, so a lot of companies simply stayed.
+> For years, a renewal only had two answers. You renewed, or you left, and leaving meant you had to cancel Salesforce so that it wouldn't renew, and move everything before that date. I mean, it's a huge headache, so a lot of companies simply stayed.
 >
-> But AI has changed things drastically. It's now actually cheaper to build just what you need, and that's why I sold my old company. So you could have a CRM built around how your company works, that you own, with no renewal at all.
+> But AI has changed things drastically. It's now actually cheaper to build just what you need, so you no longer have to do one huge move. Instead, you renew at the best price you can get. Then, during the year you've already paid for, you build a CRM you own, right beside Salesforce, one piece at a time. One day you simply notice, wow, our work is actually in the new system, so you just don't renew.
+>
+> So I'll cover both here, how to get the best deal from Salesforce, and how to use that year to build your own.
 
 **ON SCREEN:** Yusuf writes the list; a typed version beside it:
 1. Find your dates
@@ -89,47 +80,50 @@ Link: https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notic
 
 ---
 
-## 1:25 Step 1: Find your dates
+## 1:29 Step 1: Find your dates
 
 **ON SCREEN:** step tracker: **Step 1 of 5: Your dates**. Tag: **Time = a better price**. Help-center screenshot, tag **Salesforce help center**: **Your Account → Contracts** (end date, auto-renew). Then two cards side by side: **Contract: 30 days** · **Help page: 90 days**, source tag **Salesforce's own pages** · small tag **Checked Nov 2026**. Then the renewal timeline with both as markers, then a third: **100 days: your reminder**. Then tag: **A CRM you own: no end date**
-Links: https://www.salesforce.com/your-account/ · https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf · https://help.salesforce.com/s/articleView?id=005167138&language=en_US&type=1
+Links: https://www.salesforce.com/your-account/ · https://help.salesforce.com/s/articleView?id=005167138&language=en_US&type=1
 
 **YUSUF:**
-> Step one is to find your dates, because the more time you have, the better price you can get. Your contracts page shows your end date. But Salesforce's own pages don't agree on your deadline. When I recorded this, the contract said thirty days before the end, and the help page said ninety days. So I'd go earlier than both, and put a hundred days in your calendar.
+> Step one is to find your dates, because the more time you have, the better price you can get. When I recorded this, Salesforce's contract said your deadline was thirty days before the end, and its help page said ninety. So I'd go earlier than both, and put a hundred days in your calendar.
 >
-> In a CRM you own, there's simply no end date, and when your business changes, your CRM changes with it.
+> In a CRM you own, there's simply no end date.
 
-## 1:59 Step 2: Read your order form
+## 1:53 Step 2: Read your order form
 
-**ON SCREEN:** step tracker: **Step 2 of 5: The order form**. Tag: **Order form = the document you signed**. Then the MSA PDF, zoomed, highlighted: *"the order of precedence shall be: (1) the applicable Order Form, (2) this Agreement"* (§12.3).
-Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf
+**ON SCREEN:** step tracker: **Step 2 of 5: The order form**. Tag: **Order form = the document you signed**. Then the MSA PDF, zoomed, highlighted: *"the order of precedence shall be: (1) the applicable Order Form, (2) this Agreement"* (§12.3). Then tags: **Notice period** · **Renewal price**
 
 **YUSUF:**
-> Step two is to read your order form, which is the document you actually signed. If it disagrees with Salesforce's main contract, the order form wins. So you go in knowing what you really agreed, whatever a rep tells you.
+> Step two is to read your order form, the document you actually signed, because if it disagrees with Salesforce's main contract, the order form wins. You can ignore the rest. Just look for how your renewal works, like the notice period and the renewal price.
 
-## 2:15 Step 3: Count your licences
+## 2:11 Step 3: Count your licences
 
 **ON SCREEN:** step tracker: **Step 3 of 5: Licences**. Contract card:
 - **Add licences any day, same price** · §3.1
 - **Can't reduce quantities during the term** · §5.1
 
-Then contract card: **Renew with fewer: re-priced** · §11.2. Then quote card: *"I halved our license count and everything went to list price."* ("list price" highlighted) · tag **r/salesforce · Jan 2026**. Then tags, one at a time: **A CRM that updates itself** · **Invisible to salespeople**. Then lower-third tag: **Free CRM fit check · link in description**
-Links: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf · https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/
+Then tags, one at a time: **Skip: people who log in every day** · **Find: no login in 90 days · ask your admin** · **Find: only read reports · ask your sales manager**. Then contract card: **Renew with fewer: re-priced** · §11.2. Then tags: **Two quotes** · **Compare the yearly bill**. Then tags, one at a time: **No bill per person** · **A CRM that updates itself** · **Invisible to salespeople**. Then lower-third tag: **Free CRM fit check · link in description**
+Link: https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf
 
 **YUSUF:**
-> Step three is to count your licences, because this is money you can actually get back. You can add them any day, but you can only remove them at the renewal, so they just pile up. But don't just cut them, because if you renew with fewer, you can lose your discount. That Reddit customer with the eighty-nine days says they halved their licences, and everything went to full list price. So ask what your new yearly bill would be first.
+> Step three is to count your licences, and this is where the real money is. You can add licences any day, but you can only remove them at the renewal, so they just pile up.
 >
-> And you only pay for licences because every salesperson has to log in and type things in. With AI, you can build a CRM that updates itself, so salespeople don't move deals or fill in fields. They just talk to customers, and the CRM is basically invisible to them.
+> Now, I wouldn't go through every user, because most of your team need their licence anyway. Just find two groups. The first is people who haven't logged in for about ninety days, and your Salesforce admin can pull that list. The second is people who only look at reports, and they may need a cheaper licence, or none at all. Your sales manager knows who they are.
 >
-> By the way, if you want to see if that could be for you, we do a free CRM fit check. We'll give you some inspiration about what you could build today.
+> But a lower number doesn't automatically mean a lower bill, because your discount was based on the old number, and Salesforce's contract says it can set a new price if you renew with fewer. So ask for two quotes, one with each number, and compare the yearly bill, because that's what you actually pay.
+>
+> And in a CRM you own, there's no bill per person. With AI, it can update itself, so salespeople just talk to customers, and the CRM is basically invisible to them.
+>
+> By the way, if you want some inspiration about what you could build today, we do a free CRM fit check.
 
-## 3:17 Step 4: Turn off auto-renew, and get another price
+## 3:31 Step 4: Turn off auto-renew, and get another price
 
 **ON SCREEN:** step tracker: **Step 4 of 5: Auto-renew off + another price**. The renewal timeline, **100 days** circled. Then card: *"You must review and sign a new quote before the contract end date; otherwise, your Salesforce services will end."* ("sign a new quote before the contract end date" highlighted) · tag **Salesforce help center**
 Link: https://help.salesforce.com/s/articleView?id=005167138&language=en_US&type=1
 
 **YUSUF:**
-> Step four is to turn off auto-renew in writing, a hundred days before the end. I know that can feel like picking a fight, but it doesn't actually cancel Salesforce. It just means you have to sign a new quote before the end date. And a contract that renews by itself is the easiest deal a seller will ever get. So when you turn that off, Salesforce suddenly has to give you a reason to sign.
+> Step four is to turn off auto-renew in writing, a hundred days before the end, because otherwise it just renews for a whole new year. I know that can feel like picking a fight, but it doesn't actually cancel Salesforce. It just means you have to sign a new quote before the end date, so Salesforce suddenly has to give you a reason to sign.
 
 **ON SCREEN:** a **SAY THIS** card, the short email typed out as he says it:
 > **To:** account rep + renewal manager · **Cc:** billing contact · **Subject:** Legal notice, contract [number]
@@ -141,59 +135,60 @@ Tag: **Also in the description**. Then tag: **Send a paper copy by post too · �
 **YUSUF:**
 > The email to send is on screen and in the description.
 
-**ON SCREEN:** quote card: *"HubSpot offered us all their Hubs for a price similar to just Salesforce Cloud."* → *"It was ridiculous how much they brought the price down."* ("ridiculous" highlighted) · tag **r/salesforce · Jul 2026**. Then tag: **HubSpot: still renting**. Then tags: **100 features** · **You use 3** · **A CRM you own: only what you need**
-Links: https://www.reddit.com/r/salesforce/comments/1umexhc/salesforce_renewal_user_reduction/oyu8rn7/ · https://www.reddit.com/r/salesforce/comments/1umexhc/salesforce_renewal_user_reduction/
+**ON SCREEN:** tag: **Another CRM: still renting**. Then tags: **100 features** · **You use 3**
 
 **YUSUF:**
-> Then get a price from another CRM, because with only one price, you've got nothing to push back with. One company on Reddit showed Salesforce an offer from HubSpot, and they say it was ridiculous how much the price came down.
+> Then get a price from another CRM, because with only one price, you've got nothing to push back with.
 >
-> But if you move to HubSpot, you're still renting. So I'd also get a price for a CRM you own, because it can actually be cheaper. Salesforce sells to every kind of company, so it needs a lot of features, let's say a hundred. And you pay for all of them when your team uses maybe three. In a CRM you own, you get exactly what you need.
+> But another CRM is still renting. So I'd also get a price for a CRM you own, because it can actually be cheaper. Salesforce sells to everyone, so let's say it has a hundred features, and you pay for all of them when your team uses maybe three.
 
-## 4:32 Step 5: Ask what you really want from your CRM
+## 4:26 Step 5: Ask what you really want from your CRM
 
-**ON SCREEN:** step tracker: **Step 5 of 5: What you really want**. Tag beside Yusuf: **Same system** · then **Someone else's process**
-
-**YUSUF:**
-> Step five is the one I care about most, and it's to ask what you really want from your CRM. A better price is real money, so I understand if you'd stop there. But you'd still be on the same system, and nobody's really happy with someone else's process.
-
-**ON SCREEN:** tags, one at a time: **AI writes the first quote** · **See when they open it** · **Which ads bring in money**. Then: **A few small things: take the better price** · **What wins you deals: your own CRM**
+**ON SCREEN:** step tracker: **Step 5 of 5: What you really want**. Tag beside Yusuf: **Same steps next year**
 
 **YUSUF:**
-> So what would really lift your business? Like, AI writes the first quote, and you just edit and approve it. You see when a lead opens that quote, so you call them right then. You know which ads really bring in money.
+> Step five is to ask what you really want from your CRM, and it's the one I care about most. A better price is real money, so I understand if you'd stop there. But you'd still be doing these same steps next year.
+
+**ON SCREEN:** tags: **No feature lists** · **Your best salesperson + whoever runs delivery**. Then tag: **Quotes take days?** Then: **A few small things: take the better price** · **What wins you deals: your own CRM**
+
+**YUSUF:**
+> Don't ask your team for a list of features, because you'll get a long list of small things. Instead, sit down with your best salesperson and whoever runs delivery, and ask where you're losing deals or time. Like, do quotes take days to go out?
 >
 > If it's just a few small things, take the better price and renew. But if it's what wins you deals, a lower price won't fix that, and that's when I'd want my own CRM.
 
-## 5:20 A year with a CRM you own
+## 5:13 How this can be your last renewal
+
+**ON SCREEN:** the renewal timeline, **Renew for 12 months** at the end date, tag **Your safety net**. Then an **Example** tag and a box tagged **Your CRM** beside a box tagged **Salesforce**: **Quoting tool** appears in **Your CRM**. Tags, one at a time: **AI writes the first quote** · **You edit and approve**. Then more pieces appear one at a time. Then tag: **Shut off Salesforce: basically zero risk**
+
+**YUSUF:**
+> I know that sounds like a big step with a renewal coming up. But your new CRM actually doesn't have to be ready by the end date. I'd renew for twelve months and start now, because you've paid for that year anyway, so that year is your safety net.
+>
+> Say your team says the biggest problem is quotes. So you build just a quoting tool that reads your customers from Salesforce. The AI writes the first quote, and the salesperson edits and approves it. Now every quote lands in your new system, and your team keeps using Salesforce for everything else, so if that piece doesn't work, nothing stops.
+>
+> Then you add the next piece, and more of your data moves over. That might take one year or two, and if you need longer, you renew with fewer licences. And one day you simply notice that, wow, all of our data is actually in this new system. So there's basically no risk in shutting off Salesforce.
+
+## 6:16 One system you own
 
 **ON SCREEN:** one customer moving through a single box tagged **One system you own**: **Lead** · **Quote** · **Signed** · **Invoice**.
 
 **YUSUF:**
 > Now picture one customer in a CRM you own. The lead comes in, you approve the first quote, the customer signs it, and the invoice goes out. All in one system, built around how you work. And you'd never do these five steps again.
 
-## 5:37 How this can be your last renewal
+## 6:33 What we do
 
-**ON SCREEN:** the renewal timeline, **Renew for 12 months** at the end date. Then a row of pieces moving one at a time from a box tagged **Salesforce** to a box tagged **Your CRM**. Then tag: **Biggest opportunity, least cost, least risk first**. Then tag: **Shut off Salesforce: basically zero risk**
-
-**YUSUF:**
-> I know that sounds like a big step with a renewal coming up. But your new CRM actually doesn't have to be ready by the end date. I'd take your better price, renew Salesforce for twelve months and start now.
->
-> You start with whatever has the biggest opportunity for the least cost and the least risk. You build that one piece while your team keeps working in Salesforce, and your data starts moving over. Then you add the next piece. And one day you simply notice that, wow, all of our data is actually in this new system. So there's basically no risk in shutting off Salesforce, and this renewal can be your last one.
-
-## 6:21 What we do
-
-**ON SCREEN:** five tags, one per phrase: **We keep it running** · **No second monthly bill** · **You own the code** · **No long contract**. Then tag: **At least 10 people**
+**ON SCREEN:** tags, one per phrase: **Step by step** · **We keep it running** · **No second monthly bill** · **You own the code** · **No long contract**. Then tag: **At least 10 people**
 
 **YUSUF:**
-> And I'm not telling you this to sell you something, because you can do this on your own. You can use us as advisers if you want, and we'll give you templates. But if you want someone to do it for you, at my company, CRM From Within, we build it from scratch, we move your data over, and we keep it running. During the move, we charge for the project, not monthly, so you don't have two recurring bills. You own the code, there's no long contract, and we do this for companies of at least ten people.
+> If you build your own CRM, at least get advice from someone who has done it many times before, and we can do that too. And if you want someone to do it for you, that's the only thing we do at my company, CRM From Within. We build it from scratch, step by step, so that you never risk a huge migration, and we keep it running. During the move, we charge for the project, not monthly, so you don't have two recurring bills. You own the code, there's no long contract, and we do this for companies of at least ten people.
 
-## 7:00 Free CRM fit check
+## 7:13 Free CRM fit check
 
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
-> To find out what a CRM you own could mean for your company, the link to that free twenty-minute CRM fit check is below.
+> To find out what a CRM you own could mean for your company, we do a free twenty-minute CRM fit check. The link's below.
 
-## 7:09 Close
+## 7:23 Close
 
 **ON SCREEN:** lower-third tag: **Comment: the month you renew**
 
@@ -211,7 +206,7 @@ Links: https://www.reddit.com/r/salesforce/comments/1umexhc/salesforce_renewal_u
 >
 > Tell me in the comments what month your Salesforce renews, and one thing it can't do for you.
 >
-> CRM From Within builds a CRM around how your team sells and delivers, moves your Salesforce data across and maintains it. You own the code; no multi-year lock-in.
+> CRM From Within builds a CRM around how your team sells and delivers, step by step while you keep working in Salesforce, and maintains it. You own the code; no multi-year lock-in.
 >
 > The email to send, 100 days before your renewal:
 > Subject: Legal notice, contract [number]
@@ -219,50 +214,40 @@ Links: https://www.reddit.com/r/salesforce/comments/1umexhc/salesforce_renewal_u
 > 2. Please send two line-item quotes, one for our current licences and one for [X] licences, increases shown per line.
 > Post a paper copy too: section 12.10 of the contract says email may not count for this.
 >
-> Sources (every story in the video)
-> - 89 days' notice, told it was too late · https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/
-> - Halved licences, list price · https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/
-> - HubSpot's offer · https://www.reddit.com/r/salesforce/comments/1umexhc/salesforce_renewal_user_reduction/oyu8rn7/
-> - How far the price came down · https://www.reddit.com/r/salesforce/comments/1umexhc/salesforce_renewal_user_reduction/
+> Sources
 > - Salesforce Main Services Agreement · https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf
 > - Salesforce Renewal FAQ · https://help.salesforce.com/s/articleView?id=005167138&language=en_US&type=1
 > - Your Account · https://www.salesforce.com/your-account/
 >
-> 0:00 Why you can't leave it late · 0:34 Who I am · 0:48 What's changed · 1:25 Your dates · 1:59 The order form · 2:15 Your licences · 3:17 Turn off auto-renew · 3:50 A price from another CRM · 4:32 What you really want · 5:20 A year with a CRM you own · 5:37 How this can be your last renewal · 6:21 What we do
+> 0:00 What this video gets you · 0:16 Who I am · 0:31 A different way to handle a renewal · 1:29 Your dates · 1:53 The order form · 2:11 Your licences · 3:31 Turn off auto-renew · 3:56 Prices to push back with · 4:26 What you really want · 5:13 How this can be your last renewal · 6:16 One system you own · 6:33 What we do
 
 ---
 
-## Nine shorts
+## Seven shorts
 
 Each short opens with the tag **Hundreds of CRM setups · Built & sold a CRM SaaS** on screen and ends by naming this video.
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|
-| 1 | 1:31–1:51 | 20s | "The contract says 30 days. Salesforce's help page says 90." |
-| 2 | 0:48–1:23 | 35s | "Why companies stay on Salesforce, and what's changed" |
-| 3 | 1:59–2:15 | 16s | "The document that overrides your Salesforce contract" |
-| 4 | 2:15–2:46 | 31s | "Add Salesforce licences any day. Remove them once a year." |
-| 5 | 3:17–3:46 | 29s | "Why you should turn off auto-renew" |
-| 6 | 0:15–0:34 | 19s | "Gave 89 days' notice. Still told it was too late." |
-| 7 | 3:50–4:06 | 16s | "Get a second price, even if you're staying" |
-| 8 | 4:32–5:20 | 48s | "What would really lift your business?" |
-| 9 | 5:37–6:21 | 44s | "How to make this your last Salesforce renewal" |
-
-Bonus cuts if they test well: "A CRM that's invisible to salespeople" (2:46–3:05, 19s) and "What we do" (6:21–7:00, 39s).
+| 1 | 1:29–1:53 | 24s | "The contract says 30 days. Salesforce's help page says 90." |
+| 2 | 0:31–1:29 | 58s | "You no longer have to do one huge move off Salesforce" |
+| 3 | 1:53–2:10 | 17s | "The document that overrides your Salesforce contract" |
+| 4 | 2:11–3:31 | 80s | "Which Salesforce licences to cut, and which to leave alone" |
+| 5 | 3:31–3:56 | 25s | "Why you should turn off auto-renew" |
+| 6 | 4:26–5:12 | 46s | "What would really lift your business?" |
+| 7 | 5:13–6:16 | 63s | "How to make this your last Salesforce renewal" |
 
 ---
 
 ## Sources
 
-- Hook: "too late because we were inside of the 30 days renewal deadline" (23 Jan 2026; saved copy): https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/
-- Same author: "I halved our license count and everything went to list price." (23 Jan 2026; saved copy): https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/o1bj999/
-- "We reduced our headcount from 30s 20s… Our AE is already threatening discount reductions"; update: "I provided a quote from a competitor and they reduced the price significantly." (3 Jul 2026; saved copy): https://www.reddit.com/r/salesforce/comments/1umexhc/salesforce_renewal_user_reduction/
-- Same author: "HubSpot offered us all their Hubs for a price similar to just Salesforce Cloud" (21 Jul 2026; saved copy): https://www.reddit.com/r/salesforce/comments/1umexhc/salesforce_renewal_user_reduction/oyu8rn7/
 - Main Services Agreement, "last updated on October 15, 2026" (checked live 1 Nov 2026): §3.1 added "at the same pricing"; §5.1 "quantities purchased cannot be decreased during the relevant subscription term"; §11.2 "automatically renew for additional one year terms", "written notice (email acceptable) at least 30 days before the end", promotional pricing "at SFDC's applicable list price", fewer means "re-pricing at renewal without regard to the prior term's per-unit pricing"; §12.3 "(1) the applicable Order Form, (2) this Agreement"; §12.9 lists "the address to which Customer should direct notices" (US: 415 Mission Street, San Francisco); §12.10 notices "will be in writing" and effective by email "except for notices of termination or an indemnifiable claim (“Legal Notices”)": https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf
 - Salesforce Renewal FAQ, published 15 Oct 2026 (checked live 1 Nov 2026): "any request made the 30 days before Contract End Date may be too late for adjustments."; "those requests must be submitted before the 90-day deadline"; "sign a new quote before the contract end date; otherwise, your Salesforce services will end": https://help.salesforce.com/s/articleView?id=005167138&language=en_US&type=1
 - Your Account (checked live 1 Nov 2026): "clicking the Setup gear in the top right corner": https://www.salesforce.com/your-account/
+- Cheaper licence, from a customer's own post: "I asked to purchase a less expensive platform license" (23 Jan 2026; saved copy): https://www.reddit.com/r/salesforce/comments/1ql248u/despite_89_days_notice_salesforce_is_refusing_to/
+- Admins can see who hasn't logged in, and the ninety-day idea: Salesforce Admins blog, "How to Automatically Deactivate Users Who Haven't Logged On in 90 Days": https://admin.salesforce.com/blog/2023/how-to-automatically-deactivate-users-who-havent-logged-on-in-90-days and Salesforce help, "How To Check The User's Last Login Date And Time": https://help.salesforce.com/s/articleView?id=001470542&language=en_US&type=1
 - Why he sold, "it's going to actually be cheaper to build something that really fits ... from scratch": Yusuf's 4 Nov 2026 interview, `original_sources/2026-11-04_interview_experience_videos.md`.
 - "they just pile up": Yusuf's own point, said in the recording of video 1.
-- "cancel it so that it wouldn't renew", "move everything before that date", "a huge headache", "a lot of companies simply stayed", "biggest opportunity for the least cost and the least risk", "one day you notice", "you can use us as advisers", "we'll give you templates", charging for the project during the move so there are no two recurring bills: Yusuf on camera, video 16, 6 Nov 2026.
-- A CRM that updates itself, "you can literally build a CRM that's invisible today for your salespeople", "the AI makes a suggestion and you just edit and approve", "these tools often tell you when they open the quote", which marketing "actually result in revenue", "let's say that a tool has like 100 features" (an example, not a measurement), "you get exactly what you need and nothing else", the fit-check wording: Yusuf on camera, video 17, 6 Nov 2026.
-- His view, not sourced claims: a contract that renews by itself is the easiest deal a seller gets; with one price you've got nothing to push back with; the more time you have, the better price you can get; when your business changes, your CRM changes with it; a few small things versus what wins you deals.
+- "cancel it so that it wouldn't renew", "move everything before that date", "a huge headache", "a lot of companies simply stayed", "one day you notice", "you can use us as advisers", "we'll give you templates", charging for the project during the move so there are no two recurring bills: Yusuf on camera, video 16, 6 Nov 2026.
+- A CRM that updates itself, "you can literally build a CRM that's invisible today for your salespeople", "the AI makes a suggestion and you just edit and approve", "these tools often tell you when they open the quote", which marketing "actually result in revenue", "let's say that a tool has like 100 features" (an example, not a measurement), the fit-check wording: Yusuf on camera, video 17, 6 Nov 2026.
+- His view, not sourced claims: the more time you have, the better price you can get; with one price you've got nothing to push back with; a few small things versus what wins you deals. New in this pass, for him to confirm: most of your team need their licence anyway, so find only the two groups; your discount was based on the old number; don't ask for a feature list; the year you've paid for is your safety net; one year or two, and renewing with fewer licences if you need longer.
