@@ -1,6 +1,6 @@
 # Business Context: CRM From Within
 
-**Current plan (2026-10-25):** [`docs/plans/2026-10-25-crm-agency-plan.md`](docs/plans/2026-10-25-crm-agency-plan.md). Where this document conflicts with it, the plan wins. Latest status: [after-recording plan](docs/plans/2026-11-06-after-recording.md).
+**Current plan (2026-10-25):** [`docs/plans/2026-10-25-crm-agency-plan.md`](docs/plans/2026-10-25-crm-agency-plan.md). Where this document conflicts with it, the plan wins. Latest status: [after-recording plan](docs/plans/2026-11-06-after-recording.md). What we do now: [next steps plan](docs/plans/2026-11-06-next-steps.md), which wins where it differs.
 
 ## What This Business Is
 

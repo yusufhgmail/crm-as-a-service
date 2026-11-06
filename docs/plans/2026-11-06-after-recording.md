@@ -1,6 +1,6 @@
 Title: After recording: status and next steps
 
-Date: 2026-11-06 · Proposal for Yusuf and David to decide. It adds to the [agency plan](2026-10-25-crm-agency-plan.md) and changes none of its goals.
+Date: 2026-11-06 · Proposal for Yusuf and David to decide. It adds to the [agency plan](2026-10-25-crm-agency-plan.md) and changes none of its goals. The [next steps plan](2026-11-06-next-steps.md) replaces it where they differ.
 
 **Where we are:** 19 videos are recorded in about three days, which is far ahead of the plan. Nothing is published, nobody can book a fit check and no client has paid. Content is no longer what holds us back: the next bottleneck is turning a viewer into a conversation.
 

@@ -2,7 +2,7 @@
 
 The YouTube videos for CRM From Within, one folder per video. The number is the recording order, not the publishing order.
 
-**Where we are (6 Nov 2026):** recording is finished, with 19 videos on camera. None is published. The Edit column comes from David's edit logs as of 13:34 on 6 Nov, so his Mac may be further along. ✅ means rendered with graphics, 🎬 means the render is still to do and ✂️ means the cut list is still to do. Next steps are in [the after-recording plan](../docs/plans/2026-11-06-after-recording.md).
+**Where we are (6 Nov 2026):** recording is finished, with 19 videos on camera. None is published. The Edit column comes from David's edit logs as of 13:34 on 6 Nov, so his Mac may be further along. ✅ means rendered with graphics, 🎬 means the render is still to do and ✂️ means the cut list is still to do. Next steps are in [the next steps plan](../docs/plans/2026-11-06-next-steps.md).
 
 Raw camera footage is on Drive in [Videos](https://drive.google.com/drive/folders/1xgmymawvu4NCIChPt_TtCbex3bkZSF59), one folder per video.
 

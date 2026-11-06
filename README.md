@@ -2,9 +2,11 @@
 
 CRM From Within is an AI-native CRM agency: it builds the CRM a company needs, moves its data and keeps it running, and the client owns it.
 
-**Current plan (2026-10-25):** [`docs/plans/2026-10-25-crm-agency-plan.md`](docs/plans/2026-10-25-crm-agency-plan.md): an AI-native CRM agency in the USA, one offer, all effort on content marketing. Where the older docs below conflict with it, the plan wins. All dated plans are in [`docs/plans/`](docs/plans/README.md).
+**Current plan (2026-10-25):** [`docs/plans/2026-10-25-crm-agency-plan.md`](docs/plans/2026-10-25-crm-agency-plan.md): an AI-native CRM agency in the USA with one offer. Where the older docs below conflict with it, the plan wins. All dated plans are in [`docs/plans/`](docs/plans/README.md).
 
 **Where we are (2026-11-06):** [after-recording plan](docs/plans/2026-11-06-after-recording.md). 19 videos are recorded, none is published, and the website still needs rewriting.
+
+**Next steps (2026-11-06):** [next steps plan](docs/plans/2026-11-06-next-steps.md): customer interviews, growth mentor interviews and publishing on all channels, at the same time.
 
 **Videos:** [All videos and their edit status](video-scripts/README.md).
 

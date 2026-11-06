@@ -1,6 +1,6 @@
 Title: CRM From Within plan
 
-Date: 2026-10-25 · Yusuf and David
+Date: 2026-10-25 · Yusuf and David · The [next steps plan](2026-11-06-next-steps.md) replaces this where they differ.
 
 **Goal:** you and David each reach about 20 Mkr in net assets as fast as possible, and every choice below is judged by that. A sale of about 40–55 Mkr gets you there; 70 Mkr is the larger aim.
 
