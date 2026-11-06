@@ -52,6 +52,11 @@ Say what that gives their business, not what the video contains. A count of thin
 - Not like this: "I'll show you the five integrations a service company needs, and how to check if each one works."
 - But like this: "The right ones can lift your whole business. You'd see who's worth calling and which ads really bring in money."
 
+**Treat the viewer as smart, and use only what they've heard.** Name the gain and move on, because a boss doesn't need to be told what a better price means. Every phrase in the opening has to make sense with nothing heard yet, so say the result they'd get, not a label for something the video explains later.
+
+- Not like this: "this video gives you five steps that actually get you a better price. That's real money back in your business. And I'll show you how this can be your last renewal, without one big, risky move."
+- But like this: "I'm gonna give you five steps you can do to actually get a better price at renewal. I'm also gonna show you how you can actually make this the last renewal, so that you can leave Salesforce before the next one."
+
 **Don't open on a made-up scene.** Name the problem in the first sentence, in words the viewer already uses. A staged example sounds contrived, and it makes them wait to find out what the video is about.
 
 - Not like this: "Say a customer calls you and asks, 'Why did I get a reminder? I paid two weeks ago.' You look it up."
@@ -82,6 +87,11 @@ Say what that gives their business, not what the video contains. A count of thin
 
 - Not like this: "Write down your files and your automations, and who actually uses each one."
 - But like this: "You may have hundreds of automations. But a lot of these are background ones that update fields. Those you can just ignore. Your salespeople and marketing people know what actually happens to the customer. So sit down with them in a room and map that, and that's really all you need."
+
+**Bring owning in only where it's a real advantage.** The option of owning comes back at the steps where it changes something on that step's own topic, usually two or three. Stay on that one advantage and say what it unlocks. A one-line contrast, or a stock line about AI added after it, goes.
+
+- Not like this: "And in a CRM you own, there's no bill per person. With AI, it can update itself, so salespeople just talk to customers."
+- But like this: "The major advantage of building a CRM that you own is that there is no bill per person. You literally can add every single person in your entire organization. And when you can have all your different teams in the same system without having to pay for extra licenses, you can actually get a lot more out of the system that way."
 
 **Say what's changed as a new way of doing the job.** "You could have a CRM you own" is a product. Say what the viewer no longer has to do, how it works instead and where they end up. If the video covers two ways, say so before the first step. Then walk through how owning handles the main step, in order, with one example.
 
@@ -148,11 +158,14 @@ Say what that gives their business, not what the video contains. A count of thin
 - Not like this: "If nothing in your CRM is holding you back, just keep it."
 - But like this: "If you think this is interesting and you want to start by just researching what this could mean for you, we do a free twenty-minute CRM fit check."
 
-**Say they can do it without us.** Before the pitch, say they can do this on their own or with us advising, or have us do it. Yusuf, video 16: "you can do this on your own. You can use us as advisory if you want. But if you want someone to do it for you, someone with experience, at my company, CRM From Within, we do all of this for you." Where the video says doing it alone is risky, say "at least get advice from someone who has done it many times before" (video 18). He doesn't need to deny that he's selling.
+**Say they can do it without us.** Before the pitch, say they can do this on their own or with us advising, or have us do it. Yusuf, video 16: "you can do this on your own. You can use us as advisory if you want. But if you want someone to do it for you, someone with experience, at my company, CRM From Within, we do all of this for you." Where the video says doing it alone is risky, say "Now, if you decide to build your own CRM, at least make sure to get advice from someone who has done it many times before" (videos 18 and 20: a shorter "If you build your own CRM" took him seven tries). He doesn't need to deny that he's selling.
 
 **Answer the money doubt with how we work.** Never leave "you'll pay for both" alone. We don't charge monthly during the move, we charge for the project, so there aren't two recurring bills. Give no price.
 
-**Say what makes us different.** Our USP is one system that does a company's entire process, from finding customers to delivering the work, with no integrations, fully adapted to them, and they own it. Wherever a video's problem comes from renting a CRM or from separate tools, show both options: fix it where they are, or have it built into that one system. Then paint the picture of that system, from this video's topic, before the pitch. Each video needs its own picture and its own words.
+**Say what makes us different.** Our USP is one system that does a company's entire process, from finding customers to delivering the work, with no integrations, fully adapted to them, and they own it. Wherever a video's problem comes from renting a CRM or from separate tools, show both options: fix it where they are, or have it built into that one system. Then paint the picture of that system, from this video's topic, before the pitch. Each video needs its own picture and its own words. Start from what renting makes them put up with, follow one lead through saying what the system does by itself and what the person still does, then end on what they no longer put up with. This is where AI does its biggest work in front of the viewer. A list of steps that all happen in one place isn't a picture.
+
+- Not like this: "Now picture one customer in a CRM you own. The lead comes in, you approve the first quote, the customer signs it, and the invoice goes out. All in one system, built around how you work. And you'd never do these five steps again."
+- But like this: "When you rent someone else's system, it comes with a lot of bloat, and you have to do steps here and then there, and integrate a bunch of things. But now imagine this. You get a lead, it lands in your own system, it reads your emails, it listens to your calls. Now the system designs a quote around what it heard. The salespeople just go in and approve the quote or edit some things. The customer signs it, the invoice goes out, and when the customer pays you see it in your CRM. You don't have to change your company to fit someone else's system."
 
 - Not like this: "We build you a CRM from scratch around how your company works, and if you keep QuickBooks, we connect it the way you need."
 - But like this: "We build you a CRM from scratch around how your company works, from the first lead to the last payment, so you don't need all those other tools."

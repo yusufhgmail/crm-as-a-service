@@ -92,3 +92,21 @@ Strong points he said on camera that the website could market. They're the safes
 **This is all we do.** "This is the only thing we do", and "we keep improving it for you."
 
 **Check before publishing:** "one license" depends on the old CRM's plan, and "basically zero risk" needs care on a website.
+
+# One system that does the work (Yusuf, video 20, 6 Nov 2026)
+
+Strong points he said on camera that the website could market.
+
+**No bill per person.** "You literally can add every single person in your entire organization", so all your teams are in the same system and you get a lot more out of it.
+
+**The CRM writes the quote from the conversation.** "It reads your emails, it listens to your calls", then "the system designs a quote around what it heard". The salespeople "just go in and approve the quote or edit some things".
+
+**Lead to payment in one place.** The customer signs, the invoice goes out, and "when the customer pays you see it in your CRM".
+
+**Fit your system to your company.** "You don't have to change your company to fit someone else's system."
+
+**Next renewal, no renewal.** Renew at the best price you can get, then build beside your CRM during that year you've already paid for, so that you can leave before the next one.
+
+**Why bought CRMs are bloated.** They have to build one system they can sell to all kinds of customers, so you pay for all the features "even though you may need only like a fraction of them".
+
+**Check before publishing:** "listens to your calls" needs the customer's consent rules thought through, and a full CRM within one year depends on the company.

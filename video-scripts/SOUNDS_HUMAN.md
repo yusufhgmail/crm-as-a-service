@@ -62,6 +62,19 @@ Yusuf, 6 Nov 2026, after recording video 16: "notice how I speak, to make it sou
 - But like this: "One day you simply notice that, wow, all of our data is actually now in this new system."
 - Like this: "did you not follow up, did you not do the best possible call, did salespeople need more coaching?"
 
+**He says what he means by a label, right after it.** A title or a short phrase on its own doesn't land, so he unpacks it.
+
+- Like this: "Step one is to find your dates. What I mean by that is the date when your renewal is actually going to happen."
+
+**He gives a short, plain opinion and moves on.** It's a few words in the middle of the thought, not a paragraph.
+
+- Like this: "you can only remove them at renewal, which is to be honest kind of ridiculous", "So it's a little bit conflicting."
+
+**He joins short sentences that belong together.** Two very short ones in a row trip him.
+
+- Not like this: "The order form wins. You can ignore the rest."
+- But like this: "the order form actually wins and you can ignore the rest."
+
 **He qualifies as he goes.** He adds the honest limit in the middle of the thought.
 
 - Like this: "the longer a lead waits, and this is normally the case, not every time, but normally, the less likely you are to win the deal." Also "in my experience".
@@ -207,5 +220,12 @@ One of these proves nothing, and real people do most of them now and then. A pil
 
 - Not like this: "Each tool keeps its own copy, leaving your team to guess which one's right."
 - But like this: "Each tool keeps its own copy, so your team has to guess which one's right."
+
+**19. Telling the viewer what they already know.** A line that explains what a benefit means, or comments on it, adds nothing and talks down to a boss. Cut it.
+
+- Not like this: "A better price. That's real money back in your business."
+- But like this: "five steps you can do to actually get a better price at renewal"
+
+**20. Two ideas in one breath.** AI joins two good points because both fit. If the second one is a new topic, it gets its own place or it goes. Yusuf: "those are two unrelated topics, you shouldn't mix them."
 
 The research behind this file, with its sources and how strong each one is, is in David's repo at `research_notes/2026-11-06_spoken_script_rules.md`. Where research and Yusuf's corrections disagree, his corrections win.

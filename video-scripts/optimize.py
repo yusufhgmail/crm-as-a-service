@@ -10,7 +10,7 @@ Run from anywhere:
   python3 video-scripts/optimize.py check           fail if any script has had neither the Optimized process nor the old human check
   python3 video-scripts/optimize.py nag [--hook]    print the loud warning, if there is anything to warn about
 
-The total is human + easy to understand + interest + value + belief + shorten, out of 60. The round to keep has the highest human + easy to understand, then the highest total, then comes latest. Marks from before 5 Nov 2026 used five scores with human doubled and show as "old score" until the script is rescored. Marks from before the shorten score had value per word in its place. An Optimized mark stays when the spoken lines are edited, so edits in human review don't need another run. Read and old-check marks hold a fingerprint of yusuf_lines.md, so any edit to the spoken lines clears them.
+The total is human + easy to understand + interest + value + belief + shorten, out of 60. The round to keep has the highest human + easy to understand, then the highest total, then comes latest, leaving round 1 out. Marks from before 5 Nov 2026 used five scores with human doubled and show as "old score" until the script is rescored. Marks from before the shorten score had value per word in its place. An Optimized mark stays when the spoken lines are edited, so edits in human review don't need another run. Read and old-check marks hold a fingerprint of yusuf_lines.md, so any edit to the spoken lines clears them.
 """
 import datetime
 import hashlib
@@ -63,8 +63,8 @@ def total(scores):
 
 
 def kept(rounds):
-    """Return the round to keep: highest Human + Easy to understand, then highest total, then latest."""
-    return max(enumerate(rounds), key=lambda r: (r[1][0] + r[1][1], total(r[1]), r[0]))[1]
+    """Return the round to keep: highest Human + Easy to understand, then highest total, then latest. Round 1 only counts if it's the only round."""
+    return max(enumerate(rounds[1:] or rounds), key=lambda r: (r[1][0] + r[1][1], total(r[1]), r[0]))[1]
 
 
 def optimized_mark(entry):
