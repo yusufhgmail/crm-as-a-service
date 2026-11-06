@@ -42,69 +42,62 @@ Test the main title with thumbnail 1 first, then 2 with 3, and 3 with 2.
 
 ## 0:00 Proof
 
-**ON SCREEN:** Yusuf on camera. Whiteboard behind him: three boxes, **CRM · QuickBooks · Crew app**, with crossed-out arrows between them. Each box gets its own small customer card, tag **Same customer, typed into each one**. Then tag: **What did they buy? Have they paid?** Then tag: **Integration = 2 tools pass information, nobody types it**. Proof as a tag: **Hundreds of CRM setups · Built & sold a CRM SaaS**. Then the title words: **5 integrations · 1 check each · or build them in**
+**ON SCREEN:** Yusuf on camera. Tag: **Integration = 2 tools pass information, nobody types it**. Then tag: **What did they buy? Have they paid? Which ads bring in money?** Then the title words: **5 integrations · 1 check each · or built into a CRM you own**. Then whiteboard behind him: three boxes, **CRM · QuickBooks · Crew app**, with crossed-out arrows between them. Each box gets its own small customer card, tag **Same customer, typed into each one**. Proof as a tag: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF** (straight to camera):
-> The major problem on any CRM is getting it to talk to your other tools. If you run a service company, that's usually QuickBooks and the app your crews use. And when they don't talk to each other, someone on your team is typing the same customer into each one, and nobody can see in one place what that customer bought and whether they've paid.
+> The major problem on any CRM is getting it to talk to your other tools. That connection is called an integration, and when it's broken, you can't see what each customer bought, if they've paid, or which ads really bring in money. So I'll show you the five integrations a service company needs, and how to check each one. By the end, you'll know which of yours are broken, and if it's worth fixing them. For each one, you could also have that tool built right into a CRM you own. And you'll see what two companies did instead of connecting all these tools.
 >
-> When two tools pass information to each other, so nobody has to type it, that's called an integration.
+> If you run a service company, your other tools are usually QuickBooks and the app your crews use. When they don't talk to your CRM, someone on your team types the same customer into each one.
 >
 > I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
->
-> So I'll show you the five integrations a service company needs, with a simple check for each, so you can count how many fail. And for each one, I'll show you the other option, which is to build that tool right into your CRM. Then at the end, I'll show you what two companies did instead of connecting all these tools.
 
 ---
 
-## 1:04 Integration 1: Quotes
+## 1:00 Integration 1: Quotes
 
-**ON SCREEN:** tracker: **Integration 1 of 5: Quotes**. On the board, **CRM** in the middle and a **Quotes** box beside it, with the arrow between them. Tags: **PandaDoc · Proposify** · **Signed → deal won** · **Nobody retypes it**
+**ON SCREEN:** tracker: **Integration 1 of 5: Quotes**. On the board, **CRM** in the middle and a **Quotes** box beside it, with the arrow between them. Tags: **PandaDoc · Proposify** · **Signed → deal won** · **Nobody retypes it**. Then **DO THIS: last signed quote vs CRM deal · do they match?** Two cards side by side: **Signed quote · $?** · **CRM deal · $?**. Tag: **Doesn't match, or someone typed it = not connected**
 
 **YUSUF:**
-> The first integration connects your CRM to the tool you send quotes with, like PandaDoc or Proposify. When a customer signs a quote, your CRM should mark that deal as won by itself. And nobody should have to type in what they signed.
+> The first integration connects your CRM to the tool you send quotes with, like PandaDoc or Proposify. When a customer signs a quote, your CRM should mark the deal as won, without anyone typing it in. To check this one, compare your last signed quote with the deal in your CRM. If the total or the items don't match, this connection isn't working.
 
 **ON SCREEN:** tag: **Example: a company with its own quoting software** (no name). Then a chain: **CRM ↔ quoting software**. Then in red: **Connection fails → no quotes go out**. Then tag: **Built around what they needed**
 
 **YUSUF:**
-> The broken connection I remember best was at a company that sent many quotes every day. Their CRM couldn't handle their quoting rules, so they built separate quoting software and connected it to the CRM. When that connection failed, they just couldn't send quotes. And even when it worked, it was super messy. Much later, they came to my old company, and we built a CRM around what they needed.
-
-**ON SCREEN:** **DO THIS: last signed quote vs CRM deal · do they match?** Two cards side by side: **Signed quote · $?** · **CRM deal · $?**. Tag: **Doesn't match, or someone typed it = not connected**
-
-**YUSUF:**
-> To check your own quotes, compare your last signed quote with the deal in your CRM. If the total or the items don't match, or someone had to type them in, this connection isn't working.
+> The broken connection I remember best was at a company that sent many quotes every day. Their CRM couldn't handle their quoting rules, so they built separate quoting software and connected the two. When that connection failed, they just couldn't send quotes. And even when it worked, it was super messy. Much later, they came to my old company, and we built a CRM around what they needed.
 
 **ON SCREEN:** a dashed line goes around **CRM** and **Quotes**, and the arrow between them disappears. Tag: **Built in = nothing to sync**
 
 **YUSUF:**
-> But what if you didn't need that connection at all? What if your quotes were built right into your CRM, so you don't have to jump between tools and sync data? You'd write the quote on the customer's record, they'd sign it, and the deal would be won. Think how good and efficient that would be.
+> So what if your quotes were built right into your CRM, so you don't have to jump between tools and sync data? You'd write the quote on the customer's record, they'd sign it, and the deal would be won. Think how good and efficient that would be.
 
-## 2:23 Integration 2: Jobs
+## 2:08 Integration 2: Jobs
 
 **ON SCREEN:** tracker: **Integration 2 of 5: Jobs**. On the board, a **Jobs** box joins the CRM. Tags: **Won → job** · **Extras → invoice** · **Jobber · Housecall Pro**
 
 **YUSUF:**
-> The second integration connects your CRM to the app your crews use for their jobs, like Jobber or Housecall Pro. When a deal is won, it should become a job without anyone copying it over. And when the job's done, anything extra the crew did should go onto the invoice. If a crew does an extra hour and it stays on paper, you did that hour for free.
+> The second integration connects your CRM to the app your crews use, like Jobber or Housecall Pro. When a deal is won, it should become a job by itself. And anything extra the crew did should go onto the invoice. Because if a crew does an extra hour and it stays on paper, you did that hour for free.
 
-**ON SCREEN:** **DO THIS: last 20 jobs · what the crew wrote vs what went on the invoice** and a table: **Job · Crew wrote · On the invoice**. Tag: **Never billed, or copied by hand = not working**
+**ON SCREEN:** **DO THIS: last 20 jobs · what the crew wrote vs what went on the invoice** and a table: **Job · Crew wrote · On the invoice**. Tag: **Never billed = not working**
 
 **YUSUF:**
-> To check this one, take your last twenty jobs, and put what the crew wrote down next to what went on the invoice. Add up what never got billed. If anything's missing, or someone had to copy the job over by hand, this connection isn't working.
+> To check this one, take your last twenty jobs, and compare what the crew wrote down with what went on the invoice. If anything's missing, this connection isn't working.
 
 **ON SCREEN:** the dashed line grows around **Jobs** too. Tag: **Won deal = job · extra hour = on the invoice**
 
 **YUSUF:**
 > Or you could build your jobs right into your CRM. Then a won deal is already a job on the crew's schedule, and the extra hour goes onto the invoice by itself, because it's all one system.
 
-## 3:21 Integration 3: Accounting
+## 2:56 Integration 3: Accounting
 
 **ON SCREEN:** tracker: **Integration 3 of 5: Accounting**. On the board, a **QuickBooks · Xero** box joins the CRM, two arrows. Out of the CRM: **Job done → invoice, same items**. Back in: **Paid / overdue**
 
 **YUSUF:**
-> The third integration connects your CRM to your accounting, and for a lot of service companies that's QuickBooks or Xero. When a job is done, the invoice should land there, and when the customer pays, your CRM should know.
+> The third integration connects your CRM to your accounting, like QuickBooks or Xero. When a job is done, the invoice should land there, and when the customer pays, your CRM should know.
 
-**ON SCREEN:** tag: **Typing saved: minor**. Then tags as he says them: **What they bought** · **What they've paid** · **Which marketing brought the money**
+**ON SCREEN:** tag: **Typing saved: minor**. Then tags as he says them: **What they bought** · **What they've paid** · **Example: came from a Google ad + paid** · **Which ads bring in money**
 
 **YUSUF:**
-> Sure, you save some typing, but in my opinion that's minor. What really matters is the full view of the customer. Your team can see what each customer bought and how much they've paid, so a salesperson knows who's worth calling. And your CRM knows how each customer found you. So when it also knows who paid, you can see which marketing brought in the money.
+> Sure, you save some typing, but in my opinion that's minor. What really matters is the full view of the customer. Your team can see what each customer bought and how much they've paid, so a salesperson knows who's worth calling. Say a customer came from a Google ad. Your CRM knows that. If it also knows they paid, you can see which ads really bring in money.
 
 **ON SCREEN:** typed note: **CRM: deal won** → **Accounting: invoice sent · paid · not paid in full**
 
@@ -115,113 +108,113 @@ Test the main title with thumbnail 1 first, then 2 with 3, and 3 with 2.
 Link: https://knowledge.hubspot.com/integrations/connect-hubspot-and-quickbooks-online
 
 **YUSUF:**
-> When I recorded this, HubSpot's help page said that if one payment covers several invoices, that payment doesn't reach HubSpot. So HubSpot can still show those invoices as unpaid.
+> When I recorded this, HubSpot's help page said that if one payment covers several invoices, that payment doesn't reach HubSpot.
 
 **ON SCREEN:** Jobber help-center screenshot, "QuickBooks Integration FAQs: NEW QuickBooks Integration", red boxes on **"The sync is now one way, from Jobber to QuickBooks."** · **"“Paid” status on invoices no longer sync back to Jobber."** · tag **Updated Oct 2026** · source tag **Jobber help center · checked Nov 2026**
 Link: https://help.getjobber.com/hc/en-us/articles/12642621815831-QuickBooks-Integration-FAQs-NEW-QuickBooks-Integration
 
 **YUSUF:**
-> And Jobber's help page said its connection to QuickBooks only runs one way, into QuickBooks. So when an invoice gets paid in QuickBooks, Jobber doesn't find out. That's how a customer who already paid gets a reminder, and calls you to ask why.
+> And Jobber's help page said its connection to QuickBooks only runs one way. So when an invoice gets paid in QuickBooks, Jobber doesn't find out. That's how a customer who already paid gets a reminder, and calls you to ask why.
 
-**ON SCREEN:** **DO THIS: last 5 invoices · paid shows in your CRM?** A table on the board: **Invoice · Paid in CRM?**, five empty rows. Then card: **SAY THIS (to whoever set it up):** "Which way does our QuickBooks connection run? And what happens when one payment covers several invoices?"
+**ON SCREEN:** **DO THIS: last 5 invoices · paid shows in your CRM?** A table on the board: **Invoice · Paid in CRM?**, five empty rows.
 
 **YUSUF:**
-> To check this one, take your last five invoices. Can you see in your CRM if each one's paid, without opening QuickBooks? If you can't, this connection isn't working. So ask whoever set it up, "Which way does our QuickBooks connection run? And what happens when one payment covers several invoices?"
+> To check this one, take your last five invoices. Can you see in your CRM if each one's paid, without opening QuickBooks? If you can't, this connection isn't working.
 
 **ON SCREEN:** the dashed line grows around an **Invoices + payments** box. Tag: **One way of seeing the customer**
 
 **YUSUF:**
-> You could also do your invoices and payments right in your CRM. Then there aren't two systems with different ways of seeing the world, so there's nothing to get lost between them. And you'd see who paid right on the customer's record.
+> You could also do your invoices and payments right in your CRM. Then nothing gets lost between two systems, and you'd see who paid right on the customer's record.
 
-## 5:26 Integration 4: Email and calendar
+## 4:41 Integration 4: Email and calendar
 
 **ON SCREEN:** tracker: **Integration 4 of 5: Email + calendar**. On the board, an **Email + calendar** box joins the CRM. Tags: **Gmail · Outlook** · **Every email + meeting → customer record**. Then tag: **Lives in 1 person's inbox = leaves when they leave**
 
 **YUSUF:**
-> The fourth integration connects your CRM to your email and calendar, and for most companies that's Gmail or Outlook. Every customer email and meeting should land on that customer's record in the CRM, so the whole team can see what's been said. If that history only lives in one person's inbox, when that salesperson leaves, the history leaves with them.
+> The fourth integration connects your CRM to your email and calendar, like Gmail or Outlook. Every customer email and meeting should land on that customer's record, so the whole team can see it. If it only lives in one salesperson's inbox, it leaves when they leave.
 
-**ON SCREEN:** card: **SAY THIS (to one of your salespeople):** "Can you open your last three customer meetings in the CRM with me?" Tag: **Any missing = not working**
+**ON SCREEN:** **DO THIS: one salesperson · last 3 customer meetings · open them in the CRM**. Tag: **Any missing = not working**
 
 **YUSUF:**
-> To check this one, sit down with one of your salespeople. Say, "Can you open your last three customer meetings in the CRM with me?" If any are missing, this connection isn't working.
+> To check this one, ask one of your salespeople to open their last three customer meetings in the CRM. If any are missing, this connection isn't working.
 
 **ON SCREEN:** the dashed line grows around **Email + calendar**. Tag: **The history stays when someone leaves**
 
 **YUSUF:**
-> Or your team could email customers and book meetings right in your CRM. Then the whole history is on the customer's record from the start, and it stays there when someone leaves.
+> Or your team could email customers and book meetings right in your CRM. Then the whole history stays on the customer's record, even when someone leaves.
 
-## 6:14 Integration 5: Everything else
+## 5:20 Integration 5: Everything else
 
 **ON SCREEN:** tracker: **Integration 5 of 5: Everything else**. On the board, a last box, **Zapier · Make · a person**, with arrows to every other box. Tag: **Zapier, Make = pass information between apps**
 
 **YUSUF:**
-> The fifth integration is everything else, all the gaps between your tools. Some companies fill those gaps with a tool like Zapier or Make, which passes information from one app to another. And some have someone copying things from one screen to another. I understand why, because it's the quick fix.
+> The fifth integration is everything else, all the gaps between your tools. Some companies fill those gaps with a tool like Zapier or Make, which passes information from one app to another. Others have someone copying things by hand. I understand why, because it's the quick fix.
 
 **ON SCREEN:** Zapier help-center screenshot, "How to troubleshoot errors in Zap workflows", red box on **"Your Zap will automatically turn off if 95% of its runs result in errors in the last 7 days."** · tag **Zap = 1 automation in Zapier** · source tag **Zapier help center · checked Nov 2026**
 Link: https://help.zapier.com/hc/en-us/articles/8496037690637-How-to-troubleshoot-errors-in-Zap-workflows
 
 **YUSUF:**
-> But those Zapier connections can just stop. Zapier's help page said a connection turns itself off if it fails almost every time for a week.
+> But those Zapier connections can just stop.
 
 **ON SCREEN:** **DO THIS: any connections stopped?** Card: **ASK YOUR TEAM:** do you spend hours every week copying things by hand? Tag: **Yes to either = not working**
 
 **YUSUF:**
-> To check this one, ask whoever set up your connections if any have stopped. Then ask your team if they spend hours every week copying by hand. If either answer is yes, count this one as not working.
+> To check this one, ask if any of those connections have stopped, and if your team spends hours every week copying by hand. If either answer is yes, count this one as not working.
 
 **ON SCREEN:** the **Zapier · Make · a person** box fades out. Tag: **One system = no gaps**
 
 **YUSUF:**
 > Those gaps are only there because your work is spread across separate tools. If it was all one system, you'd have nothing to fill.
 
-## 7:07 What to do if most of them fail
+## 6:03 What to do if most of them fail
 
-**ON SCREEN:** the full board, all five boxes. Tag: **1 or 2 not working = fix those · 3 or more not working = keep watching**. Then tags as he says them: **Direction: someone else's call** · **What gets through: someone else's call** · **Most expensive part of a CRM** · **Translating the rules between tools**
+**ON SCREEN:** the full board, all five boxes. Tag: **1 or 2 not working = fix those · 3 or more not working = adding connections won't solve it**. Then tags as he says them: **Which way it goes: someone else's call** · **Most expensive part of a CRM** · **Translating the rules between tools** · **With AI: cheaper to build just what you need**
 
 **YUSUF:**
-> If one or two of those five integrations aren't working, ask whoever set them up to fix them, and keep your tools. But if three or more aren't working, adding more connections probably won't solve it. The companies that make those tools decided which way the information goes and what gets through, and you can't change that with a setting. That's why it's so much more effective if you can build your own system, because then you decide how it all works.
+> So count how many of those five integrations aren't working. If it's one or two, ask whoever set them up to fix them, and keep your tools. But if it's three or more, adding more connections probably won't solve it. The companies that make those tools decided which way the information goes, and you can't change that with a setting. That's why it's so much more effective if you can build your own system, because then you decide how it all works.
 >
-> I know that sounds like a big step for a few tools that don't talk. But in my experience, integrations are the most expensive part of a CRM. That's because someone has to translate the rules from one tool to the other.
+> I know that sounds like a big step for a few tools that don't talk. But in my experience, integrations are the most expensive part of a CRM, because someone has to translate the rules from one tool to the other. In the past you had no choice, because building your own system was far too expensive. But with AI, it's now cheaper to build just what you need.
 
-**ON SCREEN:** post card, red box on **"I actually built our own CRM for my plumbing company."** · source tag **Plumbing company owner · X, Oct 2026**. On the board, the **Quotes**, **Jobs** and invoice boxes fold into one box. Tag: **Estimates · dispatching · scheduling · invoicing · payments**. Then tag: **Nothing left to connect**
+**ON SCREEN:** post card, red box on **"I actually built our own CRM for my plumbing company."** · source tag **Plumbing company owner · X, Oct 2026**. On the board, the **Quotes**, **Jobs** and invoice boxes fold into one box. Tag: **Estimates · scheduling · invoicing · payments**. Then tag: **Nothing left to connect**
 Link: https://x.com/Losermayhem/status/2114078690023756060
 
 **YUSUF:**
-> Here are two real examples of companies that did it, linked in the description. We found a plumbing company owner who built his own. It does his estimates, dispatching, scheduling, invoicing and payments, all in one system, so there's nothing left to connect.
+> Here are two real examples we found, linked in the description. A plumbing company owner built his own CRM. It does his estimates, scheduling, invoicing and payments, all in one system, so there's nothing left to connect.
 
 **ON SCREEN:** LinkedIn post, red boxes on **"~20 hours of part-time work over two weeks"**, **"Sales ops time is down 80%+"** and **"staying on top of 3–4x more deals"** · source tag **Gabriel Ficht, Springland · LinkedIn, Apr 2026**. Tags as he says them: **Every inbox, one view per customer** · **Orders from every platform**
 Link: https://www.linkedin.com/posts/gabriel-ficht_i-built-our-own-crm-at-springland-20-hours-activity-7454045768069435392-GJCp
 
 **YUSUF:**
-> Springland sells pet products wholesale, and they built theirs in about twenty hours of part-time work. It shows a customer's emails and orders in one place. They say their sales admin time is down more than eighty percent, and they're staying on top of three to four times more deals.
+> Springland sells pet products wholesale, and they built theirs in about twenty hours. It shows each customer's emails and orders in one place. They say their sales admin time is down more than eighty percent. And they're staying on top of three to four times more deals.
 
-## 8:25 One system for your whole company
+## 7:33 One system for your whole company
 
 **ON SCREEN:** the board redrawn as one big box, with the steps appearing inside it as he says them: **Lead → Quote → Signed → Job → Done → Invoice → Paid**. Then tags: **One system** · **No integrations** · **Built around how you work**
 
 **YUSUF:**
 > Now picture that for your whole company. A lead comes in from your website, and it's already in your CRM. You write the quote there, and the customer signs it there. That deal turns into a job on your crew's schedule. The crew marks it done on their phone, with the extra hour on it, and the invoice goes out by itself. When the customer pays, you see it on their record, next to every email and meeting, and you can see which marketing brought them in.
 >
-> So one system runs your whole process, from the first lead to the last payment, built around how your company works. You don't jump between tools and you don't sync anything, because you don't need any integrations.
+> So one system runs your whole process, from the first lead to the last payment.
 >
-> Big CRMs call themselves all-in-one, but they give you someone else's process, so you end up connecting everything that doesn't fit. When the CRM is built around your process, it really can be all in one.
+> Big CRMs call themselves all-in-one, but they give you someone else's process, so you end up connecting everything that doesn't fit. When the CRM is built around your process, you don't jump between tools and you don't sync anything, because you don't need any integrations.
 
-## 9:26 What we do
+## 8:30 What we do
 
-**ON SCREEN:** the one big box stays, with a small dashed **QuickBooks** box beside it, tag **Want to keep one? We connect it**. Then tags: **We move your data** · **You own the code** · **No long contract** · smaller: **For 10+ people**
+**ON SCREEN:** the one big box stays, with a small dashed **QuickBooks** box beside it, tag **Want to keep one? We connect it**. Then tags: **Built step by step** · **Team stays in the old CRM** · **Data moves piece by piece** · **You own the code** · **No long contract** · smaller: **For 10+ people**
 
 **YUSUF:**
 > You can build that yourself, like those two companies did. But somebody has to keep it running. And I think it's much easier to get exactly what you want with a company that's done it many times.
 >
-> That's what we do at my company, CRM From Within. We build you a CRM from scratch around how your company works, from the first lead to the last payment, so you don't need all those other tools. If there's one you want to keep, like QuickBooks, we connect it the way you need. We move your data over and we keep it running. You own the code, so if you leave, it all comes with you, and there's no long contract. We do this for companies of at least ten people.
+> That's what we do at my company, CRM From Within. We build you that one system from scratch, and we keep it running. If there's a tool you want to keep, like QuickBooks, we connect it. We build it step by step while your team keeps working in the old CRM, and your data moves over piece by piece. So shutting off the old CRM is basically zero risk. You own the code, so you stop depending on another company's features, and there's no long contract. We do this for companies of at least ten people.
 
-## 10:16 Free CRM fit check
+## 9:21 Free CRM fit check
 
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
 > If three or more of these connections aren't working, we do a free twenty-minute CRM fit check. The link's in the description.
 
-## 10:25 Close
+## 9:29 Close
 
 **ON SCREEN:** lower-third tag: **Comment: which 2 tools don't talk?**
 
@@ -249,7 +242,7 @@ Link: https://www.linkedin.com/posts/gabriel-ficht_i-built-our-own-crm-at-spring
 > - Gabriel Ficht, Springland's own CRM · https://www.linkedin.com/posts/gabriel-ficht_i-built-our-own-crm-at-springland-20-hours-activity-7454045768069435392-GJCp
 > - Video 6 · [link]
 >
-> 0:00 Why your tools don't talk · 1:04 Quotes · 2:23 Jobs · 3:21 Accounting · 5:26 Email and calendar · 6:14 Everything else · 7:07 What to do if most of them fail · 8:25 One system for your whole company · 9:26 What we do
+> 0:00 Why your tools don't talk · 1:00 Quotes · 2:08 Jobs · 2:56 Accounting · 4:41 Email and calendar · 5:20 Everything else · 6:03 What to do if most of them fail · 7:33 One system for your whole company · 8:30 What we do
 
 ---
 
