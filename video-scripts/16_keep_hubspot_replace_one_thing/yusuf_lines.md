@@ -4,94 +4,76 @@
 
 ## Hook
 
-What if you didn't have to leave HubSpot to stop fighting it?
+If one step in your sales is losing you money, you probably don't have to leave HubSpot to fix it.
 
-A friend of mine works at a fast-growing solar startup in Sweden. They had about fifteen sellers, and they were paying about thirty thousand dollars a year for HubSpot, and all they used was the pipeline. Leads came in, the team got to them late or not at all, and management had no clue. They wanted their own system, and we could've built it. But they were two months from their renewal, and if it didn't work, their whole business would stop. So they couldn't even start.
+A friend of mine works at a fast-growing solar startup in Sweden. They had about fifteen salespeople, and they were paying about thirty thousand dollars a year for HubSpot. All they used was the pipeline, a board where salespeople picked up leads by hand. A lot of leads came in, but the team got to them late or not at all. So they lost a lot of business, and management had no clue.
 
-I think a lot of companies get stuck right there. If it doesn't work, you're in real trouble, so you stay and suffer.
+So they wanted to replace HubSpot with their own system, and I told them we could build it. But their HubSpot renewal was two months away, and all their leads went through that pipeline. If the new system failed, their whole business would stop, so they couldn't even start.
 
 ## Proof
 
-I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, so I know how hard it is to get salespeople off something that works.
+I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. So I know how hard it is to move a whole sales team onto something new.
 
 ## Promise
 
-So here's what I'd do. Keep HubSpot, and replace one thing first. I'll show you how to pick it, and the three warnings a sales leader gave me about it. And at the end, you'll know how to tell when you don't need HubSpot at all.
+So I'd keep HubSpot and replace just one step in your sales, the one that's losing you the most money. A small tool takes over that step, and everything else stays in HubSpot.
 
-## Who it's for
+I'll show you how to find that step, who should build the tool, what can go wrong, and when you can drop HubSpot.
 
-Maybe most of HubSpot is fine, and it's one part that's holding your business back.
+## Why a small tool is safer than a full switch
 
-## Step 1: Why start small
+In a full switch to a new CRM, you move all your data and you retrain everyone. Then the whole team moves over on one day. If that day goes wrong, your salespeople can't sell.
 
-A big switch means you move all your data and retrain everyone, and then you bet the whole sales team on one go-live day. Sometimes that's right, but it's the riskiest way to do it.
+With a small tool, your contacts and deals stay in HubSpot, and you see it working before you touch anything else. If it doesn't work, you switch it off, and your team goes back to what they did before.
 
-I spoke to a sales leader at a large software company. They'd moved between two CRM setups, and he told me it was a nightmare. So I asked him, what if you keep what you have and just replace one function? You'd get the benefit straight away, and you'd see it working before you touched anything else. And he said yes, as long as it isn't a load of integrations and maintenance, because that's usually the problem.
+## How to find the step to replace first
 
-So your contacts and deals stay in HubSpot. You build the one piece that hurts around how you work, and you connect it back. If it fails, you've lost very little.
+To find that step, go through last month's leads and deals, and count how many you lost at each step, including the leads nobody called.
 
-A web agency owner told me his team replaced their Pipedrive in about a day. But they've got their own developers, and he said it himself, a plastics factory doesn't.
+A lost lead isn't worth as much as a lost deal, because most leads never close. So say you lost twenty leads, and one in five normally closes. That's four lost deals. Then multiply the lost deals at each step by what an average deal is worth. The step with the biggest number is the one you replace first.
 
-His CTO says that if you build fast with AI, the messy code catches up with you later, and maybe the passwords are sitting right there in it. So have a developer check it before it goes live.
+At that solar startup, the step was the first call. They got so many leads that people sat waiting for a call, and the longer a lead waits, the less likely you are to win the deal. So we talked about an AI voice that would talk to every lead straight away. It would ask a few questions, and connect the lead to a salesperson the moment one's free.
 
-## Step 2: Pick the one thing
+That replaces only the first call, so they could've renewed HubSpot and just added the AI voice.
 
-So ask your team one question this week, in these exact words.
+## Who should build the tool
 
-Which step does everything else wait on, and what does that cost us in lost deals?
+If you've got your own developers, have them build the tool. If you don't, pay someone to build it and keep it running.
 
-Write down where the work piles up, how many deals it loses you and who feels it. Whichever step costs you the most, that's your first piece.
+HubSpot changes and your process changes, so the tool has to change too. If your developer leaves or a freelancer only signed up for the build, year two can be a disaster. So before you start, decide who fixes it at four o'clock on a Friday. If you're the one who'd do that, and you're also running your company, it's probably not the best idea.
 
-At that solar startup, it was the first call. Every minute a lead waited, they were less likely to win the deal. So what we talked about was an AI voice that picks up straight away, asks a few questions, and puts the lead through the moment a salesperson's free. It never got built, so I can't give you a result. But if they came back to me now, that's the one piece I'd start with, and HubSpot could stay where it was.
+## What can go wrong with a small tool
 
-Yours might be something else. That sales leader said he'd start with calls. He called recording meetings a no-brainer.
+A sales leader at a large software company warned me that with a small tool, the problem is usually the connection to HubSpot. I saw the same thing at my old company.
 
-Here's an example from our research where that got built. A company called Shopflo worked out that every inbound lead took about fifteen minutes before the first call, just checking the website and finding contact details. After the call, someone typed it all into HubSpot by hand. So their revenue lead built a dashboard over a weekend that sits on top of HubSpot. You give it the website, and it pulls in the meeting notes, updates the HubSpot fields and moves the deal to the right stage.
+We often found out from customers that a connection had broken. For example, one company we worked with had built its own quoting software next to the CRM. When that connection failed, they just couldn't send quotes.
 
-He didn't give a number for what it saved. But say you get ten leads a day. That's two and a half hours a day before anyone's picked up the phone.
+Every connection is one more thing that can break. So count the systems your tool has to connect to. If it's one or two, you can probably do it. If it's more than that, pick a smaller step.
 
-And yours might not even be a sales tool. One roofing company owner built a production calendar on top of the CRM, because the CRM didn't give them what they wanted. It shows jobs, crew gaps and margin by job.
+Before you build, write down what your tool takes from HubSpot and what it sends back. If the two ever disagree on a deal, go with HubSpot, because that's where your deals stay. And decide who gets told the moment the connection breaks, so you don't hear it from a customer.
 
-## Free CRM fit check
+## When to replace the next step
 
-If you want a second opinion on your first piece, there's a free twenty-minute CRM fit check in the description.
+Once the first tool is running, give it sixty days before you replace anything else.
 
-## Step 3: Three warnings
+Then count your lost deals at that step again. You should be losing fewer. HubSpot and your tool should show the same leads and deals. And nobody should've had to fix the connection by hand. If all three are true, replace the next step. If not, fix what's wrong first.
 
-Now, that same sales leader gave me three warnings, and I think he's right.
+In our research, we found one mortgage business that went a lot further. With a small team of developers and AI, they built their own small CRM around how they sell. Now they only use HubSpot for marketing, and their contract came down seventy-five percent.
 
-Number one is the connection. At my old company, integrations were the major headache, and we often found out from customers that one had broken. One company I worked with had built its own quoting software next to the CRM, and when that link failed, they just couldn't send quotes. So before anyone builds anything, ask for this in writing.
-
-Every field that syncs, which way, how often, and which system wins when they disagree.
-
-Secondly, there's maintenance. HubSpot changes and your process changes, so someone has to keep this working next year. Here's one from our research. Someone at a fifty-person company said their head of ops built a "genius" custom dashboard, and it broke after that person left. So put a name on it before you start. Who fixes it at four o'clock on a Friday?
-
-And number three has got nothing to do with code. It's approval. He said any new tool has to get through IT and procurement, and he called that the worst process. At a smaller company it might just be your CEO or your finance person, but someone still has to say yes. So keep the first piece small enough to explain on one page.
-
-Write down what it does, what data it touches, where that data lives, who maintains it, and how you'd switch it off. If you can't fill that in, you're not ready.
-
-Then send it to whoever has to say yes, and ask what they'd need to approve it, before anyone builds anything.
-
-## Step 4: The next piece
-
-Give the first piece sixty days. Then ask yourself three things. Has the team stopped complaining? Do the numbers match on both sides? And did anyone have to fix the sync by hand?
-
-If all three are good, take the next piece. If not, fix that first.
-
-Here's where that can end up. One mortgage business in our research had HubSpot's sales and marketing products. With a small engineering team and AI, they built what they call a CRM lite, around how they sell. They still use HubSpot, just the marketing part, and their contract came down seventy-five percent.
-
-The sales leader told me you add one layer, then another, and in the end you only need the raw data. So when what's left in HubSpot is basically a contact list, that's when you decide if you still need it.
-
-So which piece would you pull out of HubSpot tomorrow? Tell me below. I read every comment.
+Keep adding tools like this, and one day HubSpot is only holding your contacts. Then you move them and stop paying.
 
 ## What we do
 
-That's how we work at my company, CRM From Within. We can start with the one piece that hurts. We build it from scratch, which AI has made a lot cheaper, and then we connect it to your HubSpot and look after it. The code is yours, and there's no long contract. It's for teams of ten to fifty people. And if nothing in HubSpot hurts, change nothing.
+A CRM that's sold to everybody needs a lot of features, let's say a hundred, and every customer only uses about three, like that solar startup. So you pay for the hundred. With AI, I realized it's now cheaper to build just the three you need. That's why I sold my old company.
+
+And if you build just those three with a company that's done it many times, it's much easier to get exactly what you want. At my company, CRM From Within, we start with the step that's losing you the most money. We build that tool around how you sell, connect it to your HubSpot and keep it running. Then we do the next step, until you've got a CRM of your own and we've moved your data over. You own the code, and there's no long contract. It's for teams of ten to fifty people.
+
+## Free CRM fit check
+
+If nothing in HubSpot is holding you back, just keep it. If something is, and you want help finding that step, the link's below for a free twenty-minute CRM fit check.
 
 ## Close
 
-So ask your team, write the one page, and then check after sixty days. That's it.
-
-If you'd rather have someone check your one page, book the free twenty-minute CRM fit check. The link's below.
+Tell me in the comments which step in your sales you'd replace first. I read every comment.
 
 In the next video, I'll show you the five integrations a service company needs. So subscribe so you don't miss that.

@@ -1,8 +1,8 @@
 # Video 16: Keep HubSpot, Replace One Thing First
 
-*Approved by David, 4 Nov 2026*
+*Approved by David, 4 Nov 2026. Rewritten on the new scoring after Yusuf's notes, 5 Nov 2026, so it needs reading again.*
 
-**Checked 5 Nov 2026:** the Shopflo post, live. The roofing, Reddit and mortgage posts come from our survey record, and X and Reddit block automated checks, so check those three by hand before filming. The two people quoted from private calls (Wispr summaries) stay anonymous: no names, companies or anything that identifies them. **Before filming:** Yusuf answers `yusuf_questions.md` so the general lines can become his own examples.
+**Checked 5 Nov 2026:** the mortgage post comes from our survey record, and X blocks automated checks, so check it by hand before filming. The two people quoted from private calls stay anonymous: no names, companies or anything that identifies them.
 
 **Screens to record:** none. Whiteboard only.
 
@@ -18,12 +18,11 @@
 3. Don't Rip Out HubSpot. Replace One Thing.
 4. The Safest Way Off HubSpot Starts With One Feature
 
-**Thumbnail variations** (HubSpot drawn as a box with one piece pulled out; Yusuf holding the piece; 2–4 words):
-1. **KEEP HUBSPOT** with one piece pulled out and glowing green
+**Thumbnail variations** (HubSpot drawn as a big box with one small box pulled out; Yusuf holding the small box; 2–4 words):
+1. **KEEP HUBSPOT** with one small box pulled out and glowing green
 2. **REPLACE 1 THING** with a single box circled
 3. **DON'T RIP IT OUT** with a red cross over a bulldozer sketch
 4. **STEP 1 OF 3** with three small boxes, the first ticked
-5. **ASK IT FIRST** with a tag on an IT approval stamp
 
 Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 
@@ -32,225 +31,171 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 ## Visual style (for the editor)
 
 - **Same style as the other videos:** words on screen carry the video, no effects or transitions. Tags timed to Yusuf's words (max 6 words).
-- **The HubSpot box:** a big box on the whiteboard split into pieces (contacts, deals, emails, calls, quotes, reports). Each step pulls one piece out into a small box next to it, joined by a line.
-- **Step tracker** top-left: "Step 2 of 4: Pick the one thing".
+- **The HubSpot box:** a big box on the whiteboard labelled HubSpot. The small tool is a small box next to it, joined by a line. Each new tool adds another small box, and the big box shrinks.
+- **Section title** top-left, in full words: "How to find the step to replace". No step numbers.
 - **No whiteboard yet?** Film Yusuf on camera and show the same drawings as clean full-screen graphics.
 
 ---
 
 ## 0:00 Hook
 
-**ON SCREEN:** Yusuf on camera. Tag: **Leave HubSpot? Or fix one thing?**
+**ON SCREEN:** Yusuf on camera. Tag: **Leave HubSpot? Or fix one step?**
 
 **YUSUF** (straight to camera):
-> What if you didn't have to leave HubSpot to stop fighting it?
+> If one step in your sales is losing you money, you probably don't have to leave HubSpot to fix it.
 
-**ON SCREEN:** tag: **Example: a Swedish solar startup** (no name). Then, one at a time: **~15 sellers** · **About $30,000 a year for HubSpot** · **Used: the pipeline** · **2 months to renewal**
-
-**YUSUF:**
-> A friend of mine works at a fast-growing solar startup in Sweden. They had about fifteen sellers, and they were paying about thirty thousand dollars a year for HubSpot, and all they used was the pipeline. Leads came in, the team got to them late or not at all, and management had no clue. They wanted their own system, and we could've built it. But they were two months from their renewal, and if it didn't work, their whole business would stop. So they couldn't even start.
-
-**ON SCREEN:** tag: **Stay and suffer · or rip it all out**
+**ON SCREEN:** tag: **Example: a Swedish solar startup** (no name). Then, one at a time: **~15 salespeople** · **About $30,000 a year for HubSpot** · **Used: the pipeline** · **Leads reached late or not at all**
 
 **YUSUF:**
-> I think a lot of companies get stuck right there. If it doesn't work, you're in real trouble, so you stay and suffer.
+> A friend of mine works at a fast-growing solar startup in Sweden. They had about fifteen salespeople, and they were paying about thirty thousand dollars a year for HubSpot. All they used was the pipeline, a board where salespeople picked up leads by hand. A lot of leads came in, but the team got to them late or not at all. So they lost a lot of business, and management had no clue.
 
-## 0:46 Proof
+**ON SCREEN:** tags, one at a time: **Renewal in 2 months** · **New system must work by then** · **If it fails, the business stops**
+
+**YUSUF:**
+> So they wanted to replace HubSpot with their own system, and I told them we could build it. But their HubSpot renewal was two months away, and all their leads went through that pipeline. If the new system failed, their whole business would stop, so they couldn't even start.
+
+## 1:01 Proof
 
 **ON SCREEN:** tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF:**
-> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, so I know how hard it is to get salespeople off something that works.
+> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. So I know how hard it is to move a whole sales team onto something new.
 
-## 1:01 Promise
+## 1:16 Promise
 
-**ON SCREEN:** title card: **Keep HubSpot, Replace One Thing First**, then three tags: ✓ **Pick the one thing** · ✓ **Three warnings** · ✓ **When you don't need HubSpot**
-
-**YUSUF:**
-> So here's what I'd do. Keep HubSpot, and replace one thing first. I'll show you how to pick it, and the three warnings a sales leader gave me about it. And at the end, you'll know how to tell when you don't need HubSpot at all.
-
-## 1:18 Who it's for
-
-**ON SCREEN:** one tag: **One part of HubSpot drives you mad**
+**ON SCREEN:** title card: **Keep HubSpot, Replace One Thing First**, then tags: ✓ **Find the step** · ✓ **Who builds the tool** · ✓ **What can go wrong** · ✓ **When you don't need HubSpot**
 
 **YUSUF:**
-> Maybe most of HubSpot is fine, and it's one part that's holding your business back.
+> So I'd keep HubSpot and replace just one step in your sales, the one that's losing you the most money. A small tool takes over that step, and everything else stays in HubSpot.
+>
+> I'll show you how to find that step, who should build the tool, what can go wrong, and when you can drop HubSpot.
 
 ---
 
-## 1:24 Step 1: Why start small
+## 1:37 Why a small tool is safer than a full switch
 
-**ON SCREEN:** step tracker: **Step 1 of 4: Why start small**. The HubSpot box, whole. Then a big arrow from it to an empty box: **Big switch** with tags **All data at once** · **Everyone retrained** · **One go-live day**
-
-**YUSUF:**
-> A big switch means you move all your data and retrain everyone, and then you bet the whole sales team on one go-live day. Sometimes that's right, but it's the riskiest way to do it.
-
-**ON SCREEN:** tag: **Told to me by a sales leader at a large software company**
+**ON SCREEN:** section title: **Why a small tool is safer**. The HubSpot box, whole. Then a big arrow from it to an empty box: **Full switch** with tags **All data at once** · **Everyone retrained** · **One big day**
 
 **YUSUF:**
-> I spoke to a sales leader at a large software company. They'd moved between two CRM setups, and he told me it was a nightmare. So I asked him, what if you keep what you have and just replace one function? You'd get the benefit straight away, and you'd see it working before you touched anything else. And he said yes, as long as it isn't a load of integrations and maintenance, because that's usually the problem.
+> In a full switch to a new CRM, you move all your data and you retrain everyone. Then the whole team moves over on one day. If that day goes wrong, your salespeople can't sell.
 
-**ON SCREEN:** the HubSpot box, one piece pulled out into a small box beside it, a line between them: **Still connected**
-
-**YUSUF:**
-> So your contacts and deals stay in HubSpot. You build the one piece that hurts around how you work, and you connect it back. If it fails, you've lost very little.
-
-**ON SCREEN:** tag: **Told to me by a web agency owner**. Then: **Replaced Pipedrive: about a day** · **They have their own developers**
+**ON SCREEN:** the HubSpot box with a small box beside it, a line between them: **Contacts and deals stay in HubSpot**. Then: **Doesn't work? Switch it off**
 
 **YUSUF:**
-> A web agency owner told me his team replaced their Pipedrive in about a day. But they've got their own developers, and he said it himself, a plastics factory doesn't.
+> With a small tool, your contacts and deals stay in HubSpot, and you see it working before you touch anything else. If it doesn't work, you switch it off, and your team goes back to what they did before.
 
-**ON SCREEN:** tag: **Have a developer check it before it goes live**
+## 2:06 How to find the step to replace first
 
-**YUSUF:**
-> His CTO says that if you build fast with AI, the messy code catches up with you later, and maybe the passwords are sitting right there in it. So have a developer check it before it goes live.
-
-## 2:45 Step 2: Pick the one thing
-
-**ON SCREEN:** step tracker: **Step 2 of 4: Pick the one thing**.
+**ON SCREEN:** section title: **How to find the step to replace**. Then a card: **Lost at each step → deals that would have closed**. Tag: **Example: 20 lost leads, 1 in 5 closes = 4 lost deals**. Then: **× average deal**. Then: **DO THIS TODAY: biggest number = the step you replace first**
 
 **YUSUF:**
-> So ask your team one question this week, in these exact words.
-
-**ON SCREEN:** **SAY THIS** card: *"Which step does everything else wait on, and what does that cost us in lost deals?"*
-
-**YUSUF:**
-> Which step does everything else wait on, and what does that cost us in lost deals?
-
-**ON SCREEN:** a three-column card: **Where work piles up · Deals it loses · Who feels it**. Then: **DO THIS TODAY: ask your team which step everything else waits on**
-
-**YUSUF:**
-> Write down where the work piles up, how many deals it loses you and who feels it. Whichever step costs you the most, that's your first piece.
-
-**ON SCREEN:** the HubSpot box. The piece **First call** lights up. Tag: **Every minute of waiting makes the deal less likely**. Then, a simple flow: **AI voice picks up → asks a few questions → puts the lead through to a free seller**. Smaller tag: **Never built: no result to show**
-
-**YUSUF:**
-> At that solar startup, it was the first call. Every minute a lead waited, they were less likely to win the deal. So what we talked about was an AI voice that picks up straight away, asks a few questions, and puts the lead through the moment a salesperson's free. It never got built, so I can't give you a result. But if they came back to me now, that's the one piece I'd start with, and HubSpot could stay where it was.
-
-**ON SCREEN:** the piece **Calls** lights up. Tag: **"A no-brainer"**
-
-**YUSUF:**
-> Yours might be something else. That sales leader said he'd start with calls. He called recording meetings a no-brainer.
-
-**ON SCREEN:** tag: **Example from our research: Shopflo**. Then, one at a time: **15 minutes per inbound lead before the first call** · **HubSpot updated by hand** · **Dashboard built in a weekend, on top of HubSpot**. Quote card: *"this dashboard acted as a layer where everything could be triggered from one place and still sync back to the CRM"* (Tanay Gauba, Shopflo, LinkedIn, Apr 2026)
-
-**YUSUF:**
-> Here's an example from our research where that got built. A company called Shopflo worked out that every inbound lead took about fifteen minutes before the first call, just checking the website and finding contact details. After the call, someone typed it all into HubSpot by hand. So their revenue lead built a dashboard over a weekend that sits on top of HubSpot. You give it the website, and it pulls in the meeting notes, updates the HubSpot fields and moves the deal to the right stage.
-
-**ON SCREEN:** tag: **Example: 10 leads × 15 minutes = 2.5 hours a day**
-
-**YUSUF:**
-> He didn't give a number for what it saved. But say you get ten leads a day. That's two and a half hours a day before anyone's picked up the phone.
-
-**ON SCREEN:** tag: **Example from our research: a roofing company**. Then: **Production calendar on top of the CRM: jobs · crew gaps · margin by job**
-
-**YUSUF:**
-> And yours might not even be a sales tool. One roofing company owner built a production calendar on top of the CRM, because the CRM didn't give them what they wanted. It shows jobs, crew gaps and margin by job.
-
-## 4:46 Free CRM fit check
-
-**ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
-
-**YUSUF:**
-> If you want a second opinion on your first piece, there's a free twenty-minute CRM fit check in the description.
-
-## 4:54 Step 3: Three warnings
-
-**ON SCREEN:** step tracker: **Step 3 of 4: Three warnings**. Three red tags appear one by one: **1. The connection** · **2. Maintenance** · **3. Approval**
-
-**YUSUF:**
-> Now, that same sales leader gave me three warnings, and I think he's right.
-
-**ON SCREEN:** the line between HubSpot and the new piece, with a red break in it. Tag: **Example: own quoting software** (no name). Then: **Link fails → no quotes go out**
-
-**YUSUF:**
-> Number one is the connection. At my old company, integrations were the major headache, and we often found out from customers that one had broken. One company I worked with had built its own quoting software next to the CRM, and when that link failed, they just couldn't send quotes. So before anyone builds anything, ask for this in writing.
-
-**ON SCREEN:** **SAY THIS** card (to whoever builds it): *"Before you start, write down every field that syncs, which way, how often, and which system wins when they disagree."*
-
-**YUSUF:**
-> Every field that syncs, which way, how often, and which system wins when they disagree.
-
-**ON SCREEN:** tag: **Example from our research: a 50-person company**. Then: **Head of ops built a "genius" dashboard · it broke after they left**. Then: **Who fixes it at 4pm on a Friday?**
-
-**YUSUF:**
-> Secondly, there's maintenance. HubSpot changes and your process changes, so someone has to keep this working next year. Here's one from our research. Someone at a fifty-person company said their head of ops built a "genius" custom dashboard, and it broke after that person left. So put a name on it before you start. Who fixes it at four o'clock on a Friday?
-
-**ON SCREEN:** an approval stamp: **IT · Procurement · Your CEO**. Tag: **Simple gets approved**
-
-**YUSUF:**
-> And number three has got nothing to do with code. It's approval. He said any new tool has to get through IT and procurement, and he called that the worst process. At a smaller company it might just be your CEO or your finance person, but someone still has to say yes. So keep the first piece small enough to explain on one page.
-
-**ON SCREEN:** one-page card: **What it does · What data it touches · Where data lives · Who maintains it · How to switch it off**. Then: **DO THIS BEFORE YOU BUILD: write the one-page brief**
-
-**YUSUF:**
-> Write down what it does, what data it touches, where that data lives, who maintains it, and how you'd switch it off. If you can't fill that in, you're not ready.
-
-**ON SCREEN:** **SAY THIS** card (email to whoever approves it): *"We want to replace one part of HubSpot with a small tool connected to it. The attached page says what it does, what data it touches, where that data lives, who maintains it and how we'd switch it off. What would you need to approve it?"*
-
-**YUSUF:**
-> Then send it to whoever has to say yes, and ask what they'd need to approve it, before anyone builds anything.
-
-## 6:37 Step 4: The next piece
-
-**ON SCREEN:** step tracker: **Step 4 of 4: The next piece**. The HubSpot box with one piece out, ticked. A second piece starts to glow.
-
-**YUSUF:**
-> Give the first piece sixty days. Then ask yourself three things. Has the team stopped complaining? Do the numbers match on both sides? And did anyone have to fix the sync by hand?
-
-**ON SCREEN:** three ticks: **Team uses it** · **Numbers match** · **No manual fixes**. Then: **DO THIS AFTER 60 DAYS: check all three before the next piece**
-
-**YUSUF:**
-> If all three are good, take the next piece. If not, fix that first.
-
-**ON SCREEN:** tag: **Example from our research: a mortgage business**. Then, one at a time: **Built a "CRM lite" around how they sell** · **Still on HubSpot: marketing only** · **HubSpot contract down 75%**
-
-**YUSUF:**
-> Here's where that can end up. One mortgage business in our research had HubSpot's sales and marketing products. With a small engineering team and AI, they built what they call a CRM lite, around how they sell. They still use HubSpot, just the marketing part, and their contract came down seventy-five percent.
-
-**ON SCREEN:** the HubSpot box, nearly empty: **Contact list**
-
-**YUSUF:**
-> The sales leader told me you add one layer, then another, and in the end you only need the raw data. So when what's left in HubSpot is basically a contact list, that's when you decide if you still need it.
-
-**ON SCREEN:** lower-third tag: **Comment: which part of HubSpot would you replace first?**
-
-**YUSUF:**
-> So which piece would you pull out of HubSpot tomorrow? Tell me below. I read every comment.
-
-## 7:38 What we do
-
-**ON SCREEN:** tags: **Start with one piece** · **You own the code** · **No long contract** · **For: 10–50 people** · smaller: **No pain? Change nothing**
-
-**YUSUF:**
-> That's how we work at my company, CRM From Within. We can start with the one piece that hurts. We build it from scratch, which AI has made a lot cheaper, and then we connect it to your HubSpot and look after it. The code is yours, and there's no long contract. It's for teams of ten to fifty people. And if nothing in HubSpot hurts, change nothing.
-
-## 8:04 Close
-
-**ON SCREEN:** checklist: **☐ Ask your team the one question ☐ Write the one-page brief ☐ 60-day check**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
-
-**YUSUF:**
-> So ask your team, write the one page, and then check after sixty days. That's it.
+> To find that step, go through last month's leads and deals, and count how many you lost at each step, including the leads nobody called.
 >
-> If you'd rather have someone check your one page, book the free twenty-minute CRM fit check. The link's below.
+> A lost lead isn't worth as much as a lost deal, because most leads never close. So say you lost twenty leads, and one in five normally closes. That's four lost deals. Then multiply the lost deals at each step by what an average deal is worth. The step with the biggest number is the one you replace first.
+
+**ON SCREEN:** the HubSpot box. A small box appears beside it: **First call**. Tag: **Every minute of waiting makes the deal less likely**. Then, a simple flow: **AI voice talks to the lead → asks a few questions → connects the lead to a free salesperson**
+
+**YUSUF:**
+> At that solar startup, the step was the first call. They got so many leads that people sat waiting for a call, and the longer a lead waits, the less likely you are to win the deal. So we talked about an AI voice that would talk to every lead straight away. It would ask a few questions, and connect the lead to a salesperson the moment one's free.
+
+**ON SCREEN:** tags, one at a time: **Replaces only the first call** · **Renew HubSpot, add the AI voice**
+
+**YUSUF:**
+> That replaces only the first call, so they could've renewed HubSpot and just added the AI voice.
+
+## 3:10 Who should build the tool
+
+**ON SCREEN:** section title: **Who should build the tool**. Tag: **Your own developers? Use them**. Then: **No developers? Pay someone to build it and keep it running**
+
+**YUSUF:**
+> If you've got your own developers, have them build the tool. If you don't, pay someone to build it and keep it running.
+
+**ON SCREEN:** tag: **Year two can be a disaster**. Then: **Who fixes it at 4pm on a Friday?**
+
+**YUSUF:**
+> HubSpot changes and your process changes, so the tool has to change too. If your developer leaves or a freelancer only signed up for the build, year two can be a disaster. So before you start, decide who fixes it at four o'clock on a Friday. If you're the one who'd do that, and you're also running your company, it's probably not the best idea.
+
+## 3:45 What can go wrong with a small tool
+
+**ON SCREEN:** section title: **What can go wrong**. Tag: **Told to me by a sales leader at a large software company**. Red tag: **The connection breaks**
+
+**YUSUF:**
+> A sales leader at a large software company warned me that with a small tool, the problem is usually the connection to HubSpot. I saw the same thing at my old company.
+
+**ON SCREEN:** the line between HubSpot and the small tool, with a red break in it. Tag: **Example: own quoting software** (no name). Then: **Connection fails → no quotes go out**
+
+**YUSUF:**
+> We often found out from customers that a connection had broken. For example, one company we worked with had built its own quoting software next to the CRM. When that connection failed, they just couldn't send quotes.
+
+**ON SCREEN:** tag: **Count the systems**. Then: **1 or 2 systems? You can probably do it · More? Pick a smaller step**
+
+**YUSUF:**
+> Every connection is one more thing that can break. So count the systems your tool has to connect to. If it's one or two, you can probably do it. If it's more than that, pick a smaller step.
+
+**ON SCREEN:** **WRITE THIS DOWN** card: **What your tool takes and sends back · Different deal value? Trust HubSpot · Who gets told when it breaks**
+
+**YUSUF:**
+> Before you build, write down what your tool takes from HubSpot and what it sends back. If the two ever disagree on a deal, go with HubSpot, because that's where your deals stay. And decide who gets told the moment the connection breaks, so you don't hear it from a customer.
+
+## 4:41 When to replace the next step
+
+**ON SCREEN:** section title: **When to replace the next step**. The HubSpot box with one small box beside it, ticked.
+
+**YUSUF:**
+> Once the first tool is running, give it sixty days before you replace anything else.
+
+**ON SCREEN:** three ticks: **Fewer lost deals at that step** · **Same numbers in both** · **No fixes by hand**. Then: **DO THIS AFTER 60 DAYS: check all three before the next step**
+
+**YUSUF:**
+> Then count your lost deals at that step again. You should be losing fewer. HubSpot and your tool should show the same leads and deals. And nobody should've had to fix the connection by hand. If all three are true, replace the next step. If not, fix what's wrong first.
+
+**ON SCREEN:** tag: **Example from our research: a mortgage business**. Then, one at a time: **Built their own small CRM around how they sell** · **Still on HubSpot: marketing only** · **HubSpot contract down 75%**
+
+**YUSUF:**
+> In our research, we found one mortgage business that went a lot further. With a small team of developers and AI, they built their own small CRM around how they sell. Now they only use HubSpot for marketing, and their contract came down seventy-five percent.
+
+**ON SCREEN:** the HubSpot box, nearly empty: **Contacts**. Tag: **Nobody opened it in a month? You don't need HubSpot**
+
+**YUSUF:**
+> Keep adding tools like this, and one day HubSpot is only holding your contacts. Then you move them and stop paying.
+
+## 5:38 What we do
+
+**ON SCREEN:** tag: **Pay for 100 features, use 3**. Then: **Start with one step** · **You own the code** · **No long contract** · **For: 10–50 people**
+
+**YUSUF:**
+> A CRM that's sold to everybody needs a lot of features, let's say a hundred, and every customer only uses about three, like that solar startup. So you pay for the hundred. With AI, I realized it's now cheaper to build just the three you need. That's why I sold my old company.
+>
+> And if you build just those three with a company that's done it many times, it's much easier to get exactly what you want. At my company, CRM From Within, we start with the step that's losing you the most money. We build that tool around how you sell, connect it to your HubSpot and keep it running. Then we do the next step, until you've got a CRM of your own and we've moved your data over. You own the code, and there's no long contract. It's for teams of ten to fifty people.
+
+## 6:34 Free CRM fit check
+
+**ON SCREEN:** tag: **Nothing holding you back? Keep HubSpot**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
+
+**YUSUF:**
+> If nothing in HubSpot is holding you back, just keep it. If something is, and you want help finding that step, the link's below for a free twenty-minute CRM fit check.
+
+## 6:46 Close
+
+**ON SCREEN:** lower-third tag: **Comment: which step would you replace first?**
+
+**YUSUF:**
+> Tell me in the comments which step in your sales you'd replace first. I read every comment.
 >
 > In the next video, I'll show you the five integrations a service company needs. So subscribe so you don't miss that.
 
 **ON SCREEN:** end screen: next video (video 17: "5 CRM Integrations a Service Company Needs") + video 10 ("Ten Sales Tools, One Bill") + "Free CRM fit check" button.
 
 **Description:**
-> The low-risk way to fix your CRM: keep HubSpot, replace the one part that hurts most first, then the next. How to pick your first piece, three warnings (the connection, maintenance, approval), and the check that tells you when to take the next step.
+> The low-risk way to fix your CRM: keep HubSpot and replace the one step that costs you the most, then the next. How to pick your first step, who should build it, what can go wrong, and how to tell when you don't need HubSpot at all.
 >
 > Free 20-minute CRM fit check: [link with utm_campaign=v23]
 >
-> CRM From Within builds CRMs around how your company sells, starting with one piece if you like. You own the code, no long contract.
+> CRM From Within builds CRMs around how your company sells, starting with one step if you like. You own the code, no long contract.
 >
-> 0:00 A third way · 1:24 Why start small · 2:45 Pick the one thing · 4:54 Three warnings · 6:37 The next piece · 7:38 What we do
+> 0:00 Stuck on HubSpot · 1:37 Why a small tool · 2:06 Find the step · 3:10 Who builds it · 3:45 What can go wrong · 4:41 The next step · 5:38 What we do
 >
 > Sources:
-> - Shopflo's dashboard on top of HubSpot (LinkedIn, Apr 2026): https://www.linkedin.com/posts/tanay-gauba_this-first-came-up-in-a-sales-standup-with-activity-7448358738278658048-FV4V
-> - A roofing company's production calendar (X, Oct 2026): https://x.com/sensarpensar/status/2106110703056916646
-> - A fifty-person company's custom dashboard (Reddit, Feb 2026): https://www.reddit.com/r/SaaS/comments/1r9omh1/saas_is_not_dead/o6dt2t1/
 > - A mortgage business's CRM lite (X, Feb 2026): https://x.com/tadhensley/status/2019351317723140371
 
 ---
@@ -261,26 +206,14 @@ Each short opens on its own claim, count or drawing (the caption below), never o
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|
-| 1 | 0:04–0:46 | 42s | "Two months from renewal, and they couldn't start" |
-| 2 | 1:24–2:07 | 43s | "Why a big CRM switch is the riskiest way" |
-| 3 | 2:07–2:31 | 24s | "Keep HubSpot, pull out one piece" |
-| 4 | 2:45–3:06 | 21s | "Ask your team this one question" |
-| 5 | 3:06–3:38 | 32s | "Their bottleneck was the first call" |
-| 6 | 3:46–4:31 | 45s | "Built in a weekend, on top of HubSpot" |
-| 7 | 4:59–5:28 | 29s | "Warning 1: the connection breaks" |
-| 8 | 5:28–5:53 | 25s | "Warning 2: who fixes it next year?" |
-| 9 | 5:53–6:37 | 44s | "Warning 3: write the one page first" |
-| 10 | 6:55–7:15 | 20s | "They kept HubSpot and cut the contract 75%" |
+| 1 | 0:36–1:01 | 25s | "Two months from renewal, and they couldn't start" |
 
 ---
 
 ## Sources
 
-- Sales leader at a large software company: private call, Oct–Nov 2026, Wispr summary (painful move between two CRM setups; Yusuf put the keep-it-and-replace-one-function idea to him, and he agreed if it isn't a lot of integrations and maintenance; any new tool has to pass IT and procurement, "worst process"; start with meeting recording, "no-brainer"; in the end you only need the raw data). Anonymous by agreement.
-- Web agency owner: private call, Oct–Nov 2026, Wispr summary (replaced Pipedrive in about a day; they have their own developers and a plastics factory doesn't; his CTO on messy AI code catching up and passwords in the code). Anonymous by agreement.
-- Yusuf's 4 Nov 2026 interview, `original_sources/2026-11-04_interview_experience_videos.md` (confirmed, no client named): the solar startup, about 15 sellers, 300,000 kronor a year for HubSpot (about $30,000, as in video 11), pipeline view only, leads reached late or not at all, 2 months to renewal, the business would stop if it failed, couldn't start; every minute of delay makes the deal less likely; the AI voice idea; integrations "the major problem", found out from customers; the quoting software link, "they just couldn't send quotes".
+- Sales leader at a large software company: private call, Oct 2026 (integrations and maintenance are usually the problem). Anonymous by agreement.
+- Yusuf's 4 Nov 2026 interview, `original_sources/2026-11-04_interview_experience_videos.md` (confirmed, no client named): the solar startup, about 15 sellers, 300,000 kronor a year for HubSpot (about $30,000, as in video 11), pipeline view only, salespeople picking up leads by hand, leads reached late or not at all, 2 months to renewal, the business would stop if it failed, couldn't start; every minute of delay makes the deal less likely; the AI voice idea; integrations "the major problem", found out from customers; the quoting software link, "they just couldn't send quotes"; a CRM needs 100 features and every customer uses 3; with AI he realized it's cheaper to build from scratch, which is why he sold.
+- Yusuf's on-camera notes, 5 Nov 2026, `original_sources/2026-11-05_video_11_notes_to_claude.md`: "if it's just like one or two you can probably do it"; "if you're the one gonna do that and you're also running your company then it's probably not the best idea"; "If your developer leaves or a freelancer only signed up for the build, year two can be a disaster"; much easier with a company that's done it multiple times.
 - Yusuf on a private call, 18 Aug 2026: how hard it is to move salespeople from something that works to something new. Yusuf on a private call, 27 Oct 2026: "if this doesn't work, we're in real trouble" is usually what stops a buyer.
-- Shopflo: Tanay Gauba (Revenue at Shopflo), LinkedIn, Apr 2026, https://www.linkedin.com/posts/tanay-gauba_this-first-came-up-in-a-sales-standup-with-activity-7448358738278658048-FV4V. Checked live 5 Nov 2026 (15 minutes per lead, notes and HubSpot updated by hand, dashboard built over a weekend, website address in, HubSpot fields and deal stage updated; no measured saving given). The quote is in `survey/all_relevant.csv`. The ten-leads sum is our example.
-- Roofing company owner: @sensarpensar on X, 2 Oct 2026, https://x.com/sensarpensar/status/2106110703056916646 (`survey/all_relevant.csv`, saved copy `2026-10_x_roofing-owner-vibe-coded-production-calendar.json`). X blocks automated checks, so check it by hand before filming.
-- Fifty-person company: u/Rare-Country-5480 on Reddit, 20 Feb 2026, https://www.reddit.com/r/SaaS/comments/1r9omh1/saas_is_not_dead/o6dt2t1/ (`survey/all_relevant.csv`). Reddit blocks automated checks, so check it by hand before filming.
 - Mortgage business: @tadhensley on X, 5 Feb 2026, https://x.com/tadhensley/status/2019351317723140371 (`survey/all_relevant.csv`): "We still use Hubspot, but much less of it (just Marketing pro). Reduced Hubspot contract by 75% annually." X blocks automated checks, so check it by hand before filming.

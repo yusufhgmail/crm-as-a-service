@@ -60,7 +60,8 @@ def total(scores):
     if len(scores) == 5:  # before the easy-to-understand score, when human counted double
         human, interest, value, belief, per_word = scores
         return 2 * human + interest + value + belief + per_word
-    return sum(scores)  # value per word sat in the last place before the shorten score
+    human, easy, *rest = scores  # value per word sat in the last place before the shorten score
+    return 2 * human + 2 * easy + sum(rest)
 
 
 def kept(rounds):
@@ -71,7 +72,7 @@ def kept(rounds):
 def optimized_mark(entry):
     if len(entry["rounds"][0]) == 5:
         return f"old score {entry['best']:g}/60"
-    return f"✅ {entry['best']:g}/60"
+    return f"✅ {entry['best']:g}/80"
 
 
 def read_state(db, name):

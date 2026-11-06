@@ -4,92 +4,94 @@
 
 ## Proof
 
-At my old company, one customer's handover note said their sales team used the CRM. Two years later, when they cancelled, our own note said they weren't using it at all. Nobody had added a deal since late 2023, and one pipeline had ended up in Excel. That was my own company, a CRM SaaS company I sold in 2025, and we still caught it too late.
+At my old company, our notes on one customer said their sales team used the CRM. Two years later they cancelled, and our notes said they weren't using it at all. By then nobody was adding deals, and they were keeping some of their deals in Excel.
 
-I keep seeing three reasons for that, and each one has a fix you can start this week. And before we finish, I'll give you the one question I'd ask before you add anything else to your CRM.
+And we were the CRM company. I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and we still didn't see that this team had stopped using it.
 
 ## Who it's for
 
-If your team works around your CRM, you might have lost a deal like this one. Here's an example from our research. One business owner on a German Reddit forum brought in HubSpot, and a year later the salespeople were entering nothing. Then a deal fell apart, because nobody knew the customer had been waiting three weeks for a quote. The salespeople said, I've got it all in my head. Or, that just costs time.
+If your team works around your CRM, it can cost you deals. Here's an example from our research. One business owner on a German Reddit forum brought in HubSpot, and a year later the salespeople were entering nothing. Then a deal fell apart, because nobody knew the customer had been waiting three weeks for a quote. The salespeople said, I've got it all in my head. Or, that just costs time.
 
-I don't think that's laziness, and I don't think pushing them harder fixes it.
+The owner asked if they'd hired the wrong people. I don't think so. The CRM costs them time and gives them very little back, so pushing them harder won't fix it.
 
 ## Plan
 
-I'll use HubSpot, but the same ideas work in any CRM.
+There are three reasons a team stops using its CRM, and you can start fixing each one this week. I'll show you in HubSpot, but it works in any CRM. And at the end, I'll show you how to find out if your CRM can be fixed at all.
 
 ## Reason 1: Too much work, nothing back
 
-Number one, and I'd say it's the biggest, is too many fields for the person who has to fill them in. During setup, every manager adds the fields they'd like for their report, and nobody asks the salesperson what they need to close the deal.
+The biggest reason is too many fields for the person who has to fill them in. During setup, every manager adds the fields they'd like for their report, and nobody asks the salesperson what they need to close the deal.
 
-One founder posted on X that their Salesforce has a hundred and twenty-seven custom fields. Their top seller uses three, and her deals close. The other hundred and twenty-four, the post says, exist so ops can build a dashboard no one opens.
+A founder posted on X that their Salesforce has a hundred and twenty-seven custom fields. Their top seller uses three, and her deals close. The founder says the rest are there so the operations team can build a dashboard no one opens.
 
-Small companies simply don't have time to sit and log data. One rep on Reddit says it takes him thirty to forty minutes a day. Then on Monday his manager asks him to explain the numbers he typed in on Friday. He says the CRM just takes and takes.
+And all those fields take time. Small companies simply don't have time to sit and log data. One sales rep on Reddit says it takes him thirty to forty minutes a day, and the CRM just takes and takes. Even at thirty minutes a day, that's about a hundred and twenty-five hours a year, for one rep.
 
-Thirty minutes a day is about a hundred and twenty-five hours a year, for one rep. So time one of your reps logging a call, and do that sum.
+So the question I'd ask is, what can we cut?
 
-The fix is a field audit. List every field your team must fill in. Next to each one, write who reads it and what they do with it. If the answer is nobody, it stops being required. You don't delete it, you just make it optional.
+Start with the required fields. A rep can't save a deal until those are filled in. Write down every required field, and next to each one, write who reads it and what they do with it.
 
-In HubSpot that's in your pipeline settings, and the path's on screen. Required means they can't save the deal without it, so just untick every field that failed the audit.
+Then ask your best salesperson which of these they actually use to close a deal. If they don't use a field and nobody does anything with it, make it optional.
 
-Then ask your best salesperson, "Which three fields do you actually use to close a deal? Everything else is going optional." Whatever they say, keep those three required.
+In HubSpot's pipeline settings, you just untick Required.
 
 ## Reason 2: It doesn't match how they work
 
-Secondly, the stages aren't the steps of the job, so they just do the job and skip the CRM.
+The second reason is that the stages a deal moves through aren't the steps your team really does. So they just do the job and skip the CRM. The mistake I see most is letting the CRM control your process. Start with how you sell, and adapt the CRM to that.
 
-Say you're a roofer. These are HubSpot's default stages. Look at this one, Presentation Scheduled. A roofer doesn't do presentations. They book inspections and write estimates, and then they wait for the insurance approval.
+Say you're a roofer. One of HubSpot's default stages is Presentation Scheduled. But a roofer doesn't do presentations. They book inspections and write estimates, and then they wait for the insurance approval. So they can't tell which stage a deal belongs in, and they stop moving deals.
 
-Rename every stage to a step your team really does, in their own words. Then give each stage two yes-or-no questions, like "Inspection photos taken?" and "Estimate sent to the adjuster?" If either answer's no, the deal stays where it is. Start with the stage where deals pile up.
-
-But sometimes you rename everything and it still doesn't fit, because the job itself isn't in the CRM. Then your team actually has a point.
-
-I worked with a recruitment firm that finds salespeople for other companies, and their team had stopped using the CRM. They sell to two groups, the companies hiring and the recruits, and each recruit goes through their own steps for every hiring project. A standard setup couldn't link a recruit to a client's project, so the CRM was useless to them.
-
-I sat with them until I understood their process. Then I proposed two pipelines, one for clients and one for recruits, with custom fields to link them. Leadership said yes, so I built the automations and trained the sellers, one stage at a time. And they started using it again.
-
-## Free CRM fit check
-
-If that sounds like your team, the free fit check is in the description.
+So ask your team what they call each step, and rename every stage to match, in the same pipeline settings.
 
 ## Reason 3: It's not where they work
 
-Number three, the CRM sits off to the side. Your team lives in their inbox and on the phone, so the CRM is one more place to type it all again.
+The third reason is that the CRM sits off to the side. Your team lives in their inbox and on the phone, so they have to type every email and call into the CRM again.
 
-First, connect every rep's inbox, in their own settings, on any HubSpot plan. The path's on screen. Now they can send and log emails from the CRM, instead of copying them over.
+One sales manager on Reddit has a team of six. After a few weeks, the manager says, people go back to Outlook reminders and their own notes.
 
-Then give them something back. One sales manager on Reddit wants the CRM to tell a rep, "You said you'd call this customer in thirty days. It's been thirty-two."
+So bring the CRM closer to where they work. First, each rep connects their inbox, which works on any HubSpot plan. Then they can send and log emails from the CRM, instead of copying them over.
 
-You can get close to that on any HubSpot plan. When a rep logs a call, they tick Create a To-do and pick the date. Now they've got a list of who to call back and when.
+Reps also log calls and get nothing back, so change that.
 
-That German owner wrote that HubSpot could do all of this, they'd just never set it up.
+When a rep logs a call, they tick Create a To-do and pick the date. Now they've got a list of who to call back and when.
 
-After that, tell the team before your weekly sales meeting, "From Monday, we run this meeting from the board. If a deal isn't on it, we don't talk about it." And give it two weeks.
+## Ask your team to use it
 
-Where does your team really keep its deals? Let me know in the comments. I read every comment.
+Once the CRM is less work, tell your team, "From Monday, we run the sales meeting from the CRM. If a deal isn't in it, we don't talk about it."
 
-## Is fixing it enough?
+## Find out if your CRM can be fixed
 
-OK, that question. The mistake I see most is letting the CRM control your process. You should start with how you sell, and then adapt the CRM to support that. You're not supposed to adapt your process to the CRM.
+Then give it two weeks. If deals still aren't going in, something about the CRM isn't working for your team. So sit down with each person, one at a time, and ask, "What would make the CRM save you time? I'll write down exactly what you say."
 
-And then people overcomplicate it. They add things because they sound cool. So the main question shouldn't be "What can we add?" It should be "What can we cut?" You want the CRM to support your process with as little admin as possible. So ask your team that on Monday, in those words, and take one thing out that week.
+If you can do what they ask in the settings, do it this week. If it needs a higher plan, compare the extra cost with what one lost deal costs you. But if the CRM can't do it on any plan, your team is right to avoid it.
 
-Fields, stages and inboxes you can fix this week. Automatic follow-ups are a tier thing, and in HubSpot that's Professional. But if the CRM can't do the job itself, that's a fit thing, and you can't fix that with pressure.
+## When the CRM can't do the job
 
-## Close
+I worked with a recruitment firm whose CRM didn't fit. They find salespeople for other companies, so they deal with the companies hiring and the people looking for jobs. A standard setup couldn't link a recruit to a client's job, so their team stopped using it.
 
-Then sit down with each person, one at a time.
+I got them using it again, but it took a lot of work. I sat with them until I understood their process. Then I built one list for clients and one for recruits, with custom fields and automations to link them. And I trained the sellers one stage at a time.
 
-Ask them, "What would make the CRM save you time? I'll write down exactly what you say." And then actually write it down.
+I think the real problem with adapting a standard system is that you're always working inside its limits.
 
-One company in our research built from a list like that. Coconut is a staffing firm that spent over sixteen thousand dollars on HubSpot. After more than a year, their CEO said it just didn't fit their workflow. So they gave themselves forty-five days. Everyone on the team sent in a wishlist, and their own developer built from that. Now everyone looks at the same data, with a view for their department, and reports arrive by themselves. Two weeks after launch, their Chief Coconut Officer, and that's his real title, wrote, "The team loves it." They haven't shared numbers, so I can't tell you what it did for revenue.
+## Built around the work
 
-Eric Post, who was paying HubSpot five thousand dollars a month, replaced it with a system he built. He says adoption on his sales team went through the roof, because he took out all the friction.
+In our research, we found a staffing firm called Coconut that gave up on HubSpot. They'd spent over sixteen thousand dollars on HubSpot. After more than a year of working with HubSpot's own team, they say it just didn't fit how they work. So they built their own CRM in forty-five days. Everyone on the team sent in a wishlist, and their own developer built from that. Their Chief Coconut Officer wrote that the team loves it.
 
-I think that's why it works. If the work happens in the CRM, there's nothing to go back and log. Earth Cups, a manufacturer in Kansas City, built their quotes and contracts into their own system, and connected it straight to their production planner. And say your quotes were made in there. Then the CRM could tell you on day three that a customer's still waiting. Count the deals you lost last quarter because someone was left waiting, and multiply that by your average deal. I'd compare that with your CRM bill.
+One man who was paying HubSpot five thousand dollars a month replaced it with a system he built, and he says his sales team's use of it went through the roof.
+
+If your team writes the quote in the CRM, there's nothing to go back and log. And that German business owner would've seen the customer had waited three weeks for a quote.
+
+Those two had someone who could build it. If you don't, you can still build from the ground up, with a company that's done it many times. It's much easier to get exactly what you want without all the bloat.
 
 ## What we do
 
-If most of those answers are things your CRM can't do, that's what my company, CRM From Within, is for. We build the CRM from scratch around the job your team already does, and AI has made that a lot cheaper than it used to be. We move your data across, we keep it running, the code's yours and there's no long contract. It's for teams of ten to fifty people. So just bring that list to the fit check below. But if new stage names fixed it, you don't need us.
+That's what my company, CRM From Within, does. If your team keeps asking for things your CRM can't do, we build a CRM from scratch around the job your team already does. And AI has made that a lot cheaper than it used to be. We move your data across, we keep it running, the code's yours and there's no long contract. It's for teams of ten to fifty people. And if your team's using the CRM after those fixes, you don't need us.
+
+## Free CRM fit check
+
+Bring what your team asked for to our free twenty-minute CRM fit check. The link's below.
+
+## Close
+
+Where does your team really keep its deals? Let me know in the comments. I read every comment.
 
 In the next video, I'll show you what owning your CRM really means. So subscribe so you don't miss that.
