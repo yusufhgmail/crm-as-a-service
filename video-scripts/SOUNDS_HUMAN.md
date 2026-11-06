@@ -20,6 +20,56 @@ A script can pass every rule here and still sound prepared. So always finish by 
 
 **Never stage it.** Don't write in "um", false starts or stumbles, and don't add doubt he doesn't have. Listeners rate a stumbling speaker as less competent and less sure.
 
+## The shapes he uses
+
+Yusuf, 6 Nov 2026, after recording video 16: "notice how I speak, to make it sound more human." The script he read was flat statements of about the same length, and he turned them into these shapes. Use them in every section, the way he would, and never stage them. No "um", no restarts, and no line with a shape forced into it.
+
+**He builds up to the point.** He doesn't just state it. He says what's coming, then says it.
+
+- Not like this: "We build one piece, your team starts using it, and the data for that piece moves over."
+- But like this: "And the way we do this is we build it piece by piece, starting with one thing that has the biggest leverage." Also "What we do at my company is that we build you a completely new CRM from scratch."
+
+**He chains a thought in one breath.** When he's reasoning, one sentence runs on with "and", "because" and "so", and short sentences come after it.
+
+- Not like this: "You moved all your data and you retrained everyone in one go."
+- But like this: "You had your old system and then you had the new system, and you had to migrate during a transition period, and it was super stressful, because the old system, you had to cancel it so that it won't renew."
+
+**He says it, then says it again more plainly.** The second go starts with "like", "so" or "I mean". It's how he makes sure it lands, so it isn't a repeat. Do it where the idea is new to the viewer.
+
+- Like this: "starting with one thing that has the biggest leverage. Like the one piece that will unlock a lot of efficiency for your team."
+
+**He asks the viewer's question out loud.** Then he answers it.
+
+- Like this: "Who am I?" and "So what can actually go wrong in this process?"
+
+**He talks to the viewer about what he's doing.** He says why he's saying it and links back.
+
+- Like this: "Now, here's the thing", "as I said", "by the way, I'm telling you this not to try to sell our services" and "That's also important to bring up, I believe."
+
+**"Actually" corrects what the viewer assumes.** He said it twenty-one times in video 16, and the script had none. "Just", "simply", "basically" and "really" work the same way.
+
+- Not like this: "So you're not stuck any more."
+- But like this: "You're actually not stuck anymore in your old CRM, because you don't actually have to move everything at once."
+
+**He says how it felt, in big plain words.** A flat label doesn't sound like someone who's been there.
+
+- Not like this: "That's a huge risk."
+- But like this: "it was super stressful", "it's a huge headache", "that was way too big of a risk".
+
+**He says what people think and say, as if it's happening.** He voices them, with no "he said that". He gives examples as a run of questions.
+
+- Not like this: "You notice that all your data is already in the new system."
+- But like this: "One day you simply notice that, wow, all of our data is actually now in this new system."
+- Like this: "did you not follow up, did you not do the best possible call, did salespeople need more coaching?"
+
+**He qualifies as he goes.** He adds the honest limit in the middle of the thought.
+
+- Like this: "the longer a lead waits, and this is normally the case, not every time, but normally, the less likely you are to win the deal." Also "in my experience".
+
+**He owns the comparison.** When there really are two things, he says "not just this, but that".
+
+- Like this: "so that you see not just the ones you did work on and lose, but the ones you didn't even pick up."
+
 ## Say one thing at a time
 
 **Use full spoken sentences.** Shorter never means telegram style. When a line is telegram style, he stops and says the full reasoning, and his version is longer and clearer. Join sentences with "so", "and", "but" and "because", since that's how people reason aloud, and never remove them to make a line shorter or lower a count. Use contractions like "it's", "don't" and "you'll". No colon reveals, no slogans, and no fragments standing in for sentences.
@@ -27,7 +77,7 @@ A script can pass every rule here and still sound prepared. So always finish by 
 - Not like this: "In 2018: a hundred and twenty people, thirteen million dollars in revenue. Twenty fewer people, six million more."
 - But like this: "In 2018 they had a hundred and twenty people and thirteen million dollars in revenue. That's twenty fewer people and six million dollars more."
 
-**One idea in a sentence.** If a sentence goes two ways, make it two sentences. Lists of three or four clauses trip him most, and one took eight tries. Keep most sentences near his natural length of about thirteen words, and let one run longer when he's telling a story.
+**One idea in a sentence.** If a sentence goes two ways, make it two sentences. Lists of three or four clauses trip him most, and one took eight tries. Keep most sentences near his natural length of about thirteen words, and let one run long when he's telling a story or reasoning aloud. Same-length sentences in a row are worse than one long one.
 
 - Not like this: "Write down who uses it, what it costs and when it renews."
 - But like this: "Write down who uses it. Then write down what it costs and when it renews."
@@ -95,12 +145,12 @@ One of these proves nothing, and real people do most of them now and then. A pil
 
 **2. Telling the viewer how to feel.** "That stings", "this is where it gets interesting", "that's the scary part". Give the fact and let them react. Yusuf's own reactions on camera are fine, because they're real.
 
-**3. "Not X, it's Y."** It knocks down something nobody said, in forms like "isn't X, it's Y", "rather than" and "the real X is Y".
+**3. "Not X, it's Y."** It knocks down something nobody said (a real "not just this, but that" is fine), in forms like "isn't X, it's Y", "rather than" and "the real X is Y".
 
 - Not like this: "The bigger cost isn't on the invoices at all. It's the time."
 - But like this: "You also pay in time. Somebody has to keep ten tools connected."
 
-**4. A question nobody asked, answered straight away.** "So why do teams still do it?" Just give the reason. Questions the viewer can answer about their own company are fine, and so is a "what if" that asks them to picture something better.
+**4. A question nobody asked, answered straight away.** A clever setup like "So why do teams still do it?" fails. A question the viewer is really asking, in his words, is fine: "So what can actually go wrong in this process?" Questions the viewer can answer about their own company are fine, and so is a "what if" that asks them to picture something better.
 
 **5. Punchlines.** A short, quotable line closing a paragraph. People mostly stop when they're done. A plain verdict he'd really say is fine, like "That's completely unnecessary today."
 
@@ -113,7 +163,7 @@ One of these proves nothing, and real people do most of them now and then. A pil
 
 **8. The same opener.** "Now" and "Here's" at the start of sentence after sentence. His own lead-ins are fine now and then, like "Here's a check you can do today." "So", "And", "But" and "because" are different, because they carry the reasoning.
 
-**9. Announcing instead of saying.** "There are four parts", "Let's break this down", "Here's what that looks like". Start with the thing itself. The opening is the one place to say what's coming.
+**9. Announcing instead of saying.** "There are four parts", "Let's break this down", "Here's what that looks like". Start with the thing itself. His own build-ups are different, like "the way we do this is". The opening is the one place to say what's coming.
 
 **10. Saying it again.** "So that's what one bill looks like", and recaps of what the viewer heard a minute ago.
 
