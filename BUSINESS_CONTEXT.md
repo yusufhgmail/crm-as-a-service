@@ -1,16 +1,14 @@
 # Business Context: CRM From Within
 
-**Current plan (2026-10-25):** [`docs/plans/2026-10-25-crm-agency-plan.md`](docs/plans/2026-10-25-crm-agency-plan.md). It answers the 2026-08-31 open decision below: an AI-native CRM agency in the USA whose content tests "Leave HubSpot" against "Get the CRM you need". Where this document conflicts with it, the plan wins.
+**Current plan (2026-10-25):** [`docs/plans/2026-10-25-crm-agency-plan.md`](docs/plans/2026-10-25-crm-agency-plan.md). Where this document conflicts with it, the plan wins. Latest status: [after-recording plan](docs/plans/2026-11-06-after-recording.md).
 
 ## What This Business Is
 
-**CRM From Within** (crmfromwithin.com) builds CRMs around how an SME actually works. The first and primary market is companies that do not have a CRM yet and currently rely on spreadsheets, inboxes, chat and memory. The current offer is a paid, hands-on service; the first approximately five builds create revenue, reusable CRM knowledge and direct evidence about customer satisfaction.
+**CRM From Within** (crmfromwithin.com) is an AI-native CRM agency. It builds the CRM a company needs, moves its data and keeps it running, and the client owns it. It starts in the USA with companies of 10 to 50 people, and its content tests two messages: "Leave HubSpot" and "Get the CRM you need". Sweden is plan B.
 
-**Open decision, 2026-08-31:** Yusuf is reconsidering whether the initial commercial wedge should instead be companies replacing HubSpot or another established CRM. That route could begin with larger paid projects and a strong customer-ownership and AI-sovereignty promise, then become cheaper and more automatic over time. The no-CRM route starts lower in the market with a free core product and improves upward. The current roadmap remains in force until this choice is tested and decided; see `docs/STRATEGY.md`.
+Other CRM agencies set up software their clients rent, while we build software the client owns, so the client stops paying licence fees. Migrating other kinds of generic software remains a separate business.
 
-Companies that already have a CRM are a secondary audience. CRM From Within can build the simpler replacement first, then provide paid CRM data migration and customization. This remains part of the CRM business. Migrating other kinds of generic software remains a separate business.
-
-The end product is a free self-builder that can create a useful first CRM, with paid services for customers who want a stronger tailored system or need CRM migration. Over time, the system should become able to build new CRMs and migrate existing ones increasingly automatically.
+The longer-term product is a free self-builder that creates a useful first CRM, with paid services for stronger tailoring and CRM migration. Over time, more of each build and migration should be automatic.
 
 ## What This Business Is NOT
 

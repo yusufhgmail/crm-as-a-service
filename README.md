@@ -1,10 +1,12 @@
 # CRM From Within
 
-CRM From Within builds an SME's first CRM around how that company already works. Companies with an existing CRM are a secondary audience: they can start with the replacement and use paid services for data migration and deeper customization.
+CRM From Within is an AI-native CRM agency: it builds the CRM a company needs, moves its data and keeps it running, and the client owns it.
 
 **Current plan (2026-10-25):** [`docs/plans/2026-10-25-crm-agency-plan.md`](docs/plans/2026-10-25-crm-agency-plan.md): an AI-native CRM agency in the USA, one offer, all effort on content marketing. Where the older docs below conflict with it, the plan wins. All dated plans are in [`docs/plans/`](docs/plans/README.md).
 
-**Videos:** [Scripts and recording copies](video-scripts/README.md).
+**Where we are (2026-11-06):** [after-recording plan](docs/plans/2026-11-06-after-recording.md). 19 videos are recorded, none is published, and the website still needs rewriting.
+
+**Videos:** [All videos and their edit status](video-scripts/README.md).
 
 **Private files:** research, draft videos and video tools are in David's private GitLab project, [crm-from-within](https://gitlab.com/dll451/crm-from-within). [`CLAUDE.md`](CLAUDE.md) shows what lives where.
 
@@ -12,15 +14,11 @@ The earlier strategy and roadmap are in [`docs/STRATEGY.md`](docs/STRATEGY.md). 
 
 ## Current stage
 
-CRM From Within is in development. The immediate business is a paid, hands-on service for approximately five reference customers. Each build must generate three things:
+No client has paid yet. The next goal is the first fit checks and paid proofs, and each build should give the client a useful CRM, give us reusable patterns, and show what the client really uses.
 
-- a useful CRM for the customer;
-- revenue and reusable implementation patterns;
-- direct evidence about what the customer uses, changes and values.
+## Long-term roadmap — 30 August 2026
 
-The primary customer is an SME without a CRM, using spreadsheets, inboxes, chat or memory to track leads and customers. The secondary customer already has a CRM but wants a better fit.
-
-## Confirmed roadmap — 30 August 2026
+The 2026-10-25 plan decides what comes first. This is the longer path.
 
 1. Manually build CRMs for approximately five reference customers. Earn service revenue and learn what makes a first CRM genuinely useful.
 2. Build the AI learning system on top of those installations. Connect build decisions, real usage and customer satisfaction so the system learns what works.
@@ -33,7 +31,7 @@ CRM migration is a secondary CRM From Within service because it helps customers 
 
 ## Public website
 
-The main customer website is live at `crmfromwithin.com`, with English at `/en` and Swedish at `/se`. Its main action is a short conversational first-CRM plan. `www.crmfromwithin.com` redirects to the canonical `.com`, while `crmfromwithin.ai` and `www.crmfromwithin.ai` redirect to the matching path on `.com`. The separate `crm-final-vision/` site remains the product-endgame presentation and is not the main website.
+The main customer website is live at `crmfromwithin.com`, with English at `/en` and Swedish at `/se`. The live page still says Company Native and isn't this repo's `main`, so don't deploy `main` before the rewrite (see [the log](docs/WEBSITE-ITERATIONS.md)). Its main action is a short conversational first-CRM plan. `www.crmfromwithin.com` redirects to the canonical `.com`, while `crmfromwithin.ai` and `www.crmfromwithin.ai` redirect to the matching path on `.com`. The separate `crm-final-vision/` site remains the product-endgame presentation and is not the main website.
 
 The conversational assistant runs on Cloudflare Workers AI. Qualified leads are stored in Cloudflare D1. The private funnel dashboard at `/internal/funnel` connects anonymous visits and completed conversations to later lead outcomes without analytics cookies or a persistent visitor identity.
 

@@ -2,16 +2,15 @@
 
 [All video scripts](../README.md)
 
-**Status:** rewritten around Yusuf's new core point, 6 Nov 2026; needs reading again
+**Status:** recorded; the cut list is in the private repo's `videos/RECORDING_REVIEW_2026-11-06_video_16.md`
 
 ## Files
 
+- [yusuf_lines.md](yusuf_lines.md): only what Yusuf says
 - [script.md](script.md): full script: on-screen notes, links, sources, Shorts table, title and thumbnail
-- [yusuf_questions.md](yusuf_questions.md): 5 questions for Yusuf before filming
 
 ## Not made yet
 
-- `yusuf_lines.md`: only what Yusuf says
 - `proof/`: highlighted screenshots of each live-checked source, taken before filming
 - `social/`: YouTube, LinkedIn, X, Facebook, Instagram and TikTok posts
 - `footage.md`: link to the raw recording on Drive

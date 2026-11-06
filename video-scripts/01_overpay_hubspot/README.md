@@ -2,7 +2,9 @@
 
 [All video scripts](../README.md)
 
-**Status:** [Camera footage on Drive](https://drive.google.com/drive/folders/18NIVfaNtxwtkGNIdr9KTB_JstLNcgczH) (7 short clips, some need cutting or merging), David decides how to add the HubSpot screens
+**Status:** recorded; the cut list is in the private repo's `videos/RECORDING_REVIEW_2026-11-04.md`
+
+- [Camera footage on Drive](https://drive.google.com/drive/folders/18NIVfaNtxwtkGNIdr9KTB_JstLNcgczH)
 
 - [Script on Drive](https://docs.google.com/document/d/1cz-zF9dSYYYRxYrc42LIEFPu5X09gLQoTMwMQh1Y3-E/edit)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1iC-YUKR1SVDdlAKWZFvlL-fFgZaQ3krPVs4D_jjDEUA/edit)

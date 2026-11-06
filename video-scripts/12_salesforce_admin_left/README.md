@@ -8,13 +8,13 @@
 
 ## Files
 
+- [yusuf_lines.md](yusuf_lines.md): only what Yusuf says
 - [script.md](script.md): full script: on-screen notes, links, sources, Shorts table, title and thumbnail
 - [evidence.md](evidence.md): every source, how it was checked, rejected candidates
-- [social/linkedin_x.md](social/linkedin_x.md): LinkedIn and X posts
 
 ## Not made yet
 
-- `yusuf_lines.md`: only what Yusuf says
+- `social/linkedin_x.md`
 - `proof/`: highlighted screenshots of each live-checked source, taken before filming
 - `social/youtube.md`: YouTube description, chapters, pinned comment, community posts, Shorts
 - `social/facebook.md`: Facebook posts

@@ -2,7 +2,9 @@
 
 [All video scripts](../README.md)
 
-**Status:** [Camera footage on Drive](https://drive.google.com/drive/folders/18bC7fGa7JoKuhrSj2jiadb4LVqu1G2AA)
+**Status:** recorded; the cut list is in the private repo's `videos/RECORDING_REVIEW_2026-11-04.md`
+
+- [Camera footage on Drive](https://drive.google.com/drive/folders/18bC7fGa7JoKuhrSj2jiadb4LVqu1G2AA)
 
 - [Script on Drive](https://docs.google.com/document/d/1DG6TOGqAgn9QqGiB3dt-U0Ls_UKVfCrY9rwyAUCT6uc/edit)
 - [Yusuf's lines on Drive](https://docs.google.com/document/d/1xVBy4jGhKD08jF-sxPk-tiuN8AkKg1ev8lrNfS7X6h0/edit)

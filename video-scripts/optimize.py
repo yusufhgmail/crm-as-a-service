@@ -22,8 +22,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 DB = ROOT / "optimize_status.json"
 README = ROOT / "README.md"
-HEADER = "| # | Video | Recording copy | Optimized | Read by human |"
-DIVIDER = "|---|---|---|---|---|"
+HEADER = "| # | Video | Footage | Edit | Recording copy | Optimized | Read by human |"
+DIVIDER = "|---|---|---|---|---|---|---|"
 
 
 def load():
@@ -112,7 +112,7 @@ def sync():
             current = state(db, name)
             mark = {"optimized": optimized_mark(db["optimized"].get(name, {"rounds": [[0] * 6], "best": 0})), "old check": "old check", "exempt": "n/a", "not run": "❌"}[current]
             reader = {"read": db["read_by_human"].get(name, {}).get("by"), "exempt": "n/a", "not read": "❌"}[read_state(db, name)]
-            lines[i] = "| " + " | ".join([c.strip() for c in cells[:3]] + [mark, reader]) + " |"
+            lines[i] = "| " + " | ".join([c.strip() for c in cells[:5]] + [mark, reader]) + " |"
     README.write_text("\n".join(lines))
 
 

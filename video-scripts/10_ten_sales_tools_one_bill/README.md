@@ -2,15 +2,15 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved by David, 4 Nov 2026
+**Status:** recorded; the cut list is in the private repo's `videos/RECORDING_REVIEW_2026-11-05.md`
 
 ## Files
 
+- [yusuf_lines.md](yusuf_lines.md): only what Yusuf says
 - [script.md](script.md): full script: on-screen notes, links, sources, Shorts table, title and thumbnail
 
 ## Not made yet
 
-- `yusuf_lines.md`: only what Yusuf says
 - `proof/`: highlighted screenshots of each live-checked source, taken before filming
 - `social/`: YouTube, LinkedIn, X, Facebook, Instagram and TikTok posts
 - `footage.md`: link to the raw recording on Drive
