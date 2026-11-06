@@ -130,6 +130,11 @@ The point after a story has to be what happened in that story.
 
 - Not like this: "And we didn't own it either. Our product ran on top of another company's software, and that cost us customers."
 
+**His old company's numbers show what's true of every rented CRM.** Say the general truth first, so it doesn't sound like his product was bad.
+
+- Not like this: "At my old company, out of a hundred customers, maybe three were happy with the standard setup. Everyone else asked for changes."
+- But like this: "Nobody's really happy with a standard CRM, because it gives you someone else's process. I saw this at my old company. Out of every hundred customers, maybe three were happy with the standard setup."
+
 **Never name FunnelBud customers.** Tell their stories without names. People in our public research can be named if they gave their own name.
 
 **An agency and CRM software are two different things.** Leaving an agency means keeping the CRM and changing who looks after it. Leaving CRM software means moving to a different CRM. Say which one you mean, and never call a software company an agency. We target people leaving their CRM system, not people leaving an agency.
