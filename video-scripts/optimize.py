@@ -133,11 +133,11 @@ def main():
             sys.exit("Not marked: every round needs six scores: human,easy,interest,value,belief,shorten.")
         totals = [total(r) for r in rounds]
         focus = [r[0] + r[1] + r[5] for r in rounds]  # Human, Easy to understand and Shorten drive the rewrite
-        flat = len(focus) >= 3 and focus[-1] <= focus[-3] and focus[-2] <= focus[-3]
+        flat = any(len(f) >= 3 and f[-1] <= f[-3] and f[-2] <= f[-3] for f in (focus, focus[:-1]))  # the last round can be the final version's own score, after the loop stopped
         good = min(kept(rounds)[:2]) >= 6  # video 13, which Yusuf approved, scored 6 on both
         if not (flat and good) and len(rounds) < 6 and "--approved" not in sys.argv:
             sys.exit("Not marked: the rounds only stop once Human and Easy are both at least 6 and two rounds in a row haven't raised Human, Easy and Shorten, after six rounds, or when Yusuf approves the script (--approved).")
-        db["optimized"][name] = {"sha": fingerprint(path or spoken(name)), "rounds": rounds, "totals": totals, "best": total(kept(rounds)), "date": datetime.date.today().isoformat()}
+        db["optimized"][name] = {"sha": fingerprint(path or spoken(name)), "rounds": rounds, "totals": totals, "best": totals[-1], "date": datetime.date.today().isoformat()}
         save(db)
         sync()
         print("optimized", name, totals)

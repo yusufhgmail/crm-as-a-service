@@ -2,132 +2,120 @@
 
 *Video 19 · Yusuf's lines only*
 
-## Proof
+## Hook
 
-We found a post on Hacker News from one company that tried to leave HubSpot a couple of times, and they ended up coming back. They called the migration brutal. Their data stopped matching, and it noticeably hurt their sales team. Now they're thinking of trying again, and they're worried it'll go the same way.
-
-I built a CRM SaaS company, and I sold it. Me and my team set up CRMs for hundreds of companies, and I've worked with HubSpot since 2011. So I'll show you how I'd leave it without losing your data.
+We found a post on a forum called Hacker News. A company tried to leave HubSpot a couple of times, and they ended up coming back. They called the move brutal. It put errors in their data, and their sales team did noticeably worse. Now they're thinking of trying again, and they're worried it'll go the same way.
 
 ## Who it's for
 
-Maybe you want out too, but you've got ten years of notes, calls and files in there, so you just keep renewing. I don't think anyone should stay on a CRM because they're scared of an export.
+Maybe you want out too, but you've got ten years of notes, calls and files in HubSpot, so you just keep renewing. I don't think anyone should stay on a CRM just because they're scared of losing their data.
 
-## Promise
+## Proof
 
-By the end you'll have all of it out, plus six tests to run before you switch HubSpot off, and one of them is for what happened to that sales team. Every source is linked below.
+I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and I've worked with HubSpot since 2011. So I'll show you how I'd leave HubSpot without losing your data.
 
 ## Plan
 
-It's five steps, in order, and step five is the one that decides.
+It takes five steps. And then I'll show you why one sales team got across and still went back to HubSpot.
 
 ## Step 1: Map what lives where
 
-Before you export anything, map what you've got, because HubSpot holds five kinds of things, and each one comes out a different way.
+Before you export anything, you need to know what's in your HubSpot, because each kind of thing comes out a different way.
 
-Number one is your records. That's your contacts, companies and deals, with their fields, and HubSpot calls fields "properties". The links between records, it calls "associations".
+You've got your records, like contacts and deals. Then there's your history, which is every note, call and email on a customer. There are your files, like a quote someone attached to a note.
 
-Secondly, your history. That's every note, call, email and meeting on the timeline, and HubSpot calls those "activities".
+And there are your automations, like workflows and forms, and your reports.
 
-Number three is your files, like a quote PDF someone attached to a note in 2019.
+I'd look hardest at your automations, because none of them move, so you have to rebuild them, and that takes a developer's time.
 
-Number four is what I call the things that run. That's your workflows, like "when a deal is won, create a task for the installer", plus your forms, email templates and sequences. And number five is your numbers, so your reports and dashboards.
+So write it all on one sheet. For each thing, write how many you have, who uses it, and if it moves or has to be rebuilt.
 
-I'd look hardest at number four, because none of it moves. You have to rebuild it. In October, the person who uses HubSpot every day at a company of twenty-five posted about this on Reddit, when her CMO wanted to leave. Forms, newsletter builder, sequences, all of it, gone. And she says what he hadn't counted was the development time.
-
-So take one sheet, and write one line per thing, with how many you have and who uses it. Then write if it comes out as data or you have to rebuild it. If nobody uses it, cross it out.
+I know it feels safer to take everything with you. But every workflow you bring is one more thing to rebuild, so if nobody uses it, I'd leave it behind.
 
 ## Step 2: Export more than records
 
-Step two is the export, and it has to cover more than records. The basic export leaves your history out, I showed you that in video two.
+Getting your data out takes more than HubSpot's normal export, because it leaves out your notes and calls.
 
-For each kind of record, go to Export and pick "All properties and associations on records". By default, each record only lists up to a thousand linked records, and a big customer can have more. So under Associations, pick "All associated records", which only works with CSV files. Then download the file right away, because HubSpot says the link expires after thirty days.
+Your contacts, companies and deals are the easy part. In the export, pick "All associated records", because otherwise a big customer's deals and contacts get cut off at a thousand.
 
-Then export the properties, in Settings. That's every field with its dropdown options, and your new system needs that list first.
+Export your list of fields too, because your new CRM needs those fields before you can load anything.
 
-History is the hard one. A guy called Paul moved an eight-person sales team from HubSpot to Attio with a migration tool, and he wrote up what happened. Their contacts and companies came over fine. But with call notes, emails and meetings, some came over and some didn't. He spent the better part of two days cleaning up, and weeks later a rep would open an account and find nothing there.
+Your notes, calls and emails are the hard part. A guy called Paul moved an eight-person sales team from HubSpot to another CRM called Attio, with a tool that moves your data across. With call notes, emails and meetings, some came over and some didn't. Weeks later, a rep opened an account and found nothing there.
 
-You can get your notes and calls out one contact at a time, which is fine for ten customers, but useless for ten thousand. You can build a report with activities as the data source, and export that.
+That may sound small, but a rep who can't see what was said to a customer walks into that call blind.
 
-Or you can use the engagements API, where a developer or a migration tool asks HubSpot for every note and call, and gets each one back with its record. If you've got years of notes, I'd use that one.
+You can export your notes and calls one contact at a time, or build a report. But if you've got years of notes, I'd have a developer pull them out through HubSpot's API. That way every note stays on the right customer.
 
-Watch the format too. One customer on Trustpilot says the only way out for their notes was a JSON file, which is a file made for software.
+A super admin can download your files as a ZIP. But then you've got a folder of PDFs and no idea which customer each one belongs to. So tell your developer to keep the ID number that links each file to its note.
 
-I've been on the other side of this. When a customer left my old company, we helped with the export, and their sent emails came out as PDFs. So ask for something a person can open.
+For your automations, you export them only to see what to rebuild. I'd copy your email templates and sequences by hand, and screenshot every dashboard your team uses.
 
-Then say this to whoever does the move. "Every note and call has to arrive with its date, time, author and customer, and every file on its record. Show me one customer done that way before you move the rest."
-
-## Free CRM fit check
-
-If you'd like someone to plan this move with you, that's what our free twenty-minute CRM fit check is for. The link's below. OK, back to files.
-
-## Step 2, continued: Files and things that run
-
-You can end up with a folder full of PDFs and no idea whose they are. A super admin can export folders from the Files tool as a ZIP, but a note only points to its attachment with a file ID. So if you lose those IDs, that's what you've got. HubSpot's Files page doesn't say the ZIP includes them, so save them from your notes export.
-
-The things that run, you only export as a plan for the rebuild. Workflows come out as a spreadsheet, or as a picture of one workflow, without their history. For reports, I'd screenshot every dashboard your team uses, with its filters. Form submissions do export, but I'd copy email templates and sequences by hand, because they aren't on HubSpot's export page.
-
-Now take your biggest, oldest customer, and get every piece out. That's the record, every deal, every note and call with its date, and every file. If that works, you can plan the rest.
+Moving tools can lose notes, like Paul's did. So move your biggest, oldest customer first, and check it. If someone's doing the move for you, say this. "Show me our biggest customer with every note, call and file in the right place. Then you can move the rest".
 
 ## Step 3: Time it against your renewal
 
-Now the timing. Switch off auto-renew first, I covered that in video two. Then be realistic, because Paul planned for a weekend, and it took closer to three weeks before his team was fully working.
+When you leave HubSpot matters too, because your contract renews on its own. So first, switch off auto-renew in Account and Billing. It doesn't cancel anything. HubSpot keeps working until your contract ends, but it won't renew.
 
-One company on Reddit switched off auto-renew, then their move to Salesforce ran late, so HubSpot sold them a short extension. That's money for a system you're leaving, and it only works if HubSpot agrees.
+Paul planned for a weekend, and it took closer to three weeks before his team of eight was fully working.
 
-So ask before you need it. Just email your rep and say, "We've turned off auto-renew. If our move runs past the renewal date, what would a short extension cost? Could you send it over?"
+So plan it on a calendar and count back from your renewal date. You've got to get your data out, rebuild your automations, and run both CRMs for a few weeks. And I'd keep thirty days free at the end, because something will go wrong.
 
-Then plan backwards from the renewal date. I'd leave thirty days at the end, because something will go wrong. Before that you run both systems for a few weeks, before that you do a test move, and before that, the map and the exports. If it doesn't all fit before this renewal, at least you know now.
+If that doesn't fit before your renewal, you'll need a short extension, and HubSpot has to agree to that. So email your rep months before and ask what it would cost.
 
 ## Step 4: Run old and new side by side
 
-Step four, run old and new side by side. I think the riskiest way to do this is all at once. You're on HubSpot on Friday, you're on the new system on Monday, and whatever didn't move just isn't there.
+I think the riskiest way to leave HubSpot is to switch it off the day you move. You're on HubSpot on Friday, you're on the new CRM on Monday, and whatever didn't move just isn't there.
 
-One company with ten million dollars in yearly recurring revenue says on LinkedIn that they got out of HubSpot in one solid week. It went very smoothly, and they were still working through bugs. I'd want to find those while HubSpot's running.
+I understand why people do that, because nobody wants to pay for two CRMs. But you're paying HubSpot until your contract ends anyway. So I'd keep it running next to the new CRM for a few weeks.
 
-So move one team first, say the installers. Keep HubSpot open so people can look things up, but after a set date, nobody edits a record there. That's your freeze date, because otherwise you've got two versions of every customer.
+Start with a practice move into a test copy of the new CRM. Then have one team try their normal work in it for a few days. That way you find what's broken while your real work is still in HubSpot.
 
-After that date, run one last export of what changed, so the final week comes across too. And as each rebuilt automation goes live, switch off its HubSpot version, so no customer gets the same email twice.
+Then pick a date for the real move, and tell your team, "From Monday, HubSpot is read-only. Every new note and deal goes into the new CRM". You need that date, because if people work in both, you've got two versions of every customer.
 
-Pick who moves first and your freeze date, and write both down. Then tell your team, "From Monday, HubSpot is read-only. Look things up there if you need to, but every new note, deal and change goes into the new system."
+On that date, run the move one last time, and switch off your automations in HubSpot, so no customer gets the same email twice.
 
 ## Step 5: Test before you switch
 
-Step five decides it. That company from the start said their data stopped matching, and it hurt their sales team. You can test for both while you've still got HubSpot. Do one full practice run into a test copy of the new system, and run these six tests on it. The next run is the real move.
+Before you switch HubSpot off for good, run six tests on the new CRM. That company on Hacker News got errors in their data and a sales team doing worse. These tests catch both while you can still go back.
 
-Number one, check the counts. The totals in the old system and the new one should match.
+Number one, compare the totals in both CRMs, like your contacts, deals, notes and files.
 
-Number two, check the links. Take ten big customers, and every deal and contact should still be attached.
+Number two, take ten big customers, and check every deal and contact is still attached.
 
-Number three, check the history. Take twenty customers at random, and put the two timelines side by side. If you pick them yourself, you'll pick the clean ones.
+Number three, take twenty customers at random, and compare their timelines. Don't pick them yourself, because you'll pick the clean ones.
 
-Number four, check the files. Do they open, and are they on the right record?
+Number four, open their files, and check they're on the right customer.
 
-Number five, run every rebuilt automation once with a test record, and check it did the right thing and no real customer got anything.
+Number five, run each rebuilt automation once on a test record, and check that no real customer got anything.
 
-And number six is for that sales team. Every salesperson works one real day in the new system before you switch. If they can't do their job in it, you'll hear on day one, while HubSpot's still there.
+And number six, have every salesperson work one real day in the new CRM, and ask what they couldn't do.
 
-Write the six tests down, and put a name on each one. When they've all passed, you can switch HubSpot off.
+When the data looks right, it's tempting to skip that last one, but I think it matters most. Your salespeople get paid to close deals. So if the new CRM slows them down, they'll go around it and keep their deals in a spreadsheet.
 
-What in your HubSpot are you most afraid to lose? Let me know in the comments. I read every comment.
+When all six pass, you can switch HubSpot off. If one fails, fix it, and HubSpot stays on until it passes. That's what your thirty free days are for.
 
-## Is a safe move enough?
+## Where you're going
 
-That's how you get out. I'd think just as hard about where you're going. Paul's team made it across, and by month three he was building workarounds in spreadsheets for things HubSpot did out of the box, and they ended up going back. Another rented CRM usually means the same per-seat pricing and the same yearly renewal. And at my old company, recruiters and construction firms very often told us there's no good CRM for them.
+Getting your data out safely doesn't mean you'll be happy where you land. Paul's team made it across to Attio, but by month three he was building workarounds in spreadsheets for things HubSpot did out of the box. So they went back.
 
-One company in Australia went another way. Fason Group supply and service aluminium and PVC machinery. Their sales ran on HubSpot, and their service work ran largely on email and paper. So they had a system built around both, and they replaced HubSpot outright. Their contacts, deals and notes moved across, and now the reps and the technicians work from the same client record.
+I think that's the problem with moving to another rented CRM. It gives you someone else's process. It has to fit almost everyone, so you're always working inside its limits, and you're still paying per seat and renewing every year.
 
-Say a technician sees a machine's getting old, and that goes on the record. Now the rep can call about the next one.
+A machinery company in Australia called Fason Group did something else. Their sales ran on HubSpot, and their service work ran mostly on email and paper. So they had a system built around both, and they moved their contacts, deals and notes across. Now the reps and the technicians work from the same customer record. One of their founders says, "It's tailor-made for what we actually do".
 
-The firm that built it wrote that up, and it gives no numbers, so I can't tell you what it did for revenue. The co-founder says, "It's tailor-made for what we actually do."
-
-And one guy on Facebook cancelled a HubSpot account that cost him five thousand dollars a month, for a system he built himself. He says adoption by him and his sales team has gone through the roof, and the only thing he got wrong was not doing it sooner.
+And one guy on Facebook cancelled a HubSpot account that cost him five thousand dollars a month. He replaced it with a system he built for about a hundred and sixty. He says his sales team's use of it has gone through the roof.
 
 ## What we do
 
-At my company, CRM From Within, we build a CRM from scratch around how your team sells and delivers, right next to HubSpot. AI has made that far cheaper than it used to be. We move every note, call and file over, nothing gets switched off until it passes those six tests, and then we look after it. You own the code, there's no long contract, and if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
+You can build your own CRM, like he did. But somebody has to move your data and keep it running. And I think it's much easier to get exactly what you want, without all the bloat, with a company that's done it many times.
+
+That's what we do at my company, CRM From Within. We build a CRM from scratch around how your team sells and delivers, while you're still on HubSpot. With AI, I think it's now cheaper to build just what you need. We move every note, call and file over, and we keep it running. You own the code and there's no long contract, so if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
+
+## Free CRM fit check
+
+If you'd like someone to plan this move with you, that's what our free twenty-minute CRM fit check is for. The link's below.
 
 ## Close
 
-So this week, write your data map and export your biggest customer. If you want us to look at it with you, the fit check's below.
+What in your HubSpot are you most afraid to lose? Let me know in the comments. I read every comment.
 
-Next up, I'll show you how to choose between building, buying or owning your CRM, for a thirty-person company. So subscribe so you don't miss that.
+Next up, I'll show you how to choose between building, renting or owning your CRM. So subscribe so you don't miss that.

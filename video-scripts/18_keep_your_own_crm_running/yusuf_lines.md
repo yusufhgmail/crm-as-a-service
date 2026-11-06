@@ -4,92 +4,92 @@
 
 ## Two CEOs
 
-Two CEOs tried building their own CRM. Greg Berry runs Municibid, which does government surplus auctions. He spent a weekend on it, and he says, we built it internally, we maintain it internally, and it runs like a charm. Nick Fleisher, the CEO of Sandstone, says his didn't last long. His words were, I didn't have time to maintain it.
+Two CEOs tried building their own CRM. Greg Berry runs Municibid, which does government surplus auctions. He built his with AI over a weekend, and he says it blows away anything Salesforce or HubSpot could offer them. He says it saves them thirty to fifty thousand dollars a year. Nick Fleisher, the CEO of Sandstone, says his didn't last long. His words were, I didn't have time to maintain it.
 
-I built a CRM SaaS company, and I sold it in 2025. Even if you manage to build a good CRM, it's really expensive to maintain it.
+Greg says they maintain theirs themselves, and it runs like a charm. So I think the difference is who had the time to keep it running.
 
-Maybe you're paying for a CRM and wondering about building your own, or someone's already built you one. These six checks will show you if you're heading for Greg's answer or Nick's. The last one's a sum you can copy, with the real hours from my old company in it.
+I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. So I can tell you that even if you manage to build a good CRM, it's really expensive to maintain it.
 
-## Plan
+So if you're thinking about building your own CRM, or you've already got one, here are six things to check. They'll show you if you'd end up like Greg or like Nick. And the last one tells you what your own CRM really costs a year.
 
-If it's already built, do all six this week. If it isn't, put them in the brief before anyone starts.
+## Check 1: Who keeps it running
 
-## Check 1: Name who maintains it
+The first thing to check is who keeps your own CRM running, because someone has to fix it when it breaks. In a small company, that usually lands on the owner.
 
-Check one, who fixes it when it breaks, and makes the changes your team keeps asking for. In a small company that lands on whoever built it, and very often that's the owner.
+Someone at a six-person company wrote on Reddit that they ran a CRM on their own server to save money. They set up daily backups and thought that was more or less it. Then they had updates, failed backups and the odd outage. They called the post, somehow I became the CRM department.
 
-Someone at a six-person company wrote on Reddit about putting their own CRM on a rented server. They set up daily backups and thought that was more or less it. Then came updates, failed backups and the occasional outage. The post was called, tried to save money on CRM, somehow I became the CRM department. And they wrote, I think we mostly saved money by giving me more work after hours.
+I get why you'd take this on yourself, because it looks free. But that person says they mostly saved money by giving themselves more work after hours. So if you're the one who'd do that, and you're also running your company, it's probably not the best idea.
 
-So write down two names, who maintains it, and who steps in when that person's gone. Next to them, write how many hours a month it really takes. If the first name's yours and you also run the company, you're where Nick was. If there's no second name, I'd fix that first.
+Write down two names, who keeps your CRM running, and who steps in when that person's gone. You need two because if your developer leaves or a freelancer only signed up for the build, year two can be a disaster.
 
 ## Check 2: Write it down
 
-Check two, write it down, and I mean one page. Where it runs and who pays. How to log in as admin. How to change it safely, on a test copy. What it connects to. And how to bring it back if it dies, which is the line I'd spend the most time on. If you built it with AI, just ask the same tool to write it.
+You also need to write down how your CRM works, because whoever runs it will leave one day. If you rent your CRM, you've still got a company to call. With your own CRM, what's written down is all you've got.
 
-At my old company, nine out of ninety-four cancellations in our notes came down to a key person changing. And those customers had us to call. With your own CRM, you've only got that page.
+One page is enough. Write where it runs, how to log in as the admin, and how to change it safely on a test copy of the CRM. Then write what it connects to, and how to bring it back if it dies.
 
-So hand it to someone who didn't build it. Have them find the admin login and make one small change on the test copy, and don't help them. Anywhere they get stuck goes on the page.
+Ask whoever built your CRM to write that page, even if that's an AI tool.
 
-If someone else built it, send them that list before you call it finished.
-
-## Free CRM fit check
-
-And if you'd rather hand the upkeep to someone else, there's a free twenty-minute fit check in the description.
+Then have someone who didn't build the CRM use the page to make one small change on the test copy. Anywhere they get stuck, add it to the page.
 
 ## Check 3: Restore a backup
 
-Check three, backups. I don't count a backup until somebody's actually got one back. With a rented CRM the vendor does this. With your own it's on you, and that six-person company had daily backups that failed. If your server dies tonight, that backup is every customer and every deal you've got.
+When you run your own CRM, backups are your job too. If they run every night, it feels like you're covered. That six-person company felt the same, and their backups still failed. You don't know a backup works until you've tried getting your data back from it.
 
-So restore last night's backup into a separate copy, never on top of the live system. If you built it with AI, ask the tool to walk you through it. If someone else runs the server, ask them to do it this month. Either way, you want two answers, how long it took, and who gets the alert when the CRM's down.
+So restore last night's backup into a test copy, never on top of the CRM your team is using. Time it, because that's how long your team would sit without a CRM if it really died. If that's longer than your team can wait, ask whoever built it to make it faster.
 
 ## Check 4: Give every connection an owner
 
-Check four, connections, and this is the one I'd worry about most. At my old company, integrations were the major problem. When they broke, it was a huge headache, and we often found out from our customers.
+The thing I'd worry about most with your own CRM is how it connects to your other systems, like your accounting software. Setting up CRMs for hundreds of companies taught me that connections are what break most, on any CRM.
 
-Every system sees the world in a completely different way. You close a deal in the CRM, and for the CRM that's it. In accounting, you sent the invoice, you got paid, maybe you didn't get paid the full amount. Somebody has to translate one into the other, and when the other side changes something, nobody asks you first.
+They break because two systems have completely different ways of seeing the world. For the CRM, a closed deal is done. But accounting still has to send the invoice and see if you got paid in full. Making those two systems match is much harder than people expect.
 
-For example, one company I worked with later on had built its own quoting software, because their CRM couldn't handle their quoting rules. They'd fill in a bunch of fields in the CRM and click a button. The data went out to the quoting system, and a field came back saying approved or not approved. When that link failed, they just couldn't send quotes. They sent a lot of quotes every day, so basically sales stopped.
+One company that came to us sent a lot of quotes every day. Their CRM couldn't handle their quoting rules, so they'd built their own quoting software and connected it to the CRM. When that connection failed, they just couldn't send quotes.
 
-And even when it worked, it was super messy. If they could've just put those rules in the CRM, it would've been much simpler. Say it's one screen. You fill it in, the rules check the quote right there, and it goes out, with no link to break. That's a big reason I like building from scratch now.
+And even when it worked, it was super messy. If they could've just put those rules in the CRM, it would've been much simpler. So we built a CRM around what they needed.
 
-So before you connect anything, ask if it should just be part of the CRM. Then list every connection. A rented CRM shows you that list, here's HubSpot's. If yours doesn't, ask whoever built it. Next to each one, write what breaks if it stops, who'd notice, and who fixes it.
+So before you connect anything to your CRM, ask if it should just be part of the CRM. If it's part of how you sell, like quoting, I'd build it in. If it's a different job, like accounting, keep it separate and connect it.
 
-Then tell that person, you own the link to accounting, and if invoices stop matching, tell me the same day.
+Then list every connection you've got, what breaks if it stops and who fixes it. If a connection has no name next to it, you'll find out it broke from your customers.
 
 ## Check 5: Check who can get in
 
-Check five, access. Your CRM holds every customer and every deal. Here's HubSpot's list of who has access, and Super Admin means that person can change everything. Yours needs the same list.
+With your own CRM, you have to control who can get in. Nick Fleisher said permissions were one of the reasons his didn't last.
 
-Number one, log in as your most junior user, and see if they can export every customer or open other reps' deals.
+In a small company you trust everybody, so I understand if this feels like a big-company problem. But if one salesperson leaves with your whole customer list, that hurts a small company much more. So test it.
 
-Secondly, remove someone who's left, and make sure their login fails.
+Number one, log in as your most junior user, and see if they can export every customer or open other reps' deals. If they can, get that shut off this week.
 
-And number three, write down who holds the admin and server passwords. If that's only the builder, you're back at check one.
+Number two, remove someone who's left the company, and make sure their login fails.
 
-I wouldn't skip this if AI built it. A small consulting firm on Reddit built its CRM with AI. The first test version completely skipped a permissions check the first time a new user logged in.
+And number three, if only the person who built the CRM has the admin and server passwords, give them to a second person too.
 
 ## Check 6: Price a year, not a build
 
-Check six, what it really costs per year. People compare what it costs to build with one year of subscription, and I think that's the wrong comparison. The server's usually cheap. Greg says Municibid pays maybe two hundred dollars a month in API and hosting. What costs you is the person.
+The last thing to check is what your own CRM really costs a year. The server's usually cheap. Greg says Municibid pays maybe two hundred dollars a month. The big cost is the time of whoever keeps it running.
 
 At my old company, the typical customer took about three hours of setup and support a month. But a few took twenty-six to forty.
 
-So do this sum with your own numbers. Say hosting's two hundred a month, so twenty-four hundred a year. For upkeep I'd say ten hours a month to start, because you've got no support team behind you. Say that's fifty dollars an hour, so six thousand. Then say your team's changes take forty hours a year, so two thousand. That's ten thousand four hundred dollars. If yours is one of the hard ones, at twenty-six hours a month, it's twenty thousand. Now put what you pay for your CRM next to that.
+So do this sum with your own numbers. Say your server costs a couple of thousand dollars a year. Then add the hours. I'd say ten hours a month, because you've got no support team behind you. At fifty dollars an hour, that's another six thousand. So your own CRM really costs about eight thousand dollars a year. And if it takes twenty-six hours a month, it's closer to eighteen thousand.
 
-I wouldn't look at it as only a cost, though. Greg says they save thirty to fifty thousand a year, and they can roll out features in real time. Better Funding is a two-year-old lending advisor. Its founder says they built their own CRM and cut the time from first conversation to funded deal. So salespeople spend less time chasing paperwork and more time helping business owners. They've expanded the office, and they're looking for more closers. I can't tell you how much of that's the CRM. But whoever keeps your CRM running is also the person who can change it this week, when something's holding up your sales.
+Now put what you pay for your CRM next to that. If you pay a lot more, you can save real money, like Greg. If you pay less or about the same, I'd only build your own if your CRM is getting in the way of your sales.
 
-## Year two and year three
+Because that's the best reason to own your own CRM. You can change it right away. Greg says they can roll out features in real time. And Better Funding, which helps businesses get funding, says its own CRM cut the time it takes to get a client funded.
 
-All six have to stay true in year two and year three, when the person you named is busy. I've only read a few lines from Greg and Nick, but the difference I can see is who had the time to maintain it.
+## Should you do it yourself
 
-So how was your CRM built, and who looks after it now? Tell me below. I read every comment.
+So if two people at your company can keep your own CRM running, one of them really has the time, and the yearly number makes sense, I'd go ahead. You can end up like Greg. But if it's only you, and you're also running the company, you'll probably end up like Nick.
 
 ## What we do
 
-And if nobody on your team can own it, that's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver, and we move your data in. That's possible now, with the new age of AI. Then we do the upkeep for as long as you want. You own the code, and you don't have to sign a long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit. The fit check's in the description.
+You can still own a CRM without keeping it running yourself. And I think it's much easier to get exactly what you want with a company that's done it many times. That's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver, we move your data in, and we keep it running. You own the code, and there's no long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+
+## Free CRM fit check
+
+There's a free twenty-minute CRM fit check in the description, where you show us how your team works and we show you what's possible.
 
 ## Close
 
-So start with the two names today. That's it.
+Tell me in the comments who keeps your CRM running today. I read every comment.
 
 In the next video, I'll give you one prompt to plan the CRM you actually need. So subscribe so you don't miss that.

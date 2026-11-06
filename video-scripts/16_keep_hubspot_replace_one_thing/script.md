@@ -47,95 +47,97 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** tag: **Example: a Swedish solar startup** (no name). Then, one at a time: **~15 salespeople** · **About $30,000 a year for HubSpot** · **Used: the pipeline** · **Leads reached late or not at all**
 
 **YUSUF:**
-> A friend of mine works at a fast-growing solar startup in Sweden. They had about fifteen salespeople, and they were paying about thirty thousand dollars a year for HubSpot. All they used was the pipeline, a board where salespeople picked up leads by hand. A lot of leads came in, but the team got to them late or not at all. So they lost a lot of business, and management had no clue.
+> A friend of mine works at a solar startup in Sweden. They had about fifteen salespeople, and they were paying about thirty thousand dollars a year for HubSpot. All they used was the pipeline, a board where salespeople picked up leads by hand. A lot of leads came in, but the team got to them late or not at all. So they lost a lot of business, and management had no clue.
 
 **ON SCREEN:** tags, one at a time: **Renewal in 2 months** · **New system must work by then** · **If it fails, the business stops**
 
 **YUSUF:**
-> They wanted to replace HubSpot with their own system, and I told them we could build it. But their HubSpot renewal was two months away, so the new system had to work by then. All their leads went through that pipeline, so if the new system failed, their whole business would stop. That was too big a risk, so they couldn't even start.
+> They wanted to replace HubSpot with their own system, and I told them we could build it. But their HubSpot renewal was two months away, so the new system had to work by then. And all their leads went through that pipeline, so if it failed, their whole business would stop. That was too big a risk, so they couldn't even start.
 
-## 1:00 Proof
+## 0:59 Proof
 
 **ON SCREEN:** tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF:**
 > I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. So I know how hard it is to move a whole sales team onto something new.
 
-## 1:15 Promise
+## 1:14 Promise
 
-**ON SCREEN:** The HubSpot box, whole. Then a big arrow from it to an empty box: **Full switch** with tags **All data at once** · **Everyone retrained**. Then the HubSpot box with a small box beside it, a line between them: **Contacts and deals stay in HubSpot** · **Doesn't work? Switch it off**
+**ON SCREEN:** The HubSpot box, whole. Then a big arrow from it to an empty box: **Full switch** with tags **All data at once** · **Everyone retrained**. Then the HubSpot box with a small box beside it, a line between them: **Contacts and deals stay in HubSpot** · **Doesn't work? Switch it off** · **Pay for both for a while**
 
 **YUSUF:**
-> In a full switch to a new CRM, you move all your data and you retrain everyone. If that goes wrong, your salespeople can't sell.
+> I understand why you'd want to switch everything in one go, because then you're done with HubSpot and its bill. But in a full switch you move all your data and you retrain everyone, and if that goes wrong, your salespeople can't sell.
 >
-> So I'd keep HubSpot and replace just one step in your sales, the one that's losing you the most money. A small tool takes over that step, and everything else stays in HubSpot. If the tool doesn't work, you switch it off, and your team goes back to what they did before.
+> So I'd keep HubSpot and replace just the one step that's losing you the most money. A small tool takes over that step, and everything else stays in HubSpot. If the tool doesn't work, you switch it off, and your team goes back to what they did before.
+>
+> You'll pay for HubSpot and the tool for a while. I think that's worth it, because you see the tool working before your business depends on it.
 
-**ON SCREEN:** title card: **Keep HubSpot, Replace One Thing First**, then tags: ✓ **Find the step** · ✓ **What can go wrong** · ✓ **Who keeps it running** · ✓ **When you can drop HubSpot**
+**ON SCREEN:** title card: **Keep HubSpot, Replace One Thing First**, then tags: ✓ **Find the step** · ✓ **What can go wrong** · ✓ **When you can drop HubSpot**
 
 **YUSUF:**
-> I'll show you how to find that step, what can go wrong, who should keep the tool running, and when you can drop HubSpot.
+> I'll show you how to find that step, what can go wrong, and when you can drop HubSpot.
 
 ---
 
-## 1:53 How to find the step to replace first
+## 2:06 How to find the step to replace first
 
 **ON SCREEN:** section title: **How to find the step to replace**. Then a card: **Lost at each step → deals that would have closed**. Tag: **Example: 20 lost leads, 1 in 5 closes = 4 lost deals**. Then: **DO THIS TODAY: most lost deals = the step you replace first**
 
 **YUSUF:**
 > To find the step that's losing you the most money, go through last month's leads and deals. Count how many you lost at each step, like the first call, the demo and the quote. And include the leads nobody called.
 >
-> A lost lead isn't a lost deal, because most leads never close. So say you lost twenty leads, and one in five normally closes. That's four lost deals. The step where you lost the most deals is the one you replace first.
+> But most leads never close, so count lost deals, not lost leads. Say you lost twenty leads, and one in five normally closes. That's four lost deals. The step where you lost the most deals is the one you replace first.
 
 **ON SCREEN:** the HubSpot box. A small box appears beside it: **First call**. Tag: **Every minute of waiting makes the deal less likely**. Then, a simple flow: **AI voice talks to the lead → asks a few questions → connects the lead to a free salesperson**
 
 **YUSUF:**
-> At that solar startup, the step was the first call. They got so many leads that a lot of them sat waiting for a call. And the longer a lead waits, the less likely you are to win the deal. So we talked about an AI voice that talks to every lead straight away. It asks a few questions, and it connects the lead to a salesperson the moment one's free.
+> At that solar startup, the step was the first call, because the longer a lead waits, the less likely you are to win the deal. So we talked about an AI voice that talks to every lead straight away. It asks a few questions, and it connects the lead to a salesperson the moment one's free.
 
 **ON SCREEN:** tags, one at a time: **Replaces only the first call** · **Renew HubSpot, add the AI voice**
 
 **YUSUF:**
-> That only replaces the first call, so they could've renewed HubSpot and just added the AI voice.
+> That only replaces the first call, so they could've renewed HubSpot and just added the AI voice. And I think that would've really helped their sales.
 
-## 2:59 What can go wrong with a small tool
+## 3:09 What can go wrong with a small tool
 
-**ON SCREEN:** section title: **What can go wrong**. The line between HubSpot and the small tool, with a red break in it. Red tag: **The connection breaks**. Tag: **Example: own quoting software** (no name). Then: **Connection fails → no quotes go out**
+**ON SCREEN:** section title: **What can go wrong**. The line between HubSpot and the small tool, with a red break in it. Red tag: **The connection breaks**. Tag: **Built differently: everything gets translated**. Tag: **Example: own quoting software** (no name). Then: **Connection fails → no quotes go out**
 
 **YUSUF:**
-> What usually goes wrong with a small tool is the connection to HubSpot. Setting up CRMs for hundreds of companies taught me that connections are what break most, on any CRM. For example, one company we worked with had built its own quoting software next to the CRM. When that connection failed, they just couldn't send quotes.
+> What usually goes wrong with a small tool is the connection to HubSpot. Setting up CRMs for hundreds of companies taught me that connections are what break most, on any CRM. Connecting two systems sounds like a small job, but they're built differently, so everything has to be translated from one to the other. For example, one company we worked with had built its own quoting software next to the CRM. When that connection failed, they just couldn't send quotes.
 
 **ON SCREEN:** tag: **Count the systems**. Then: **1 or 2 systems? You can probably do it · More? Make the tool do less**
 
 **YUSUF:**
-> The more systems your tool connects to, the more can break. So count them. If it's one or two, you can probably do it. If it's more than that, make the tool do less, so it only needs one or two.
+> The more systems your tool connects to, the more can break. So count them. If it's one or two, you can probably do it. If it's more, make the tool do less.
 
 **ON SCREEN:** **WRITE THIS DOWN** card: **What your tool takes and sends back · Different numbers? Trust HubSpot**
 
 **YUSUF:**
-> Then, before you build, write down what your tool takes from HubSpot and what it sends back. And if your tool and HubSpot ever show different numbers for a deal, trust HubSpot.
+> And before you build, write down what your tool takes from HubSpot and what it sends back. If the two ever show different numbers for a deal, trust HubSpot, so nobody has to guess which one's right.
 
-## 3:48 Who should build the tool and keep it running
+## 4:06 Who should build the tool and keep it running
 
-**ON SCREEN:** section title: **Who should build the tool**. Tag: **Your own developers? Use them**. Then: **No developers? Pay someone to build it and keep it running**
+**ON SCREEN:** section title: **Who should build the tool**. Tags: **HubSpot changes · Your process changes** · **Your own developers? Use them**. Then: **No developers? Pay someone to build it and keep it running**
 
 **YUSUF:**
-> The tool also needs someone to look after it, because HubSpot changes and your process changes. If you've got your own developers, have them build it. If you don't, pay someone to build it and keep it running.
+> A small tool feels like something you build once and you're done. I don't think it works that way, because HubSpot changes and your process changes, so someone has to keep looking after it. If you've got developers, have them build it. If not, pay someone to build it and keep it running.
 
 **ON SCREEN:** tag: **Year two can be a disaster**. Then: **Who fixes it when it breaks?** · **Who gets told first?**
 
 **YUSUF:**
 > If your developer leaves or a freelancer only signed up for the build, year two can be a disaster. So before you start, decide who fixes the tool when it breaks. If you're the one who'd do that, and you're also running your company, it's probably not the best idea. And make sure that person gets told the moment the connection breaks, so you don't find out from a customer.
 
-## 4:29 When to replace the next step
+## 4:53 When to replace the next step
 
 **ON SCREEN:** section title: **When to replace the next step**. The HubSpot box with one small box beside it, ticked.
 
 **YUSUF:**
-> Once your first tool is running, give it sixty days before you replace anything else, so you've seen enough deals to know if it's working.
+> Once your first tool is running, you'll probably want to replace the next step straight away. I'd give it sixty days first, so you've seen enough deals to know if it's really working.
 
 **ON SCREEN:** three ticks: **Clearly fewer lost deals at that step** · **Same numbers in both** · **No fixes by hand**. Then: **DO THIS AFTER 60 DAYS: check all three before the next step**
 
 **YUSUF:**
-> Then check three things. Count last month's lost deals at that step again, and it should be clearly fewer than before. HubSpot and your tool should show the same leads and deals. And nobody should've had to fix the connection by hand. If all three are true, replace the next step. If not, fix what's wrong first.
+> Then count last month's lost deals at that step again, and it should be clearly fewer than before. HubSpot and your tool should show the same leads and deals. And nobody should've had to fix the connection by hand. If all three are true, replace the next step. If not, fix what's wrong first.
 
 **ON SCREEN:** the HubSpot box, nearly empty: **Contacts**. Tag: **Only holding contacts? Move them, stop paying**
 
@@ -147,23 +149,23 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **YUSUF:**
 > One mortgage business in our research has already moved its sales off HubSpot. With a small team of developers and AI, they built their own small CRM around how they sell. Now they only use HubSpot for marketing, and their contract came down seventy-five percent.
 
-## 5:27 What we do
+## 5:53 What we do
 
 **ON SCREEN:** tag: **Pay for 100 features, use 3**. Then: **Start with one step** · **You own the code** · **No long contract** · **For: 10–50 people**
 
 **YUSUF:**
 > A CRM that's sold to everybody needs a lot of features, let's say a hundred, and every customer only uses about three. So you pay for the hundred. With AI, I realized it's now cheaper to build just the three you need, and that's why I sold my old company. And if a company that's done it many times builds those three for you, it's much easier to get exactly what you want.
 >
-> That's what we do at my company, CRM From Within. We start with the step that's losing you the most money. We build a tool for that step around how you sell, connect it to your HubSpot and keep it running. Then we do the next step, until you've got a CRM of your own and we've moved your data over. You own the code, and there's no long contract. It's for teams of ten to fifty people.
+> That's what we do at my company, CRM From Within. We start with one step, and we build a tool for it around how you sell, connect it to your HubSpot and keep it running. Then we do the next step, until you've got a CRM of your own and we've moved your data over. You own the code, and there's no long contract. It's for teams of ten to fifty people.
 
-## 6:25 Free CRM fit check
+## 6:48 Free CRM fit check
 
 **ON SCREEN:** tag: **Nothing holding you back? Keep HubSpot**. Then lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
 > If nothing in HubSpot is holding you back, just keep it. If something is, and you want help finding that step, the link's below for a free twenty-minute CRM fit check.
 
-## 6:37 Close
+## 7:00 Close
 
 **ON SCREEN:** lower-third tag: **Comment: which step would you replace first?**
 
@@ -181,7 +183,7 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 >
 > CRM From Within builds CRMs around how your company sells, starting with one step if you like. You own the code, no long contract.
 >
-> 0:00 Stuck on HubSpot · 1:53 Find the step · 2:59 What can go wrong · 3:48 Who keeps it running · 4:29 The next step · 5:27 What we do
+> 0:00 Stuck on HubSpot · 2:06 Find the step · 3:09 What can go wrong · 4:06 Who keeps it running · 4:53 The next step · 5:53 What we do
 >
 > Sources:
 > - A mortgage business's CRM lite (X, Feb 2026): https://x.com/tadhensley/status/2019351317723140371
@@ -194,13 +196,14 @@ Each short opens on its own claim, count or drawing (the caption below), never o
 
 | # | From | Length | Caption on screen |
 |---|---|---|---|
-| 1 | 0:35–1:00 | 25s | "Two months from renewal, and they couldn't start" |
+| 1 | 0:35–0:59 | 24s | "Two months from renewal, and they couldn't start" |
 
 ---
 
 ## Sources
 
 - Yusuf's 4 Nov 2026 interview, `original_sources/2026-11-04_interview_experience_videos.md` (confirmed, no client named): the solar startup, about 15 sellers, 300,000 kronor a year for HubSpot (about $30,000, as in video 11), pipeline view only, salespeople picking up leads by hand, leads reached late or not at all, 2 months to renewal, the business would stop if it failed, couldn't start; every minute of delay makes the deal less likely; the AI voice idea; integrations "the major problem", found out from customers; the quoting software link, "they just couldn't send quotes"; a CRM needs 100 features and every customer uses 3; with AI he realized it's cheaper to build from scratch, which is why he sold.
+- Same interview, the lines added in pass 5: integrations are "much more complex than people expect" because the systems are structured differently and you have to translate between them; of the AI voice, "This would really help their sales."
 - Yusuf's on-camera notes, 5 Nov 2026, `original_sources/2026-11-05_video_11_notes_to_claude.md`: "if it's just like one or two you can probably do it"; "if you're the one gonna do that and you're also running your company then it's probably not the best idea"; "If your developer leaves or a freelancer only signed up for the build, year two can be a disaster"; much easier with a company that's done it multiple times.
-- Yusuf on a private call, 18 Aug 2026: how hard it is to move salespeople from something that works to something new. Yusuf on a private call, 27 Oct 2026: "if this doesn't work, we're in real trouble" is usually what stops a buyer.
+- Yusuf on a private call, 18 Aug 2026: how hard it is to move salespeople from something that works to something new. Yusuf on a private call, 27 Oct 2026: "if this doesn't work, we're in real trouble" is usually what stops a buyer, so keep what you have and add something beside it, so you see it working first. Yusuf on the same 18 Aug call: even a good CRM is very expensive to maintain.
 - Mortgage business: @tadhensley on X, 5 Feb 2026, https://x.com/tadhensley/status/2019351317723140371 (`survey/all_relevant.csv`): "We still use Hubspot, but much less of it (just Marketing pro). Reduced Hubspot contract by 75% annually." X blocks automated checks, so check it by hand before filming.
