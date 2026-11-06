@@ -4,85 +4,79 @@
 
 ## Hook
 
-One company wrote on HubSpot's own forum that they left Zoho for HubSpot Enterprise in January 2026. A few weeks later they said, it feels like I'll be forced to switch back to Zoho.
+A lot of companies switch CRMs to fix one problem, and the new CRM just gives them a different one. So I'll give you five checks that tell you if your next move will really fix your problem, and then I'll show you how to actually stop switching CRMs altogether.
 
-After about a hundred automated sales emails, Microsoft was blocking their whole email account, and that had never happened on Zoho. HubSpot support and Microsoft support talked on the phone, and nobody could figure it out.
-
-I think a lot of companies end up here. You switch CRMs to fix one problem, and the new CRM gives you a different one.
+Here's a real example from HubSpot's own forum. One company left Zoho for HubSpot in January 2026. Their email runs on Microsoft. And after about a hundred automated sales emails from HubSpot, Microsoft thought the account had been hacked, and blocked it. So within weeks, they're writing, it feels like I'll be forced back to Zoho.
 
 ## Proof
 
 I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
 
-## Plan
+## Why switching doesn't fix it
 
-So if you've switched CRMs and you feel like you made a mistake, or you're about to switch, this video's for you. I'll show you five problems with switching, and what to check before you sign. The last one is about a CEO who's paying for eleven months of a CRM they've left, and they say that's smarter than staying.
+So why does this keep happening? I think it's because every standard CRM is rented. So you still get somebody else's process and somebody else's contract, and you're really just swapping one set of problems for another.
+
+In the past you basically had no choice. You could stay or you could switch. But that's actually not the case any more, because with AI, it's now cheaper to build just what you need. So you can stop switching and own your own CRM, built around how your company works.
 
 ## Problem 1: The plan you need costs more
 
-The first problem with switching CRMs is the price. You compare the cheapest plans, and then you find out that what you need is on a more expensive plan.
+So the first problem with switching CRMs is the price. What happens is you compare the cheapest plans, and then you find out that what you actually need is on a more expensive plan.
 
-For example, one business moved from Workiz to Jobber, mainly for better pricing. They were told the cheapest plan would show item costs on quotes, and it didn't work. So they upgraded. Then they upgraded again for a quoting feature they'd seen in a Jobber video, and they were told it isn't available anymore.
+So before you switch, have the sales rep show you the cheapest plan that does everything you need. And if it isn't clearly cheaper than your CRM now, don't switch for the price.
 
-That took them from twenty-nine dollars a month for one user to a hundred and forty-nine, at November 2026 prices. That's about fourteen hundred dollars more a year.
-
-So before you switch, write down what your team can't work without, find the cheapest plan that does all of it, and have the sales rep show it working. Then price that plan for the team you'll have in two years, and price your current CRM the same way. If the new one isn't clearly cheaper, don't switch for the price.
+Now, if you own your own CRM, there are no pricing plans, so nobody holds features back to make you upgrade.
 
 ## Problem 2: The new CRM doesn't fit either
 
-The second problem is that the new CRM often doesn't fit how your company works, just like the old one. For example, a team at a mid-size company picked Freshsales, and one of them wrote that the only upside is that it's cheaper than HubSpot. They paid for a full year, and the team stopped using it. They say Excel is much better.
+The second problem is that the new CRM often doesn't fit how your company works, just like the old one.
 
-When a CRM doesn't fit, it's natural to think you just picked the wrong one. I don't think that's usually true. When you buy a CRM, what you're actually buying is a standard process that you have to adapt to, and nobody's really happy with someone else's process. I saw this at my old company. Out of every hundred customers, maybe three were happy with the standard setup.
+And I understand why you'd think, okay, we just picked the wrong CRM. But I actually don't think that's usually true. What you're buying is a standard process. I mean, it's someone else's way of working, and nobody's really happy with someone else's process. I saw this at my old company. Out of every hundred customers, maybe three were happy with the standard setup.
 
-So the question is how close a CRM comes to the way your team really works, and a demo won't tell you that. I've sold CRMs myself, and the seller decides what you see. So before you sign, write down your three most common jobs from last month, with every step and who did it. Then get a trial, and have the people who'll use the CRM run those jobs. If they can't, don't sign. I know that takes your team's time, but it's a lot less than a year of paying for a CRM nobody uses.
+And a demo won't show you this, because I've sold CRMs myself, and the seller decides what you see. So get a trial, and have your team run your three most common jobs in it. If they can't, don't sign.
+
+Whereas in a CRM you own, those three jobs are actually where you start, so the CRM gets built around how your team already works.
 
 ## Problem 3: No help after you sign
 
-Problem three is getting help after you sign. You might think you only need help at the start. But your company keeps changing, so you'll keep needing changes to your CRM. So during the trial, send support two real questions about your own setup. They still want your business, so their support won't get better than this. If an answer takes more than a day, or it's just a link to a help article, count that as a fail. Then email the sales rep and ask who makes changes for you once you're up and running, how fast, and what it costs per hour. If they can't tell you, don't sign.
+Number three is getting help after you sign a new CRM. Your company keeps changing, so you'll keep needing changes to your CRM. So during the trial, send support two real questions. They still want your business, so their support won't get better than this. If an answer takes more than a day, that's a fail.
+
+And when it's your own CRM, nobody else has to agree to a change.
 
 ## Problem 4: The move breaks what worked
 
-The fourth problem is the move itself. Contacts are easy to move, but years of notes and files often aren't.
+Number four is the move itself. You have to cancel the old CRM so it won't renew, and you have to get everything over before that date. I mean, it's a huge headache.
 
-For example, one family textile business has thirty-four years of history in the notes field of a CRM called Act. Their chief of staff says it's the worst CRM they've used, but those notes can't be moved, so they're staying.
+So what I'd do is test the move before you cancel your old CRM. Put a hundred real customers into the new CRM. Then send a hundred real emails through it from a spare address, so your real one can't get blocked. And keep your old CRM until that works. The company that left Zoho still had Zoho, so when Microsoft blocked their email, they sent those emails again from there, and most of them got through.
 
-So before you put your history into any CRM, ask in writing what you can take with you if you leave.
-
-The move can also break things that were working. That's what happened to the company that left Zoho for HubSpot. So test the move before you cancel your old CRM. Export a hundred real customers with their full history into the new CRM's trial, and check that everything came over. Send more than a hundred real emails through the new CRM, because that's about when Microsoft blocked that company. Use a spare address, so your real one doesn't get blocked. And connect your accounting tool, and check that it still works.
-
-Keep your old CRM until all three of those tests pass. I know paying for two CRMs feels like a waste, but a month of two bills is small compared with your whole email account getting blocked.
+Now, you might think, wait, building my own CRM would be the biggest move of all. But you actually don't have to move everything at once. You build it step by step, while your team keeps working in the old CRM. So the old CRM is still there, just like Zoho was for that company. And one day you simply notice that, wow, all of our data is actually already in the CRM we own, and there's basically no risk in shutting off the old one.
 
 ## Problem 5: You can't go back down
 
-The last problem is the contract, because you can end up paying for a CRM you've already left. The CEO of a small financial services company wrote that they upgraded their HubSpot plan as they grew. Then their costs shot up and their sales calling tool didn't work, so one month after signing their contract, they left. They still have to pay the other eleven months.
+The last problem is the contract. One CEO wrote on Capterra that they upgraded their HubSpot plan, and then their costs shot up. So they left one month after signing their contract, and they still have to pay the other eleven months.
 
-You get stuck like that because HubSpot's terms say you can't downgrade during your current term, and your plan renews automatically.
+So how does that happen? HubSpot's terms say you can't move to a cheaper plan during your contract, and it renews automatically.
 
-So before you sign, and before every upgrade, get two answers in writing. When can we move back down to a cheaper plan? And what's the last day we can cancel? Put that day in your calendar, and ask for the shortest contract they'll give you.
+So before you sign or upgrade, ask in writing when you can move back down, and the last day you can cancel.
 
-If you're already stuck in a contract, it feels stupid to pay for a CRM you've left, so you'll want to stay until the contract ends. I understand that. But that CEO says leaving is smarter than losing more money working around HubSpot's limits, and I think they're right.
-
-You'll pay the rest of that contract if you stay, and you'll pay it if you leave, so that money shouldn't decide anything. Just work out what staying costs you every month. Take the hours your team loses, times what you pay them, plus the deals you lose. Say that comes to three thousand dollars a month, and you've got eight months left on yours. That's twenty-four thousand dollars. If moving would cost you less than that, leave now. If it would cost more, stay until the contract ends.
-
-All five checks are on screen now, so screenshot them.
+You can't get stuck like that in a CRM you own, because there's no renewal date.
 
 ## When another switch won't fix it
 
-If you do those five checks, you'll pick a better CRM. But you'll still be adapting to somebody else's process, and sometimes what's holding you back is something no standard CRM does.
+So if your team can't run your three most common jobs in any CRM you try, another switch won't fix it. That's when I think you should own your own CRM.
 
-For example, Springland, a pet products company, gets orders from a dozen places, like Amazon and Faire. So they built their own CRM with AI, in about twenty hours. Now they see every customer's emails, orders and next step in one place. They say the time they spend on sales operations is down more than eighty percent, and they're staying on top of three to four times more deals.
+We found a real example, linked in the description. Springland sells pet products, and they built their own CRM with AI, in about twenty hours. And they say they're staying on top of three to four times more deals.
 
-You won't get that by switching to another standard CRM. That's when I think you should stop switching and have your own CRM.
+## The next time your company changes
+
+So picture your company with a CRM you own. One system runs your work from the first lead to the last payment, so there are no separate tools to connect. And then your company changes. Say you add a new service. You don't compare plans or sit through demos, and nobody has to test a move. You just change your CRM, and you never go through another switch.
 
 ## What we do
 
-You can build your own CRM with AI, like Springland did. But somebody has to fix it when it breaks at two in the morning. It's much easier to get exactly what you want, without all the bloat, with a company that's done it many times.
-
-That's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver. AI has made that affordable at your size. We move your data over, and we keep it running. You own the code, there's no long contract, and if you leave, you take everything. It's for companies of at least ten people. If a standard CRM fits, keep it.
+By the way, I'm telling you this not to try to sell our services, because you can do this on your own. We'll give you templates, and you can use us as advisers if you want. But if you want someone with experience to do it for you, that's what we do at my company, CRM From Within. We build your CRM, we move your data over and we keep it running. You own the code, and there's no long contract. And you won't have two recurring bills, because we charge for the project, not monthly, during the move. We do this for companies of at least ten people.
 
 ## Free CRM fit check
 
-If you want to see what a CRM built around your company would look like, we do a free twenty-minute CRM fit check. The link's below.
+If you think this is interesting and you want to start by just researching what owning your own CRM could mean for you, we do a free twenty-minute CRM fit check. The link's below.
 
 ## Close
 

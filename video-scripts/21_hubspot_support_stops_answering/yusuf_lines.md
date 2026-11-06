@@ -4,93 +4,85 @@
 
 ## Promise
 
-When did HubSpot support last get back to you the same day?
+If HubSpot support has stopped answering you, this video shows you how to get one real person to take responsibility this week. It also shows you how to protect your company in the meantime, and how to actually stop waiting on someone else's support for good.
 
-Maybe you've got a billing problem or a locked account, and nobody's answering. And while you wait, your team can't see their deals or send their quotes. So I'll show you how I'd push HubSpot until one real person takes responsibility, and how I'd protect your company in the meantime.
+Right now all you can do is wait, because your whole company runs on a system that someone else controls. For years you really had no choice, because building your own CRM cost way too much. But with AI, that's actually changed. So you could have a CRM that's built around your company, and that you own.
 
 ## Example
 
-In October, one company wrote on Trustpilot that they'd paid HubSpot for the whole year up front, and their CRM account still got suspended. They got passed from a chatbot to a sales rep, who said she couldn't escalate it or transfer them. She basically told them to email the collections team themselves, and then the chat got closed.
+Here's a real example from Trustpilot. In October, one company wrote that they'd paid HubSpot for the whole year up front, and their account still got suspended. They got passed from a chatbot to a sales rep, who said she couldn't escalate it. She basically told them to email the collections team themselves, and then the chat got closed.
 
-They wrote that the most frustrating part was the complete lack of ownership.
+They wrote that the most frustrating part was that nobody took ownership of the problem.
 
 ## Proof
 
-I know how that feels. I've used Meta for ads, and it's great, except for their incredibly incompetent support. It makes me feel like I'm in some kind of Kafka novel, not knowing if I'm being gaslighted or if this is real life.
-
-And I've been on the other side of it. I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
+So who am I? I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
 
 ## Plan
 
-So I'd do five things this week, and then I'd work out what all this waiting is really costing you.
+So here are the five things I'd do this week.
 
 ## Step 1: Know what your plan promises
 
-Number one, find out what your HubSpot plan promises you. Starter gets you chat and email, and Professional and Enterprise also get phone. But on accounts set up since March 2024, only people with a paid seat get support. So ask someone with a seat to open the ticket.
+Number one, find out what your HubSpot plan actually promises you, which is on screen here.
 
-You pay HubSpot good money, so it's natural to think they have to answer you. But their terms say they attempt to reply within one business day, and they do not promise or guarantee any specific response time. So nothing forces them to answer, and that's why you have to push.
+You pay them good money, so you'd think they have to answer you. But actually, their terms say they try to reply within one business day, and they don't promise any specific response time. So when you rent your CRM, they decide when you get an answer, and that's why you have to push.
 
 ## Step 2: Go to the right team
 
-Number two, take your problem to the team at HubSpot that can actually fix it. If something's broken, that's support. If it's an invoice, email billing at hubspot dot com. If it's a renewal, that's your contract manager, or support if you don't have one.
+Number two, take your problem to the team that can actually fix it. If something's broken, that's support. If it's an invoice, that's billing. If it's a renewal, that's your contract manager.
 
-But the right team doesn't always answer. In May, a company wrote on Trustpilot that they emailed HubSpot for almost a month and got nowhere, until they called the sales line.
+But what if that team doesn't answer? In May, another company wrote on Trustpilot that they emailed HubSpot for almost a month and got nowhere, until they called the sales line.
 
-So if the right team's quiet for a week, I'd call sales. And if you're locked out and your team can't work, I'd call today. Sales probably can't fix your problem, but they pick up the phone, because that's how they make money, and they can find out who can. So say, ticket number such and such, opened on this date, still no answer. Who at HubSpot is looking after this, and when will I hear back?
+So if it's been quiet for a week, or you're locked out, I'd call sales. The company in October got a sales rep who couldn't help, so it doesn't always work. But sales will at least pick up the phone, because that's how they make money. So just ask them who at HubSpot is looking after your ticket.
+
+I mean, you shouldn't have to call a sales line to get support. In a CRM you own, there's just one team to talk to.
 
 ## Step 3: Put it in writing
 
-Number three, put your problem in writing. If you end up arguing about a bill or a renewal, you'll need to show what you said and when.
-
-So reply to your ticket's email thread. Put your Hub ID, your account number, at the top, and ask who's looking after it. And if you're disputing a bill, say so, because HubSpot's terms say they won't suspend you while you're disputing a charge in good faith.
+Number three, put your problem in writing, because if you end up arguing about a bill, you'll need to show what you said. So just reply to your ticket's email thread. And if you're disputing a bill, say so, because HubSpot's terms say they won't suspend you while you dispute a charge in good faith.
 
 ## Step 4: Stop the renewal
 
-Number four, stop your HubSpot plan from renewing while your problem's still open. Their terms say it renews by itself, for up to a year, unless you turn off auto-renewal. So if you do nothing, you could be paying for another year of this.
+Number four, stop your HubSpot plan from renewing while your problem's still open. Because it renews by itself, for up to a year, so if you do nothing, you could be paying for another year of this.
 
-I understand if that feels like a big step, because your whole company runs on HubSpot. But it doesn't mean you're leaving. You keep your access until your plan ends, and you can turn it back on before then. And it can help, because I think any software company pays more attention to a customer who might leave than to one who's just unhappy.
+Now, I understand if that feels like a big step. But it doesn't mean you're leaving. You keep your access until your plan ends, and you can turn it back on before then. And I think any software company pays more attention to a customer who might leave.
 
-So do it now. In July, a software CEO wrote on LinkedIn that he'd spent more than two weeks just trying to stop his renewal.
+You turn off auto-renewal on this page, so I'd do it today.
 
-A Super Admin or a billing admin turns it off on your subscriptions page, which is on screen here. Then they email HubSpot and ask them to confirm that auto-renewal is off.
+And when you own your CRM, nobody can renew it for you, because it's already yours.
 
 ## Step 5: Get your data out now
 
-Number five, get your data out of HubSpot now, while your account still works. You might think, we pay our bills, so this won't happen to us. But that company with the suspended account had paid for the whole year. And HubSpot's terms say they can suspend your access ten days after telling you a bill's unpaid.
+Number five, get your data out of HubSpot now, while your account still works. You might think, we pay our bills, so this won't happen to us. But that company in October had paid for the whole year, and they still got suspended.
 
-So keep your own copy. Any HubSpot plan can export, if you have the export permission. Go to your contacts and click Export, then Customize, and choose the option on screen, because otherwise you only get the columns you can see. Do the same for companies and deals. Calls and notes don't come with that export, so HubSpot's page on getting them is in the description.
+So keep your own copy. On your contacts page, click Export and choose the option on screen, because otherwise you only get the columns you can see. Do the same for companies and deals, and save the files outside HubSpot.
 
-Then open the files to check that everything's there, save them outside HubSpot, and set a monthly reminder.
-
-## What the wait costs
-
-A slow reply from HubSpot can feel like a small thing, because it never shows up on an invoice. So take the last three times you needed a real person at HubSpot, and count the days your team couldn't sell because of it. Then multiply that by what you sell on a normal day. Say you sell five thousand dollars a day, and your team lost three days. That's fifteen thousand dollars of sales held up.
-
-If your number's small, you're fine. But if it's more than you pay HubSpot in a year, slow support is a real problem, so I'd deal with it before your renewal.
-
-So I'd email that sales total to your contract manager and ask, who picks up next time, and how fast? If they can't give you a name and a time, I'd look at other options before you renew.
+If you owned your own CRM, you wouldn't need a copy, because your data would already be yours.
 
 ## Why the next ticket goes the same way
 
-Your next ticket goes into the same queue, because anyone selling one CRM to everyone has to plan for the typical customer, and some customers need far more time than others. I saw that in my old company's numbers. The typical customer took about three hours of setup and support a month, but a few took twenty-six to forty hours. So at HubSpot, if you're not typical, you wait.
+So those five steps can get you through this problem. But your next ticket goes into the same queue, because when you sell one CRM to everyone, you plan for the typical customer. And the person who picks up has never seen how your company works.
 
-And I don't blame the person who picks up your ticket. They have to know every feature of a CRM built for everyone, and they've never seen how your company works.
+You might think a slow reply is a small thing. But think about the last time your team sat waiting. Which quotes didn't go out? Which deals went quiet? So if this keeps happening, I'd look at owning your own CRM before your next renewal.
 
-## What one company built
+## Why you can own your CRM now
 
-A CRM that's built around your company fixes more than support. Partition Pros is a construction business, and they run their own CRM, with a 3D designer and a customer portal built around their products. They say they can go from a drawing on a napkin to a placed order in under fifteen minutes. You can't get that from a CRM built for everyone, however fast its support is.
+I know that sounds like a lot for a support problem. And a few years ago, I'd have agreed, because you had to cancel the old CRM so it wouldn't renew. Then you had to move everything before that date, and I mean, it was a huge headache.
 
-You could build a CRM like that yourself with AI, but then you're the one who picks up when it breaks.
+But today you're actually not stuck, because with AI, it's cheaper to build just what you need. So you build a new CRM step by step, while your team keeps working in HubSpot. And one day you simply notice that, wow, all our data is actually in this new system that we own. So shutting off HubSpot is basically zero risk.
+
+## Your next problem
+
+You might wonder, if a company as big as HubSpot can't answer you, who'd answer you on your own CRM? So picture your next problem. Say your team can't send quotes on a Tuesday morning. You don't call a sales line. You just talk to the people who built your CRM, and they know how your company works. And nobody can suspend you after you've paid for the year, because it's your system. So one system runs your whole process, from the first lead to the last payment.
 
 ## What we do
 
-I think it's much easier to get exactly what you want with a company that's done it many times. That's why I started CRM From Within. We build a CRM from scratch around how your team sells and delivers, and AI has made that possible at your size. We move your HubSpot data over and we maintain it, so when something breaks, you talk to the people who wrote it. You own the code, there's no multi-year contract, and if you leave, you take everything with you.
-
-It's for companies of at least ten people where a standard CRM just doesn't fit. If HubSpot fits you, keep it.
+By the way, I'm telling you this not to try to sell our services. You can do this on your own with AI, and if you want us as advisers, we'll give you templates. But if you want someone with experience to do it for you, that's what we do at my company, CRM From Within. We build you that CRM from scratch, around how your team sells and delivers, and we move your data over and maintain it. We charge for the project, not monthly, during the move, so you don't have two recurring bills. You own the code, with no long contract. It's for companies of at least ten people where a standard CRM just doesn't fit.
 
 ## Free CRM fit check
 
-If slow support is costing you more than you pay HubSpot, bring that number to a free twenty-minute CRM fit check. The link's in the description.
+If you want to find out what owning your own CRM could mean for your company, we do a free twenty-minute CRM fit check. The link's in the description.
 
 ## Close
 
