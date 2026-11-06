@@ -126,8 +126,9 @@ def main():
         name = path.parent.name if path else next(v for v in videos() if v.startswith(sys.argv[2]))
         rounds = [[float(s) for s in group.split(",")] for group in sys.argv[3].split()]
         totals = [total(r) for r in rounds]
-        if len(totals) < 2 or (totals[-1] > totals[-2] and "--approved" not in sys.argv):
-            sys.exit("Not marked: the rounds only stop when the total doesn't go up, or when Yusuf approves the script (--approved).")
+        flat = len(totals) >= 3 and totals[-1] <= totals[-3] and totals[-2] <= totals[-3]
+        if not flat and "--approved" not in sys.argv:
+            sys.exit("Not marked: the rounds only stop after two rounds in a row that don't go up, or when Yusuf approves the script (--approved).")
         db["optimized"][name] = {"sha": fingerprint(path or spoken(name)), "rounds": rounds, "totals": totals, "best": max(totals), "date": datetime.date.today().isoformat()}
         save(db)
         sync()

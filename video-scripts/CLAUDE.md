@@ -48,7 +48,7 @@ The process, in Yusuf's words:
      - Does a closing line say anything new? "And this week, just start with your renewal date and that export." and "Pick the route where you can name the person keeping it alive" both fail: "don't say stupid things that have no purpose being there".
      - Does a line that points back still make sense? "As long as they'll sign those three lines" fails nine minutes after the viewer heard them.
      - Fewer words never means telegram style. Dropping a joining word or a step in the reasoning lowers this score.
-2. Add it up: 2 x Human + 2 x Easy to understand + Interest + Usable value + Belief + Value per word, out of 80. If this is round 2 or later and the total didn't go up, stop.
+2. Add it up: 2 x Human + 2 x Easy to understand + Interest + Usable value + Belief + Value per word, out of 80. Stop after two rounds in a row that don't go up, because one flat round can be chance. Video 13 tied at 35, then reached 47.
 3. Rewrite it to raise the total, without losing any informational value or making it less exciting to listen to. Start by writing the video's argument in a few plain sentences, and make every paragraph serve it. Write it the way he talks when he fixes a line: his rewrites are in `original_sources/2026-11-05_video_11_notes_to_claude.md` in the private repo. Never add a case, caveat or detail just to lift a score. In video 11 each round added proof and removed joining words, so the score went up while the script got worse.
 4. Repeat from step 1. When it stops, use the highest-scoring version as the main script. Before calling it done, read the finished script from start to finish yourself, as the viewer would. The score doesn't replace that.
 
