@@ -69,6 +69,18 @@ Every video rests on one study, kept in David's private repo. Check every number
 - Not like this: "The first moment is when you want your CRM to work a little differently."
 - But like this: "Renting a CRM starts to hurt when you want it to work a little differently."
 
+**Advise, don't instruct.** Yusuf stops at manual steps and gives his reasoning, so write it that way. Say why people do what they do, take the boss's side first, then say honestly what you think. Answer "that's no big deal" before the viewer thinks it. Do this where it matters, not on every step, and keep "I've seen" to what a source backs.
+
+- Not like this: "The CRM costs the salespeople time and gives them very little back, so pushing them harder won't fix it."
+- But like this: "The CRM costs the salespeople time and gives them very little back, so pushing them harder won't fix it. You're giving them conflicting incentives. You ask them to do admin they think is unnecessary and to reach their quota. So they're obviously going to chase the quota, not the admin."
+- Not like this: "So ask your team what they call each step, and change the stages to match."
+- But like this: "There can be good reasons for those stages. But if your team doesn't follow them anyway, I'm going to bet that you're wrong and that your salespeople are actually correct. So ask your team what they call each step, and change the stages to match."
+
+**Lines must stand alone.** A closing line that points back trips him, and it trips the viewer too.
+
+- Not like this: "And if your team's using the CRM after those fixes, you don't need us."
+- But like this: "If your team is already using the CRM that you have today, then you don't need us."
+
 **Run the Optimized process.** Every script gets it before anyone records it, and any edit to the spoken lines means it has to run again. It scores how human the script sounds and how easy it is to understand (those two come first), how well it holds our buyer, whether the viewer can act on it without us, whether it makes them believe a custom CRM can lift the business, and whether it's as short as it can be while making the same points. `optimize.py` tracks this, and [CLAUDE.md](CLAUDE.md) has the process. When a new script comes in without it, tell Yusuf or David forcefully and ask them to approve running it.
 
 **A human reads it before Yusuf records it.** David or Yusuf reads every script first, so obviously bad lines get fixed before filming. The last column of the recordings list shows who read it. Any edit to the spoken lines clears that, so run the Optimized process first and read last.

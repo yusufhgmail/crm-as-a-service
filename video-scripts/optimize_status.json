@@ -6,7 +6,8 @@
     "04_hubspot_tier_jump": "Discarded",
     "05_10_reasons_crm_buyers": "Recorded before this rule",
     "12_salesforce_admin_left": "Discarded",
-    "14_your_crm_is_your_business": "Recorded without the final mark"
+    "14_your_crm_is_your_business": "Recorded without the final mark",
+    "15_team_doesnt_use_crm": "Recorded without the final mark"
   },
   "read_exempt": {
     "01_overpay_hubspot": "Recorded before this rule",
@@ -21,7 +22,8 @@
     "12_salesforce_admin_left": "Discarded",
     "10_ten_sales_tools_one_bill": "Recorded",
     "11_build_buy_or_own_crm": "Recorded",
-    "14_your_crm_is_your_business": "Recorded"
+    "14_your_crm_is_your_business": "Recorded",
+    "15_team_doesnt_use_crm": "Recorded"
   },
   "read_by_human": {
     "13_crm_planning_prompt": {
