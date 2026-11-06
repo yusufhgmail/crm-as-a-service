@@ -297,7 +297,7 @@ Advising adds a middle step for companies that do it themselves and get stuck, f
 
 This would let us help everyone who wants to build their own CRM, not only those we can sell a build to. We'd become the trusted partner for all of them, which should mean more trust, more leads and more learning.
 
-**To settle in review:** what the advice includes and what it costs. Video 18 already says we advise, so decide before that video is recorded.
+**To settle in review:** what the advice includes and what it costs. Video 18 is recorded and offers advice and templates, so decide before it's published.
 
 ## Product roadmap
 

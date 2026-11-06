@@ -54,3 +54,17 @@ Strong points he said on camera that the website could market. The videos can us
 **Fit check promise.** Twenty minutes: you tell us your process, and we give you inspiration about what you could build today, tips on where to start, or we build and maintain it for you.
 
 **Check before publishing:** the "0% admin" and automatic Google ads claims need something real to show first. "100 features" is an example, not a measurement.
+
+# Own it without running it (Yusuf, video 18, 6 Nov 2026)
+
+Strong points he said on camera that the website could market.
+
+**You don't have to run it yourself.** "You could have one system built around how your company works that you own and simply pay someone else to keep it running." You don't have to choose between renting a CRM and becoming the CRM department yourself.
+
+**The build is now the short part.** With AI, what decides if a CRM lasts is who keeps it running. That's the part we take on.
+
+**Changes the same day.** "You're not waiting for another company to develop features for some SaaS that they have to serve to everyone."
+
+**Advice from people who've done it.** "At least get advice from someone who has done it many times before." This depends on the build-or-advise idea above.
+
+**Check before publishing:** "same day" needs to be something we really deliver.

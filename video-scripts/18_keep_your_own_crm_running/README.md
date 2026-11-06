@@ -2,9 +2,10 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved by David, 5 Nov 2026
+**Status:** recorded 6 Nov 2026. He kept nearly all of it; the cut list is in the private repo's `videos/RECORDING_REVIEW_2026-11-06_video_18.md`
 
 - [Script on Drive](https://docs.google.com/document/d/1BBR2z8cKxPGnkdMGzEXlNWdtxgjDC2lQ-lH4ukG6wWI/edit)
+- [Camera footage on Drive](https://drive.google.com/drive/folders/1W_DbpVei9szWakgIDgqMuDF88cOwGBtj)
 
 ## Files
 
@@ -14,10 +15,8 @@
 
 ## Not made yet
 
-- `yusuf_lines.md`: only what Yusuf says
 - `proof/`: highlighted screenshots of each live-checked source, taken before filming
 - `social/youtube.md`: YouTube description, chapters, pinned comment, community posts, Shorts
 - `social/facebook.md`: Facebook posts
 - `social/instagram.md`: Instagram carousel and Reels captions
 - `social/tiktok.md`: TikTok captions
-- `footage.md`: link to the raw recording on Drive (video files stay on Drive)
