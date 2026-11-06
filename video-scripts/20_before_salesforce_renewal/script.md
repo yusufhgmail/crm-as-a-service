@@ -247,10 +247,10 @@ Link: https://www.linkedin.com/posts/gabriel-ficht_i-built-our-own-crm-at-spring
 **YUSUF:**
 > You could build your own CRM, like Springland did, but then somebody has to keep it running. And it's much easier to get exactly what you want with a company that's done it many times. That's what we do at my company, CRM From Within. We build a CRM from scratch around how your company sells and delivers, we move your Salesforce data over, and we keep it running. You own the code, there's no long contract, and if you leave, you take everything with you.
 
-**ON SCREEN:** tags beside Yusuf: **We help: 10–50 people** · **Your own way of selling & delivering** · then, smaller: **Not for: standard setups**
+**ON SCREEN:** tags beside Yusuf: **We help: 10+ people** · **Your own way of selling & delivering** · then, smaller: **Not for: standard setups**
 
 **YUSUF:**
-> If you've got ten to fifty people and Salesforce keeps forcing workarounds, that's who we build for. And if Salesforce fits you fine, renew it, on better terms.
+> If you've got at least ten people and Salesforce keeps forcing workarounds, that's who we build for. And if Salesforce fits you fine, renew it, on better terms.
 
 ## 9:09 Free CRM fit check
 

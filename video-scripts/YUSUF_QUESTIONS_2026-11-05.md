@@ -4,9 +4,8 @@ These lines are new in your voice, and nobody has heard you say them. Change or 
 
 # Decisions
 
-1. **"Ten to fifty people":** in videos 14 and 15 you stretched it on camera to "or bigger" and "at least 10 to 50". Should the scripts say that?
-2. **Length:** videos 18 to 22 are 1,460 to 1,620 words, over the 1,300 target, or about nine to ten minutes each. Getting lower means cutting a step or a story.
-3. **Video 18:** the tracker's rule would keep round 1 (47 of 60, 1,616 words). The writer kept round 8 (45 of 60, 1,464 words), because round 1 was the long version. Same text can score 3 or 4 points apart between scorers.
+1. **Length:** videos 18 to 22 are 1,460 to 1,620 words, over the 1,300 target, or about nine to ten minutes each. Getting lower means cutting a step or a story.
+2. **Video 18:** the tracker's rule would keep round 1 (47 of 60, 1,616 words). The writer kept round 8 (45 of 60, 1,464 words), because round 1 was the long version. Same text can score 3 or 4 points apart between scorers.
 
 # Video 16
 

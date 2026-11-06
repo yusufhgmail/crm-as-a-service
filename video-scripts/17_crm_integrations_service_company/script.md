@@ -171,12 +171,12 @@ Link: https://www.linkedin.com/posts/gabriel-ficht_i-built-our-own-crm-at-spring
 
 ## 7:13 What we do
 
-**ON SCREEN:** the board redrawn, one box in the middle with QuickBooks beside it, tag **Built around how you work**. Then tags: **We move your data** · **You own the code** · **No long contract** · smaller: **For 10–50 people**
+**ON SCREEN:** the board redrawn, one box in the middle with QuickBooks beside it, tag **Built around how you work**. Then tags: **We move your data** · **You own the code** · **No long contract** · smaller: **For 10+ people**
 
 **YUSUF:**
 > You can build your own CRM like they did. But somebody has to keep it running. And I think it's much easier to get exactly what you want with a company that's done it many times.
 >
-> That's what we do at my company, CRM From Within. We build you a CRM from scratch around how your company works, and if you keep QuickBooks, we connect it the way you need. We move your data over and we keep it running. You own the code, so if you leave, it all comes with you, and there's no long contract. We do this for companies of ten to fifty people.
+> That's what we do at my company, CRM From Within. We build you a CRM from scratch around how your company works, and if you keep QuickBooks, we connect it the way you need. We move your data over and we keep it running. You own the code, so if you leave, it all comes with you, and there's no long contract. We do this for companies of at least ten people.
 
 ## 7:54 Free CRM fit check
 

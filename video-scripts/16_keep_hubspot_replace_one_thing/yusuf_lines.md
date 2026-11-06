@@ -62,7 +62,7 @@ One mortgage business in our research has already moved its sales off HubSpot. W
 
 A CRM that's sold to everybody needs a lot of features, let's say a hundred, and every customer only uses about three. So you pay for the hundred. With AI, I realized it's now cheaper to build just the three you need, and that's why I sold my old company. And if a company that's done it many times builds those three for you, it's much easier to get exactly what you want.
 
-That's what we do at my company, CRM From Within. We start with one step, and we build a tool for it around how you sell, connect it to your HubSpot and keep it running. Then we do the next step, until you've got a CRM of your own and we've moved your data over. You own the code, and there's no long contract. It's for teams of ten to fifty people.
+That's what we do at my company, CRM From Within. We start with one step, and we build a tool for it around how you sell, connect it to your HubSpot and keep it running. Then we do the next step, until you've got a CRM of your own and we've moved your data over. You own the code, and there's no long contract. It's for teams of at least ten people.
 
 ## Free CRM fit check
 

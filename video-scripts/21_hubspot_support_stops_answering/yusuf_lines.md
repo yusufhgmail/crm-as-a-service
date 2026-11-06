@@ -86,7 +86,7 @@ You could build a CRM like that yourself with AI, but then you're the one who pi
 
 I think it's much easier to get exactly what you want with a company that's done it many times. That's why I started CRM From Within. We build a CRM from scratch around how your team sells and delivers, and AI has made that possible at your size. We move your HubSpot data over and we maintain it, so when something breaks, you talk to the people who wrote it. You own the code, there's no multi-year contract, and if you leave, you take everything with you.
 
-It's for companies of ten to fifty people where a standard CRM just doesn't fit. If HubSpot fits you, keep it.
+It's for companies of at least ten people where a standard CRM just doesn't fit. If HubSpot fits you, keep it.
 
 ## Free CRM fit check
 

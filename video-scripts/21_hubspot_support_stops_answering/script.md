@@ -215,12 +215,12 @@ Link: https://x.com/jxcroff/status/2057275521411543503
 
 ## 7:50 What we do
 
-**ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You talk to who built it** · **You own the code** · then, smaller: **For 10–50 people · standard setup fits? Keep it**
+**ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **You talk to who built it** · **You own the code** · then, smaller: **For 10+ people · standard setup fits? Keep it**
 
 **YUSUF:**
 > I think it's much easier to get exactly what you want with a company that's done it many times. That's why I started CRM From Within. We build a CRM from scratch around how your team sells and delivers, and AI has made that possible at your size. We move your HubSpot data over and we maintain it, so when something breaks, you talk to the people who wrote it. You own the code, there's no multi-year contract, and if you leave, you take everything with you.
 >
-> It's for companies of ten to fifty people where a standard CRM just doesn't fit. If HubSpot fits you, keep it.
+> It's for companies of at least ten people where a standard CRM just doesn't fit. If HubSpot fits you, keep it.
 
 ## 8:32 Free CRM fit check
 

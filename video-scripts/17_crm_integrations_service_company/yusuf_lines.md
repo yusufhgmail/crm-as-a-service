@@ -68,7 +68,7 @@ Springland sells pet products wholesale, and they built theirs in about twenty h
 
 You can build your own CRM like they did. But somebody has to keep it running. And I think it's much easier to get exactly what you want with a company that's done it many times.
 
-That's what we do at my company, CRM From Within. We build you a CRM from scratch around how your company works, and if you keep QuickBooks, we connect it the way you need. We move your data over and we keep it running. You own the code, so if you leave, it all comes with you, and there's no long contract. We do this for companies of ten to fifty people.
+That's what we do at my company, CRM From Within. We build you a CRM from scratch around how your company works, and if you keep QuickBooks, we connect it the way you need. We move your data over and we keep it running. You own the code, so if you leave, it all comes with you, and there's no long contract. We do this for companies of at least ten people.
 
 ## Free CRM fit check
 

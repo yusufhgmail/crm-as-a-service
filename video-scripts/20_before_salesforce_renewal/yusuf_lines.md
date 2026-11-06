@@ -86,7 +86,7 @@ With AI, it's now cheaper to build something that really fits, from scratch, tha
 
 You could build your own CRM, like Springland did, but then somebody has to keep it running. And it's much easier to get exactly what you want with a company that's done it many times. That's what we do at my company, CRM From Within. We build a CRM from scratch around how your company sells and delivers, we move your Salesforce data over, and we keep it running. You own the code, there's no long contract, and if you leave, you take everything with you.
 
-If you've got ten to fifty people and Salesforce keeps forcing workarounds, that's who we build for. And if Salesforce fits you fine, renew it, on better terms.
+If you've got at least ten people and Salesforce keeps forcing workarounds, that's who we build for. And if Salesforce fits you fine, renew it, on better terms.
 
 ## Free CRM fit check
 

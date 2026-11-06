@@ -82,7 +82,7 @@ So if two people at your company can keep your own CRM running, one of them real
 
 ## What we do
 
-You can still own a CRM without keeping it running yourself. And I think it's much easier to get exactly what you want with a company that's done it many times. That's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver, we move your data in, and we keep it running. You own the code, and there's no long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+You can still own a CRM without keeping it running yourself. And I think it's much easier to get exactly what you want with a company that's done it many times. That's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver, we move your data in, and we keep it running. You own the code, and there's no long contract. It's for companies of at least ten people where a standard CRM just doesn't fit.
 
 ## Free CRM fit check
 

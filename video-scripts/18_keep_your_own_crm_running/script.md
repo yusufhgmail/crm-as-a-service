@@ -230,10 +230,10 @@ Tag on item 6: **The real number**
 
 ## 7:55 What we do
 
-**ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **We keep it running** · **You own the code** · **No long contract**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
+**ON SCREEN:** tags, one per phrase: **Built for how you work** · **We move your data** · **We keep it running** · **You own the code** · **No long contract**. Then: **We help: 10+ people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
-> You can still own a CRM without keeping it running yourself. And I think it's much easier to get exactly what you want with a company that's done it many times. That's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver, we move your data in, and we keep it running. You own the code, and there's no long contract. It's for companies of ten to fifty people where a standard CRM just doesn't fit.
+> You can still own a CRM without keeping it running yourself. And I think it's much easier to get exactly what you want with a company that's done it many times. That's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver, we move your data in, and we keep it running. You own the code, and there's no long contract. It's for companies of at least ten people where a standard CRM just doesn't fit.
 
 ## 8:28 Free CRM fit check
 

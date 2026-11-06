@@ -286,12 +286,12 @@ Link: https://www.facebook.com/nickydigital/posts/pfbid0262uPZyn4ysys5cCG3sbxDJ2
 
 ## 8:33 What we do
 
-**ON SCREEN:** tags, one per phrase: **Built while you're on HubSpot** · **We move your data** · **You own the code** · **No long contract** · **Leave with everything**. Then: **We help: 10–50 people** · smaller: **Not for: standard setups**
+**ON SCREEN:** tags, one per phrase: **Built while you're on HubSpot** · **We move your data** · **You own the code** · **No long contract** · **Leave with everything**. Then: **We help: 10+ people** · smaller: **Not for: standard setups**
 
 **YUSUF:**
 > You can build your own CRM, like he did. But somebody has to move your data and keep it running. And I think it's much easier to get exactly what you want, without all the bloat, with a company that's done it many times.
 >
-> That's what we do at my company, CRM From Within. We build a CRM from scratch around how your team sells and delivers, while you're still on HubSpot. With AI, I think it's now cheaper to build just what you need. We move every note, call and file over, and we keep it running. You own the code and there's no long contract, so if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
+> That's what we do at my company, CRM From Within. We build a CRM from scratch around how your team sells and delivers, while you're still on HubSpot. With AI, I think it's now cheaper to build just what you need. We move every note, call and file over, and we keep it running. You own the code and there's no long contract, so if you leave, you take everything with you. It's made for companies of at least ten people where HubSpot's standard setup keeps getting in the way.
 
 ## 9:25 Free CRM fit check
 

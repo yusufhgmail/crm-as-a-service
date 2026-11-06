@@ -78,7 +78,7 @@ You won't get that by switching to another standard CRM. That's when I think you
 
 You can build your own CRM with AI, like Springland did. But somebody has to fix it when it breaks at two in the morning. It's much easier to get exactly what you want, without all the bloat, with a company that's done it many times.
 
-That's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver. AI has made that affordable at your size. We move your data over, and we keep it running. You own the code, there's no long contract, and if you leave, you take everything. It's for companies of ten to fifty people. If a standard CRM fits, keep it.
+That's what we do at my company, CRM From Within. We build a CRM from scratch around how you sell and deliver. AI has made that affordable at your size. We move your data over, and we keep it running. You own the code, there's no long contract, and if you leave, you take everything. It's for companies of at least ten people. If a standard CRM fits, keep it.
 
 ## Free CRM fit check
 

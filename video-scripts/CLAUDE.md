@@ -36,7 +36,7 @@ The process, in Yusuf's words:
      - Is the conclusion said in plain words? Name the thing instead of "that" or "yours".
        - Not like this: "If that's you, and you're also running the company, I'd stick to the spreadsheet."
        - But like this: "If you're the one who'd do that, and you're also running your company, it's probably not the best idea."
-   - **Interest:** captures and holds our buyer's interest: a sales manager or a CEO of a 10-50 person company paying real money for its CRM.
+   - **Interest:** captures and holds our buyer's interest: a sales manager or a CEO of a company of at least ten people paying real money for its CRM.
      - Does every section move the video's question forward? "The whole next section completely irrelevant." If it doesn't help the viewer decide or act, it goes, however true it is.
      - Is every example recent? "What the hell are you bringing up examples from 2016." A year that makes a story sound old fails.
      - Does the video deliver everything it promises at the start?

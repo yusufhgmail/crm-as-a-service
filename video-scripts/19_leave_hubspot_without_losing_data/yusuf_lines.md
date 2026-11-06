@@ -108,7 +108,7 @@ And one guy on Facebook cancelled a HubSpot account that cost him five thousand 
 
 You can build your own CRM, like he did. But somebody has to move your data and keep it running. And I think it's much easier to get exactly what you want, without all the bloat, with a company that's done it many times.
 
-That's what we do at my company, CRM From Within. We build a CRM from scratch around how your team sells and delivers, while you're still on HubSpot. With AI, I think it's now cheaper to build just what you need. We move every note, call and file over, and we keep it running. You own the code and there's no long contract, so if you leave, you take everything with you. It's made for companies of ten to fifty people where HubSpot's standard setup keeps getting in the way.
+That's what we do at my company, CRM From Within. We build a CRM from scratch around how your team sells and delivers, while you're still on HubSpot. With AI, I think it's now cheaper to build just what you need. We move every note, call and file over, and we keep it running. You own the code and there's no long contract, so if you leave, you take everything with you. It's made for companies of at least ten people where HubSpot's standard setup keeps getting in the way.
 
 ## Free CRM fit check
 
