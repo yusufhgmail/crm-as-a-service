@@ -6,11 +6,11 @@ Run from anywhere:
   python3 video-scripts/optimize.py tick NAME "7,6,6,7,5,6 8,8,7,8,7,7 8,8,7,8,6,7" [FILE] [--approved]
                                                     record the finished rounds: one human,easy,interest,value,belief,shorten group per round (FILE: a draft's yusuf_lines.md)
   python3 video-scripts/optimize.py read NAME PERSON    record that PERSON read and approved the script (only when they say so)
-  python3 video-scripts/optimize.py sync            clear marks on edited scripts and update the README columns
+  python3 video-scripts/optimize.py sync            clear read and old-check marks on edited scripts and update the README columns
   python3 video-scripts/optimize.py check           fail if any script has had neither the Optimized process nor the old human check
   python3 video-scripts/optimize.py nag [--hook]    print the loud warning, if there is anything to warn about
 
-The total is human + easy to understand + interest + value + belief + shorten, out of 60. The round to keep has the highest human + easy to understand, then the highest total, then comes latest. Marks from before 5 Nov 2026 used five scores with human doubled and show as "old score" until the script is rescored. Marks from before the shorten score had value per word in its place. Every mark holds a fingerprint of yusuf_lines.md, so any edit to the spoken lines clears it.
+The total is human + easy to understand + interest + value + belief + shorten, out of 60. The round to keep has the highest human + easy to understand, then the highest total, then comes latest. Marks from before 5 Nov 2026 used five scores with human doubled and show as "old score" until the script is rescored. Marks from before the shorten score had value per word in its place. An Optimized mark stays when the spoken lines are edited, so edits in human review don't need another run. Read and old-check marks hold a fingerprint of yusuf_lines.md, so any edit to the spoken lines clears them.
 """
 import datetime
 import hashlib
@@ -50,10 +50,9 @@ def state(db, name):
     """Return 'optimized', 'old check', 'exempt' or 'not run'."""
     if name in db["exempt"]:
         return "exempt"
-    sha = fingerprint(spoken(name))
-    if db["optimized"].get(name, {}).get("sha") == sha:
+    if name in db["optimized"]:
         return "optimized"
-    return "old check" if db["humanized"].get(name, {}).get("sha") == sha else "not run"
+    return "old check" if db["humanized"].get(name, {}).get("sha") == fingerprint(spoken(name)) else "not run"
 
 
 def total(scores):
@@ -92,7 +91,7 @@ def unread(db):
 
 def sync():
     db = load()
-    for ticks in (db["optimized"], db["humanized"], db["read_by_human"]):
+    for ticks in (db["humanized"], db["read_by_human"]):
         for name in list(ticks):
             if name in videos() and ticks[name]["sha"] != fingerprint(spoken(name)):
                 del ticks[name]
@@ -137,7 +136,7 @@ def main():
         good = min(kept(rounds)[:2]) >= 6  # video 13, which Yusuf approved, scored 6 on both
         if not (flat and good) and len(rounds) < 6 and "--approved" not in sys.argv:
             sys.exit("Not marked: the rounds only stop once Human and Easy are both at least 6 and two rounds in a row haven't raised Human, Easy and Shorten, after six rounds, or when Yusuf approves the script (--approved).")
-        db["optimized"][name] = {"sha": fingerprint(path or spoken(name)), "rounds": rounds, "totals": totals, "best": totals[-1], "date": datetime.date.today().isoformat()}
+        db["optimized"][name] = {"rounds": rounds, "totals": totals, "best": totals[-1], "date": datetime.date.today().isoformat()}
         save(db)
         sync()
         print("optimized", name, totals)
