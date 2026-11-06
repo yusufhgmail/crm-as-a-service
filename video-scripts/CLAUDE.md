@@ -39,13 +39,12 @@ The process, in Yusuf's words:
    - **Usable value:** can the viewer act on it today without us? Entertainment viewers don't turn into education viewers, so go all in on teaching.
      - Does each step come out of what was just said, so the viewer knows why they're doing it? A task dropped in after a story fails.
      - Does it say how to decide? "If it's just one or two systems, you can probably do it" beats "count the systems".
-     - Is each step said once? Repeating the homework at the end fails.
    - **Belief:** makes that CEO or sales manager believe that a custom-built CRM can lift their business to new heights. Not just saving some money, but actually making their business able to solve some bottleneck or do something valuable that has material impact.
      - Does the proof stand on its own? "That's one comment, and I can't check it." and "We never got to test that." both fail: "that sounds incredibly like AI" and "what's the point of writing that?" If a source is too weak to stand behind, cut it. If it's strong enough, say who said it and move on.
      - Does the story show a business getting better? A story about why someone couldn't start builds no belief.
      - Does the reasoning lead the viewer to owning a CRM? Yusuf's line: "Whereas if you were to build something from ground up with an experienced company that's done it multiple times, it's going to be much easier to get exactly what you want without all the bloat." A pile of cases doesn't do that.
    - **Shorten:** is the script as short as it can be while making the same points? "Remove unnecessary paragraphs that don't add value. Reformulate sentences and paragraphs that can be refactored so that they're shorter and easier to understand while getting across the same value / point." (Yusuf, 5 Nov 2026)
-     - Can this paragraph go? If the video still makes its point without it, it fails.
+     - Does each section have its own job? Name each in a few words. No job: cut it. A job or point said twice: merge them.
      - Can this sentence or paragraph say the same thing in fewer, simpler words? If a clearly shorter version works as well, it fails. Give that version.
      - Is the shorter version still the same point? A cut that loses a fact, a step in the reasoning or a joining word lowers this score too.
 2. Add it up: Human + Easy to understand + Interest + Usable value + Belief + Shorten, out of 60. Stop after two rounds in a row where Human, Easy to understand and Shorten together don't go up, because one flat round can be chance.
