@@ -126,9 +126,12 @@ The point after a story has to be what happened in that story.
 
 - Not like this: "I built a CRM SaaS company, and I sold it. And we studied what more than five thousand CRM buyers say."
 - But like this: "I built a CRM SaaS company, and I sold it. Now, at my company, CRM From Within, we've studied what more than five thousand CRM buyers say."
-**Don't say what's bad about his old company.** He doesn't say it ran on another company's software, or that this cost it customers. It adds nothing for the viewer. His old company is credibility: what he built, who it served, what he learned.
+**His old company always looks good.** "I can't make my old company look bad. I don't want to be seen as having sold a crappy product that nobody uses." (Yusuf, 5 Nov 2026) Never say its customers stopped using it, cancelled or complained, that it missed something, that customers found its problems first, or that it ran on another company's software. His old company is credibility: what he built, who it served, what he learned. Make the same point as a truth about every CRM, or as something he learned.
 
-- Not like this: "And we didn't own it either. Our product ran on top of another company's software, and that cost us customers."
+- Not like this: "At my old company, our notes on one customer said their sales team used the CRM. Two years later they cancelled."
+- But like this: "A sales team can stop using a CRM, and nobody says anything. ... Me and my team set up CRMs for hundreds of companies, so I've seen this happen, and I've seen how to fix it."
+- Not like this: "At my old company, we often found out from customers that a connection had broken."
+- But like this: "Setting up CRMs for hundreds of companies taught me that connections are what break most, on any CRM."
 
 **His old company's numbers show what's true of every rented CRM.** Say the general truth first, so it doesn't sound like his product was bad.
 

@@ -34,7 +34,7 @@ That only replaces the first call, so they could've renewed HubSpot and just add
 
 ## What can go wrong with a small tool
 
-What usually goes wrong with a small tool is the connection to HubSpot. At my old company, we often found out from customers that a connection had broken. For example, one company we worked with had built its own quoting software next to the CRM. When that connection failed, they just couldn't send quotes.
+What usually goes wrong with a small tool is the connection to HubSpot. Setting up CRMs for hundreds of companies taught me that connections are what break most, on any CRM. For example, one company we worked with had built its own quoting software next to the CRM. When that connection failed, they just couldn't send quotes.
 
 The more systems your tool connects to, the more can break. So count them. If it's one or two, you can probably do it. If it's more than that, make the tool do less, so it only needs one or two.
 

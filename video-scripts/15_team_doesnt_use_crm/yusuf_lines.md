@@ -4,9 +4,9 @@
 
 ## Proof
 
-At my old company, our notes on one customer said their sales team used the CRM. Two years later they cancelled, and our notes said they weren't using it at all. By then nobody was adding deals, and some of their deals were in Excel.
+A sales team can stop using a CRM, and nobody says anything. The bill still gets paid, but nobody's adding deals, and some of the deals are in Excel.
 
-I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and we still didn't see that this team had stopped using it.
+I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, so I've seen this happen, and I've seen how to fix it.
 
 ## Who it's for
 

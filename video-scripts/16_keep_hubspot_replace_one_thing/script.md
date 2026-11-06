@@ -101,7 +101,7 @@ Pair title 1 with thumbnail 1 first; test 3 with 3, and 4 with 4.
 **ON SCREEN:** section title: **What can go wrong**. The line between HubSpot and the small tool, with a red break in it. Red tag: **The connection breaks**. Tag: **Example: own quoting software** (no name). Then: **Connection fails → no quotes go out**
 
 **YUSUF:**
-> What usually goes wrong with a small tool is the connection to HubSpot. At my old company, we often found out from customers that a connection had broken. For example, one company we worked with had built its own quoting software next to the CRM. When that connection failed, they just couldn't send quotes.
+> What usually goes wrong with a small tool is the connection to HubSpot. Setting up CRMs for hundreds of companies taught me that connections are what break most, on any CRM. For example, one company we worked with had built its own quoting software next to the CRM. When that connection failed, they just couldn't send quotes.
 
 **ON SCREEN:** tag: **Count the systems**. Then: **1 or 2 systems? You can probably do it · More? Make the tool do less**
 

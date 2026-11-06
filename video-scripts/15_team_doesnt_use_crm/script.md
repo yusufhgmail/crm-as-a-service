@@ -44,12 +44,12 @@ Pair title 1 with thumbnail 1; test 2 with 2, 4 with 5.
 
 ## 0:00 Proof
 
-**ON SCREEN:** Yusuf on camera. Tag: **Example from Yusuf's old company** (no name). As he describes it: an empty deals board on one side, a full spreadsheet on the other. Tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
+**ON SCREEN:** Yusuf on camera. As he describes it: an empty deals board on one side, a full spreadsheet on the other. Tag only: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF** (straight to camera):
-> At my old company, our notes on one customer said their sales team used the CRM. Two years later they cancelled, and our notes said they weren't using it at all. By then nobody was adding deals, and some of their deals were in Excel.
+> A sales team can stop using a CRM, and nobody says anything. The bill still gets paid, but nobody's adding deals, and some of the deals are in Excel.
 >
-> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and we still didn't see that this team had stopped using it.
+> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, so I've seen this happen, and I've seen how to fix it.
 
 ## 0:30 Who it's for
 
@@ -258,7 +258,7 @@ Each short opens on its own first line (a claim, a count or something you can se
 
 | # | From | Length | Opens on | Caption on screen |
 |---|---|---|---|---|
-| 1 | 0:00–0:20 | 20s | the empty board ("At my old company, our notes on one customer said their sales team used the CRM.") | "The CRM is paid for. The board is empty." |
+| 1 | 0:00–0:20 | 20s | the empty board ("A sales team can stop using a CRM, and nobody says anything.") | "The CRM is paid for. The board is empty." |
 | 2 | 0:40–1:00 | 20s | the quote card ("One business owner on a German Reddit forum brought in HubSpot…") | "I've got it all in my head" |
 | 3 | 1:30–2:00 | 30s | **127 fields · top seller uses 3** ("The biggest reason is too many fields…") | "Who your CRM fields are really for" |
 | 4 | 2:00–2:25 | 20s | the scale: **30–40 minutes a day · nothing back** ("And all those fields take time.") | "125 hours a year, for one rep" |
@@ -277,7 +277,7 @@ Each short opens on its own first line (a claim, a count or something you can se
 - HubSpot tasks: "Create a To-do" checkbox when logging a call, with a preset or custom due date, "All products and plans": https://knowledge.hubspot.com/tasks/use-tasks (checked 5 Nov 2026)
 - Demo portal "upbridge" (portal 52223654): seven default deal stages, read via the HubSpot connector for video 6 (27 Oct 2026); renamed stages and audit rows are worked examples.
 - Yusuf's 4 Nov 2026 interview, `original_sources/2026-11-04_interview_experience_videos.md` (confirmed, no client named): the recruitment firm for salespeople (two processes, a recruit linked to each client's project, custom fields and two pipelines, leadership approval, automations, training stage by stage) → When the CRM can't do the job; the commonest rollout mistake, "What can we cut in the CRM to support our process with as little admin as possible?" → Reason 1.
-- Checked against his records 5 Nov 2026: the handover note is from 2022 and the cancellation note from 2024, deals kept being created until late 2023, and one pipeline was in Excel. The second line is his own general conclusion, in his later business plan. From Yusuf's records, `videos/YUSUF_ANSWERS_2026-11-04.md` video 15 Q1 and Q2, confirmed by Yusuf 5 Nov 2026: the customer whose handover note said sales used the CRM, "They weren't using our CRM at all" at cancellation, and that his old company missed it → 0:00; "SMBs simply don't have time to administer and log data" → Reason 1.
+- The opening is his own general conclusion, in his later business plan, and his records from `videos/YUSUF_ANSWERS_2026-11-04.md` video 15 Q1 and Q2, confirmed by Yusuf 5 Nov 2026. No single customer is described.
 - The owner whose salespeople entered nothing, r/selbststaendig (15 May 2026; German, our translation; saved copy, Reddit blocks live checks): "wir haben vor einem jahr ein crm eingeführt"; "aber die verkäufer tragen nichts ein"; "letzte woche ist wieder ein deal geplatzt. keiner wusste, dass der kunde seit drei wochen auf ein angebot wartet. stand nirgendwo."; "ich hab alles im kopf" and "das kostet nur zeit"; the owner's later note: "Automatische Erinnerungen, E-Mail-Erfassung, Follow-ups.. HubSpot kann das alles, ich habe es nur nie richtig konfiguriert.": https://www.reddit.com/r/selbststaendig/comments/1tdro9v/crmeinführungsprobleme_meine_verkäufer_tragen/
 - 127 custom fields, @miriahmDong, founder and investor, on X (18 Apr 2026; saved copy, X blocks live checks): "our salesforce has 127 custom fields. our top AE uses 3. her deals close. the other 124 exist so ops can build a dashboard no one opens.": https://x.com/miriahmDong/status/2045612802430394864
 - The rep, r/CRM (22 Apr 2026; saved copy): "That's like 30-40 minutes a day of admin."; "My manager just opens the dashboard on Monday and asks me to explain the same numbers I typed in on Friday from memory."; "It just takes and takes": https://www.reddit.com/r/CRM/comments/1sshw3u/am_i_crazy_or_is_my_crm_literally_making_me_worse/

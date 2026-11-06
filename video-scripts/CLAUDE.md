@@ -40,6 +40,7 @@ The process, in Yusuf's words:
      - Does each step come out of what was just said, so the viewer knows why they're doing it? A task dropped in after a story fails.
      - Does it say how to decide? "If it's just one or two systems, you can probably do it" beats "count the systems".
    - **Belief:** makes that CEO or sales manager believe that a custom-built CRM can lift their business to new heights. Not just saving some money, but actually making their business able to solve some bottleneck or do something valuable that has material impact.
+     - Does his old company look good? A line that suggests its product failed, or that it missed something, fails. See SCRIPT_RULES.md.
      - Does the proof stand on its own? "That's one comment, and I can't check it." and "We never got to test that." both fail: "that sounds incredibly like AI" and "what's the point of writing that?" If a source is too weak to stand behind, cut it. If it's strong enough, say who said it and move on.
      - Does the story show a business getting better? A story about why someone couldn't start builds no belief.
      - Does the reasoning lead the viewer to owning a CRM? Yusuf's line: "Whereas if you were to build something from ground up with an experienced company that's done it multiple times, it's going to be much easier to get exactly what you want without all the bloat." A pile of cases doesn't do that.
