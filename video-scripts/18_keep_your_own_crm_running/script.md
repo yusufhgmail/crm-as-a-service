@@ -58,7 +58,7 @@ Pair title 1 with thumbnail 1 first; test 2 with 2, and 3 with 4.
 **ON SCREEN:** tag as he says it: **Built & sold a CRM SaaS · Hundreds of CRM setups**. Then a timeline on the whiteboard: **Build** (short, green) → **Year 1 · Year 2 · Year 3** (long, red). Tag over the long part: **Where the work is**
 
 **YUSUF:**
-> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you. So I can tell you that even if you manage to build a good CRM, it's really expensive to maintain it.
+> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you, or advises companies who want to build their own. So I can tell you that even if you manage to build a good CRM, it's really expensive to maintain it.
 
 **ON SCREEN:** on "six things", Yusuf writes the upkeep sheet's six lines; a typed version sits beside it:
 1. Who keeps it running

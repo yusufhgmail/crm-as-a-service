@@ -10,7 +10,7 @@ Greg Berry runs Municibid, which does government surplus auctions. He built his 
 
 Greg says they maintain theirs themselves, and it runs like a charm. So I think the difference is who had the time to keep it running.
 
-I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you. So I can tell you that even if you manage to build a good CRM, it's really expensive to maintain it.
+I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you, or advises companies who want to build their own. So I can tell you that even if you manage to build a good CRM, it's really expensive to maintain it.
 
 So if you're thinking about building your own CRM, or you've already got one, here are six things to check. They'll show you if you'd end up like Greg or like Nick. And the last one tells you what your own CRM really costs a year.
 

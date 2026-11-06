@@ -1,6 +1,6 @@
 # CRM From Within strategy
 
-**Updated:** 2026-09-15
+**Updated:** 2026-11-06
 **Status:** Candidate product direction. The audience, importance of the problem, advantage over alternatives and ability to deliver at scale are the next questions to validate.
 **Current plan (2026-10-25):** [`plans/2026-10-25-crm-agency-plan.md`](plans/2026-10-25-crm-agency-plan.md). Where this document conflicts with it (audience, free design-partner builds, CRM From Within versus Company Native), the plan wins.
 
@@ -286,6 +286,14 @@ The working model is:
 - **Migration or owned deployment:** routed to Company Native when the company is replacing an established system or requires full code and infrastructure ownership.
 
 The free first version should create learning and demonstrate value. It must not become unlimited unpaid consultancy. The free product is a narrow acquisition route; the company-specific adaptation and expert responsibility are the paid value.
+
+## Idea for review: build it for you, or advise you
+
+**Added 2026-11-06 (Yusuf's idea, not decided).** We build a custom CRM for you, or we advise companies who want to build and maintain their own.
+
+This would let us help everyone who wants to build their own CRM, not only those we can sell a build to. We'd become the trusted partner for all of them, which should mean more trust, more leads and more learning.
+
+**To settle in review:** what the advice includes and what it costs. Video 18 already says we advise, so decide before that video is recorded.
 
 ## Product roadmap
 
