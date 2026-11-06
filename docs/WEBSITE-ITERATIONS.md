@@ -1,5 +1,11 @@
 # CRM From Within website iterations
 
+## CRM agency rewrite: comparison page — 2026-11-05
+
+The [design review](design-reviews/2026-11-05-crm-agency-site/index.html) compares the live page with the 2026-10-25 CRM agency plan in seven decisions. Nothing is approved or built yet.
+
+The live crmfromwithin.com still shows the Company Native replacement page, and that text isn't in this repo. `main` holds an older adaptive-CRM page, and the last deployment Cloudflare lists is 15 September 2026. Deploying `main` as it stands would replace the live page with that older version, so don't deploy before the rewrite.
+
 ## Managed adaptive CRM for teams without a CRM administrator — 2026-08-31
 
 The page now sells the outcome rather than customer-led customization: a production-ready CRM that learns how an established SME works, proposes useful changes and is safely adapted by CRM From Within. The customer keeps doing the work, answers focused questions when intent is unclear and approves important changes. CRM From Within handles the design, code, testing, deployment and rollback. The best-fit audience is an established SME with a meaningful sales or customer-delivery process and roughly 5–30 customer-facing employees, but no desire to employ a CRM administrator; that size is a starting hypothesis rather than a hard limit.

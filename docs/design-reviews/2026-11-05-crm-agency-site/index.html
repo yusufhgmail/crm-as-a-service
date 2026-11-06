@@ -1,0 +1,634 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>CRM site review</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0e1819;
+      --panel: #152425;
+      --panel-2: #1c2f30;
+      --text: #eef1ec;
+      --muted: #a9b8b3;
+      --rule: #2e4344;
+      --rule-strong: #4a6263;
+      --accent: #8be6aa;
+      --coral: #ff9473;
+      --serif: Georgia, "Times New Roman", serif;
+      --sans: Geist, Arial, Helvetica, sans-serif;
+      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--sans); -webkit-font-smoothing: antialiased; }
+    a { color: inherit; }
+    button { font: inherit; cursor: pointer; }
+    :focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+
+    .status { display: flex; flex-wrap: wrap; justify-content: center; gap: .3rem 1rem; padding: .6rem 1.25rem; background: #0a1213; color: var(--muted); font: 700 .68rem/1.3 var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+    .status span:last-child { color: var(--accent); }
+
+    .review-header { position: sticky; z-index: 10; top: 0; display: flex; justify-content: space-between; align-items: center; gap: 1rem; min-height: 3.6rem; padding: 0 clamp(1rem, 4vw, 3rem); border-bottom: 1px solid var(--rule); background: rgba(14, 24, 25, .94); backdrop-filter: blur(12px); }
+    .review-header strong { font-size: .9rem; white-space: nowrap; }
+    .review-header nav { display: flex; gap: .95rem; font-size: .8rem; color: var(--muted); }
+    .review-header nav a { text-decoration: none; }
+    .review-header nav a:hover { color: var(--text); }
+
+    main { max-width: 96rem; margin: 0 auto; padding: 0 clamp(1rem, 4vw, 3rem) 6rem; }
+    .review-intro { padding: clamp(2.5rem, 5vw, 4rem) 0 0; }
+    .review-intro h1 { max-width: 34ch; margin: 0; font: 400 clamp(2rem, 3.6vw, 3rem)/1.1 var(--serif); letter-spacing: -.02em; }
+    .review-intro > p { max-width: 62ch; margin: 1rem 0 0; color: var(--muted); font-size: 1.05rem; line-height: 1.55; }
+    .intro-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); gap: .8rem; margin-top: 1.6rem; }
+    .intro-facts p { margin: 0; padding: 1rem 1.1rem; border: 1px solid var(--rule); border-radius: .5rem; background: var(--panel); color: var(--muted); font-size: .95rem; line-height: 1.5; }
+    .intro-facts strong { color: var(--text); }
+
+    .change { scroll-margin-top: 5rem; margin-top: clamp(3rem, 6vw, 5rem); padding-top: 1.1rem; border-top: 1px solid var(--rule-strong); }
+    .change-heading { display: grid; grid-template-columns: minmax(0, 1fr) minmax(16rem, .8fr); gap: 1rem clamp(1.5rem, 4vw, 3rem); align-items: start; margin-bottom: 1.5rem; }
+    .change-number { margin: 0 0 .5rem; color: var(--accent); font: 700 .7rem/1.3 var(--mono); letter-spacing: .1em; text-transform: uppercase; }
+    .change-heading h2 { margin: 0; font: 400 clamp(1.6rem, 2.6vw, 2.2rem)/1.15 var(--serif); letter-spacing: -.015em; }
+    .change-reason { margin: .7rem 0 0; color: var(--muted); font-size: 1rem; line-height: 1.55; }
+    .recommendation { margin: 0; padding: 1rem 1.1rem; border-left: 3px solid var(--accent); background: var(--panel-2); font-size: .95rem; line-height: 1.5; }
+    .recommendation strong { display: block; margin-bottom: .3rem; color: var(--accent); font: 700 .68rem/1.3 var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+    .approval-badge { display: inline-block; margin-left: .7rem; padding: .25rem .45rem; background: var(--accent); color: #0e1819; font-size: .62rem; letter-spacing: .08em; }
+
+    .comparison { border: 1px solid var(--rule-strong); border-radius: .5rem; overflow: hidden; background: var(--panel); }
+    .tabs { display: flex; align-items: stretch; overflow-x: auto; border-bottom: 1px solid var(--rule-strong); }
+    .tabs button { flex: 1 0 auto; min-width: 7.5rem; padding: .7rem 1rem; border: 0; border-right: 1px solid var(--rule); background: transparent; color: var(--muted); font-size: .85rem; font-weight: 700; text-align: left; }
+    .tabs button:last-child { border-right: 0; }
+    .tabs button[aria-selected="true"] { background: var(--text); color: #0e1819; }
+    .tabs button span { display: block; margin-top: .15rem; font: 400 .66rem/1.3 var(--mono); letter-spacing: .04em; opacity: .8; }
+
+    .views { padding: clamp(.6rem, 1.5vw, 1rem); }
+    .view { display: none; min-width: 0; }
+    .views[data-mode="today"] .view[data-view="today"],
+    .views[data-mode="proposed"] .view[data-view="proposed"],
+    .views[data-mode="second"] .view[data-view="second"],
+    .views[data-mode="reference"] .view[data-view="reference"] { display: block; }
+    .views[data-mode="all"] { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr)); gap: 1rem; align-items: start; }
+    .views[data-mode="all"] .view { display: block; }
+
+    .mock-window { min-width: 0; overflow: hidden; border: 1px solid var(--rule-strong); border-radius: .35rem; background: #f4f1e9; }
+    .mock-browser { display: flex; justify-content: space-between; align-items: center; gap: .6rem; min-height: 1.9rem; padding: .3rem .6rem; background: var(--panel-2); }
+    .mock-label { color: var(--text); font: 700 .66rem/1.2 var(--mono); letter-spacing: .06em; text-transform: uppercase; }
+    .mock-browser code { color: var(--muted); font: 400 .66rem/1.2 var(--mono); white-space: nowrap; }
+    .view-caption { margin: .6rem .15rem .2rem; color: var(--muted); font-size: .9rem; line-height: 1.45; }
+    .view-caption strong { color: var(--text); }
+
+    .frame { container-type: inline-size; overflow: hidden; background: #f4f1e9; }
+    .frame img { display: block; width: 100%; height: auto; }
+    .frame-small img { width: 62%; margin: 2.4rem auto; }
+
+    /* Mockups use the live site's colours and fonts. --u is one pixel of a 1280-wide page, so a mockup shrinks exactly like the screenshot beside it. */
+    .site { --u: calc(100cqw / 1280); --h1: 74; --h2: 52; --ink: #102b2c; --soft: #335151; --paper: #f4f1e9; --cream: #fbfaf6; --line: #d9ddd5; --mint: #b9f6ca; --orange: #ff7048; --orange-text: #a83b21;
+      background: var(--paper); color: var(--ink); font-family: var(--sans); font-size: calc(var(--u) * 15); line-height: 1.5; }
+    .site p { margin: 0; }
+    .s-pad { padding: calc(var(--u) * 84) calc(var(--u) * 56); }
+    .s-nav { display: flex; align-items: center; justify-content: space-between; gap: calc(var(--u) * 20); margin: 0 calc(var(--u) * 50); padding: calc(var(--u) * 22) 0; border-bottom: 1px solid rgba(16,43,44,.14); }
+    .s-brand { display: flex; align-items: center; gap: calc(var(--u) * 10); font-size: calc(var(--u) * 17); font-weight: 800; letter-spacing: -.03em; }
+    .s-brand img { width: calc(var(--u) * 32); height: calc(var(--u) * 32); }
+    .s-links { display: flex; gap: calc(var(--u) * 32); font-size: calc(var(--u) * 14); font-weight: 650; }
+    .s-btn { display: inline-flex; align-items: center; justify-content: center; gap: calc(var(--u) * 10); border-radius: calc(var(--u) * 7); font-weight: 750; white-space: nowrap; }
+    .s-btn-dark { padding: calc(var(--u) * 11) calc(var(--u) * 18); background: var(--ink); color: #fff; font-size: calc(var(--u) * 13); }
+    .s-btn-main { padding: calc(var(--u) * 17) calc(var(--u) * 25); background: var(--orange); color: var(--ink); font-size: calc(var(--u) * 15); box-shadow: 0 calc(var(--u) * 9) calc(var(--u) * 28) rgba(201,70,34,.2); }
+    .s-link { padding-bottom: calc(var(--u) * 4); border-bottom: 1px solid rgba(16,43,44,.38); font-size: calc(var(--u) * 14); font-weight: 750; }
+    .s-hero { display: grid; grid-template-columns: 1.02fr .98fr; align-items: center; gap: calc(var(--u) * 74); min-height: calc(var(--u) * 800); padding: calc(var(--u) * 48) calc(var(--u) * 50) calc(var(--u) * 60); }
+    .s-eyebrow { display: flex; align-items: center; gap: calc(var(--u) * 10); margin-bottom: calc(var(--u) * 24) !important; color: #466461; font-size: calc(var(--u) * 12); font-weight: 800; letter-spacing: .09em; text-transform: uppercase; }
+    .s-eyebrow i { width: calc(var(--u) * 21); height: calc(var(--u) * 2); background: var(--orange); }
+    .s-h1 { font-family: var(--serif); font-size: calc(var(--u) * var(--h1)); font-weight: 500; letter-spacing: -.05em; line-height: 1; }
+    .s-h1 em, .s-h2 em { color: var(--orange-text); font-style: italic; }
+    .s-lead { margin-top: calc(var(--u) * 28) !important; color: var(--soft); font-size: calc(var(--u) * 19); line-height: 1.55; letter-spacing: -.01em; }
+    .s-actions { display: flex; flex-wrap: wrap; align-items: center; gap: calc(var(--u) * 24); margin-top: calc(var(--u) * 34); }
+    .s-promise { margin-top: calc(var(--u) * 18) !important; color: #536d69; font-size: calc(var(--u) * 12.5); line-height: 1.55; }
+    .s-promise b { color: #2e9156; }
+    .s-proof { display: flex; align-items: center; gap: calc(var(--u) * 13); margin-top: calc(var(--u) * 26); color: #526966; font-size: calc(var(--u) * 13); line-height: 1.45; }
+    .s-proof strong { color: var(--ink); }
+    .s-proof i { flex: none; display: grid; place-items: center; width: calc(var(--u) * 40); height: calc(var(--u) * 40); border-radius: 50%; background: var(--ink); color: #fff; font-size: calc(var(--u) * 11); font-style: normal; font-weight: 800; }
+
+    .s-card { overflow: hidden; border: 1px solid #cbd4ce; border-radius: calc(var(--u) * 16); background: var(--cream); box-shadow: 0 calc(var(--u) * 30) calc(var(--u) * 70) rgba(16,43,44,.14); transform: rotate(1deg); }
+    .s-card-head { display: flex; justify-content: space-between; align-items: center; padding: calc(var(--u) * 18) calc(var(--u) * 21); border-bottom: 1px solid var(--line); background: #fff; font-size: calc(var(--u) * 13); font-weight: 800; }
+    .s-card-head span { color: #526966; font-size: calc(var(--u) * 10); letter-spacing: .1em; }
+    .s-rows { padding: calc(var(--u) * 16) calc(var(--u) * 20); }
+    .s-row { display: grid; grid-template-columns: 1fr auto; gap: calc(var(--u) * 2) calc(var(--u) * 12); align-items: center; margin-bottom: calc(var(--u) * 11); padding: calc(var(--u) * 13) calc(var(--u) * 15); border: 1px solid #dfe2dc; border-radius: calc(var(--u) * 10); background: #fff; }
+    .s-row strong { font-size: calc(var(--u) * 14.5); }
+    .s-row small { grid-column: 1; color: #6b7e7b; font-size: calc(var(--u) * 12); }
+    .s-row b { grid-row: 1 / 3; grid-column: 2; padding: calc(var(--u) * 5) calc(var(--u) * 9); border-radius: calc(var(--u) * 5); background: #e8fbed; color: #27834b; font-size: calc(var(--u) * 11); font-weight: 800; }
+    .s-row b.after { background: #ffe9e1; color: var(--orange-text); }
+    .s-card-foot { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--line); background: #fff; color: #5e716e; font-size: calc(var(--u) * 10.5); font-weight: 800; letter-spacing: .03em; text-align: center; text-transform: uppercase; }
+    .s-card-foot span { padding: calc(var(--u) * 15) calc(var(--u) * 6); }
+    .s-card-foot span + span { border-left: 1px solid var(--line); }
+
+    .s-kicker { margin-bottom: calc(var(--u) * 18) !important; color: #47625f; font-size: calc(var(--u) * 11.5); font-weight: 900; letter-spacing: .14em; text-transform: uppercase; }
+    .s-h2 { max-width: calc(var(--u) * 900); font-family: var(--serif); font-size: calc(var(--u) * var(--h2)); font-weight: 500; letter-spacing: -.045em; line-height: 1.06; }
+    .s-sub { max-width: calc(var(--u) * 720); margin-top: calc(var(--u) * 18) !important; color: var(--soft); font-size: calc(var(--u) * 18); line-height: 1.5; }
+
+    .s-dark { background: #0d3030; color: #fff; }
+    .s-dark .s-kicker { color: var(--mint); }
+    .s-dark .s-sub { color: #c0d2ce; }
+    .s-prices { display: grid; grid-template-columns: 1fr 1fr; gap: calc(var(--u) * 20); margin-top: calc(var(--u) * 40); }
+    .s-price { padding: calc(var(--u) * 30); border: 1px solid rgba(255,255,255,.2); border-radius: calc(var(--u) * 12); background: #0a292a; }
+    .s-price.main { border-color: var(--mint); background: var(--cream); color: var(--ink); }
+    .s-price small { color: #9db7b2; font-size: calc(var(--u) * 11); font-weight: 900; letter-spacing: .12em; }
+    .s-price.main small { color: #526966; }
+    .s-price strong { display: block; margin-top: calc(var(--u) * 16); font-family: var(--serif); font-size: calc(var(--u) * 42); font-weight: 500; letter-spacing: -.04em; line-height: 1.1; }
+    .s-price span { display: block; margin-top: calc(var(--u) * 4); font-size: calc(var(--u) * 13); font-weight: 700; }
+    .s-price p { margin-top: calc(var(--u) * 16) !important; color: #c0d2ce; font-size: calc(var(--u) * 15.5); line-height: 1.55; }
+    .s-price.main p { color: var(--soft); }
+    .s-note { margin-top: calc(var(--u) * 22) !important; color: #c0d2ce; font-size: calc(var(--u) * 14); }
+
+    .s-steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: calc(var(--u) * 16); margin-top: calc(var(--u) * 44); }
+    .s-step { padding: calc(var(--u) * 24) calc(var(--u) * 22); border: 1px solid var(--line); border-radius: calc(var(--u) * 10); background: var(--cream); }
+    .s-step small { color: #47625f; font-size: calc(var(--u) * 12); font-weight: 900; }
+    .s-step strong { display: block; margin-top: calc(var(--u) * 22); font-family: var(--serif); font-size: calc(var(--u) * 24); font-weight: 500; letter-spacing: -.03em; line-height: 1.15; }
+    .s-step p { margin-top: calc(var(--u) * 11) !important; color: var(--soft); font-size: calc(var(--u) * 15); line-height: 1.5; }
+
+    .s-crm { display: grid; grid-template-columns: calc(var(--u) * 210) 1fr; overflow: hidden; margin-top: calc(var(--u) * 36); border: 1px solid #cbd4ce; border-radius: calc(var(--u) * 14); background: #efece4; box-shadow: 0 calc(var(--u) * 24) calc(var(--u) * 60) rgba(16,43,44,.12); }
+    .s-side { padding: calc(var(--u) * 20) calc(var(--u) * 16); background: #122c2d; color: #cfe0dc; font-size: calc(var(--u) * 13.5); }
+    .s-side strong { display: block; color: #fff; font-size: calc(var(--u) * 15); }
+    .s-side small { display: block; margin-bottom: calc(var(--u) * 18); color: #93adaa; font-size: calc(var(--u) * 12); }
+    .s-side span { display: flex; justify-content: space-between; padding: calc(var(--u) * 9) calc(var(--u) * 11); border-radius: calc(var(--u) * 7); }
+    .s-side span.on { background: var(--mint); color: var(--ink); font-weight: 800; }
+    .s-main { min-width: 0; padding: calc(var(--u) * 24); }
+    .s-tag { color: #526966; font-size: calc(var(--u) * 11); font-weight: 800; letter-spacing: .1em; }
+    .s-job { margin-top: calc(var(--u) * 6) !important; font-family: var(--serif); font-size: calc(var(--u) * 28); font-weight: 500; letter-spacing: -.03em; }
+    .s-track { display: grid; grid-template-columns: repeat(11, 1fr); gap: calc(var(--u) * 5); margin-top: calc(var(--u) * 18); }
+    .s-track span { position: relative; min-height: calc(var(--u) * 70); padding: calc(var(--u) * 8) calc(var(--u) * 6); border-radius: calc(var(--u) * 7); background: #fff; color: #6b7e7b; font-size: calc(var(--u) * 10.5); font-weight: 700; line-height: 1.25; }
+    .s-track span b { display: block; margin-bottom: calc(var(--u) * 4); font-size: calc(var(--u) * 10); }
+    .s-track span.done { background: var(--mint); color: var(--ink); }
+    .s-track span.now { background: var(--orange); color: var(--ink); }
+    .s-stop { display: grid; grid-template-columns: repeat(11, 1fr); gap: calc(var(--u) * 5); margin-top: calc(var(--u) * 8); color: var(--orange-text); font-size: calc(var(--u) * 12); font-weight: 800; }
+    .s-stop span { grid-column: 7 / 12; padding-left: calc(var(--u) * 8); border-left: 2px solid var(--orange-text); }
+    .s-tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: calc(var(--u) * 10); margin-top: calc(var(--u) * 16); }
+    .s-tile { padding: calc(var(--u) * 14); border-radius: calc(var(--u) * 9); background: #fff; font-size: calc(var(--u) * 13); }
+    .s-tile small { display: block; color: #6b7e7b; font-size: calc(var(--u) * 11.5); }
+    .s-tile strong { font-size: calc(var(--u) * 14.5); }
+
+    .s-who { display: grid; grid-template-columns: calc(var(--u) * 380) 1fr; align-items: center; gap: calc(var(--u) * 70); background: var(--cream); }
+    .s-who img { display: block; width: 100%; aspect-ratio: 4 / 5; border-radius: calc(var(--u) * 10); object-fit: cover; }
+    .s-who p.body { margin-top: calc(var(--u) * 16) !important; color: var(--soft); font-size: calc(var(--u) * 17); line-height: 1.55; }
+
+    .s-book { display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: calc(var(--u) * 60); background: #f8f6f1; }
+    .s-cal { padding: calc(var(--u) * 24); border: 1px solid #cbd4ce; border-radius: calc(var(--u) * 14); background: #fff; box-shadow: 0 calc(var(--u) * 20) calc(var(--u) * 50) rgba(16,43,44,.1); }
+    .s-cal strong { display: block; font-size: calc(var(--u) * 16); }
+    .s-cal small { color: #6b7e7b; font-size: calc(var(--u) * 13); }
+    .s-days { display: grid; grid-template-columns: repeat(4, 1fr); gap: calc(var(--u) * 8); margin-top: calc(var(--u) * 16); }
+    .s-days span { padding: calc(var(--u) * 11) calc(var(--u) * 4); border: 1px solid var(--line); border-radius: calc(var(--u) * 7); font-size: calc(var(--u) * 13); font-weight: 700; text-align: center; }
+    .s-days span.on { border-color: var(--ink); background: var(--ink); color: #fff; }
+    .s-other { margin-top: calc(var(--u) * 16) !important; padding-top: calc(var(--u) * 14); border-top: 1px solid var(--line); color: #526966; font-size: calc(var(--u) * 13.5); }
+    .s-other b { color: var(--ink); }
+
+    .map { padding: 1rem; background: var(--panel); color: var(--text); font-size: .85rem; }
+    .map-block { display: flex; justify-content: space-between; align-items: center; gap: .6rem; min-height: 1.6rem; height: calc(var(--px) * 1px / 15); margin-bottom: 3px; padding: .1rem .55rem; border-left: 4px solid var(--rule-strong); background: var(--panel-2); line-height: 1.2; }
+    .map-block b { flex: none; color: var(--muted); font: 700 .66rem/1.2 var(--mono); letter-spacing: .04em; text-transform: uppercase; }
+    .map-block.keep { border-left-color: var(--accent); }
+    .map-block.keep b { color: var(--accent); }
+    .map-block.edit { border-left-color: var(--coral); }
+    .map-block.edit b { color: var(--coral); }
+    .map-block.cut { background: repeating-linear-gradient(135deg, #152425 0 7px, #1b2b2c 7px 14px); color: var(--muted); text-decoration: line-through; }
+    .map-block.cut b { text-decoration: none; display: inline-block; }
+
+    @media (max-width: 60rem) {
+      .change-heading { grid-template-columns: 1fr; }
+      .review-header nav { display: none; }
+    }
+
+    @media (max-width: 44rem) {
+      .review-header { position: static; }
+      .site { --u: 1px; --h1: 40; --h2: 30; }
+      .s-pad { padding: 44px 20px; }
+      .s-nav { margin: 0 20px; }
+      .s-links { display: none; }
+      .s-nav .s-btn { display: none; }
+      .s-hero { grid-template-columns: 1fr; gap: 34px; min-height: 0; padding: 30px 20px 40px; }
+      .s-btn-main { white-space: normal; text-align: center; }
+      .s-prices, .s-steps, .s-tiles, .s-book, .s-who { grid-template-columns: 1fr; }
+      .s-who, .s-book { gap: 28px; }
+      .s-crm { grid-template-columns: 1fr; }
+      .s-side { display: none; }
+      .s-main { padding: 16px; }
+      .s-track { grid-template-columns: repeat(3, 1fr); }
+      .s-stop { display: block; }
+      .s-stop span { display: block; }
+      .tabs button { min-width: 6.5rem; padding-inline: .7rem; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { scroll-behavior: auto !important; }
+    }
+  </style>
+</head>
+<body>
+  <div class="status"><span>Private design review</span><span>Nothing on the live site has changed</span></div>
+
+  <header class="review-header">
+    <strong>crmfromwithin.com review</strong>
+    <nav aria-label="Review sections">
+      <a href="#first-screen">First screen</a>
+      <a href="#price">Price</a>
+      <a href="#steps">Steps</a>
+      <a href="#demo">Demo</a>
+      <a href="#who">Who</a>
+      <a href="#button">Button</a>
+      <a href="#length">Length</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="review-intro">
+      <h1>The site already sells the right idea. Seven things need to change.</h1>
+      <p>Today is a screenshot of the live page, taken on November 5. Proposed is a mockup made for this review. Tell me which sections to approve or change, and I'll build from that.</p>
+      <div class="intro-facts">
+        <p><strong>Staying:</strong> testing one workflow beside HubSpot, the fonts and colours, the questions section and the lead tracking.</p>
+        <p><strong>Worth knowing:</strong> the live page isn't in this repo. The repo holds an older page about adaptive CRMs, and the last deploy I can see is September 15. The rewrite replaces both.</p>
+      </div>
+    </section>
+
+    <section class="change" id="first-screen" data-decision="discussion">
+      <div class="change-heading">
+        <div>
+          <p class="change-number">01 / First screen</p>
+          <h2>Use our real name and lead with Leave HubSpot.</h2>
+          <p class="change-reason">Anyone who clicks through from a video lands on a site called Company Native. The text talks about operators and self-hosting, so a HubSpot customer has to work out that we do the job for them.</p>
+        </div>
+        <p class="recommendation"><strong>Recommendation</strong>Say CRM From Within everywhere, including the page title. Lead with Leave HubSpot and say what we do in the words the videos use. Keep a second copy of the page for Get the CRM you need, so videos can link to either and the content test can compare leads.</p>
+      </div>
+      <div class="comparison" data-comparison>
+        <div class="tabs" role="tablist" aria-label="Compare the first screen">
+          <button type="button" role="tab" aria-selected="false" data-tab="today">Today<span>Live page</span></button>
+          <button type="button" role="tab" aria-selected="false" data-tab="proposed">Leave HubSpot<span>Recommended</span></button>
+          <button type="button" role="tab" aria-selected="false" data-tab="second">Get the CRM you need<span>Second message</span></button>
+          <button type="button" role="tab" aria-selected="true" data-tab="all">All three<span>Side by side</span></button>
+        </div>
+        <div class="views" data-mode="all">
+          <div class="view" data-view="today">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Today</span><code>crmfromwithin.com/en</code></div><div class="frame"><picture><source media="(max-width: 44rem)" srcset="assets/today-hero-phone.jpg"><img src="assets/today-hero-desktop.jpg" alt="Live first screen with the Company Native logo and the headline Replace HubSpot or Salesforce with a CRM your company owns and controls."></picture></div></div>
+            <p class="view-caption"><strong>What is unclear:</strong> the name isn't ours, and nothing says we build and run the CRM for you.</p>
+          </div>
+          <div class="view" data-view="proposed">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Proposed</span><code>crmfromwithin.com</code></div><div class="frame">
+              <div class="site">
+                <div class="s-nav"><span class="s-brand"><img src="assets/crm-from-within-logo.svg" alt="">CRM From Within</span><span class="s-links"><span>Demo</span><span>How it works</span><span>What it costs</span></span><span class="s-btn s-btn-dark">Book a free fit check →</span></div>
+                <div class="s-hero">
+                  <div>
+                    <p class="s-eyebrow"><i></i>CRM agency for companies of 10 to 50 people</p>
+                    <p class="s-h1">Leave HubSpot for a CRM <em>your company owns.</em></p>
+                    <p class="s-lead">We build a CRM around how your company sells and delivers, move your data over and keep it running. You own the code, and there's no price per seat.</p>
+                    <div class="s-actions"><span class="s-btn s-btn-main">Book a free CRM fit check →</span><span class="s-link">See what it costs →</span></div>
+                    <p class="s-promise"><b>✓</b> We start with one workflow beside HubSpot. You move the rest only if your team prefers it. On Salesforce? It works the same way.</p>
+                    <div class="s-proof"><i>YY</i><span><strong>Built by Yusuf Young.</strong><br>He built a CRM SaaS company and sold it in 2025.</span></div>
+                  </div>
+                  <div class="s-card">
+                    <div class="s-card-head"><span style="color:inherit;font-size:inherit;letter-spacing:0">Sample CRM for a roofing company</span><span>MADE-UP DATA</span></div>
+                    <div class="s-rows">
+                      <div class="s-row"><strong>Hayes, hail repair</strong><b class="after">Schedule crew</b><small>$7,200 · sold, not finished</small></div>
+                      <div class="s-row"><strong>Ortiz, full re-roof</strong><b class="after">Order materials</b><small>$18,400 · signed Monday</small></div>
+                      <div class="s-row"><strong>Mills, leak repair</strong><b class="after">Send invoice</b><small>$1,900 · job done</small></div>
+                      <div class="s-row"><strong>Chen, storm damage</strong><b>Book inspection</b><small>New lead · called today</small></div>
+                    </div>
+                    <div class="s-card-foot"><span>You own the code</span><span>No price per seat</span><span>No long contract</span></div>
+                  </div>
+                </div>
+              </div>
+            </div></div>
+            <p class="view-caption"><strong>Change:</strong> our name, a headline in the viewer's words and one sentence on what we do. The three promises come from the videos.</p>
+          </div>
+          <div class="view" data-view="second">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Second message</span><code>crmfromwithin.com/crm-you-need</code></div><div class="frame">
+              <div class="site">
+                <div class="s-nav"><span class="s-brand"><img src="assets/crm-from-within-logo.svg" alt="">CRM From Within</span><span class="s-links"><span>Demo</span><span>How it works</span><span>What it costs</span></span><span class="s-btn s-btn-dark">Book a free fit check →</span></div>
+                <div class="s-hero">
+                  <div>
+                    <p class="s-eyebrow"><i></i>CRM agency for companies of 10 to 50 people</p>
+                    <p class="s-h1">Get the CRM you need, <em>and own it.</em></p>
+                    <p class="s-lead">We build a CRM around how your company sells and delivers, move your data over and keep it running. You own the code, and there's no price per seat.</p>
+                    <div class="s-actions"><span class="s-btn s-btn-main">Book a free CRM fit check →</span><span class="s-link">See what it costs →</span></div>
+                    <p class="s-promise"><b>✓</b> We start with one workflow beside what you use today. You move the rest only if your team prefers it.</p>
+                    <div class="s-proof"><i>YY</i><span><strong>Built by Yusuf Young.</strong><br>He built a CRM SaaS company and sold it in 2025.</span></div>
+                  </div>
+                  <div class="s-card">
+                    <div class="s-card-head"><span style="color:inherit;font-size:inherit;letter-spacing:0">Sample CRM for a roofing company</span><span>MADE-UP DATA</span></div>
+                    <div class="s-rows">
+                      <div class="s-row"><strong>Hayes, hail repair</strong><b class="after">Schedule crew</b><small>$7,200 · sold, not finished</small></div>
+                      <div class="s-row"><strong>Ortiz, full re-roof</strong><b class="after">Order materials</b><small>$18,400 · signed Monday</small></div>
+                      <div class="s-row"><strong>Mills, leak repair</strong><b class="after">Send invoice</b><small>$1,900 · job done</small></div>
+                      <div class="s-row"><strong>Chen, storm damage</strong><b>Book inspection</b><small>New lead · called today</small></div>
+                    </div>
+                    <div class="s-card-foot"><span>You own the code</span><span>No price per seat</span><span>No long contract</span></div>
+                  </div>
+                </div>
+              </div>
+            </div></div>
+            <p class="view-caption"><strong>Change:</strong> the same page with a different headline, for videos that aren't about HubSpot. Everything below the first screen stays the same.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="change" id="price" data-decision="discussion">
+      <div class="change-heading">
+        <div>
+          <p class="change-number">02 / Price</p>
+          <h2>Show the price on the page.</h2>
+          <p class="change-reason">The page has no number anywhere. Someone paying HubSpot thousands a month will want one before they book a call.</p>
+        </div>
+        <p class="recommendation"><strong>Recommendation</strong>Show about $3,000 for the first workflow, then $1,000–2,000 a month, beside what a 20-person team pays HubSpot. These are the plan's starting prices, so the page changes if they change after the first ten prospects. The HubSpot figure matches video 3. A 10-person team on HubSpot can pay less than us, so the page uses the 20-person example.</p>
+      </div>
+      <div class="comparison" data-comparison>
+        <div class="tabs" role="tablist" aria-label="Compare how the price is shown">
+          <button type="button" role="tab" aria-selected="false" data-tab="today">Today<span>Live page</span></button>
+          <button type="button" role="tab" aria-selected="false" data-tab="proposed">Proposed<span>Recommended</span></button>
+          <button type="button" role="tab" aria-selected="true" data-tab="all">Both<span>Side by side</span></button>
+        </div>
+        <div class="views" data-mode="all">
+          <div class="view" data-view="today">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Today</span><code>near the bottom of the page</code></div><div class="frame frame-small"><img src="assets/today-price.jpg" alt="A box saying the first commercial step is a paid, bounded proof, and that scope and price are agreed before work begins."></div></div>
+            <p class="view-caption"><strong>What is missing:</strong> this box is all the page says about paying, and it says the price comes later.</p>
+          </div>
+          <div class="view" data-view="proposed">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Proposed</span><code>crmfromwithin.com#cost</code></div><div class="frame">
+              <div class="site s-dark s-pad">
+                <p class="s-kicker">What it costs</p>
+                <p class="s-h2">A 20-person team pays HubSpot about $1,800–3,000 a month.</p>
+                <p class="s-sub">We have no price per seat, so your bill doesn't go up every time you hire.</p>
+                <div class="s-prices">
+                  <div class="s-price"><small>STEP 1</small><strong>About $3,000</strong><span>one payment</span><p>We rebuild one painful workflow beside HubSpot, and a few of your people use it on real work.</p></div>
+                  <div class="s-price main"><small>STEP 2</small><strong>$1,000–2,000</strong><span>a month</span><p>We move your data over, keep the CRM running and make changes when you ask. There's no long contract.</p></div>
+                </div>
+                <p class="s-note">If your team prefers HubSpot after step 1, you stop there.</p>
+              </div>
+            </div></div>
+            <p class="view-caption"><strong>Change:</strong> two numbers and what each one buys, with HubSpot's cost for comparison.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="change" id="steps" data-decision="discussion">
+      <div class="change-heading">
+        <div>
+          <p class="change-number">03 / How it works</p>
+          <h2>Swap the two how-it-works sections for four plain steps.</h2>
+          <p class="change-reason">Today two sections hold ten steps between them, with words like acceptance tests and reconcile. An owner wants to know what happens to their team and when HubSpot gets turned off.</p>
+        </div>
+        <p class="recommendation"><strong>Recommendation</strong>Use four steps in everyday words. Keep the idea that HubSpot stays on until the team prefers the new CRM. Add the line that sets us apart from HubSpot partners, who set up software you keep renting.</p>
+      </div>
+      <div class="comparison" data-comparison>
+        <div class="tabs" role="tablist" aria-label="Compare how the process is explained">
+          <button type="button" role="tab" aria-selected="false" data-tab="today">Today<span>Live page</span></button>
+          <button type="button" role="tab" aria-selected="false" data-tab="proposed">Proposed<span>Recommended</span></button>
+          <button type="button" role="tab" aria-selected="true" data-tab="all">Both<span>Side by side</span></button>
+        </div>
+        <div class="views" data-mode="all">
+          <div class="view" data-view="today">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Today</span><code>first of two sections</code></div><div class="frame"><picture><source media="(max-width: 44rem)" srcset="assets/today-process-phone.jpg"><img src="assets/today-process-desktop.jpg" alt="Section titled Let real work decide whether you should move, with four cards named Proof, Compare, Decide and Own."></picture></div></div>
+            <p class="view-caption"><strong>What is unclear:</strong> a second section with six more steps follows this one, so the visitor reads ten steps to learn what happens.</p>
+          </div>
+          <div class="view" data-view="proposed">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Proposed</span><code>crmfromwithin.com#how</code></div><div class="frame">
+              <div class="site s-pad">
+                <p class="s-kicker">How it works</p>
+                <p class="s-h2">HubSpot stays on until your team prefers the new CRM.</p>
+                <p class="s-sub">HubSpot partners set up software you keep renting. We build a CRM you own.</p>
+                <div class="s-steps">
+                  <div class="s-step"><small>01</small><strong>Free fit check</strong><p>In a 20-minute call you show us how your team works, and we show you what a CRM built for you could do.</p></div>
+                  <div class="s-step"><small>02</small><strong>First workflow</strong><p>We rebuild the workflow that hurts most, beside HubSpot. A few of your people use it on real work.</p></div>
+                  <div class="s-step"><small>03</small><strong>The move</strong><p>If your team prefers it, we move your data over, train the team and you turn HubSpot off.</p></div>
+                  <div class="s-step"><small>04</small><strong>We keep it running</strong><p>We look after it and make changes when you ask. If you ever leave, you take everything.</p></div>
+                </div>
+              </div>
+            </div></div>
+            <p class="view-caption"><strong>Change:</strong> four steps, and the headline answers the biggest worry about switching.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="change" id="demo" data-decision="discussion">
+      <div class="change-heading">
+        <div>
+          <p class="change-number">04 / Demo</p>
+          <h2>Show a working CRM instead of four text cards.</h2>
+          <p class="change-reason">Today the page describes what a CRM could do, with nothing to look at. We have no client stories yet, so a demo is the strongest proof we can show. The plan asks for one in weeks 1–2.</p>
+        </div>
+        <p class="recommendation"><strong>Recommendation</strong>Build one clickable sample CRM for the made-up roofing company from video 6, labelled as made-up data. It shows the job carrying on past Closed Won, which is step six of eleven in that video. We can reuse the sample CRM already built in crm-final-vision.</p>
+      </div>
+      <div class="comparison" data-comparison>
+        <div class="tabs" role="tablist" aria-label="Compare the demo section">
+          <button type="button" role="tab" aria-selected="false" data-tab="today">Today<span>Live page</span></button>
+          <button type="button" role="tab" aria-selected="false" data-tab="proposed">Proposed<span>Recommended</span></button>
+          <button type="button" role="tab" aria-selected="false" data-tab="reference">crm-final-vision<span>Our own sample CRM</span></button>
+          <button type="button" role="tab" aria-selected="true" data-tab="all">All three<span>Side by side</span></button>
+        </div>
+        <div class="views" data-mode="all">
+          <div class="view" data-view="today">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Today</span><code>crmfromwithin.com/en</code></div><div class="frame"><picture><source media="(max-width: 44rem)" srcset="assets/today-poss-phone.jpg"><img src="assets/today-poss-desktop.jpg" alt="Section titled Stop asking, Can our CRM do that, with four text cards about delivery, recruitment, construction and inbound sales."></picture></div></div>
+            <p class="view-caption"><strong>What is missing:</strong> four industries described in words, and no CRM on screen.</p>
+          </div>
+          <div class="view" data-view="proposed">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Proposed</span><code>crmfromwithin.com#demo</code></div><div class="frame">
+              <div class="site s-pad">
+                <p class="s-kicker">See it working</p>
+                <p class="s-h2">Follow one roofing job from the first call to the day it's paid.</p>
+                <p class="s-sub">This is a sample CRM for a made-up roofing company. Click around it.</p>
+                <div class="s-crm">
+                  <div class="s-side"><strong>Demo Roofing</strong><small>Made-up company</small><span class="on">Jobs <b>14</b></span><span>Customers <b>62</b></span><span>Crews <b>3</b></span><span>Invoices <b>5</b></span></div>
+                  <div class="s-main">
+                    <p class="s-tag">SAMPLE CRM · MADE-UP DATA</p>
+                    <p class="s-job">Hayes, hail repair · $7,200</p>
+                    <div class="s-track">
+                      <span class="done"><b>1</b>Lead calls</span><span class="done"><b>2</b>Book inspection</span><span class="done"><b>3</b>Inspect roof</span><span class="done"><b>4</b>Write estimate</span><span class="done"><b>5</b>Adjuster approves</span><span class="done"><b>6</b>Homeowner signs</span><span class="done"><b>7</b>Order materials</span><span class="now"><b>8</b>Schedule crew</span><span><b>9</b>Do the job</span><span><b>10</b>Final invoice</span><span><b>11</b>Get paid</span>
+                    </div>
+                    <div class="s-stop"><span>A standard CRM board ends at step 6.</span></div>
+                    <div class="s-tiles">
+                      <div class="s-tile"><small>Materials</small><strong>Delivered Friday</strong></div>
+                      <div class="s-tile"><small>Crew</small><strong>Not booked yet</strong></div>
+                      <div class="s-tile"><small>Insurance</small><strong>Approved</strong></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div></div>
+            <p class="view-caption"><strong>Change:</strong> something to click, tied to a video people may have watched. The mockup shows the idea, and the demo itself still has to be built.</p>
+          </div>
+          <div class="view" data-view="reference">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Reference</span><code>crm-final-vision, sample CRM</code></div><div class="frame"><img src="assets/vision-demo.jpg" alt="The sample CRM in crm-final-vision for a fictional company called Lumen Field Services, with a dark sidebar and a board from first enquiry to site delivery."></div></div>
+            <p class="view-caption"><strong>Borrow:</strong> the working screens and the fictional-data label. <strong>Do not copy:</strong> the connect-your-email story, which is aimed at companies with no CRM.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="change" id="who" data-decision="discussion">
+      <div class="change-heading">
+        <div>
+          <p class="change-number">05 / Who is behind it</p>
+          <h2>Use the same credentials as the videos.</h2>
+          <p class="change-reason">The page leans on FunnelBud and 450 Swedish companies. A US buyer doesn't know the name, and the new videos no longer use it.</p>
+        </div>
+        <p class="recommendation"><strong>Recommendation</strong>Say what the videos say, add our study of CRM buyers, and say plainly that we're taking our first clients. David isn't on the page today. Send me a photo and one line if you want him there.</p>
+      </div>
+      <div class="comparison" data-comparison>
+        <div class="tabs" role="tablist" aria-label="Compare the founder section">
+          <button type="button" role="tab" aria-selected="false" data-tab="today">Today<span>Live page</span></button>
+          <button type="button" role="tab" aria-selected="false" data-tab="proposed">Proposed<span>Recommended</span></button>
+          <button type="button" role="tab" aria-selected="true" data-tab="all">Both<span>Side by side</span></button>
+        </div>
+        <div class="views" data-mode="all">
+          <div class="view" data-view="today">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Today</span><code>crmfromwithin.com/en</code></div><div class="frame"><picture><source media="(max-width: 44rem)" srcset="assets/today-story-phone.jpg"><img src="assets/today-story-desktop.jpg" alt="Founder section with Yusuf's photo and the text Yusuf Young founded FunnelBud in 2015."></picture></div></div>
+            <p class="view-caption"><strong>What is unclear:</strong> the company name means nothing to a US buyer, and "Swedish" raises a new question.</p>
+          </div>
+          <div class="view" data-view="proposed">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Proposed</span><code>crmfromwithin.com#who</code></div><div class="frame">
+              <div class="site s-pad s-who">
+                <img src="assets/yusuf-young.jpg" alt="Yusuf Young">
+                <div>
+                  <p class="s-kicker">Who you'll work with</p>
+                  <p class="s-h2">Ten years of setting up CRMs.</p>
+                  <p class="body">Yusuf Young built a CRM SaaS company and sold it in 2025. He and his team set up CRMs for hundreds of companies.</p>
+                  <p class="body">Now, at CRM From Within, we've studied what more than 5,000 CRM buyers say about their CRM, and we share what we find on YouTube.</p>
+                  <p class="body">We're taking our first clients, so you'll work directly with Yusuf and David.</p>
+                  <p class="body"><span class="s-link">Watch the videos →</span></p>
+                </div>
+              </div>
+            </div></div>
+            <p class="view-caption"><strong>Change:</strong> the videos' wording, the study as proof, and one honest line about being new.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="change" id="button" data-decision="discussion">
+      <div class="change-heading">
+        <div>
+          <p class="change-number">06 / The main button</p>
+          <h2>Make the free fit check the main button.</h2>
+          <p class="change-reason">The videos promise a free 20-minute CRM fit check, and the site doesn't offer one. Its button opens a five-minute AI chat that ends by asking for an email.</p>
+        </div>
+        <p class="recommendation"><strong>Recommendation</strong>Every button says Book a free CRM fit check and opens a calendar. That needs a booking link, and we don't have one yet. The AI chat stays for people who aren't ready to talk, with Talk to a person still inside it. Bookings must be counted with the other leads, or the content test can't compare channels.</p>
+      </div>
+      <div class="comparison" data-comparison>
+        <div class="tabs" role="tablist" aria-label="Compare the next step">
+          <button type="button" role="tab" aria-selected="false" data-tab="today">Today<span>Live page</span></button>
+          <button type="button" role="tab" aria-selected="false" data-tab="proposed">Proposed<span>Recommended</span></button>
+          <button type="button" role="tab" aria-selected="true" data-tab="all">Both<span>Side by side</span></button>
+        </div>
+        <div class="views" data-mode="all">
+          <div class="view" data-view="today">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Today</span><code>crmfromwithin.com/en</code></div><div class="frame"><picture><source media="(max-width: 44rem)" srcset="assets/today-assess-phone.jpg"><img src="assets/today-assess-desktop.jpg" alt="Section titled Prove one CRM workflow before planning the migration, with an AI chat window called CRM replacement assessment."></picture></div></div>
+            <p class="view-caption"><strong>What is unclear:</strong> someone sent here for a free call finds an assessment and a chat with an AI.</p>
+          </div>
+          <div class="view" data-view="proposed">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Proposed</span><code>crmfromwithin.com#book</code></div><div class="frame">
+              <div class="site s-pad s-book">
+                <div>
+                  <p class="s-kicker">Free CRM fit check</p>
+                  <p class="s-h2">Book a free 20-minute CRM fit check.</p>
+                  <p class="s-sub">You show us how your team works, and we show you what a CRM built for you could do. If a standard CRM is fine for you, we'll tell you.</p>
+                </div>
+                <div class="s-cal">
+                  <strong>Pick a time</strong><small>20 minutes · video call · example times</small>
+                  <div class="s-days"><span>Mon</span><span class="on">Tue</span><span>Wed</span><span>Thu</span></div>
+                  <div class="s-days"><span>9:00</span><span>10:30</span><span>1:00</span><span>3:30</span></div>
+                  <p class="s-other">Not ready to talk? <b>Ask our assistant →</b></p>
+                </div>
+              </div>
+            </div></div>
+            <p class="view-caption"><strong>Change:</strong> the visitor gets what the video promised, in the video's own words. The chat moves behind one link.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="change" id="length" data-decision="discussion">
+      <div class="change-heading">
+        <div>
+          <p class="change-number">07 / Page length</p>
+          <h2>Cut the page to less than half its length.</h2>
+          <p class="change-reason">The page runs to 12 laptop screens and 21 phone screens. Someone coming from a video already knows the problem, and the plan needs them to reach the button.</p>
+        </div>
+        <p class="recommendation"><strong>Recommendation</strong>Keep the seven sections listed under Proposed, in that order. Keep the questions section, shortened, with the price added to its cost answer. Turn off the Swedish page while the USA is the market.</p>
+      </div>
+      <div class="comparison" data-comparison>
+        <div class="tabs" role="tablist" aria-label="Compare the page length">
+          <button type="button" role="tab" aria-selected="false" data-tab="today">Today<span>Live page</span></button>
+          <button type="button" role="tab" aria-selected="false" data-tab="proposed">Proposed<span>Recommended</span></button>
+          <button type="button" role="tab" aria-selected="true" data-tab="all">Both<span>Side by side</span></button>
+        </div>
+        <div class="views" data-mode="all">
+          <div class="view" data-view="today">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Today</span><code>about 11,000 pixels tall</code></div>
+              <div class="map">
+                <div class="map-block edit" style="--px:954">First screen <b>Change</b></div>
+                <div class="map-block cut" style="--px:114">10+ years, 450+ companies strip <b>Cut</b></div>
+                <div class="map-block cut" style="--px:916">Does this look familiar? <b>Cut</b></div>
+                <div class="map-block cut" style="--px:1158">Your CRM is not a database <b>Cut</b></div>
+                <div class="map-block edit" style="--px:1446">Stop asking, "Can our CRM do that?" <b>Becomes the demo</b></div>
+                <div class="map-block edit" style="--px:1320">How we prove it <b>Becomes four steps</b></div>
+                <div class="map-block cut" style="--px:1927">How the replacement is built <b>Cut</b></div>
+                <div class="map-block keep" style="--px:962">Questions <b>Keep, shorter</b></div>
+                <div class="map-block edit" style="--px:870">Why we are building this <b>Change</b></div>
+                <div class="map-block edit" style="--px:1178">Plan the proof, AI chat <b>Becomes fit check</b></div>
+                <div class="map-block edit" style="--px:197">Footer <b>Change name</b></div>
+              </div>
+            </div>
+            <p class="view-caption"><strong>Measured:</strong> section heights on the live page at 1280 wide, drawn to scale.</p>
+          </div>
+          <div class="view" data-view="proposed">
+            <div class="mock-window"><div class="mock-browser"><span class="mock-label">Proposed</span><code>about 4,900 pixels tall</code></div>
+              <div class="map">
+                <div class="map-block keep" style="--px:900">First screen</div>
+                <div class="map-block keep" style="--px:760">Sample CRM demo</div>
+                <div class="map-block keep" style="--px:620">How it works, four steps</div>
+                <div class="map-block keep" style="--px:640">What it costs</div>
+                <div class="map-block keep" style="--px:560">Who you'll work with</div>
+                <div class="map-block keep" style="--px:620">Questions</div>
+                <div class="map-block keep" style="--px:640">Book a free CRM fit check</div>
+                <div class="map-block keep" style="--px:150">Footer</div>
+              </div>
+            </div>
+            <p class="view-caption"><strong>Estimate:</strong> my guess at each section's height, on the same scale as Today. About 44% of today's length.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    document.querySelectorAll("[data-comparison]").forEach((comparison) => {
+      const tabs = Array.from(comparison.querySelectorAll("[data-tab]"));
+      const views = comparison.querySelector(".views");
+
+      function select(tab) {
+        tabs.forEach((candidate) => {
+          candidate.setAttribute("aria-selected", String(candidate === tab));
+          candidate.tabIndex = candidate === tab ? 0 : -1;
+        });
+        views.dataset.mode = tab.dataset.tab;
+      }
+
+      tabs.forEach((tab, index) => {
+        tab.tabIndex = tab.getAttribute("aria-selected") === "true" ? 0 : -1;
+        tab.addEventListener("click", () => select(tab));
+        tab.addEventListener("keydown", (event) => {
+          let nextIndex = index;
+          if (event.key === "ArrowRight") nextIndex = (index + 1) % tabs.length;
+          else if (event.key === "ArrowLeft") nextIndex = (index - 1 + tabs.length) % tabs.length;
+          else if (event.key === "Home") nextIndex = 0;
+          else if (event.key === "End") nextIndex = tabs.length - 1;
+          else return;
+          event.preventDefault();
+          tabs[nextIndex].focus();
+          select(tabs[nextIndex]);
+        });
+      });
+    });
+  </script>
+</body>
+</html>
