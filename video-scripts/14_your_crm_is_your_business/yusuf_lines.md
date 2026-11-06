@@ -8,7 +8,7 @@ If every small change to your CRM means a ticket or a consultant, and every rene
 
 ## Promise
 
-You're probably renting your CRM. That means you pay every month for something like HubSpot or Salesforce, and the vendor decides how it works. That's fine until your company needs something the vendor won't give you. So I'll show you four situations where renting can really hurt your company, how to check each one, and one question that tells you if owning your CRM makes sense for you.
+You're probably renting your CRM. That means you pay every month for something like HubSpot or Salesforce, and the vendor decides how it works. That's fine until your company needs something the vendor won't give you. So I'll show you four situations where renting can really hurt your company, and how to check each one. I'll also give you one question that tells you if owning your CRM makes sense for you.
 
 ## Proof
 
@@ -54,7 +54,7 @@ When you own your CRM, you ask whoever built it for a change and they make it, b
 
 So should you own your CRM? If your CRM passes those four checks and the price is fair, just keep renting. If it doesn't, ask yourself one question. Is the way you sell what sets you apart from your competitors? If it isn't, look for a rented CRM with a better contract and a full export. If it is, own your CRM, because then the CRM can run your own process, like which deals you take and which you turn down. That becomes your company's personality.
 
-Doorvana, a garage door company in Fort Worth, built its own CRM when they were at three million dollars, and the founder says it got them to five or six million.
+Doorvana, a garage door company in Fort Worth, built its own CRM when they were at three million dollars. The founder says it got them to five or six million.
 
 ## What owning has to mean
 
@@ -64,7 +64,7 @@ Moving code into your account takes a few clicks, so don't accept "we'll hand it
 
 ## What we do
 
-At my company, CRM From Within, we build you a CRM from scratch around how you sell and deliver, and it sits in your company's own accounts. We move your data over and keep it running, and when you want a change, you just talk to us. The code's yours, there's no long contract, and if you ever leave, you take everything with you. It's for companies with ten to fifty people.
+At my company, CRM From Within, we build you a CRM from scratch around how you sell and deliver. It sits in your company's own accounts. We move your data over and keep it running, and when you want a change, you just talk to us. The code's yours, there's no long contract, and if you ever leave, you take everything with you. It's for companies with ten to fifty people.
 
 ## Free CRM fit check
 

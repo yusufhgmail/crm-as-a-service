@@ -58,7 +58,7 @@ Pair title 1 with thumbnail 3 first; test 2 with 2, and 4 with 1.
 **ON SCREEN:** tag: **Renting = you pay monthly, the vendor decides**. Then the title words: **4 ways renting can hurt you**. Then two tags: ✓ **A check for each one** · ✓ **One question: own or rent?**
 
 **YUSUF:**
-> You're probably renting your CRM. That means you pay every month for something like HubSpot or Salesforce, and the vendor decides how it works. That's fine until your company needs something the vendor won't give you. So I'll show you four situations where renting can really hurt your company, how to check each one, and one question that tells you if owning your CRM makes sense for you.
+> You're probably renting your CRM. That means you pay every month for something like HubSpot or Salesforce, and the vendor decides how it works. That's fine until your company needs something the vendor won't give you. So I'll show you four situations where renting can really hurt your company, and how to check each one. I'll also give you one question that tells you if owning your CRM makes sense for you.
 
 ## 0:36 Proof
 
@@ -159,7 +159,7 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **ON SCREEN:** quote card: *"We built an in house crm at $3M that got us to $5-6M before adopting and building out a custom Salesforce sales and service cloud instance."* · source tag **Bobby Vickers, founder, Doorvana · X, Jul 2026**
 
 **YUSUF:**
-> Doorvana, a garage door company in Fort Worth, built its own CRM when they were at three million dollars, and the founder says it got them to five or six million.
+> Doorvana, a garage door company in Fort Worth, built its own CRM when they were at three million dollars. The founder says it got them to five or six million.
 
 ## 5:28 What owning has to mean
 
@@ -179,7 +179,7 @@ Link: https://docs.github.com/en/repositories/creating-and-managing-repositories
 **ON SCREEN:** tags, one per phrase: **Built around how you sell and deliver** · **Your data, moved for you** · **You own the code** · **Leave any time, take it all**
 
 **YUSUF:**
-> At my company, CRM From Within, we build you a CRM from scratch around how you sell and deliver, and it sits in your company's own accounts. We move your data over and keep it running, and when you want a change, you just talk to us. The code's yours, there's no long contract, and if you ever leave, you take everything with you. It's for companies with ten to fifty people.
+> At my company, CRM From Within, we build you a CRM from scratch around how you sell and deliver. It sits in your company's own accounts. We move your data over and keep it running, and when you want a change, you just talk to us. The code's yours, there's no long contract, and if you ever leave, you take everything with you. It's for companies with ten to fifty people.
 
 ## 6:37 Free CRM fit check
 
