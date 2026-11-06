@@ -4,11 +4,13 @@
 
 ## Two CEOs
 
-Two CEOs tried building their own CRM. Greg Berry runs Municibid, which does government surplus auctions. He built his with AI over a weekend, and he says it blows away anything Salesforce or HubSpot could offer them. He says it saves them thirty to fifty thousand dollars a year. Nick Fleisher, the CEO of Sandstone, says his didn't last long. His words were, I didn't have time to maintain it.
+We researched what companies say about building their own CRM, and how easy or difficult it is to keep it running. Here are two real examples, linked in the description.
+
+Greg Berry runs Municibid, which does government surplus auctions. He built his own CRM with AI over a weekend, and he says it blows away anything Salesforce or HubSpot could offer them. He says it saves them thirty to fifty thousand dollars a year. Nick Fleisher, the CEO of Sandstone, says his didn't last long. His words were, I didn't have time to maintain it.
 
 Greg says they maintain theirs themselves, and it runs like a charm. So I think the difference is who had the time to keep it running.
 
-I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. So I can tell you that even if you manage to build a good CRM, it's really expensive to maintain it.
+I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you. So I can tell you that even if you manage to build a good CRM, it's really expensive to maintain it.
 
 So if you're thinking about building your own CRM, or you've already got one, here are six things to check. They'll show you if you'd end up like Greg or like Nick. And the last one tells you what your own CRM really costs a year.
 

@@ -72,7 +72,7 @@ Tag: **The exact email to send**. Then tag: **Pet products company · CRM built 
 **ON SCREEN:** tag beside Yusuf: **CRM sales at Oracle · Built & sold a CRM SaaS · Hundreds of CRM setups**
 
 **YUSUF:**
-> I started out selling CRM at Oracle, so I've been on the seller's side of this. Then I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies.
+> I started out selling CRM at Oracle, so I've been on the seller's side of this. Then I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you. We researched what Salesforce customers say about their renewals, and the real examples in this video are linked in the description.
 
 ---
 

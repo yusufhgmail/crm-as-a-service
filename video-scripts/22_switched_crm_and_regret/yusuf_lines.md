@@ -12,7 +12,7 @@ I think a lot of companies end up here. You switch CRMs to fix one problem, and 
 
 ## Proof
 
-I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies.
+I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
 
 ## Plan
 

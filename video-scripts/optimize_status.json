@@ -116,7 +116,6 @@
   },
   "optimized": {
     "10_ten_sales_tools_one_bill": {
-      "sha": "9b15a8e70f243807",
       "rounds": [
         [
           7.0,
@@ -149,7 +148,6 @@
       "date": "2026-11-05"
     },
     "11_build_buy_or_own_crm": {
-      "sha": "d55930d5ccb754e8",
       "rounds": [
         [
           6.0,
@@ -190,7 +188,6 @@
       "date": "2026-11-05"
     },
     "13_crm_planning_prompt": {
-      "sha": "7856ae7aa953835e",
       "rounds": [
         [
           4.0,
@@ -262,7 +259,6 @@
       "date": "2026-11-05"
     },
     "16_keep_hubspot_replace_one_thing": {
-      "sha": "fb3826f5c5d0fff1",
       "rounds": [
         [
           7.0,
@@ -324,71 +320,7 @@
       "best": 46.0,
       "date": "2026-11-06"
     },
-    "17_crm_integrations_service_company": {
-      "sha": "4c4e0bdabd1762e9",
-      "rounds": [
-        [
-          6.0,
-          8.0,
-          8.0,
-          8.0,
-          7.0,
-          7.0
-        ],
-        [
-          7.0,
-          7.0,
-          7.0,
-          8.0,
-          7.0,
-          7.0
-        ],
-        [
-          7.0,
-          7.0,
-          8.0,
-          8.0,
-          7.0,
-          7.0
-        ],
-        [
-          7.0,
-          6.0,
-          8.0,
-          8.0,
-          8.0,
-          7.0
-        ],
-        [
-          7.0,
-          8.0,
-          8.0,
-          8.0,
-          7.0,
-          7.0
-        ],
-        [
-          8.0,
-          8.0,
-          8.0,
-          8.0,
-          8.0,
-          7.0
-        ]
-      ],
-      "totals": [
-        44.0,
-        43.0,
-        44.0,
-        44.0,
-        45.0,
-        47.0
-      ],
-      "best": 47.0,
-      "date": "2026-11-06"
-    },
     "18_keep_your_own_crm_running": {
-      "sha": "a2793c0ab9b56669",
       "rounds": [
         [
           8.0,
@@ -478,7 +410,6 @@
       "date": "2026-11-06"
     },
     "19_leave_hubspot_without_losing_data": {
-      "sha": "8da33ad974ef5d13",
       "rounds": [
         [
           6.0,
@@ -568,7 +499,6 @@
       "date": "2026-11-06"
     },
     "20_before_salesforce_renewal": {
-      "sha": "6a53efae9394bdd6",
       "rounds": [
         [
           7.0,
@@ -649,7 +579,6 @@
       "date": "2026-11-06"
     },
     "21_hubspot_support_stops_answering": {
-      "sha": "0c35724c7d13fc18",
       "rounds": [
         [
           7.0,
@@ -730,7 +659,6 @@
       "date": "2026-11-06"
     },
     "22_switched_crm_and_regret": {
-      "sha": "e0f498feb4036e60",
       "rounds": [
         [
           7.0,

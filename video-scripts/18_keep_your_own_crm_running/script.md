@@ -49,14 +49,16 @@ Pair title 1 with thumbnail 1 first; test 2 with 2, and 3 with 4.
 **ON SCREEN:** Yusuf on camera. Two quote cards, one as he says each: **Greg Berry, CEO, Municibid:** "...blows away anything Salesforce or HubSpot could offer us... Saved us $30-50k annually." · **Nick Fleisher, CEO, Sandstone:** "I tried to build our own CRM. It didn't last long... I didn't have time to maintain it."
 
 **YUSUF** (straight to camera):
-> Two CEOs tried building their own CRM. Greg Berry runs Municibid, which does government surplus auctions. He built his with AI over a weekend, and he says it blows away anything Salesforce or HubSpot could offer them. He says it saves them thirty to fifty thousand dollars a year. Nick Fleisher, the CEO of Sandstone, says his didn't last long. His words were, I didn't have time to maintain it.
+> We researched what companies say about building their own CRM, and how easy or difficult it is to keep it running. Here are two real examples, linked in the description.
+>
+> Greg Berry runs Municibid, which does government surplus auctions. He built his own CRM with AI over a weekend, and he says it blows away anything Salesforce or HubSpot could offer them. He says it saves them thirty to fifty thousand dollars a year. Nick Fleisher, the CEO of Sandstone, says his didn't last long. His words were, I didn't have time to maintain it.
 >
 > Greg says they maintain theirs themselves, and it runs like a charm. So I think the difference is who had the time to keep it running.
 
 **ON SCREEN:** tag as he says it: **Built & sold a CRM SaaS · Hundreds of CRM setups**. Then a timeline on the whiteboard: **Build** (short, green) → **Year 1 · Year 2 · Year 3** (long, red). Tag over the long part: **Where the work is**
 
 **YUSUF:**
-> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. So I can tell you that even if you manage to build a good CRM, it's really expensive to maintain it.
+> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you. So I can tell you that even if you manage to build a good CRM, it's really expensive to maintain it.
 
 **ON SCREEN:** on "six things", Yusuf writes the upkeep sheet's six lines; a typed version sits beside it:
 1. Who keeps it running

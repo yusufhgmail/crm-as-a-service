@@ -12,7 +12,7 @@ Maybe you want out too, but you've got ten years of notes, calls and files in Hu
 
 ## Proof
 
-I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and I've worked with HubSpot since 2011. So I'll show you how I'd leave HubSpot without losing your data.
+I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and I've worked with HubSpot since 2011. Now, I run a company that builds custom CRMs for you. So I'll show you how I'd leave HubSpot without losing your data.
 
 ## Plan
 

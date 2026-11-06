@@ -73,7 +73,7 @@ Link: https://www.trustpilot.com/reviews/6ac4fdeacc1972832e179cae
 **YUSUF:**
 > I know how that feels. I've used Meta for ads, and it's great, except for their incredibly incompetent support. It makes me feel like I'm in some kind of Kafka novel, not knowing if I'm being gaslighted or if this is real life.
 >
-> And I've been on the other side of it. I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies.
+> And I've been on the other side of it. I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
 
 ## 1:20 Plan
 

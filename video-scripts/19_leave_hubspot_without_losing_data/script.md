@@ -67,7 +67,7 @@ Link: https://news.ycombinator.com/item?id=46619640
 **ON SCREEN:** Yusuf on camera; a small tag beside him: **Hundreds of CRM setups · Built & sold a CRM SaaS · HubSpot since 2011**
 
 **YUSUF:**
-> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and I've worked with HubSpot since 2011. So I'll show you how I'd leave HubSpot without losing your data.
+> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies, and I've worked with HubSpot since 2011. Now, I run a company that builds custom CRMs for you. So I'll show you how I'd leave HubSpot without losing your data.
 
 ## 0:53 Plan
 

@@ -60,7 +60,7 @@ Link: https://community.hubspot.com/t/sequences-causing-microsoft-to-block-inbox
 **ON SCREEN:** small tag beside him: **Built & sold a CRM SaaS · Set up CRMs for hundreds of companies**
 
 **YUSUF:**
-> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies.
+> I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you.
 
 ## 0:45 Plan
 

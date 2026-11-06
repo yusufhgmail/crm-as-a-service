@@ -12,7 +12,7 @@ So I'll take you through the five things I'd do before a renewal, and I'll give 
 
 ## Proof
 
-I started out selling CRM at Oracle, so I've been on the seller's side of this. Then I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies.
+I started out selling CRM at Oracle, so I've been on the seller's side of this. Then I built a CRM SaaS company, and I sold it in 2025. Me and my team set up CRMs for hundreds of companies. Now, I run a company that builds custom CRMs for you. We researched what Salesforce customers say about their renewals, and the real examples in this video are linked in the description.
 
 ## Step 1: Find your dates, and who gets the emails
 
