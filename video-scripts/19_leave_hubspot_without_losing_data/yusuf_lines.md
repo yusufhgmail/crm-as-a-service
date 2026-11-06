@@ -4,7 +4,7 @@
 
 ## Hook
 
-If you've got years of notes, calls and files in HubSpot, leaving can feel way too risky, so you just keep renewing. In this video, I'll give you five steps to leave HubSpot without losing any of it. And I'll show you another way of leaving that's actually much less risky, so you'll know which one is right for you.
+If you've got years of notes, calls and files in HubSpot, leaving can feel way too risky, so you just keep renewing. In this video, I'll give you five steps to leave HubSpot without losing any of it, so you're free to pick the CRM that's best for your company. And I'll show you another way of leaving that's actually much less risky, where all those years of notes start working for you.
 
 ## Proof
 
@@ -12,61 +12,63 @@ Who am I? I built a CRM SaaS company, and I sold it in 2025. Me and my team set 
 
 ## What can go wrong
 
-So what can actually go wrong? Here's a real example, linked in the description. A guy called Paul moved his eight salespeople from HubSpot to another CRM called Attio. They planned for a weekend, and it took closer to three weeks. Some of their call notes came over, and some didn't. So weeks later, a rep checked the history on an account and found nothing there. And in the end, they went back to HubSpot. I'll tell you why later, because that's actually the most important part.
+So what can actually go wrong? Here's a real example, linked in the description. A guy called Paul moved his eight salespeople from HubSpot to another CRM called Attio. They planned for a weekend, and it took closer to three weeks. Some of their call notes came over and some didn't, so weeks later, a rep checked an account and found nothing there. And in the end, they went back to HubSpot, and I'll tell you why later, because that's actually the most important part.
 
 ## Two ways to leave
 
 Why was this so hard? Because for years, you had to cancel your old CRM so it won't renew, and you had to move everything before that date, and your whole team had to switch in one go. I mean, it's a huge headache. So a lot of companies just stayed.
 
-But that's actually changed. With AI, I think it's now cheaper to build just what you need. So you could have a CRM built around your company, that you own, built piece by piece while your team keeps working in HubSpot. Like, say you start with your quotes. Your team uses that one piece, and the data for it moves over.
+But that's actually changed. With AI, I think it's now cheaper to build just what you need. So you could have a CRM built around your company, that you own, built piece by piece while your team keeps working in HubSpot. Say you start with your quotes, so the data for your quotes moves over first.
 
-If you're moving to another standard CRM, here are five steps to do it safely. And as we go, I'll say what changes if you build your own CRM instead.
+So here are five steps to move to another standard CRM safely. And as we go, I'll say what you could have if you build your own CRM instead.
 
 ## Step 1: Map what lives where
 
-First, map what's really in your HubSpot, because each kind of thing comes out differently. So what's actually in there? You've got your records, you've got your history, like notes and calls, and you've got your files and your automations. So write each one down, with who actually uses it.
+First, map what's really in your HubSpot, because each kind of thing comes out differently. So write down your records, and your history, like notes and calls. Then write down your files and your automations, and who actually uses each one.
 
-Now, automations, like workflows, don't move at all, so someone has to rebuild each one by hand. So if nobody uses one, I'd just leave it behind.
+Automations, like workflows, don't move at all. So if nobody uses one, I'd just leave it behind, and your new CRM starts out with only what your team really uses.
 
-If you're building your own CRM, that list is actually your plan. You start with the biggest opportunity for the least cost and least risk.
+If you're building your own CRM, that list is actually your plan. You start with the biggest opportunity for the least cost and least risk, and you build only what's on it.
 
 ## Step 2: Export more than records
 
-Second, get your data out. HubSpot's normal export leaves out your notes and calls. And remember, Paul lost some of his call notes too. You might think, OK, it's just some old notes. But a rep who can't see what was said to a customer walks into that call blind.
+Second, get your data out, so your team keeps everything it knows about each customer. HubSpot's normal export leaves out your notes and calls. You might think, OK, it's just some old notes. But a rep who can't see what was said to a customer walks into that call blind.
 
-So I'd use a tool like Import2 or MigrateMyCRM.
+So I'd use a tool like Import2 or MigrateMyCRM, because they bring those over too.
 
-And before you move everything, ask to see your biggest, oldest customer moved first, with every note and call in the right place.
+And move your biggest, oldest customer first, and check that every note and call landed in the right place.
 
-When you build your own CRM piece by piece, you don't need one perfect export. The data moves over with each piece.
+When you build your own CRM, the data moves over piece by piece, so you don't need one perfect export. And with AI, those years of notes actually start working for you. Before a rep calls a customer, the CRM could read everything that was ever said to them, and tell the rep what matters.
 
 ## Step 3: Time it against your renewal
 
-Third, plan around your renewal, because your HubSpot contract renews on its own. So start by switching off auto-renew, which doesn't actually cancel anything.
+Third, plan around your renewal, because your HubSpot contract renews on its own. So start by switching off auto-renew, which doesn't actually cancel anything. It just means you decide when you leave.
 
-Remember, Paul planned for a weekend, and it took three weeks. So count back from your renewal date, and I'd keep thirty days free at the end, because something will go wrong.
+Remember, Paul's weekend took three weeks. So I'd keep thirty days free before your renewal date, because something will go wrong. Then a problem just costs you a few days, and not another year of HubSpot.
 
 If you're building your own CRM, nothing has to be finished by your renewal date. Now you might think, so I'll pay for two CRMs? Well, at my company, we charge for the project, not monthly, during the move, so you don't have two recurring bills.
 
 ## Step 4: Run old and new side by side
 
-Fourth, run both CRMs side by side. I think the riskiest way to leave is HubSpot on Friday and the new CRM on Monday, because whatever didn't move just isn't there.
+Fourth, run both CRMs side by side, so your sales don't stop when something goes wrong. I think the riskiest way to leave is HubSpot on Friday and the new CRM on Monday, because whatever didn't move just isn't there.
 
-So have one team work in a test copy of the new CRM for a few days, while your real work is still in HubSpot.
+So have one team try the new CRM for a few days, while your real work stays in HubSpot.
 
-If you build your own CRM piece by piece, you're actually side by side the whole way. If a new piece doesn't work, your team just carries on in HubSpot while it gets fixed.
+If you build your own CRM piece by piece, you're actually side by side the whole way, so a piece that doesn't work never stops your team.
 
 ## Step 5: Test before you switch
 
-Fifth, test before you switch HubSpot off for good. Compare the history of twenty random customers, because if you pick them yourself, you'll pick the clean ones. Then have every salesperson work one real day in the new CRM. I think that matters most, because if the new CRM slows them down, they'll just go around it and keep their deals in a spreadsheet.
+Fifth, test before you switch HubSpot off for good. Have every salesperson work one real day in the new CRM, so you know they'll really use it. Because if it slows them down, they'll just go around it and keep their deals in a spreadsheet.
+
+But if you build your own CRM, you can go a lot further. With AI, you can literally have a system that updates itself. Your salespeople don't move deals between stages or fill in fields, because the CRM does that, so they spend their time on customers.
+
+If you want to see if a CRM like that could be for you, we do a free twenty-minute CRM fit check. We'll give you some inspiration about what you could build today.
 
 ## Why a safe move isn't enough
 
-So those five steps get you across safely. But remember Paul? He got across too, and by month three, he was building workarounds in spreadsheets, because Attio couldn't do things HubSpot did out of the box. So they went back. And I think that's the problem with any rented CRM. It has to fit almost everyone, so you're always working inside its limits.
+So those five steps get you across safely. But remember Paul? He got across too, and by month three, he was building workarounds in spreadsheets, because Attio couldn't do what HubSpot did. So they went back. And I think that's the problem with any rented CRM. It has to fit almost everyone, so you're always working inside its limits, and you're paying for features you're never going to use.
 
 So if a standard CRM really does what you need, use those five steps. But if your work doesn't fit a standard CRM, I'd build your own.
-
-And here's a real company that did it, linked in the description. A machinery company in Australia called Fason Group left HubSpot for a system built around their sales and service, and moved their contacts, deals and notes across. Now their reps and technicians work from the same customer record.
 
 ## The day you shut off HubSpot
 
@@ -80,7 +82,7 @@ By the way, I'm telling you this not to try to sell our services. You can do thi
 
 ## Free CRM fit check
 
-If you're curious what leaving HubSpot could look like for your company, we do a free twenty-minute CRM fit check. The link's below.
+If you're curious what leaving HubSpot could look like for your company, the link to that CRM fit check is below.
 
 ## Close
 
