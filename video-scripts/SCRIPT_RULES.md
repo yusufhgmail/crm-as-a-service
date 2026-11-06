@@ -124,7 +124,13 @@ Yusuf's rules for every video, whoever writes it. This file covers what a script
 **Pitch in this order.** Many viewers don't know who we are, so say what we do before saying who doesn't need us. Tie it to this video's problem, say who we are and what they get, say what makes it easy and safe (we build it step by step while their team keeps working in the old CRM, we move the data, they own the code, no long contract), say who it's for, then give one next step: the fit check. Say "at least ten people", never "ten to fifty". Never give a price for CRM From Within.
 
 - Not like this: "If you're a two-person team, you don't need us." before saying what we do.
-- But like this: "That's why I started CRM From Within. We build you a CRM around how your company sells and delivers. We move your data over and we maintain it. You own the code, there's no long contract, and if you leave, you take everything. It's for companies of at least ten people that a standard CRM doesn't fit. If a standard setup works for you, keep it."
+- But like this: "That's why I started CRM From Within. We build you a CRM around how your company sells and delivers. We move your data over and we maintain it. You own the code, there's no long contract, and if you leave, you take everything. It's for companies of at least ten people that a standard CRM doesn't fit."
+- Not like this: "If nothing in your CRM is holding you back, just keep it."
+- But like this: "If you think this is interesting and you want to start by just researching what this could mean for you, we do a free twenty-minute CRM fit check."
+
+**Say they can do it without us.** Before the pitch, say they can do this on their own or with us advising, or have us do it. Yusuf, video 16: "you can do this on your own. You can use us as advisory if you want. But if you want someone to do it for you, someone with experience, at my company, CRM From Within, we do all of this for you."
+
+**Answer the money doubt with how we work.** Never leave "you'll pay for both" alone. We don't charge monthly during the move, we charge for the project, so there aren't two recurring bills. Give no price.
 
 **Say what makes us different.** Our USP is one system that does a company's entire process, from finding customers to delivering the work, with no integrations, fully adapted to them, and they own it. Wherever a video's problem comes from renting a CRM or from separate tools, show both options: fix it where they are, or have it built into that one system. Then paint the picture of that system, from this video's topic, before the pitch. Each video needs its own picture and its own words.
 
