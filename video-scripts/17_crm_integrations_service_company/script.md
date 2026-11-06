@@ -197,7 +197,7 @@ Link: https://www.linkedin.com/posts/gabriel-ficht_i-built-our-own-crm-at-spring
 **Description:**
 > The 5 CRM integrations a service company needs. That's quotes, jobs, accounting, email and calendar, and everything in between. Why the accounting link matters for seeing the full view of the customer, not for saved typing. What a ready-made connection really does, one check for each integration, and what to do if most of them fail.
 >
-> Free 20-minute CRM fit check (show us how your team works, we show you what's possible) [link with `utm_campaign=v17`]
+> Free 20-minute CRM fit check (show us how your team works, we show you what's possible) [link with `utm_campaign=v20`]
 >
 > CRM From Within builds custom CRMs you own, connected the way your business works. Your code, no long contract.
 >
