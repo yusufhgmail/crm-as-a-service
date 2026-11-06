@@ -1,8 +1,8 @@
-# Video 16: Keep HubSpot, Replace One Thing First
+# Video 16: Don't Replace Your CRM in One Big Project
 
 [All video scripts](../README.md)
 
-**Status:** approved by David, 4 Nov 2026
+**Status:** rewritten around Yusuf's new core point, 6 Nov 2026; needs reading again
 
 ## Files
 
