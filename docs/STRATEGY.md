@@ -291,6 +291,10 @@ The free first version should create learning and demonstrate value. It must not
 
 **Added 2026-11-06 (Yusuf's idea, not decided).** We build a custom CRM for you, or we advise companies who want to build and maintain their own.
 
+It's a proven formula: content helps companies solve the problem themselves, and our offer is that we do it for them if they don't want to.
+
+Advising adds a middle step for companies that do it themselves and get stuck, for example on connections or upkeep. They can pay us without dropping their own CRM, and they may hire us for a build if it gets too much. So the ladder is free video, then advice, then build.
+
 This would let us help everyone who wants to build their own CRM, not only those we can sell a build to. We'd become the trusted partner for all of them, which should mean more trust, more leads and more learning.
 
 **To settle in review:** what the advice includes and what it costs. Video 18 already says we advise, so decide before that video is recorded.
