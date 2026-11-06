@@ -121,6 +121,10 @@ The point after a story has to be what happened in that story.
 
 - Not like this: "I built a CRM SaaS company, and I sold it. And we studied what more than five thousand CRM buyers say."
 - But like this: "I built a CRM SaaS company, and I sold it. Now, at my company, CRM From Within, we've studied what more than five thousand CRM buyers say."
+**Don't say what's bad about his old company.** He doesn't say it ran on another company's software, or that this cost it customers. It adds nothing for the viewer. His old company is credibility: what he built, who it served, what he learned.
+
+- Not like this: "And we didn't own it either. Our product ran on top of another company's software, and that cost us customers."
+
 **Never name FunnelBud customers.** Tell their stories without names. People in our public research can be named if they gave their own name.
 
 **An agency and CRM software are two different things.** Leaving an agency means keeping the CRM and changing who looks after it. Leaving CRM software means moving to a different CRM. Say which one you mean, and never call a software company an agency. We target people leaving their CRM system, not people leaving an agency.
