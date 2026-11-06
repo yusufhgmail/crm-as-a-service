@@ -84,4 +84,4 @@ To find out what a CRM you own could mean for your company, we do a free twenty-
 
 What month does your Salesforce renew? Put it in the comments. I read every comment.
 
-In the next video, I'll show you what to do when HubSpot support stops answering. So subscribe so you don't miss that.
+In the next video, I'll show you what to do if you've switched CRMs and you regret it. So subscribe so you don't miss that.

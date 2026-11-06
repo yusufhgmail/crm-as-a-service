@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved by David, 5 Nov 2026
+**Status:** Discarded: Yusuf dropped it because support problems are too far from what we sell, 6 Nov 2026
 
 - [Script on Drive](https://docs.google.com/document/d/1wZiLYuaqEjrYS_lmn-rOZIOai9o89_wfAuMFwdIVzgk/edit)
 

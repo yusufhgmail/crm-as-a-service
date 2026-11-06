@@ -195,9 +195,9 @@ Tag: **Also in the description**. Then tag: **Send a paper copy by post too Â· Â
 **YUSUF:**
 > What month does your Salesforce renew? Put it in the comments. I read every comment.
 >
-> In the next video, I'll show you what to do when HubSpot support stops answering. So subscribe so you don't miss that.
+> In the next video, I'll show you what to do if you've switched CRMs and you regret it. So subscribe so you don't miss that.
 
-**ON SCREEN:** end screen: next video, title on screen **What to Do When HubSpot Support Stops Answering: 5 Steps** (video 21) + video 7 (**Salesforce for a 15-Person Company: the Real Cost**) + "Free CRM fit check" button.
+**ON SCREEN:** end screen: next video, title on screen **Switched CRMs and Regret It? 5 Checks Before Your Next Move** (video 22) + video 7 (**Salesforce for a 15-Person Company: the Real Cost**) + "Free CRM fit check" button.
 
 **Description:**
 > Five steps before your Salesforce renewal, from Salesforce's own contract and help pages, and how this renewal can be your last.
