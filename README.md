@@ -6,6 +6,8 @@ CRM From Within builds an SME's first CRM around how that company already works.
 
 **Videos:** [Scripts and recording copies](video-scripts/README.md).
 
+**Private files:** research, draft videos and video tools are in David's private GitLab project, [crm-from-within](https://gitlab.com/dll451/crm-from-within). [`CLAUDE.md`](CLAUDE.md) shows what lives where.
+
 The earlier strategy and roadmap are in [`docs/STRATEGY.md`](docs/STRATEGY.md). The website decision and verification log is in [`docs/WEBSITE-ITERATIONS.md`](docs/WEBSITE-ITERATIONS.md).
 
 ## Current stage
