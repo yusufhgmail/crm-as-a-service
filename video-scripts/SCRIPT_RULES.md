@@ -47,10 +47,10 @@ Yusuf's rules for every video, whoever writes it. This file covers what a script
 - Not like this: "You'll learn how to X, how to Y and how to Z."
 - But like this: "By the end you'll have admin access back."
 
-Say what that gives them, not what the video contains. A count of things to know is a topic, and the viewer still doesn't know why to listen.
+Say what that gives their business, not what the video contains. A count of things to know is a topic, and the viewer still doesn't know why to listen.
 
 - Not like this: "I'll show you the five integrations a service company needs, and how to check if each one works."
-- But like this: "When it's broken, you can't see what each customer bought, if they've paid, or which ads really bring in money. ... By the end, you'll know which of yours are broken, and if it's worth fixing them."
+- But like this: "The right ones can lift your whole business. You'd see who's worth calling and which ads really bring in money."
 
 **Don't open on a made-up scene.** Name the problem in the first sentence, in words the viewer already uses. A staged example sounds contrived, and it makes them wait to find out what the video is about.
 

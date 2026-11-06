@@ -42,10 +42,10 @@ Test the main title with thumbnail 1 first, then 2 with 3, and 3 with 2.
 
 ## 0:00 Proof
 
-**ON SCREEN:** Yusuf on camera. Tag: **Integration = 2 tools pass information, nobody types it**. Then tag: **What did they buy? Have they paid? Which ads bring in money?** Then the title words: **5 integrations · 1 check each · or built into a CRM you own**. Then whiteboard behind him: three boxes, **CRM · QuickBooks · Crew app**, with crossed-out arrows between them. Each box gets its own small customer card, tag **Same customer, typed into each one**. Proof as a tag: **Hundreds of CRM setups · Built & sold a CRM SaaS**
+**ON SCREEN:** Yusuf on camera. Tag: **Integration = 2 tools pass information, nobody types it**. Then tag: **Who's worth calling? Which ads bring in money?** Then the title words: **5 integrations · 1 check each · or built into a CRM you own**. Then whiteboard behind him: three boxes, **CRM · QuickBooks · Crew app**, with crossed-out arrows between them. Each box gets its own small customer card, tag **Same customer, typed into each one**. Proof as a tag: **Hundreds of CRM setups · Built & sold a CRM SaaS**
 
 **YUSUF** (straight to camera):
-> The major problem on any CRM is getting it to talk to your other tools. That connection is called an integration, and when it's broken, you can't see what each customer bought, if they've paid, or which ads really bring in money. So I'll show you the five integrations a service company needs, and how to check each one. By the end, you'll know which of yours are broken, and if it's worth fixing them. For each one, you could also have that tool built right into a CRM you own. And you'll see what two companies did instead of connecting all these tools.
+> The major problem on any CRM is getting it to talk to your other tools. That connection is called an integration, and the right ones can lift your whole business. You'd see who's worth calling and which ads really bring in money. So I'll show you the five a service company needs, what each one gets you, and how to check yours. For each one, you could also have that tool built right into a CRM you own. And you'll see what two companies did instead of connecting all these tools.
 >
 > If you run a service company, your other tools are usually QuickBooks and the app your crews use. When they don't talk to your CRM, someone on your team types the same customer into each one.
 >

@@ -4,7 +4,7 @@
 
 ## Proof
 
-The major problem on any CRM is getting it to talk to your other tools. That connection is called an integration, and when it's broken, you can't see what each customer bought, if they've paid, or which ads really bring in money. So I'll show you the five integrations a service company needs, and how to check each one. By the end, you'll know which of yours are broken, and if it's worth fixing them. For each one, you could also have that tool built right into a CRM you own. And you'll see what two companies did instead of connecting all these tools.
+The major problem on any CRM is getting it to talk to your other tools. That connection is called an integration, and the right ones can lift your whole business. You'd see who's worth calling and which ads really bring in money. So I'll show you the five a service company needs, what each one gets you, and how to check yours. For each one, you could also have that tool built right into a CRM you own. And you'll see what two companies did instead of connecting all these tools.
 
 If you run a service company, your other tools are usually QuickBooks and the app your crews use. When they don't talk to your CRM, someone on your team types the same customer into each one.
 
