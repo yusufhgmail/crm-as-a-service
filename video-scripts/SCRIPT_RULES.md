@@ -19,6 +19,11 @@ Yusuf's rules for every video, whoever writes it. This file covers what a script
 
 **Write the argument first.** Put the video's argument in a few plain sentences, and give every section one job. If a section doesn't serve the argument, cut it, however true it is.
 
+**Find a core point that leads to owning.** Every video teaches something the viewer can use, but its core point has to be bigger than a tip. Start from the video's topic and ask what the viewer has had to live with, what's different now, and what this would look like in one system they own. Keep the practical steps and put that option beside them.
+
+- Not like this: "So I'd keep HubSpot and replace just the one step that's losing you the most money."
+- But like this: "So you're not stuck any more, because you don't have to move everything at once."
+
 **Every line earns its place.** People want information, not filler. Each line must give the viewer something or do a job for us. Say everything in the fewest words that keep the hook, the excitement and the information.
 
 - Not like this: "So here's your homework." or "If you watch this and change nothing, nothing changes."
@@ -116,12 +121,12 @@ Yusuf's rules for every video, whoever writes it. This file covers what a script
 
 # The end
 
-**Pitch in this order.** Many viewers don't know who we are, so say what we do before saying who doesn't need us. Tie it to this video's problem, say who we are and what they get, say what makes it easy and safe (we move the data, they own the code, no long contract), say who it's for, then give one next step: the fit check. Say "at least ten people", never "ten to fifty". Never give a price for CRM From Within.
+**Pitch in this order.** Many viewers don't know who we are, so say what we do before saying who doesn't need us. Tie it to this video's problem, say who we are and what they get, say what makes it easy and safe (we build it step by step while their team keeps working in the old CRM, we move the data, they own the code, no long contract), say who it's for, then give one next step: the fit check. Say "at least ten people", never "ten to fifty". Never give a price for CRM From Within.
 
 - Not like this: "If you're a two-person team, you don't need us." before saying what we do.
 - But like this: "That's why I started CRM From Within. We build you a CRM around how your company sells and delivers. We move your data over and we maintain it. You own the code, there's no long contract, and if you leave, you take everything. It's for companies of at least ten people that a standard CRM doesn't fit. If a standard setup works for you, keep it."
 
-**Say what makes us different.** Our USP is one system that does a company's entire process, from finding customers to delivering the work, with no integrations, fully adapted to them. When a video is about tools or connecting them, show both options, connecting them or building them into the CRM, and end on the picture of that one system.
+**Say what makes us different.** Our USP is one system that does a company's entire process, from finding customers to delivering the work, with no integrations, fully adapted to them, and they own it. Wherever a video's problem comes from renting a CRM or from separate tools, show both options: fix it where they are, or have it built into that one system. Then paint the picture of that system, from this video's topic, before the pitch. Each video needs its own picture and its own words.
 
 - Not like this: "We build you a CRM from scratch around how your company works, and if you keep QuickBooks, we connect it the way you need."
 - But like this: "We build you a CRM from scratch around how your company works, from the first lead to the last payment, so you don't need all those other tools."

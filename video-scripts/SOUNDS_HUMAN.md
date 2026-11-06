@@ -100,7 +100,7 @@ One of these proves nothing, and real people do most of them now and then. A pil
 - Not like this: "The bigger cost isn't on the invoices at all. It's the time."
 - But like this: "You also pay in time. Somebody has to keep ten tools connected."
 
-**4. A question nobody asked, answered straight away.** "So why do teams still do it?" Just give the reason. Questions the viewer can answer about their own company are fine.
+**4. A question nobody asked, answered straight away.** "So why do teams still do it?" Just give the reason. Questions the viewer can answer about their own company are fine, and so is a "what if" that asks them to picture something better.
 
 **5. Punchlines.** A short, quotable line closing a paragraph. People mostly stop when they're done. A plain verdict he'd really say is fine, like "That's completely unnecessary today."
 
