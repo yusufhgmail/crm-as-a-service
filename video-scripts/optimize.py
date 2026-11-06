@@ -134,8 +134,9 @@ def main():
         totals = [total(r) for r in rounds]
         focus = [r[0] + r[1] + r[5] for r in rounds]  # Human, Easy to understand and Shorten drive the rewrite
         flat = len(focus) >= 3 and focus[-1] <= focus[-3] and focus[-2] <= focus[-3]
-        if not flat and "--approved" not in sys.argv:
-            sys.exit("Not marked: the rounds only stop after two rounds in a row where Human, Easy and Shorten don't go up, or when Yusuf approves the script (--approved).")
+        good = min(kept(rounds)[:2]) >= 6  # video 13, which Yusuf approved, scored 6 on both
+        if not (flat and good) and len(rounds) < 6 and "--approved" not in sys.argv:
+            sys.exit("Not marked: the rounds only stop once Human and Easy are both at least 6 and two rounds in a row haven't raised Human, Easy and Shorten, after six rounds, or when Yusuf approves the script (--approved).")
         db["optimized"][name] = {"sha": fingerprint(path or spoken(name)), "rounds": rounds, "totals": totals, "best": total(kept(rounds)), "date": datetime.date.today().isoformat()}
         save(db)
         sync()
