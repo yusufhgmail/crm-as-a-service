@@ -8,7 +8,7 @@ If every small change to your CRM means a ticket or a consultant, and every rene
 
 ## Promise
 
-You're probably renting your CRM. That means you pay every month for something like HubSpot or Salesforce, and the vendor decides how it works. That's fine until your company needs something the vendor won't give you. So I'll show you four situations where renting can really hurt your company, and how to check each one. I'll also give you one question that tells you if owning your CRM makes sense for you.
+You're probably renting your CRM. That means you pay every month for something like HubSpot or Salesforce, and the vendor decides how it works. That's fine until your company needs something the vendor won't give you. So I'll show you three situations where renting can really hurt your company, and how to check each one. I'll also give you one question that tells you if owning your CRM makes sense for you.
 
 ## Proof
 
@@ -24,12 +24,6 @@ Nobody's really happy with a standard CRM, because it gives you someone else's p
 
 So write down the last three changes your team asked for, and check how many actually happened. If two of the three never happened because the CRM can't do them, your vendor is deciding how your team works.
 
-## When you want your data
-
-Renting also hurts when you want to get your data out. Every vendor says your data is yours, and most CRMs let you export your contacts. But that export usually leaves out the notes, the emails, the files, and which deal belongs to which customer.
-
-Email your vendor today and say this. "Please send us a full copy of our CRM data: contacts, companies, deals, notes, emails and files, with their history. How long will that take?" An hour is a good answer. If they want money for it, or it takes more than a day or two, you don't really control your data.
-
 ## When someone else can switch it off
 
 Your vendor can also switch your CRM off. It runs on the vendor's computers, so the vendor decides if you can log in on Monday morning.
@@ -38,13 +32,17 @@ There's a CRM called Close, and its terms say it can limit your use for any reas
 
 So search your own contract for "suspend". If it lets them do that without notice, you're in the same spot as that German company.
 
-## When you want to leave
+## When you want your data out
 
-Renting can hurt most on the day you leave. Here's an example from our research. One construction company had its own CRM built, and then went to cancel Buildertrend, the software they'd used for years. They had about twenty-seven hundred closed job files and fifty open ones. They say Buildertrend told them the only way to move any of that over was by hand.
+Renting also hurts when you want to get your data out. Every vendor says your data is yours, and most CRMs let you export your contacts. But that export usually leaves out the notes, the emails, the files, and which deal belongs to which customer.
+
+That hurts most on the day you leave. Here's an example from our research. One construction company had its own CRM built, and then went to cancel Buildertrend, the software they'd used for years. They had about twenty-seven hundred closed job files and fifty open ones. They say Buildertrend told them the only way to move any of that over was by hand.
 
 The vendor also decides how long you get to take your data out. When I checked in October 2026, HubSpot's Smart CRM gave you zero days after your subscription ends, and Close gave you thirty.
 
-So before you renew, ask your vendor in writing how many days you get to take your data out after you cancel. If the answer is zero, put your last paid day in your calendar now, because your data has to be out by then.
+So email your vendor today and say this. "Please send us a full copy of our CRM data: contacts, companies, deals, notes, emails and files, with their history. How long will that take?" An hour is a good answer. If they want money for it, or it takes more than a day or two, you don't really control your data.
+
+In the same email, ask how many days you get to take your data out after you cancel. If the answer is zero, put your last paid day in your calendar now, because your data has to be out by then.
 
 ## What owning changes
 
@@ -52,7 +50,7 @@ When you own your CRM, you ask whoever built it for a change and they make it, b
 
 ## Does owning matter for you?
 
-So should you own your CRM? If your CRM passes those four checks and the price is fair, just keep renting. If it doesn't, ask yourself one question. Is the way you sell what sets you apart from your competitors? If it isn't, look for a rented CRM with a better contract and a full export. If it is, own your CRM, because then the CRM can run your own process, like which deals you take and which you turn down. That becomes your company's personality.
+So should you own your CRM? If your CRM passes those three checks and the price is fair, just keep renting. If it doesn't, ask yourself one question. Is the way you sell what sets you apart from your competitors? If it isn't, look for a rented CRM with a better contract and a full export. If it is, own your CRM, because then the CRM can run your own process, like which deals you take and which you turn down. That becomes your company's personality.
 
 Doorvana, a garage door company in Fort Worth, built its own CRM when they were at three million dollars. The founder says it got them to five or six million.
 

@@ -1,6 +1,6 @@
 # Video 14: Your CRM Is Your Business: Don't Rent It
 
-*Approved by David, 4 Nov 2026. Rewritten in the Optimized process with the Shorten score, 5 Nov 2026, so it needs reading again.*
+*Approved by David, 4 Nov 2026. Rewritten in the Optimized process with the Shorten score, 5 Nov 2026, so it needs reading again. Yusuf had the data and leaving sections merged the same day, without another Optimized run.*
 
 **Checked 27 Oct 2026:** HubSpot's Product Specific Terms (§1.3, §3.3.3), Close's terms (§3.E, §3.N) and GitHub's help page on transferring a repository, word for word. Three public posts are quoted: see Sources.
 
@@ -18,7 +18,7 @@
 **Title:** Your CRM Is Your Business: Don't Rent It
 
 **Title variations to test:**
-1. Your CRM Is Your Business: 4 Ways Renting It Can Hurt You
+1. Your CRM Is Your Business: 3 Ways Renting It Can Hurt You
 2. Ex-SaaS Founder: Your CRM Is Your Business, So Don't Rent It
 3. Should You Own Your CRM? When It Matters and When It Doesn't
 4. Why I Stopped Telling Companies to Rent Their CRM
@@ -40,8 +40,8 @@ Pair title 1 with thumbnail 3 first; test 2 with 2, and 4 with 1.
 - **Tags:** small rounded labels (white text on dark, one accent colour for numbers), timed to his words. Max 6 words.
 - **Terms cards:** the exact sentence from the vendor's terms, key words highlighted, the section number in a small tag, and **Checked Oct 2026**.
 - **Screen recordings:** zoomed on the exact spot; an arrow tag on what to click; a red box on what to look at.
-- **Tracker:** a small tag in the top-left corner ("2 of 4: Your data").
-- **Rent vs own board:** two columns, **Rented** and **Owned**, four rows: **Change it · Your data · The switch · Leaving**. The Rented column fills one row per moment. The Owned column fills after moment 4.
+- **Tracker:** a small tag in the top-left corner ("3 of 3: Your data").
+- **Rent vs own board:** two columns, **Rented** and **Owned**, three rows: **Change it · The switch · Your data**. The Rented column fills one row per moment. The Owned column fills after moment 3.
 - **Quote cards:** the person's exact words, key words highlighted, with a source tag saying who and where.
 
 ---
@@ -55,12 +55,12 @@ Pair title 1 with thumbnail 3 first; test 2 with 2, and 4 with 1.
 
 ## 0:10 Promise
 
-**ON SCREEN:** tag: **Renting = you pay monthly, the vendor decides**. Then the title words: **4 ways renting can hurt you**. Then two tags: ✓ **A check for each one** · ✓ **One question: own or rent?**
+**ON SCREEN:** tag: **Renting = you pay monthly, the vendor decides**. Then the title words: **3 ways renting can hurt you**. Then two tags: ✓ **A check for each one** · ✓ **One question: own or rent?**
 
 **YUSUF:**
-> You're probably renting your CRM. That means you pay every month for something like HubSpot or Salesforce, and the vendor decides how it works. That's fine until your company needs something the vendor won't give you. So I'll show you four situations where renting can really hurt your company, and how to check each one. I'll also give you one question that tells you if owning your CRM makes sense for you.
+> You're probably renting your CRM. That means you pay every month for something like HubSpot or Salesforce, and the vendor decides how it works. That's fine until your company needs something the vendor won't give you. So I'll show you three situations where renting can really hurt your company, and how to check each one. I'll also give you one question that tells you if owning your CRM makes sense for you.
 
-## 0:36 Proof
+## 0:37 Proof
 
 **ON SCREEN:** tag: **Ex-SaaS founder · Hundreds of CRM setups**. Then: **Before AI: renting was cheapest** · **Now: build what fits**
 
@@ -71,9 +71,9 @@ Pair title 1 with thumbnail 3 first; test 2 with 2, and 4 with 1.
 
 ---
 
-## 1:08 When you want to change something
+## 1:09 When you want to change something
 
-**ON SCREEN:** tracker: **1 of 4: Changing it**. Tag: **3 of 100 happy with the standard setup** · then: **Rented = one product for thousands of customers**
+**ON SCREEN:** tracker: **1 of 3: Changing it**. Tag: **3 of 100 happy with the standard setup** · then: **Rented = one product for thousands of customers**
 
 **YUSUF:**
 > Renting a CRM starts to hurt when you want it to work a little differently. Maybe you quote in your own way, and the CRM can't do that.
@@ -85,23 +85,9 @@ Pair title 1 with thumbnail 3 first; test 2 with 2, and 4 with 1.
 **YUSUF:**
 > So write down the last three changes your team asked for, and check how many actually happened. If two of the three never happened because the CRM can't do them, your vendor is deciding how your team works.
 
-## 2:06 When you want your data
+## 2:08 When someone else can switch it off
 
-**ON SCREEN:** tracker: **2 of 4: Your data**. Then screen recording (upbridge portal): Contacts → arrow tag on **Export**. Tag: **One export ≠ all your data**
-
-**YUSUF:**
-> Renting also hurts when you want to get your data out. Every vendor says your data is yours, and most CRMs let you export your contacts. But that export usually leaves out the notes, the emails, the files, and which deal belongs to which customer.
-
-**ON SCREEN:** rent vs own board, Rented column, row **Your data**: **Exports, if the plan allows**. Then: **DO THIS: ask for a full copy of everything · an hour is good, a fee or days of waiting is not**
-
-**ON SCREEN:** card: **SAY THIS (email to your CRM vendor):** "Please send us a full copy of our CRM data: contacts, companies, deals, notes, emails and files, with their history. How long will that take?"
-
-**YUSUF:**
-> Email your vendor today and say this. "Please send us a full copy of our CRM data: contacts, companies, deals, notes, emails and files, with their history. How long will that take?" An hour is a good answer. If they want money for it, or it takes more than a day or two, you don't really control your data.
-
-## 2:46 When someone else can switch it off
-
-**ON SCREEN:** tracker: **3 of 4: The off switch**. Tag: **Rented = it runs on their computers**
+**ON SCREEN:** tracker: **2 of 3: The off switch**. Tag: **Rented = it runs on their computers**
 
 **YUSUF:**
 > Your vendor can also switch your CRM off. It runs on the vendor's computers, so the vendor decides if you can log in on Monday morning.
@@ -119,14 +105,17 @@ Link: https://www.close.com/terms
 **YUSUF:**
 > So search your own contract for "suspend". If it lets them do that without notice, you're in the same spot as that German company.
 
-## 3:26 When you want to leave
+## 2:48 When you want your data out
 
-**ON SCREEN:** tracker: **4 of 4: Leaving**
+**ON SCREEN:** tracker: **3 of 3: Your data**. Then screen recording (upbridge portal): Contacts → arrow tag on **Export**. Tag: **One export ≠ all your data**
+
+**YUSUF:**
+> Renting also hurts when you want to get your data out. Every vendor says your data is yours, and most CRMs let you export your contacts. But that export usually leaves out the notes, the emails, the files, and which deal belongs to which customer.
 
 **ON SCREEN:** quote card: *"they say there's no way to move over ANY of our data"* · tags **2,700 closed files · 50 open** and **Their suggestion: by hand** · source tag **Construction company · Reddit, Apr 2026**
 
 **YUSUF:**
-> Renting can hurt most on the day you leave. Here's an example from our research. One construction company had its own CRM built, and then went to cancel Buildertrend, the software they'd used for years. They had about twenty-seven hundred closed job files and fifty open ones. They say Buildertrend told them the only way to move any of that over was by hand.
+> That hurts most on the day you leave. Here's an example from our research. One construction company had its own CRM built, and then went to cancel Buildertrend, the software they'd used for years. They had about twenty-seven hundred closed job files and fifty open ones. They say Buildertrend told them the only way to move any of that over was by hand.
 
 **ON SCREEN:** terms card: *"We strongly recommend retrieving your Customer Data prior to the end of your Subscription Term"* → *"…we will not provide you with any access to Customer Data after termination or expiration of your Subscription Term."* ("prior to the end" and "will not provide you with any access" highlighted) · tag **HubSpot Product Specific Terms §1.3 (Smart CRM) · checked Oct 2026**
 Link: https://legal.hubspot.com/product-specific-terms
@@ -137,14 +126,21 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **YUSUF:**
 > The vendor also decides how long you get to take your data out. When I checked in October 2026, HubSpot's Smart CRM gave you zero days after your subscription ends, and Close gave you thirty.
 
-**ON SCREEN:** rent vs own board, Rented column, row **Leaving**: **Their terms, their deadline**. Then: **DO THIS: ask how many days you get, in writing, before you renew · zero days = your last paid day is your deadline**
+**ON SCREEN:** rent vs own board, Rented column, row **Your data**: **Partial exports, their deadline**. Then: **DO THIS: ask for a full copy of everything · an hour is good, a fee or days of waiting is not**
+
+**ON SCREEN:** card: **SAY THIS (email to your CRM vendor):** "Please send us a full copy of our CRM data: contacts, companies, deals, notes, emails and files, with their history. How long will that take?"
 
 **YUSUF:**
-> So before you renew, ask your vendor in writing how many days you get to take your data out after you cancel. If the answer is zero, put your last paid day in your calendar now, because your data has to be out by then.
+> So email your vendor today and say this. "Please send us a full copy of our CRM data: contacts, companies, deals, notes, emails and files, with their history. How long will that take?" An hour is a good answer. If they want money for it, or it takes more than a day or two, you don't really control your data.
+
+**ON SCREEN:** **DO THIS: ask how many days you get after you cancel · zero days = your last paid day is your deadline**
+
+**YUSUF:**
+> In the same email, ask how many days you get to take your data out after you cancel. If the answer is zero, put your last paid day in your calendar now, because your data has to be out by then.
 
 ## 4:21 What owning changes
 
-**ON SCREEN:** rent vs own board, the Owned column fills one row per sentence: **Change it: Ask, and it gets made** · **Your data: Your database, copy it any time** · **The switch + Leaving: Your servers, no vendor deadline**
+**ON SCREEN:** rent vs own board, the Owned column fills one row per sentence: **Change it: Ask, and it gets made** · **Your data: Your database, copy it any time** · **The switch: Your servers, no one can lock you out**
 
 **YUSUF:**
 > When you own your CRM, you ask whoever built it for a change and they make it, because you're not sharing it with anyone. Your data sits in a database your company owns, on servers your company pays for. So no vendor can lock you out, and you can copy your data whenever you want.
@@ -154,14 +150,14 @@ Links: https://legal.hubspot.com/product-specific-terms · https://www.close.com
 **ON SCREEN:** tag: **Checks fine + fair price = keep renting** · then: **Your way of selling sets you apart? Own it.**
 
 **YUSUF:**
-> So should you own your CRM? If your CRM passes those four checks and the price is fair, just keep renting. If it doesn't, ask yourself one question. Is the way you sell what sets you apart from your competitors? If it isn't, look for a rented CRM with a better contract and a full export. If it is, own your CRM, because then the CRM can run your own process, like which deals you take and which you turn down. That becomes your company's personality.
+> So should you own your CRM? If your CRM passes those three checks and the price is fair, just keep renting. If it doesn't, ask yourself one question. Is the way you sell what sets you apart from your competitors? If it isn't, look for a rented CRM with a better contract and a full export. If it is, own your CRM, because then the CRM can run your own process, like which deals you take and which you turn down. That becomes your company's personality.
 
 **ON SCREEN:** quote card: *"We built an in house crm at $3M that got us to $5-6M before adopting and building out a custom Salesforce sales and service cloud instance."* · source tag **Bobby Vickers, founder, Doorvana · X, Jul 2026**
 
 **YUSUF:**
 > Doorvana, a garage door company in Fort Worth, built its own CRM when they were at three million dollars. The founder says it got them to five or six million.
 
-## 5:28 What owning has to mean
+## 5:27 What owning has to mean
 
 **ON SCREEN:** tag: **"You own the code" = 3 things**: **Contract: code + rights are yours** · **Code in your own account** · **Instructions another developer can follow**
 
@@ -181,14 +177,14 @@ Link: https://docs.github.com/en/repositories/creating-and-managing-repositories
 **YUSUF:**
 > At my company, CRM From Within, we build you a CRM from scratch around how you sell and deliver. It sits in your company's own accounts. We move your data over and keep it running, and when you want a change, you just talk to us. The code's yours, there's no long contract, and if you ever leave, you take everything with you. It's for companies with ten to fifty people.
 
-## 6:37 Free CRM fit check
+## 6:36 Free CRM fit check
 
 **ON SCREEN:** lower-third tag: **Free 20-min CRM fit check · link in description**
 
 **YUSUF:**
 > If you want to know if owning makes sense for you, we do a free twenty-minute CRM fit check. The link's below.
 
-## 6:46 Close
+## 6:45 Close
 
 **ON SCREEN:** lower-third tag: **Comment: your CRM + the change you never got**
 
@@ -200,7 +196,7 @@ Link: https://docs.github.com/en/repositories/creating-and-managing-repositories
 **ON SCREEN:** end screen: next video (video 9: "CRM Software Is Dead: What the SaaSpocalypse Means for Your CRM") + video 11 + "Free CRM fit check" button.
 
 **Description:**
-> Should you own your CRM or rent it? An ex-SaaS founder on four ways renting your CRM can hurt your company. That's changing your CRM, getting your data, who can switch it off, and leaving. One check for each, the one question that tells you if owning matters for you, and what owning has to mean in writing.
+> Should you own your CRM or rent it? An ex-SaaS founder on three ways renting your CRM can hurt your company. That's changing your CRM, who can switch it off, and getting your data out. One check for each, the one question that tells you if owning matters for you, and what owning has to mean in writing.
 >
 > Free 20-minute CRM fit check (show us how your team works, we show you what's possible) [link with utm_campaign=v14]
 >
@@ -219,17 +215,16 @@ Link: https://docs.github.com/en/repositories/creating-and-managing-repositories
 > CHAPTERS
 > 0:00 Who it's for
 > 0:10 Promise
-> 0:36 Proof
-> 1:08 When you want to change something
-> 2:06 When you want your data
-> 2:46 When someone else can switch it off
-> 3:26 When you want to leave
+> 0:37 Proof
+> 1:09 When you want to change something
+> 2:08 When someone else can switch it off
+> 2:48 When you want your data out
 > 4:21 What owning changes
 > 4:43 Does owning matter for you?
-> 5:28 What owning has to mean
+> 5:27 What owning has to mean
 > 6:09 What we do
-> 6:37 Free CRM fit check
-> 6:46 Close
+> 6:36 Free CRM fit check
+> 6:45 Close
 
 ---
 
