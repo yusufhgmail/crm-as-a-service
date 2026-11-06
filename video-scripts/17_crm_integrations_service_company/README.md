@@ -2,7 +2,7 @@
 
 [All video scripts](../README.md)
 
-**Status:** approved by David, 4 Nov 2026
+**Status:** core point changed by Yusuf, 6 Nov 2026; the 47/60 score is from before this change, and it needs a human read
 
 - [Script on Drive](https://docs.google.com/document/d/1JAcxJ8l-W_DrHdfmlhd8sWKPI5246HVNqFCfd666NEQ/edit)
 
